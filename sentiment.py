@@ -18,8 +18,7 @@ with open("aapl_news.csv", "w", newline="", encoding="utf-8") as file:
     # Write each article's details
     for article in news:
         writer.writerow([
-            article['title'], 
-            article['link'], 
+            article['title'],
             article['publisher'], 
             article['providerPublishTime']
         ])
