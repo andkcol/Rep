@@ -1,21 +1,17 @@
 import csv
 import yfinance as yf
 
-# Define the stock ticker
-ticker = "AAPL"
+ticker = "AAPL" # Pick the stock
 
-# Get the Ticker object
-stock = yf.Ticker(ticker)
+stock = yf.Ticker(ticker) # Get the stock object
 
-# Fetch news articles
-news = stock.news
+news = stock.news # Find news articles
 
-# Save articles to a CSV file
+# Save article details to a CSV file
 with open("aapl_news.csv", "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
-    # Write the header
-    writer.writerow(["Title", "Link", "Publisher", "Date"])
-    # Write each article's details
+    writer.writerow(["Title", "Link", "Publisher", "Date"]) # Header
+    # Article's details
     for article in news:
         writer.writerow([
             article['title'],
