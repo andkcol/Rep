@@ -21,7 +21,7 @@ print(data[['close', 'shortMA', 'longMA']].tail())
 
 # Create signal
 data['Signal'] = 0
-data.loc[data['shortMA'] > data['longMA'], 'Signal'] = 1 #BUY
+data.loc[data['shortMA'] > data['longMA'], 'Signal'] = 1 #Buy
 data.loc[data['shortMA'] <= data['longMA'], 'Signal'] = -1 #Sell
 
 # Ispect signals
