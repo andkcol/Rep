@@ -11,7 +11,7 @@ news = stock.news # Find news articles
 with open("aapl_news.csv", "w", newline="", encoding="utf-8") as file:
     writer = csv.writer(file)
     writer.writerow(["Title", "Link", "Publisher", "Date"]) # Header
-    # Article's details
+    # Article's details being pulled
     for article in news:
         writer.writerow([
             article['title'],
