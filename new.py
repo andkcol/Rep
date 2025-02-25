@@ -37,7 +37,6 @@ def fetch_news_api_news(company_name): # Fetch news from NewsAPI for a given com
     return []
 
 def process_news(news_data, source): # Process news articles and extracts required fields
-    """Processes news articles and extracts required fields."""
     processed_news = []
     for item in news_data:
         title = item.get("title", "No Title")
@@ -74,8 +73,7 @@ def read_existing_news(csv_file): # Reads existing news from the company's CSV f
     except FileNotFoundError:
         return set()
 
-def save_news_to_csv(news, company_name): # Saves new, non-duplicate news articles to the company's CSV file
-    """Saves news articles to the company's CSV file, ensuring no duplicates and ordering by date."""
+def save_news_to_csv(news, company_name): # Saves new non-duplicate news articles to the company's CSV file ordering by date
     csv_file = f"{company_name}_news_sentiment.csv"
     existing_titles = read_existing_news(csv_file)
 
