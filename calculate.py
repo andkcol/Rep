@@ -15,18 +15,18 @@ def process_sentiment_data():
             stock_name = file.replace(".csv", "")
             
             # Load CSV
-            df = pd.read_csv(file_path, parse_dates=['date'])
+            df = pd.read_csv(file_path, parse_dates=['Date'])
             
             # Ensure 'date' column is in datetime format and sort by date
-            df['date'] = pd.to_datetime(df['date'])
-            df = df.sort_values('date')
+            df['Date'] = pd.to_datetime(df['Date'])
+            df = df.sort_values('Date')
             
             # Group by date and calculate daily average sentiment score
-            summary_df = df.groupby('date')['sentiment_score'].mean().reset_index()
-            summary_df.rename(columns={'sentiment_score': 'Average Score'}, inplace=True)
+            summary_df = df.groupby('Date')['Sentiment'].mean().round(3).reset_index()
+            summary_df.rename(columns={'Sentiment': 'Average Score'}, inplace=True)
             
             # Calculate 7-day moving average
-            summary_df['7 MA'] = summary_df['Average Score'].rolling(window=7).mean()
+            summary_df['7 MA'] = summary_df['Average Score'].rolling(window=7).mean().round(3)
             
             # Save to Sentiment Summaries folder
             summary_file_path = os.path.join(sentiment_summaries_folder, f"{stock_name}_summary.csv")
