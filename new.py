@@ -8,18 +8,24 @@ from datetime import datetime
 ALPHA_VANTAGE_API_KEY = "TXAYZZLDCPD0Q9XS"
 NEWS_API_KEY = "7c10f069074544178fc634da5bcdb094"
 
+# Folder for storing CSV files
+OUTPUT_FOLDER = "Sentiment Data"
+
+# Ensure the folder exists
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+
 # List of Companies (Stock Tickers & Keywords)
 COMPANIES = [
     {"ticker": "AAPL", "name": "Apple"},
-    {"ticker": "GOOGL", "name": "Google"},
-    {"ticker": "MSFT", "name": "Microsoft"},
-    {"ticker": "AMZN", "name": "Amazon"},
-    {"ticker": "META", "name": "Meta"},
-    {"ticker": "TSLA", "name": "Tesla"},
-    {"ticker": "NFLX", "name": "Netflix"},
-    {"ticker": "NVDA", "name": "Nvidia"},
-    {"ticker": "IBM", "name": "IBM"},
-    {"ticker": "AMD", "name": "AMD"}
+    #{"ticker": "GOOGL", "name": "Google"},
+    #{"ticker": "MSFT", "name": "Microsoft"},
+    #{"ticker": "AMZN", "name": "Amazon"},
+    #{"ticker": "META", "name": "Meta"},
+    #{"ticker": "TSLA", "name": "Tesla"},
+    #{"ticker": "NFLX", "name": "Netflix"},
+    #{"ticker": "NVDA", "name": "Nvidia"},
+    #{"ticker": "IBM", "name": "IBM"},
+    #{"ticker": "AMD", "name": "AMD"}
 ]
 
 def fetch_alpha_vantage_news(ticker): # Fetch news from Alpha Vantage for a given stock ticker
@@ -74,14 +80,15 @@ def read_existing_news(csv_file): # Reads existing news from the company's CSV f
         return set()
 
 def save_news_to_csv(news, company_name): # Saves new non-duplicate news articles to the company's CSV file ordering by date
-    csv_file = f"{company_name}_news_sentiment.csv"
+    """Saves news articles to a dedicated folder, ensuring no duplicates and ordering by date."""
+    csv_file = os.path.join(OUTPUT_FOLDER, f"{company_name}_news_sentiment.csv")
     existing_titles = read_existing_news(csv_file)
 
-    # Filter out duplicates
-    unique_news = [entry for entry in news if entry[1] not in existing_titles]
+    # Filter out duplicates and invalid dates
+    unique_news = [entry for entry in news if entry[1] not in existing_titles and entry[0] != "Unknown"]
 
     if not unique_news:
-        print(f"No new articles to add for {company_name}.")
+        print(f"No valid new articles to add for {company_name}.")
         return
 
     # Load existing data for sorting
@@ -90,7 +97,9 @@ def save_news_to_csv(news, company_name): # Saves new non-duplicate news article
         with open(csv_file, "r", newline="", encoding="utf-8") as file:
             reader = csv.reader(file)
             next(reader, None)  # Skip header
-            all_news = list(reader)
+            for row in reader:
+                if row[0] != "Unknown":  # Ensure existing entries don't contain 'Unknown'
+                    all_news.append(row)
 
     # Add new data
     all_news.extend(unique_news)
