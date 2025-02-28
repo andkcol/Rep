@@ -17,15 +17,15 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 # List of Companies (Stock Tickers & Keywords)
 COMPANIES = [
     {"ticker": "AAPL", "name": "Apple"},
-    #{"ticker": "GOOGL", "name": "Google"},
-    #{"ticker": "MSFT", "name": "Microsoft"},
-    #{"ticker": "AMZN", "name": "Amazon"},
-    #{"ticker": "META", "name": "Meta"},
-    #{"ticker": "TSLA", "name": "Tesla"},
-    #{"ticker": "NFLX", "name": "Netflix"},
-    #{"ticker": "NVDA", "name": "Nvidia"},
-    #{"ticker": "IBM", "name": "IBM"},
-    #{"ticker": "AMD", "name": "AMD"}
+    {"ticker": "GOOGL", "name": "Google"},
+    {"ticker": "MSFT", "name": "Microsoft"},
+    {"ticker": "AMZN", "name": "Amazon"},
+    {"ticker": "META", "name": "Meta"},
+    {"ticker": "TSLA", "name": "Tesla"},
+    {"ticker": "NFLX", "name": "Netflix"},
+    {"ticker": "NVDA", "name": "Nvidia"},
+    {"ticker": "IBM", "name": "IBM"},
+    {"ticker": "AMD", "name": "AMD"}
 ]
 
 def fetch_alpha_vantage_news(ticker): # Fetch news from Alpha Vantage for a given stock ticker
