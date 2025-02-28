@@ -45,6 +45,7 @@ Date,Title,Sentiment,Source
 07/02/2025,"2024’s most creative, thrilling fight scene just got added to Netflix",0.4167,News API
 08/02/2025,"Todo lo que debes saber de ‘El eternauta’, el cómic argentino cuya adaptación debuta en Netflix",0.0,News API
 09/02/2025,Bakugan Will Be the Next Kids Toy to Get Its Own Movie,0.3,News API
+09/02/2025,"Here Are 18 Of The Absolute Funniest ""Montoya, Por Favor"" Tweets And Memes",0.2,News API
 11/02/2025,Netflix is eyeing video podcasts as it warms up to creator content,0.0,News API
 11/02/2025,Is Chanelle from 'Apple Cider Vinegar' a real person? She's similar to a woman who helped expose Belle Gibson,0.1,News API
 11/02/2025,Netflix Considers Adding Podcasts Because They’re Cheaper Than Quality Films,0.0,News API
@@ -68,6 +69,8 @@ Date,Title,Sentiment,Source
 14/02/2025,The 20 Best Cheesy Rom-Coms on Netflix,0.25,News API
 14/02/2025,The best horror to watch on Netflix this February,1.0,News API
 14/02/2025,"New Witcher on Netflix, Flow, and every movie new to streaming this week",0.1364,News API
+14/02/2025,"'Apple Cider Vinegar' based the Hirsch Institute on Gerson Therapy, a debunked cancer treatment by the 20th century doctor Max Gerson.",0.0,News API
+14/02/2025,"Sorry, Netflix support isn't coming to the Apple TV app",-0.5,News API
 15/02/2025,Netflix Deeply Regrets Accidentally Making Netflix a Better Product for Its Customers,0.2,News API
 15/02/2025,"De que va ‘Reality’, la película de Sydney Sweeney que puedes ver en Netflix",0.0,News API
 15/02/2025,"De qué va ‘Los dos hemisferios de Lucca’, el nuevo éxito de Netflix",0.0,News API
@@ -87,6 +90,12 @@ Date,Title,Sentiment,Source
 21/02/2025,Netflix To Invest $1 Billion In Mexico Over Next 4 Years,0.0,News API
 21/02/2025,The 25 Best Stand-Up Specials on Netflix,1.0,News API
 21/02/2025,"The 10 best things to stream this weekend, from the latest 'Sonic' movie to a new season of 'Reacher'",0.5455,News API
+21/02/2025,"Mufasa, Nosferatu, new Venom on Netflix, and every movie new to streaming this week",0.1364,News API
 22/02/2025,Daredevil: Born Again Brings Hawkeye‘s Swordsman Into Its Brutal World,-0.875,News API
 22/02/2025,Flash Sale Alert – Get PIA VPN At a Record-Low Price & 4 Free Months,0.4,News API
 23/02/2025,Can Tech Save Small Ski Resorts From Extinction?,-0.25,News API
+24/02/2025,"Forget Amazon Fire TV, the Roku Express 4K+ Just Became the Best Streaming Deal at 40% Off",1.0,News API
+24/02/2025,How to Stream Oscar Nominated Movies for 2025,0.0,News API
+26/02/2025,These charts show why Netflix is chasing more live sports — and its key challenge,0.2121,News API
+26/02/2025,Who's Watching What on TV? Who's To Say?,0.0,News API
+26/02/2025,Marvel Has Big Plans for the Punisher Beyond Daredevil: Born Again,0.0,News API
