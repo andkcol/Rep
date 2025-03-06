@@ -46,10 +46,13 @@ Date,Title,Sentiment,Source
 05/02/2025,"""Complicado y doloroso"": Elon Musk hizo su enésima promesa sobre la conducción autónoma y Tesla lo va a pagar caro (y a medias)",0.0,News API
 06/02/2025,"Rivian adopts AI-powered, sensor-rich strategy for self-driving tech in bid to catch Tesla",0.0,News API
 06/02/2025,Así es el nuevo Volkswagen 100% eléctrico y barato que la compañía presentará el próximo mes,0.0,News API
+06/02/2025,"EV buyers shouldn't get government incentives, says Volvo CEO",0.0,News API
+06/02/2025,Elon Musk's newest job title is literally 'unlisted',0.0,News API
 07/02/2025,"DOGE Is Coming for Your Social Security, States Prepare to Sue",0.0333,News API
 07/02/2025,DOGE Is Now Inside the Consumer Financial Protection Bureau,0.0,News API
 07/02/2025,El enfado de Europa con Elon Musk crece como espuma. Tesla paga las consecuencias con caídas en ventas de hasta el 75%,0.0,News API
 07/02/2025,Elon Musk calls himself 'White House Tech Support' in new X bio,0.0682,News API
+08/02/2025,Russell Vought takes the helm at CFPB as Musk's DOGE accesses key systems,0.0,News API
 10/02/2025,"Elon Musk's DOGE side project could start weighing on Tesla vehicle sales, analyst says",0.0,News API
 10/02/2025,Musk-led group makes $97.4bn bid for ChatGPT maker OpenAI,0.0,News API
 10/02/2025,You can't buy a Cybertruck in Wisconsin. Tesla appeals after state denies 4-dealership plan,0.0,News API
@@ -58,10 +61,12 @@ Date,Title,Sentiment,Source
 10/02/2025,El negocio más boyante de Tesla es también el más desconocido: la generación y el almacenamiento de energía,0.0,News API
 10/02/2025,Lyft Eyes Robotaxi Launch in 2026,0.0,News API
 10/02/2025,"Tesla in Europa: Tesla? Nein, danke",0.0,News API
+10/02/2025,"To buy a Tesla Model 3, only to end up in hell",0.0,News API
 11/02/2025,I landed my job at Tesla after over a year of job applications and rejection. Being an international student made things especially tough.,-0.3889,News API
 11/02/2025,"BYD ya tiene un arma para destrozar a Tesla, y piensa incluirla incluso en sus coches más baratos",0.0,News API
 11/02/2025,Sam Altman Dismisses Elon Musk’s Bid to Buy OpenAI in Letter to Staff,0.0,News API
 11/02/2025,"Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'",0.0,News API
+11/02/2025,How to make sense of Elon Musk's $97 billion offer for OpenAI,0.0,News API
 12/02/2025,DeepSeek's AI is the hot new feature for Chinese cars. Here are all the automakers adding it to their EVs.,0.1288,News API
 12/02/2025,The Tesla Revolt,0.0,News API
 12/02/2025,DOGE Has Started Gutting a Key US Technology Agency,0.0,News API
@@ -73,6 +78,7 @@ Date,Title,Sentiment,Source
 12/02/2025,BYD golpea a Tesla en su gran promesa futura: “Ojo de Dios” es su sistema de conducción autónoma y será gratis en todos sus coches,0.0,News API
 13/02/2025,The $400 Million Armored Tesla Story Is a Fake Scandal In a Sea of Real Graft and Horror,-0.15,News API
 13/02/2025,The State Department is planning to buy $400 million worth of armored Teslas,0.3,News API
+13/02/2025,Rechtsstreitigkeiten: Tesla soll in China aggressiv gegen Kritiker vorgehen,0.0,News API
 14/02/2025,More Tesla showroom protests planned for this weekend,0.5,News API
 14/02/2025,Elon Musk’s Toxicity Could Spell Disaster for Tesla,0.0,News API
 14/02/2025,Trump admin abandons $400M purchase of armored Teslas following backlash,0.0,News API
@@ -82,12 +88,16 @@ Date,Title,Sentiment,Source
 15/02/2025,Americans protest Elon Musk: 'He should not be disassembling our democracy',0.0,News API
 15/02/2025,Tesla showrooms are being hit by a wave of anti-DOGE protests,0.0,News API
 15/02/2025,Nikola lo tenía todo para revolucionar el mundo de los camiones de hidrógeno. Ahora está al borde de la quiebra,0.0,News API
+15/02/2025,"Trump and Musk connect with working-class voters because they 'understand the consumer,' Sen. Ruben Gallego says",0.0,News API
 16/02/2025,Some of Trump's policy changes are expected to impact Tesla. Elon Musk doesn't sound too worried.,0.15,News API
 16/02/2025,Elon’s Boring Company Is Planning to Build a 10-Mile Tunnel in Dubai for Some Reason,-1.0,News API
+16/02/2025,Diebstahlschutz: Tesla-Supercharger markieren Kabeldiebe,0.0,News API
 17/02/2025,"Ni IA, ni realidad virtual: Apple y Meta ya están preparándose para la siguiente revolución",0.0,News API
+17/02/2025,"Montag: Diebstahlschutz für Supercharger, BMWs schnellere Elektro-Kurvenfahrten",0.0,News API
 18/02/2025,"Almost a decade after Tesla first launched preorders for its cars in India, it's staffing up in the country",0.25,News API
 18/02/2025,Tesla tenía adjudicado un contrato de 400 millones de dólares del Gobierno de Estados Unidos. Han tenido que recular,0.0,News API
 18/02/2025,"'Sell your Teslas, dump your stock' — Tesla protests, Musk's tanking popularity hit EV maker at bad time",-0.7,News API
+18/02/2025,See the 'Fire Elon Musk' ad the Washington Post scrapped from its Tuesday edition,0.0,News API
 19/02/2025,The Cybertruck is the latest Tesla to score a 5-star crash rating,0.5,News API
 19/02/2025,Volvo’s ES90 sedan will be built with a Nvidia supercomputer,0.0,News API
 21/02/2025,The best trade in the market might be following everything Elon Musk touches,0.5,News API
@@ -96,6 +106,7 @@ Date,Title,Sentiment,Source
 21/02/2025,Nach Urteil gegen CEO-Gehalt: Tesla könnte Musk doch noch Milliarden zahlen,0.0,News API
 22/02/2025,Cryptocurrency theft of £1.1bn could be biggest ever,0.0,News API
 22/02/2025,Automobilbranche: Tesla könnte Nissan teilweise übernehmen,0.0,News API
+23/02/2025,Rouler en Tesla devient risqué,0.0,News API
 24/02/2025,A new document undercuts Trump admin's denials about $400 million Tesla deal,0.1364,News API
 24/02/2025,Tesla ha demandado a clientes y periodistas por criticar sus coches en China: lo sorprendente es que está ganando esos juicios,0.0,News API
 24/02/2025,Elektroautos: Tesla bestätigt neues Model S und Model X,0.0,News API
@@ -103,8 +114,29 @@ Date,Title,Sentiment,Source
 25/02/2025,Las ventas de Tesla en Europa se desploman,0.0,News API
 25/02/2025,Sacramento woman stuns Ramsey Show co-hosts with story of how she turned $1K into $380K with just 1 stock.,0.0,News API
 25/02/2025,Una pastelería aceptó un pedido de 4.000 pasteles para Tesla. Elon Musk tuvo que mediar para evitar su quiebra,0.0,News API
+25/02/2025,Tesla encargó 4.000 pasteles a una pastelería... que habría quebrado si Elon Musk no hubiera tomado cartas en el asunto,0.0,News API
 26/02/2025,Elon Musk said Tesla used internet videos to train self-driving tech in China,0.0,News API
 26/02/2025,Your Tesla Is Watching,0.0,News API
 26/02/2025,Elon Musk ha puesto a la Inspección de Trabajo de EEUU en la diana de DOGE: investigaba a Tesla por la muerte de un trabajador,0.0,News API
 26/02/2025,Las Vegas Police Receive 10 Tesla Cybertrucks From Mystery Donor,0.0,News API
 27/02/2025,Woman caught trying to plant explosive devices at Tesla dealership,0.0,News API
+27/02/2025,Las ventas de Tesla en Europa se han hundido un 45% y sus acciones lo están pagando caro. Ni siquiera es su peor noticia,0.0,News API
+27/02/2025,Tesla investors furious at stock’s plunge turn tables on CEO Elon Musk,0.0,News API
+27/02/2025,Cómo Elon Musk hizo su imperio con la ayuda del gobierno de EEUU: 38.000 millones de dólares para levantar Tesla y SpaceX,0.0,News API
+28/02/2025,Tesla Superchargers coming to dozens of Steak ‘n Shake locations,0.0,News API
+28/02/2025,Tesla Fires Manager Who Complained About Elon Musk’s Nazi Jokes,-0.3,News API
+28/02/2025,How to Find Your Local Protest Against Elon Musk,0.0,News API
+28/02/2025,Las acciones de Tesla están cayendo en picado por un simple motivo: siempre se basaron en un culto ciego a Elon Musk,0.0,News API
+01/03/2025,Tesla Moves Towards Launching an Uber Competitor,0.0,News API
+02/03/2025,Tesla Recalls over 376K Vehicles,0.0,News API
+02/03/2025,"Una startup quiere construir el ""Tesla de los barcos"". Su idea revolucionaria consiste en ponerles velas",0.0,News API
+03/03/2025,Tesla Reinstated as Top Pick; Analysts Predicts 50% Upide Potential,0.25,News API
+03/03/2025,US senator asks Rubio to answer questions on planned Tesla Cybertruck purchase,0.0,News API
+03/03/2025,Elon Musk in the House: The DOGE leader will attend Trump's address to Congress,0.0,News API
+03/03/2025,Self-driving cars: Google and others map the road to automated vehicles,0.0,News API
+04/03/2025,Tesla is offering free lifetime supercharging for Cybertruck buyers as demand slows,0.4,News API
+04/03/2025,Arsonist sets fire to Tesla charging stations: Police,0.0,News API
+04/03/2025,"New Orleans Boos a Cybertruck Off a Mardi Gras Parade, Breaks One of Its Windows",-0.0568,News API
+04/03/2025,Elon Musk ha prometido un servicio de coches autónomos en junio. El tiempo pasa y solo tiene un coche como los de toda la vida,0.0,News API
+04/03/2025,Tesla preparing to open a Pensacola dealership and service center,-0.05,News API
+04/03/2025,"""Muchos son una porquería"": uno de los padres de Tesla apunta al error más recurrente de los coches eléctricos",0.0,News API

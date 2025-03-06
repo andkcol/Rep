@@ -46,12 +46,15 @@ Date,Title,Sentiment,Source
 05/02/2025,Meta is all in on AI wearables while figuring out where the metaverse fits in,0.0,News API
 05/02/2025,Meta CTO: 2025 Make or Break Year for Metaverse,0.0,News API
 05/02/2025,Mark Zuckerberg is $40 billion richer this year on Meta's winning streak,0.5,News API
+05/02/2025,What's The Best Class In Path Of Exile 2 For Solo Play?,1.0,News API
 06/02/2025,"The Meta Quest saw Wii-like growth in 2024, but that spells trouble for some games",-0.2,News API
 06/02/2025,I quit Airbnb after almost 8 years and felt more anxious than free. Deprogramming my Big Tech mindset was harder than I thought.,0.11,News API
 06/02/2025,Magic: The Gathering Is Tapping in For a New Movie,0.3182,News API
 07/02/2025,Meta employees question the company's removal of posts on its internal forum: 'This is a free speech issue',0.2,News API
 07/02/2025,Internal Meta memo shows how its performance-based cuts will work,0.0,News API
 07/02/2025,Pinterest Says Its DEI Commitments Put It at Risk of Conservative Backlash,0.0,News API
+07/02/2025,"Los correos de Meta revelan que descargó 81,7 TB de libros con copyright vía BitTorrent para entrenar sus modelos de IA",0.0,News API
+07/02/2025,Mistral AI's 'Le Chat' Chatbot Now Available on iPhone,0.4,News API
 08/02/2025,"News Weekly: Alphabet's earnings soar, new Zenfone Ultra, and more",0.3182,News API
 10/02/2025,Meta is boosting its speech and translation AI with a fresh program,0.3,News API
 10/02/2025,Meta speeds up its hiring process for machine learning engineers as it cuts thousands of 'low performers',0.0,News API
@@ -59,15 +62,22 @@ Date,Title,Sentiment,Source
 10/02/2025,Meta set to notify workers impacted by its performance-based cuts,0.0,News API
 10/02/2025,ChatGPT and Google won battle for best tech Super Bowl ads — and Meta lost,0.6667,News API
 10/02/2025,"A software engineer shares the résumé that got him onsite interviews at Meta, Amazon, and Dropbox — and hired at Microsoft",0.0,News API
+10/02/2025,Meta faces lawsuit for training AI with pirated books,0.0,News API
+10/02/2025,Mark Zuckerberg está reestructurando Meta para centrarse en la IA: la excepción ha sido Europa y su regulación laboral,0.0,News API
+10/02/2025,Reid Hoffman doesn't want Big Tech's pivot from fact-checking to mean more misinformation,0.0625,News API
+10/02/2025,Ready at Dawn co-founder says Ubisoft demanded their game’s protagonist be male,-0.0667,News API
 11/02/2025,Meta's job cuts surprised some employees who said they weren't low-performers,0.1,News API
 11/02/2025,Meta Starts Eliminating Jobs in Shift To Find AI Talent,0.0,News API
 11/02/2025,Meta diseñará sus chips de IA con ayuda de un ingeniero de Samsung,0.0,News API
 11/02/2025,Federal Workers Launch New Lawsuit to Fight DOGE’s Data Access,0.1364,News API
 12/02/2025,12 Days of Insider Studios,0.0,News API
+12/02/2025,A Taylor Lautner: Werewolf Hunter TV Series Will Pick Up Where Twilight Left Off,0.0,News API
 13/02/2025,You thought AR and VR were expensive? Wait til you see what Meta wants to spend on AI this year,-0.15,News API
 13/02/2025,Utilities want to power Big Tech's AI ambitions with natural gas. These are the data centers they're betting on.,0.05,News API
 13/02/2025,Alien: Rogue Incursion Meta Quest 3 review: Brilliant gameplay marred by one big problem,0.2167,News API
 13/02/2025,Arm reportedly signs Meta as first chip customer,0.25,News API
+13/02/2025,German Regulator Charges Apple With Abuse of Power Over App Tracking Tool,0.0,News API
+13/02/2025,Director of the Game ‘Avowed’ Says AI Can’t Replace Human Creativity,-0.2,News API
 14/02/2025,Meta’s Ray-Bans have sold two million pairs — its maker is prepping to sell 10M each year,0.0,News API
 14/02/2025,Meta Building Big-Ass Undersea Internet Cable,0.0,News API
 14/02/2025,Meta Is Looking to Get Into the AI Humanoid Robot Business,0.0,News API
@@ -76,17 +86,24 @@ Date,Title,Sentiment,Source
 14/02/2025,Meta stock continues record run: 'Prime example' of implementing AI,0.0,News API
 14/02/2025,Meta quiere revolucionar el mercado de los robots humanoides con IA,0.0,News API
 14/02/2025,"Instagram is testing a dislike button, but only for comments",0.0,News API
+14/02/2025,Meta Just Made a $65 Billion Bet--And It Could Change Everything,0.0,News API
+14/02/2025,Meta: Are humanoid robots reshaping the tech giant's AI narrative?,0.0,News API
 15/02/2025,Report: Meta Betting on AI-Powered Humanoid Robots,0.0,News API
+16/02/2025,Meta Project Aria - Smart Glasses Research Kit,0.2143,News API
+16/02/2025,Meta Says It’ll Tattle to Trump if EU Keeps Being Mean,-0.3125,News API
 17/02/2025,"Meta's Ray-Ban smart glasses are a hit, and it's now planning a massive production ramp-up",0.1071,News API
 17/02/2025,"Ni IA, ni realidad virtual: Apple y Meta ya están preparándose para la siguiente revolución",0.0,News API
+17/02/2025,Ray-Ban Meta Glasses: Massive Produktionssteigerung geplant,0.0,News API
 18/02/2025,Facebook is about to mass delete a lot of old live streams,0.1182,News API
 18/02/2025,Meta announces its next Connect — and a Llama AI surprise,0.0,News API
 18/02/2025,Meta plans to build the world's longest subsea cable that will connect the US to India,0.0,News API
+18/02/2025,"The wait is finally over. Mira Murati announces new startup, Thinking Machines Lab.",0.0682,News API
 19/02/2025,2025 is 'a Meta story' for Big Tech. Here's why.,0.0,News API
 20/02/2025,"Meta, it's time to kill Horizon Worlds before it kills the Meta Quest",0.0,News API
 20/02/2025,"FTC Launches Broad Tech 'Censorship' Probe Targeting Meta, Uber",0.0625,News API
 20/02/2025,You can't use Meta in China but the OnePlus Watch 3 is 'Meda in China',0.0,News API
 21/02/2025,Internal Meta documents show which teams were hit the hardest in 'low performer' cuts,0.0,News API
+21/02/2025,On Zero Sum Games (The Informational Meta-Game),0.0,News API
 22/02/2025,You shouldn't steal eBooks unless you have good lawyers,0.7,News API
 22/02/2025,Water Chlorination Might Be Raising Our Risk of Certain Cancers,0.2143,News API
 24/02/2025,Meet the Journalists Training AI Models for Meta and OpenAI,0.0,News API
@@ -94,4 +111,25 @@ Date,Title,Sentiment,Source
 24/02/2025,Meta rolls out its AI chatbot to nearly a dozen Middle Eastern nations,0.05,News API
 25/02/2025,Elon Musk hates OpenAI's for-profit transformation plan. He's not the only one.,0.0,News API
 25/02/2025,Meta just scored a small win in its feud with Apple,0.275,News API
+25/02/2025,Chicory: A JVM native WebAssembly runtime,0.0,News API
+25/02/2025,Daniel Kaluuya’s Barney Movie Has Added Another Surprising Talent: Ayo Edebiri,0.7,News API
+26/02/2025,"Meta in talks for $200 billion AI data center project, The Information reports",-0.1,News API
+26/02/2025,Meta to build $200B AI data center. Clayco CEO weighs in.,-0.1,News API
 27/02/2025,Meta apologizes for the sudden influx of graphic content on Instagram reels,0.0,News API
+27/02/2025,Meta is firing about 20 employees for leaking,0.0,News API
+27/02/2025,Meta’s AI chatbot will soon have a standalone app,0.0,News API
+27/02/2025,Why Did Instagram Reels Start Recommending a Ton of Violent and Graphic Content?,-0.4,News API
+27/02/2025,Apple will let parents share their kids’ ages to limit app access,0.0,News API
+27/02/2025,Meta Aria Gen 2 smart glasses look like serious upgrade on Ray-Ban Meta,-0.0595,News API
+27/02/2025,Sesame is the first voice assistant I’ve ever wanted to talk to more than once,0.375,News API
+28/02/2025,Meta to Release Standalone AI App to Compete With ChatGPT,0.0,News API
+28/02/2025,"Mark Zuckerberg copied Benson Boone's Grammys look, right down to the sparkly blue jumpsuit",0.0434,News API
+01/03/2025,"These niche, expensive VR headsets will fill the gap Meta Quest has left behind in 2025",-0.3,News API
+02/03/2025,'I'm not tech-savvy - but within hours I could buy an illegal knife on social media',-0.2333,News API
+03/03/2025,Conspiracy Theorists Think Mark Zuckerberg Started Myrtle Beach Wildfires,0.0,News API
+03/03/2025,Trump’s FCC Head Warns EU Content Rules ‘Incompatible’ With Free Speech,0.4,News API
+04/03/2025,"Somehow, David Arquette Will Return for the Increasingly Meta Scream 7",0.0,News API
+04/03/2025,People Are Paying Millions to Dine With Donald Trump at Mar-a-Lago,0.0,News API
+04/03/2025,These smart glasses have given me a new reason to record video again,0.1753,News API
+04/03/2025,"TECNO launches the Camon 40 series, unveils new AI smart glasses to take on Meta",0.1753,News API
+04/03/2025,How brands can elevate everyday moments in 2025,-0.2,News API

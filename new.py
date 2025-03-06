@@ -80,7 +80,6 @@ def read_existing_news(csv_file): # Reads existing news from the company's CSV f
         return set()
 
 def save_news_to_csv(news, company_name): # Saves new non-duplicate news articles to the company's CSV file ordering by date
-    """Saves news articles to a dedicated folder, ensuring no duplicates and ordering by date."""
     csv_file = os.path.join(OUTPUT_FOLDER, f"{company_name}_news_sentiment.csv")
     existing_titles = read_existing_news(csv_file)
 

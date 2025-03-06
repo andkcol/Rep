@@ -93,6 +93,7 @@ Date,Title,Sentiment,Source
 25/02/2025,Anker’s new USB-C HDMI cable supports 140W fast charging,0.1682,News API
 25/02/2025,"Amazon’s Best Storage Pick Just Got Cheaper, SanDisk 2TB Portable SSD Hits a Record Low",0.5,News API
 25/02/2025,"Tile’s Latest Bluetooth Tracker Hits an All-Time Low, Now Cheaper Than Apple AirTag",0.25,News API
+25/02/2025,Amazon’s Choice Portable HD Monitor With Smart Cover Drops to a Record-Low Price,0.2143,News API
 26/02/2025,Amazon Alexa event live blog: all the news from the keynote,0.1364,News API
 26/02/2025,"Alexa Plus’ AI upgrades cost $19.99, but it’s all free with Prime",0.4,News API
 26/02/2025,All the news from Amazon’s AI Alexa event,0.0,News API
@@ -101,3 +102,23 @@ Date,Title,Sentiment,Source
 26/02/2025,The Xbox Wireless Controller is just $39 right now,0.2857,News API
 26/02/2025,Anker Portable Power Bank Is 40% Off and Charges Everything From Smartphones to Laptops,0.0,News API
 26/02/2025,Ninja Dual Coffee Maker at Its Lowest Price Lets You Brew Pods or Grounds and Cut Your Starbucks Bill,0.0,News API
+26/02/2025,JBL PartyBox 310 Is Back to Its Holiday Price and One of Amazon’s Most Popular Portable Speakers,0.3667,News API
+27/02/2025,Amazon CEO says ‘beautiful’ new Alexa hardware is coming this fall,0.4932,News API
+27/02/2025,Amazon says its new quantum computing chip will make error correction more efficient,0.3182,News API
+27/02/2025,Hoto’s 48-in-1 electric screwdriver set hits a record low $70,0.0,News API
+27/02/2025,Hands-on with Alexa Plus in the smart home,0.2143,News API
+27/02/2025,Amazon Unveils Its First Quantum Computing Chip,0.25,News API
+28/02/2025,The high stakes for AI Alexa,0.16,News API
+28/02/2025,"Forget Dyson, This iRobot Roomba Robot Vacuum Is Now Under $150 on Amazon",-0.0083,News API
+28/02/2025,"The Asus ROG Strix 27″ Gaming Monitor Just Dropped Below $200, Even Cheaper Than Last Holiday Season",0.0,News API
+28/02/2025,Amazon Just Slashed the Smart Levoit Air Purifier to Its Lowest Price Yet,0.2143,News API
+28/02/2025,The Xbox Core Is the Only Wireless Gaming Controller You Need and Now Its Lowest Price on Amazon,0.0,News API
+28/02/2025,The Samsung 990 Pro Internal SSD Is at Its Lowest Price of the Year on Amazon for a Limited Time,-0.0357,News API
+28/02/2025,Garmin Fenix 7X Pro Solar Smartwatch Is at an All-Time Low and Could Be an Ultramarathoner’s Best Friend,0.5,News API
+28/02/2025,"AquaSonic Ultra Whitening Toothbrush Drops to Just $30, Amazon’s Best-Selling Electric Toothbrush",0.0,News API
+28/02/2025,Aurzen Zip tri-fold projector review: mirror anything (without DRM),0.0,News API
+03/03/2025,"Anker Prime Power Bank With Charging Base Just Hit Its All-Time Low, Lightning Deal on Amazon",-0.4,News API
+03/03/2025,"Tax Day Is Coming, TurboTax Deluxe 2024 Is 30% Off to Help You Beat the Deadline",0.6,News API
+03/03/2025,"Beats Studio Buds Are Flying Off Amazon’s Shelves, Now Under $100",0.0,News API
+04/03/2025,"HP Docking Station Just Got 45% Cheaper, Combine All Your Cords Into Just One",0.0,News API
+04/03/2025,People Are Paying Millions to Dine With Donald Trump at Mar-a-Lago,0.0,News API

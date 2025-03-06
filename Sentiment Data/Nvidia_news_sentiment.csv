@@ -67,6 +67,8 @@ Date,Title,Sentiment,Source
 05/02/2025,Nvidia might break with tradition for the RTX 5060,0.0,News API
 05/02/2025,Google says quantum computing applications are five years away,0.0,News API
 06/02/2025,AMD is Making Another Run at Nvidia With New 4K-Ready GPUs as Sales Collapse,0.1364,News API
+06/02/2025,A NVIDIA le ha salido un aliado muy fuerte y no del todo inesperado frente a DeepSeek: TSMC,0.0,News API
+07/02/2025,The powerful Alienware m18 R2 gaming laptop is $400 off,0.3,News API
 08/02/2025,Palantir's CEO Just Said This About DeepSeek. Here's What It Could Mean for Nvidia Investors.,-0.3125,News API
 09/02/2025,Nvidia might never top the RTX 4090,-0.25,News API
 09/02/2025,Intel ruined an Israeli startup it bought for $2B–and lost the AI race,0.0,News API
@@ -74,7 +76,9 @@ Date,Title,Sentiment,Source
 10/02/2025,La GeForce RTX 5090 también quema los cables de alimentación,0.0,News API
 10/02/2025,OpenAI está cerca de fabricar su primer chip de IA,0.0,News API
 11/02/2025,These leaked GPU prototypes make the RTX 5090 look like a toy,0.0,News API
+11/02/2025,OpenAI está terminando de diseñar su propia GPU para IA. Y ya sabemos a qué acuerdo ha llegado con TSMC,0.0,News API
 12/02/2025,heise+ | Wie Deepseek die KI-Szene aufmischt,0.0,News API
+13/02/2025,ARM estaría a punto de fabricar su primer chip,0.0,News API
 14/02/2025,These Tech Stocks Soared Friday After Nvidia Disclosed Stakes,0.0,News API
 14/02/2025,Nvidia’s Bungled RTX Rollout Is Leaving Room for AMD to Offer More Affordable GPUs,0.5,News API
 14/02/2025,Nvidia’s AI obsession is causing delays in its PC business,0.0,News API
@@ -86,15 +90,20 @@ Date,Title,Sentiment,Source
 19/02/2025,"The Nvidia RTX 5070 Ti Will Make Your PC a 4K Beast, but Only If the Price Is Right",0.1429,News API
 19/02/2025,Lenovo Legion Tower 7i Gen 8 Review: Maxing Out on Performance and Value,0.0,News API
 19/02/2025,Upcoming HP laptop could be a good sign for Nvidia’s delayed GPUs,0.7,News API
+19/02/2025,"The Alienware Aurora R16, our ‘best gaming PC,’ is on sale from Dell",1.0,News API
 20/02/2025,Nvidia helps launch AI platform for teaching American Sign Language,0.0,News API
 20/02/2025,NVIDIA lanza una IA que te enseña lenguaje de señas gratis,0.0,News API
 20/02/2025,Nvidia’s Big Plan to Beat Back RTX 5090 Scalpers Is the Same as Everybody Else’s,0.0,News API
+20/02/2025,Where to buy Nvidia’s RTX 5070 Ti,0.0,News API
+20/02/2025,Latest NVIDIA drivers add support for the RTX 5070 Ti you can't buy while bringing DLSS 4 to Indiana Jones and Marvel Rivals,0.5,News API
 21/02/2025,Nvidia-Chef äußert sich erstmals zum DeepSeek-Ausverkauf,0.0,News API
 22/02/2025,Nvidia’s RTX 50-Series Cards Fail to Preserve Our Favorite Games From 10 Years Ago,0.0,News API
+22/02/2025,Nvidias RTX-5000 teilweise mit weniger ROPs als angegeben verkauft,0.0,News API
 24/02/2025,"Microsoft is said to cancel AI leases, sending stocks into reverse with Nvidia earnings up next",0.0,News API
 24/02/2025,"There Are Too Many Damn Problems With Nvidia’s $2,000 RTX 5090",0.5,News API
 24/02/2025,Nvidia admits to rare RTX 5090 performance glitch,0.3,News API
 24/02/2025,The Importance of Current Balancing With Multi-Wire Power Inputs,0.0,News API
+24/02/2025,"Nvidia GeForce RTX 5070 Ti review: bad start, decent GPU",-0.2667,News API
 25/02/2025,DeepSeek Accelerates AI Model Timeline as Market Reacts To Low-Cost Breakthrough,0.0,News API
 25/02/2025,A algunas tarjetas gráficas GeForce RTX 50 les faltan unidades ROP. NVIDIA ha explicado por qué,0.0,News API
 25/02/2025,"Nvidia’s RTX 5090 can’t run older games, but this user found an expensive fix",-0.1667,News API
@@ -104,4 +113,41 @@ Date,Title,Sentiment,Source
 26/02/2025,Framework Desktop hands-on: a possible new direction for gaming desktops,0.0682,News API
 26/02/2025,Import GPU: Python Programming with CUDA,0.0,News API
 26/02/2025,Dell XPS 8960 Desktop Review: Alienware in Disguise,0.0,News API
+26/02/2025,The Powerhouse Asus TUF A16 Gaming Laptop Just Took a $500 Price Cut on Amazon,0.0,News API
+26/02/2025,"Mittwoch: Microsofts Gratis-Office mit Reklame, Nvidia-Höhenflug dank DeepSeek",0.0,News API
+26/02/2025,Nvidia macht 43-mal mehr Jahresgewinn als AMD,0.0,News API
+26/02/2025,KI-Plattformen: UEFI-Sicherheitslücke bedroht Nvidia Jetson und IGX Orin,0.0,News API
+26/02/2025,Bericht: Chinesische Firmen bestellen mehr H20-Chips von Nvidia für DeepSeek,0.0,News API
 27/02/2025,"NVIDIA ha vuelto a batir su récord de ingresos. Paradójicamente, a Wall Street no parece importarle mucho",0.0,News API
+27/02/2025,"Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview",0.0,News API
+27/02/2025,Why The AI Industry Is Largely Unmoved By Trump’s Tariff Threats,0.2143,News API
+27/02/2025,"Keith Rabois ran into Mark Zuckerberg and Jensen Huang in DC. It's still no Silicon Valley, he says",0.0,News API
+28/02/2025,Singapore Scheme May Have Funneled Nvidia Chips to DeepSeek,0.0,News API
+28/02/2025,"AMD Unleashes the Radeon RX 9070 GPUs, With the 9070 XT at $600",0.0,News API
+28/02/2025,AMD unveils its Radeon RX 9000 Series graphics chips,0.0,News API
+28/02/2025,Can the Steam Deck Run Monster Hunter Wilds?,0.0,News API
+28/02/2025,AMD anuncia la serie Radeon RX 9070: gran rendimiento a un precio rompedor,0.0,News API
+28/02/2025,Nvidia nimmt Cisco in Referenzarchitektur Spectrum-X auf,0.0,News API
+28/02/2025,8 technologies using NVIDIA GPUs that you may not know about,0.0,News API
+01/03/2025,The Best Gadgets of February 2025,1.0,News API
+01/03/2025,"Nvidia: A complete guide to the hardware company behind the AI boom and its chips, financials, and leadership",-0.15,News API
+01/03/2025,"Asus ROG Flow Z13 (2025) review: hold up, integrated graphics are good now?",0.7,News API
+01/03/2025,Lenovo’s ThinkPad X13 gets even lighter,0.0,News API
+01/03/2025,"Intel Delays Ohio Semiconductor Factory to 2030, Maybe 2031",0.0,News API
+01/03/2025,Jim Cramer on NVIDIA Corporation (NVDA): ‘There Are People Who Think It’s Dramatically Overvalued. And I Don’t Get That’,0.0,News API
+02/03/2025,Nvidia GPU on bare metal NixOS Kubernetes cluster explained,0.05,News API
+02/03/2025,Is Nvidia Stock a Buy Now?,0.0,News API
+03/03/2025,12VHPWR Watchdog Protects You From Nvidia Fires,0.0,News API
+03/03/2025,DeepSeek says its AI models would have a 545% profit margin — if everyone who uses them pays,0.0,News API
+03/03/2025,"Exclusive-Nvidia and Broadcom testing chips on Intel manufacturing process, sources say",0.0,News API
+03/03/2025,Nvidia und Broadcom testen Chips auf 18A-Prozess von Intel,0.0,News API
+03/03/2025,"Nvidia’s stock sinks, wiping out six months of gains as the AI trade unravels",-0.1,News API
+04/03/2025,Nvidia’s GeForce RTX 5070 Founders Edition cards won’t launch until later this month,0.0,News API
+04/03/2025,"Nvidia earnings: What investors should know about recent revenue, profits",0.0,News API
+04/03/2025,Volvo’s ES90 is a high-riding electric sedan with 434 miles of range,0.0,News API
+04/03/2025,"Trump Still Considering Tariffs on Taiwanese Chips, Despite $100 Billion TSMC Deal",0.0,News API
+04/03/2025,NVIDIA perdió ayer 265.000 millones de dólares de una tacada. Los aranceles han provocado el terror entre las tecnológicas,0.0,News API
+04/03/2025,"Las tarjetas gráficas de NVIDIA se han convertido en los nuevos iPhone. Si quieres una decente, prepárate para pagar 1.000 euros",0.0,News API
+04/03/2025,"Dienstag: Lichtblick für Intel, Washingtons Kehrwende sorgt für Spekulationen",0.0,News API
+04/03/2025,Nvidia-Aktien sacken ab: GPUs in großem Umfang über Singapur nach China gelangt?,0.0,News API
+04/03/2025,CoreWeave and Anthropic make opposite money-raising moves as AI attracts billions,0.0,News API
