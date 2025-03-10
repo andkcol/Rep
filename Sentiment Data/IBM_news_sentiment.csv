@@ -1,150 +1,1404 @@
 Date,Title,Sentiment,Source
-24/01/2025,Elon Musk’s Biographer Calls Him a ‘Sociopath’ After Auschwitz Photo-Op,0.0,News API
-24/01/2025,"Transizione verso l'intelligenza artificiale, la chiave è la formazione",0.0,News API
-24/01/2025,"Snowdrop OS – a homebrew operating system from scratch, in assembly language",0.0,News API
+12/07/2015,1,0.989,eodhd.com
+27/07/2015,1,0.999,eodhd.com
+04/08/2015,1,0.986,eodhd.com
+05/08/2015,1,0.998,eodhd.com
+06/08/2015,1,0.993,eodhd.com
+26/08/2015,1,0.997,eodhd.com
+03/09/2015,1,0.994,eodhd.com
+07/09/2015,1,0.992,eodhd.com
+08/09/2015,1,0.988,eodhd.com
+09/09/2015,1,0.989,eodhd.com
+11/09/2015,1,0.995,eodhd.com
+15/09/2015,1,0.997,eodhd.com
+06/10/2015,1,0.991,eodhd.com
+10/11/2015,1,0.989,eodhd.com
+19/11/2015,1,0.995,eodhd.com
+23/11/2015,1,0.998,eodhd.com
+15/12/2015,1,0.994,eodhd.com
+16/12/2015,1,0.997,eodhd.com
+17/12/2015,1,0.996,eodhd.com
+29/12/2015,1,0.972,eodhd.com
+16/02/2016,1,0.997,eodhd.com
+29/02/2016,1,0.997,eodhd.com
+14/03/2016,1,0.999,eodhd.com
+05/04/2016,1,0.987,eodhd.com
+07/04/2016,1,0.996,eodhd.com
+12/04/2016,1,0.998,eodhd.com
+14/04/2016,1,0.999,eodhd.com
+10/05/2016,1,0.992,eodhd.com
+25/05/2016,2,0.0935,eodhd.com
+31/05/2016,1,0.997,eodhd.com
+14/06/2016,1,0.994,eodhd.com
+15/08/2016,1,0.982,eodhd.com
+15/11/2016,1,0.994,eodhd.com
+01/02/2017,1,0.996,eodhd.com
+07/02/2017,1,0.999,eodhd.com
+14/02/2017,1,0.996,eodhd.com
+23/05/2017,1,0.989,eodhd.com
+08/06/2017,1,0.997,eodhd.com
+28/08/2017,1,0.991,eodhd.com
+12/09/2017,1,0.999,eodhd.com
+03/10/2017,1,0.996,eodhd.com
+18/10/2017,1,0.998,eodhd.com
+27/11/2017,1,0.995,eodhd.com
+30/01/2018,1,0.995,eodhd.com
+01/02/2018,1,0.996,eodhd.com
+16/03/2018,1,0.991,eodhd.com
+19/03/2018,1,0.998,eodhd.com
+04/04/2018,1,0.998,eodhd.com
+17/04/2018,2,0.995,eodhd.com
+14/06/2018,1,0.998,eodhd.com
+22/06/2018,1,0.997,eodhd.com
+28/06/2018,1,0.991,eodhd.com
+01/10/2018,1,0.961,eodhd.com
+22/10/2018,1,0.995,eodhd.com
+29/10/2018,2,0.678,eodhd.com
+30/10/2018,1,0.995,eodhd.com
+01/11/2018,1,0.934,eodhd.com
+06/11/2018,1,1,eodhd.com
+30/11/2018,1,0.995,eodhd.com
+11/12/2018,1,0.956,eodhd.com
+17/12/2018,1,0.999,eodhd.com
+03/01/2019,1,0.996,eodhd.com
+15/01/2019,1,0.994,eodhd.com
+16/01/2019,1,0.999,eodhd.com
+22/01/2019,1,0.996,eodhd.com
+21/02/2019,1,0.995,eodhd.com
+01/03/2019,1,0.998,eodhd.com
+25/04/2019,1,0.999,eodhd.com
+26/04/2019,1,0.997,eodhd.com
+30/04/2019,1,0.993,eodhd.com
+02/07/2019,1,0.999,eodhd.com
+15/10/2019,1,0.998,eodhd.com
+23/01/2020,1,0.999,eodhd.com
+23/03/2020,1,0.994,eodhd.com
+27/03/2020,1,0.999,eodhd.com
+06/04/2020,1,0.807,eodhd.com
+09/04/2020,1,0.998,eodhd.com
+28/04/2020,1,0.997,eodhd.com
+13/05/2020,1,-0.95,eodhd.com
+21/05/2020,1,0.987,eodhd.com
+22/05/2020,1,0.997,eodhd.com
+03/06/2020,1,0.996,eodhd.com
+23/06/2020,1,0.477,eodhd.com
+02/07/2020,1,0.999,eodhd.com
+11/08/2020,2,0.6795,eodhd.com
+12/08/2020,1,0.991,eodhd.com
+03/09/2020,1,0.552,eodhd.com
+08/09/2020,2,0.758,eodhd.com
+10/09/2020,2,0.999,eodhd.com
+11/09/2020,2,-0.874,eodhd.com
+02/10/2020,2,0.917,eodhd.com
+07/10/2020,2,0.876,eodhd.com
+08/10/2020,2,0.989,eodhd.com
+09/10/2020,2,1,eodhd.com
+12/10/2020,2,1,eodhd.com
+16/10/2020,2,0.44,eodhd.com
+19/10/2020,3,-0.243,eodhd.com
+20/10/2020,1,0.999,eodhd.com
+21/10/2020,3,0.052,eodhd.com
+04/11/2020,2,0.637,eodhd.com
+03/12/2020,2,-0.649,eodhd.com
+16/12/2020,1,1,eodhd.com
+17/12/2020,1,0.998,eodhd.com
+21/12/2020,1,0.995,eodhd.com
+30/12/2020,1,0.999,eodhd.com
+04/01/2021,1,1,eodhd.com
+05/01/2021,1,0.998,eodhd.com
+07/01/2021,1,0.999,eodhd.com
+08/01/2021,3,0.9137,eodhd.com
+09/01/2021,2,0.995,eodhd.com
+12/01/2021,1,0.993,eodhd.com
+14/01/2021,1,0.998,eodhd.com
+19/01/2021,1,0.999,eodhd.com
+21/01/2021,2,0.978,eodhd.com
+22/01/2021,5,0.3934,eodhd.com
+25/01/2021,1,0.273,eodhd.com
+28/01/2021,1,0.999,eodhd.com
+29/01/2021,2,0.999,eodhd.com
+31/01/2021,1,0.727,eodhd.com
+04/02/2021,2,0.35,eodhd.com
+08/02/2021,2,0.996,eodhd.com
+09/02/2021,2,0.999,eodhd.com
+10/02/2021,1,-0.402,eodhd.com
+11/02/2021,6,0.9988,eodhd.com
+12/02/2021,2,0.996,eodhd.com
+13/02/2021,2,0.997,eodhd.com
+16/02/2021,2,0.964,eodhd.com
+19/02/2021,1,1,eodhd.com
+23/02/2021,1,0.999,eodhd.com
+25/02/2021,1,0.991,eodhd.com
+26/02/2021,3,0.836,eodhd.com
+01/03/2021,3,0.9967,eodhd.com
+03/03/2021,2,0.998,eodhd.com
+04/03/2021,1,0.997,eodhd.com
+05/03/2021,2,0.991,eodhd.com
+07/03/2021,1,0,eodhd.com
+08/03/2021,1,0.698,eodhd.com
+09/03/2021,4,0.9985,eodhd.com
+10/03/2021,5,0.9966,eodhd.com
+11/03/2021,4,0.9148,eodhd.com
+12/03/2021,2,0.999,eodhd.com
+13/03/2021,2,0.999,eodhd.com
+14/03/2021,1,0.226,eodhd.com
+15/03/2021,4,0.9985,eodhd.com
+16/03/2021,6,0.9693,eodhd.com
+18/03/2021,5,0.7726,eodhd.com
+19/03/2021,1,0.997,eodhd.com
+20/03/2021,3,0.6633,eodhd.com
+21/03/2021,1,0.999,eodhd.com
+22/03/2021,4,0.997,eodhd.com
+23/03/2021,3,0.6553,eodhd.com
+24/03/2021,4,0.7488,eodhd.com
+25/03/2021,2,0.999,eodhd.com
+26/03/2021,3,0.5987,eodhd.com
+27/03/2021,2,0.5705,eodhd.com
+29/03/2021,4,0.9958,eodhd.com
+30/03/2021,2,0.9805,eodhd.com
+31/03/2021,1,0.872,eodhd.com
+01/04/2021,3,0.4733,eodhd.com
+04/04/2021,1,0,eodhd.com
+05/04/2021,2,0.989,eodhd.com
+07/04/2021,5,0.871,eodhd.com
+08/04/2021,5,0.8138,eodhd.com
+09/04/2021,2,1,eodhd.com
+10/04/2021,1,-0.599,eodhd.com
+11/04/2021,3,0.6913,eodhd.com
+12/04/2021,5,0.6824,eodhd.com
+13/04/2021,3,0.9953,eodhd.com
+14/04/2021,7,0.852,eodhd.com
+15/04/2021,5,0.9768,eodhd.com
+16/04/2021,2,0.499,eodhd.com
+18/04/2021,3,0.0563,eodhd.com
+19/04/2021,17,0.5699,eodhd.com
+20/04/2021,28,0.4806,eodhd.com
+21/04/2021,10,0.6042,eodhd.com
+22/04/2021,9,0.6231,eodhd.com
+23/04/2021,5,0.816,eodhd.com
+24/04/2021,2,0,eodhd.com
+26/04/2021,4,0.717,eodhd.com
+27/04/2021,9,0.9766,eodhd.com
+28/04/2021,2,0.6555,eodhd.com
+29/04/2021,9,0.9012,eodhd.com
+30/04/2021,6,0.8753,eodhd.com
+01/05/2021,1,0,eodhd.com
+02/05/2021,2,0.495,eodhd.com
+03/05/2021,2,0.482,eodhd.com
+04/05/2021,4,0.9953,eodhd.com
+05/05/2021,3,1,eodhd.com
+06/05/2021,7,0.7383,eodhd.com
+07/05/2021,5,0.9024,eodhd.com
+10/05/2021,4,0.72,eodhd.com
+11/05/2021,7,0.7701,eodhd.com
+12/05/2021,5,0.995,eodhd.com
+13/05/2021,1,0.975,eodhd.com
+14/05/2021,4,0.4088,eodhd.com
+17/05/2021,3,0.8197,eodhd.com
+18/05/2021,11,0.9383,eodhd.com
+19/05/2021,7,0.8556,eodhd.com
+20/05/2021,4,0.9983,eodhd.com
+21/05/2021,3,0.9993,eodhd.com
+22/05/2021,3,0.967,eodhd.com
+24/05/2021,5,0.976,eodhd.com
+25/05/2021,4,0.5378,eodhd.com
+26/05/2021,2,0.6335,eodhd.com
+27/05/2021,1,0.954,eodhd.com
+28/05/2021,2,0.998,eodhd.com
+30/05/2021,1,0.318,eodhd.com
+31/05/2021,2,0.999,eodhd.com
+01/06/2021,1,0.999,eodhd.com
+02/06/2021,6,0.9977,eodhd.com
+03/06/2021,1,1,eodhd.com
+04/06/2021,9,0.5274,eodhd.com
+05/06/2021,1,0.911,eodhd.com
+07/06/2021,5,0.8572,eodhd.com
+08/06/2021,10,0.6443,eodhd.com
+09/06/2021,2,0.971,eodhd.com
+10/06/2021,1,0.987,eodhd.com
+11/06/2021,4,0.2425,eodhd.com
+12/06/2021,2,0.202,eodhd.com
+14/06/2021,7,0.9349,eodhd.com
+15/06/2021,4,0.6775,eodhd.com
+16/06/2021,2,0.999,eodhd.com
+17/06/2021,6,0.9982,eodhd.com
+18/06/2021,5,0.765,eodhd.com
+21/06/2021,6,0.9987,eodhd.com
+22/06/2021,5,0.977,eodhd.com
+23/06/2021,6,0.9977,eodhd.com
+24/06/2021,7,0.4706,eodhd.com
+25/06/2021,4,0.979,eodhd.com
+28/06/2021,19,0.8795,eodhd.com
+29/06/2021,4,0.999,eodhd.com
+30/06/2021,2,0.985,eodhd.com
+01/07/2021,6,0.9933,eodhd.com
+02/07/2021,15,0.5807,eodhd.com
+06/07/2021,4,0.7443,eodhd.com
+07/07/2021,7,0.7116,eodhd.com
+08/07/2021,8,0.786,eodhd.com
+09/07/2021,1,0.989,eodhd.com
+12/07/2021,1,0.998,eodhd.com
+13/07/2021,5,0.9966,eodhd.com
+14/07/2021,3,0.616,eodhd.com
+15/07/2021,4,0.9663,eodhd.com
+16/07/2021,5,0.6848,eodhd.com
+18/07/2021,2,0.9905,eodhd.com
+19/07/2021,20,0.3503,eodhd.com
+20/07/2021,44,0.3798,eodhd.com
+21/07/2021,5,0.5736,eodhd.com
+22/07/2021,5,0.7756,eodhd.com
+23/07/2021,2,1,eodhd.com
+24/07/2021,1,0,eodhd.com
+27/07/2021,4,0.6445,eodhd.com
+28/07/2021,5,0.7966,eodhd.com
+29/07/2021,1,0.991,eodhd.com
+30/07/2021,1,0,eodhd.com
+31/07/2021,1,0.997,eodhd.com
+01/08/2021,1,0.103,eodhd.com
+03/08/2021,1,0.999,eodhd.com
+04/08/2021,5,0.9238,eodhd.com
+06/08/2021,2,0.4995,eodhd.com
+07/08/2021,1,0.727,eodhd.com
+09/08/2021,3,0.9967,eodhd.com
+10/08/2021,1,1,eodhd.com
+12/08/2021,1,0.977,eodhd.com
+13/08/2021,3,0.51,eodhd.com
+17/08/2021,1,0,eodhd.com
+18/08/2021,1,0.999,eodhd.com
+19/08/2021,2,0.9765,eodhd.com
+20/08/2021,2,0.6285,eodhd.com
+23/08/2021,4,0.7915,eodhd.com
+24/08/2021,4,0.9223,eodhd.com
+25/08/2021,3,0.988,eodhd.com
+26/08/2021,3,-0.0213,eodhd.com
+27/08/2021,5,0.5798,eodhd.com
+28/08/2021,1,0.797,eodhd.com
+30/08/2021,3,0.9943,eodhd.com
+01/09/2021,2,0.9645,eodhd.com
+02/09/2021,5,0.9368,eodhd.com
+03/09/2021,1,0.996,eodhd.com
+05/09/2021,2,0.92,eodhd.com
+06/09/2021,1,0.999,eodhd.com
+07/09/2021,2,0.999,eodhd.com
+08/09/2021,9,0.8377,eodhd.com
+09/09/2021,2,0.499,eodhd.com
+10/09/2021,2,0.9395,eodhd.com
+11/09/2021,1,0.586,eodhd.com
+13/09/2021,1,0.332,eodhd.com
+14/09/2021,6,0.9947,eodhd.com
+15/09/2021,2,0.9975,eodhd.com
+16/09/2021,2,0.969,eodhd.com
+20/09/2021,1,0.988,eodhd.com
+22/09/2021,3,0.9233,eodhd.com
+23/09/2021,3,0.9977,eodhd.com
+27/09/2021,2,0.9915,eodhd.com
+28/09/2021,4,0.9463,eodhd.com
+29/09/2021,2,0.6435,eodhd.com
+30/09/2021,5,0.6356,eodhd.com
+01/10/2021,3,0.8607,eodhd.com
+02/10/2021,1,0.71,eodhd.com
+04/10/2021,4,0.9588,eodhd.com
+05/10/2021,4,0.762,eodhd.com
+06/10/2021,6,0.2672,eodhd.com
+07/10/2021,5,0.1398,eodhd.com
+08/10/2021,2,0.3375,eodhd.com
+09/10/2021,1,0.818,eodhd.com
+10/10/2021,1,-0.052,eodhd.com
+11/10/2021,7,0.9927,eodhd.com
+12/10/2021,10,0.7337,eodhd.com
+13/10/2021,8,0.7354,eodhd.com
+14/10/2021,1,0.955,eodhd.com
+15/10/2021,2,0,eodhd.com
+17/10/2021,1,0.959,eodhd.com
+18/10/2021,4,0.8163,eodhd.com
+19/10/2021,1,0.991,eodhd.com
+20/10/2021,24,0.4745,eodhd.com
+21/10/2021,40,0.4719,eodhd.com
+22/10/2021,4,0.7185,eodhd.com
+24/10/2021,1,0.511,eodhd.com
+25/10/2021,3,0.4143,eodhd.com
+26/10/2021,8,0.6466,eodhd.com
+27/10/2021,3,0.4003,eodhd.com
+28/10/2021,3,0.9973,eodhd.com
+29/10/2021,2,0.997,eodhd.com
+30/10/2021,2,0.916,eodhd.com
+01/11/2021,5,0.7718,eodhd.com
+02/11/2021,4,0.9028,eodhd.com
+03/11/2021,3,0.6043,eodhd.com
+04/11/2021,14,0.2656,eodhd.com
+05/11/2021,2,0.998,eodhd.com
+06/11/2021,1,1,eodhd.com
+08/11/2021,4,0.7455,eodhd.com
+09/11/2021,3,0.902,eodhd.com
+10/11/2021,6,0.5407,eodhd.com
+11/11/2021,1,0.361,eodhd.com
+12/11/2021,1,0.997,eodhd.com
+15/11/2021,8,0.9215,eodhd.com
+16/11/2021,2,0.998,eodhd.com
+17/11/2021,3,0.9817,eodhd.com
+18/11/2021,3,0.9933,eodhd.com
+19/11/2021,3,0.9987,eodhd.com
+21/11/2021,2,0.72,eodhd.com
+22/11/2021,2,0.3625,eodhd.com
+23/11/2021,2,0.72,eodhd.com
+24/11/2021,3,0.5457,eodhd.com
+26/11/2021,3,0.3347,eodhd.com
+29/11/2021,1,0.649,eodhd.com
+30/11/2021,4,0.9903,eodhd.com
+01/12/2021,2,0.2705,eodhd.com
+03/12/2021,2,0.986,eodhd.com
+04/12/2021,2,0.3185,eodhd.com
+06/12/2021,1,0.987,eodhd.com
+07/12/2021,9,0.8552,eodhd.com
+08/12/2021,3,0.877,eodhd.com
+09/12/2021,2,0.997,eodhd.com
+10/12/2021,4,0.9978,eodhd.com
+11/12/2021,3,0.9973,eodhd.com
+12/12/2021,3,0.184,eodhd.com
+13/12/2021,8,0.9823,eodhd.com
+14/12/2021,5,0.9972,eodhd.com
+15/12/2021,4,0.8758,eodhd.com
+16/12/2021,5,0.609,eodhd.com
+17/12/2021,1,0.671,eodhd.com
+18/12/2021,1,1,eodhd.com
+20/12/2021,4,0.7923,eodhd.com
+21/12/2021,3,0.79,eodhd.com
+23/12/2021,1,0.494,eodhd.com
+27/12/2021,1,-0.178,eodhd.com
+28/12/2021,6,0.652,eodhd.com
+29/12/2021,1,0.999,eodhd.com
+30/12/2021,2,0.7635,eodhd.com
+31/12/2021,1,0,eodhd.com
+01/01/2022,1,0.586,eodhd.com
+03/01/2022,2,0.9905,eodhd.com
+04/01/2022,2,0.865,eodhd.com
+05/01/2022,5,0.7,eodhd.com
+06/01/2022,4,0.9918,eodhd.com
+07/01/2022,4,0.8565,eodhd.com
+08/01/2022,1,1,eodhd.com
+10/01/2022,4,0.7778,eodhd.com
+11/01/2022,19,0.5824,eodhd.com
+12/01/2022,8,0.783,eodhd.com
+13/01/2022,9,0.9162,eodhd.com
+14/01/2022,4,0.3038,eodhd.com
+17/01/2022,4,0.996,eodhd.com
+18/01/2022,7,0.9893,eodhd.com
+19/01/2022,7,0.9977,eodhd.com
+20/01/2022,13,0.9174,eodhd.com
+21/01/2022,14,0.6263,eodhd.com
+22/01/2022,2,0.8235,eodhd.com
+23/01/2022,2,0.995,eodhd.com
+24/01/2022,29,0.446,eodhd.com
+25/01/2022,39,0.6409,eodhd.com
+26/01/2022,7,0.778,eodhd.com
+27/01/2022,10,0.7585,eodhd.com
+28/01/2022,2,0.46,eodhd.com
+29/01/2022,1,0.44,eodhd.com
+31/01/2022,6,0.9967,eodhd.com
+01/02/2022,11,0.9525,eodhd.com
+02/02/2022,14,0.8551,eodhd.com
+03/02/2022,8,0.9933,eodhd.com
+04/02/2022,8,0.7339,eodhd.com
+05/02/2022,4,0.8883,eodhd.com
+06/02/2022,1,0.999,eodhd.com
+07/02/2022,7,0.9963,eodhd.com
+08/02/2022,5,0.9926,eodhd.com
+09/02/2022,1,0.999,eodhd.com
+10/02/2022,4,0.675,eodhd.com
+12/02/2022,1,0.285,eodhd.com
+14/02/2022,7,0.8549,eodhd.com
+15/02/2022,1,0.996,eodhd.com
+16/02/2022,5,0.9528,eodhd.com
+17/02/2022,4,0.9828,eodhd.com
+18/02/2022,1,0.995,eodhd.com
+22/02/2022,5,0.923,eodhd.com
+23/02/2022,11,0.5677,eodhd.com
+24/02/2022,4,0.5455,eodhd.com
+25/02/2022,2,0.691,eodhd.com
+28/02/2022,1,0.494,eodhd.com
+01/03/2022,3,0.7553,eodhd.com
+02/03/2022,1,0.151,eodhd.com
+04/03/2022,2,0.677,eodhd.com
+07/03/2022,4,0.9918,eodhd.com
+08/03/2022,7,0.5004,eodhd.com
+09/03/2022,2,0.903,eodhd.com
+10/03/2022,4,0.7865,eodhd.com
+11/03/2022,2,0.3245,eodhd.com
+13/03/2022,2,0.116,eodhd.com
+14/03/2022,1,0.988,eodhd.com
+15/03/2022,6,0.439,eodhd.com
+16/03/2022,1,0.712,eodhd.com
+17/03/2022,1,0,eodhd.com
+18/03/2022,2,0.3195,eodhd.com
+19/03/2022,1,0.997,eodhd.com
+21/03/2022,5,0.9946,eodhd.com
+22/03/2022,3,0.9823,eodhd.com
+23/03/2022,2,0.9985,eodhd.com
+24/03/2022,1,0.999,eodhd.com
+25/03/2022,2,0.982,eodhd.com
+27/03/2022,1,-0.66,eodhd.com
+28/03/2022,2,0.958,eodhd.com
+29/03/2022,5,0.8642,eodhd.com
+30/03/2022,4,0.018,eodhd.com
+31/03/2022,4,0.7488,eodhd.com
+01/04/2022,2,0.021,eodhd.com
+02/04/2022,2,0.5365,eodhd.com
+04/04/2022,4,0.4953,eodhd.com
+05/04/2022,6,0.4543,eodhd.com
+06/04/2022,3,0.8573,eodhd.com
+09/04/2022,1,0.992,eodhd.com
+11/04/2022,3,0.761,eodhd.com
+12/04/2022,3,0.9967,eodhd.com
+13/04/2022,4,0.9973,eodhd.com
+14/04/2022,9,0.5507,eodhd.com
+15/04/2022,1,0.892,eodhd.com
+16/04/2022,1,0.994,eodhd.com
+17/04/2022,1,-0.938,eodhd.com
+18/04/2022,4,0.2738,eodhd.com
+19/04/2022,18,0.5767,eodhd.com
+20/04/2022,23,0.5214,eodhd.com
+21/04/2022,4,0.499,eodhd.com
+22/04/2022,6,0.8425,eodhd.com
+25/04/2022,6,0.679,eodhd.com
+26/04/2022,4,0.8913,eodhd.com
+27/04/2022,6,0.904,eodhd.com
+28/04/2022,6,0.9772,eodhd.com
+29/04/2022,1,0.999,eodhd.com
+30/04/2022,1,0,eodhd.com
+01/05/2022,1,0.994,eodhd.com
+02/05/2022,1,0.997,eodhd.com
+03/05/2022,1,0.273,eodhd.com
+04/05/2022,2,-0.569,eodhd.com
+05/05/2022,1,0.788,eodhd.com
+06/05/2022,5,0.7748,eodhd.com
+07/05/2022,1,0.997,eodhd.com
+09/05/2022,2,0.993,eodhd.com
+10/05/2022,11,0.4546,eodhd.com
+11/05/2022,4,0.8448,eodhd.com
+12/05/2022,3,0.995,eodhd.com
+13/05/2022,6,0.858,eodhd.com
+14/05/2022,1,0.818,eodhd.com
+15/05/2022,1,0.999,eodhd.com
+16/05/2022,1,0.999,eodhd.com
+17/05/2022,5,0.773,eodhd.com
+18/05/2022,3,0.4347,eodhd.com
+19/05/2022,5,0.619,eodhd.com
+20/05/2022,1,0.422,eodhd.com
+21/05/2022,2,0.998,eodhd.com
+23/05/2022,3,0.9453,eodhd.com
+24/05/2022,4,0.712,eodhd.com
+25/05/2022,4,0.9613,eodhd.com
+26/05/2022,3,0.5143,eodhd.com
+27/05/2022,1,0.999,eodhd.com
+28/05/2022,1,0.994,eodhd.com
+30/05/2022,3,0.992,eodhd.com
+31/05/2022,7,0.3989,eodhd.com
+01/06/2022,3,0.613,eodhd.com
+02/06/2022,4,0.7118,eodhd.com
+03/06/2022,1,0.994,eodhd.com
+05/06/2022,2,0.946,eodhd.com
+06/06/2022,4,0.7423,eodhd.com
+07/06/2022,6,0.5052,eodhd.com
+08/06/2022,4,0.389,eodhd.com
+09/06/2022,1,0.993,eodhd.com
+10/06/2022,5,0.7876,eodhd.com
+13/06/2022,6,0.6855,eodhd.com
+14/06/2022,3,0.553,eodhd.com
+15/06/2022,2,0.845,eodhd.com
+16/06/2022,1,0.632,eodhd.com
+17/06/2022,3,0.6123,eodhd.com
+18/06/2022,1,0.999,eodhd.com
+19/06/2022,1,0.226,eodhd.com
+20/06/2022,3,0.987,eodhd.com
+21/06/2022,4,0.757,eodhd.com
+22/06/2022,6,0.6822,eodhd.com
+23/06/2022,2,0.884,eodhd.com
+24/06/2022,1,0,eodhd.com
+27/06/2022,2,0.995,eodhd.com
+28/06/2022,3,0.4823,eodhd.com
+29/06/2022,5,0.5506,eodhd.com
+30/06/2022,5,0.064,eodhd.com
+01/07/2022,2,0.874,eodhd.com
+04/07/2022,3,0.999,eodhd.com
+05/07/2022,2,0.5515,eodhd.com
+06/07/2022,3,0.995,eodhd.com
+07/07/2022,4,0.6665,eodhd.com
+08/07/2022,6,0.7192,eodhd.com
+09/07/2022,1,0.998,eodhd.com
+10/07/2022,1,0.637,eodhd.com
+11/07/2022,2,0.9985,eodhd.com
+12/07/2022,4,0.7423,eodhd.com
+13/07/2022,2,0.4995,eodhd.com
+14/07/2022,2,0.9815,eodhd.com
+15/07/2022,3,0.4003,eodhd.com
+16/07/2022,1,1,eodhd.com
+17/07/2022,2,0.836,eodhd.com
+18/07/2022,29,0.2647,eodhd.com
+19/07/2022,30,0.3045,eodhd.com
+20/07/2022,7,0.6366,eodhd.com
+21/07/2022,3,0.2927,eodhd.com
+22/07/2022,5,0.4498,eodhd.com
+24/07/2022,1,-0.93,eodhd.com
+25/07/2022,7,0.692,eodhd.com
+26/07/2022,4,0.7403,eodhd.com
+27/07/2022,3,0.6587,eodhd.com
+28/07/2022,2,0.8145,eodhd.com
+29/07/2022,3,0.4453,eodhd.com
+01/08/2022,4,0.903,eodhd.com
+02/08/2022,3,0.337,eodhd.com
+03/08/2022,2,0.023,eodhd.com
+05/08/2022,4,0.6828,eodhd.com
+08/08/2022,3,0.4177,eodhd.com
+09/08/2022,3,0.4423,eodhd.com
+10/08/2022,2,0.483,eodhd.com
+11/08/2022,2,0.435,eodhd.com
+13/08/2022,1,0.791,eodhd.com
+15/08/2022,2,0.008,eodhd.com
+16/08/2022,1,0,eodhd.com
+17/08/2022,3,0.9887,eodhd.com
+18/08/2022,2,0.999,eodhd.com
+19/08/2022,3,0.997,eodhd.com
+22/08/2022,2,0.9985,eodhd.com
+25/08/2022,2,0.8775,eodhd.com
+29/08/2022,2,0.871,eodhd.com
+30/08/2022,5,0.998,eodhd.com
+31/08/2022,3,0.986,eodhd.com
+01/09/2022,1,0.997,eodhd.com
+02/09/2022,1,0.999,eodhd.com
+03/09/2022,1,0.999,eodhd.com
+05/09/2022,1,0.296,eodhd.com
+06/09/2022,1,0.976,eodhd.com
+07/09/2022,2,0.833,eodhd.com
+08/09/2022,2,0.847,eodhd.com
+09/09/2022,2,0.499,eodhd.com
+12/09/2022,1,0.99,eodhd.com
+13/09/2022,6,0.6587,eodhd.com
+14/09/2022,8,0.5466,eodhd.com
+15/09/2022,3,0.9987,eodhd.com
+16/09/2022,2,0.8875,eodhd.com
+19/09/2022,2,0.9925,eodhd.com
+20/09/2022,2,0.523,eodhd.com
+21/09/2022,3,0.9983,eodhd.com
+22/09/2022,3,0.6647,eodhd.com
+23/09/2022,5,0.9992,eodhd.com
+24/09/2022,3,0.4023,eodhd.com
+26/09/2022,3,0.9927,eodhd.com
+27/09/2022,5,0.9,eodhd.com
+28/09/2022,2,0.999,eodhd.com
+29/09/2022,4,0.601,eodhd.com
+30/09/2022,5,0.6514,eodhd.com
+01/10/2022,1,0.995,eodhd.com
+03/10/2022,5,0.6756,eodhd.com
+04/10/2022,3,0.6663,eodhd.com
+05/10/2022,4,0.2715,eodhd.com
+06/10/2022,11,0.8401,eodhd.com
+07/10/2022,4,0.7498,eodhd.com
+09/10/2022,3,0.4507,eodhd.com
+10/10/2022,3,0.0223,eodhd.com
+11/10/2022,3,0.99,eodhd.com
+12/10/2022,2,0.499,eodhd.com
+13/10/2022,2,0.995,eodhd.com
+14/10/2022,5,0.7042,eodhd.com
+15/10/2022,1,0,eodhd.com
+16/10/2022,2,0.72,eodhd.com
+17/10/2022,7,0.9976,eodhd.com
+18/10/2022,11,0.9881,eodhd.com
+19/10/2022,22,0.4432,eodhd.com
+20/10/2022,30,0.4472,eodhd.com
+21/10/2022,4,0.4643,eodhd.com
+22/10/2022,1,0.296,eodhd.com
+23/10/2022,1,0.987,eodhd.com
+24/10/2022,5,0.8834,eodhd.com
+25/10/2022,9,0.7923,eodhd.com
+26/10/2022,3,0.6663,eodhd.com
+27/10/2022,2,0.615,eodhd.com
+28/10/2022,4,0.746,eodhd.com
+30/10/2022,2,0.6275,eodhd.com
+31/10/2022,2,0.992,eodhd.com
+01/11/2022,3,0.8953,eodhd.com
+02/11/2022,2,0.208,eodhd.com
+03/11/2022,2,0.812,eodhd.com
+04/11/2022,3,0.8493,eodhd.com
+05/11/2022,3,0.7723,eodhd.com
+07/11/2022,3,0.989,eodhd.com
+08/11/2022,3,0.9997,eodhd.com
+09/11/2022,11,0.805,eodhd.com
+10/11/2022,5,0.9634,eodhd.com
+11/11/2022,4,0.639,eodhd.com
+13/11/2022,1,0.994,eodhd.com
+14/11/2022,4,0.9998,eodhd.com
+15/11/2022,4,0.524,eodhd.com
+16/11/2022,3,0.9097,eodhd.com
+17/11/2022,3,0.9507,eodhd.com
+18/11/2022,6,0.8882,eodhd.com
+19/11/2022,2,0.9995,eodhd.com
+21/11/2022,2,0.999,eodhd.com
+22/11/2022,3,0.9987,eodhd.com
+23/11/2022,3,0.9993,eodhd.com
+24/11/2022,2,0.7465,eodhd.com
+25/11/2022,2,0.676,eodhd.com
+26/11/2022,2,0.497,eodhd.com
+28/11/2022,1,0.996,eodhd.com
+29/11/2022,2,0.995,eodhd.com
+30/11/2022,7,0.7559,eodhd.com
+02/12/2022,6,0.7852,eodhd.com
+04/12/2022,1,0.994,eodhd.com
+05/12/2022,5,0.6884,eodhd.com
+06/12/2022,2,0.999,eodhd.com
+07/12/2022,6,0.8318,eodhd.com
+08/12/2022,4,0.904,eodhd.com
+09/12/2022,5,0.9982,eodhd.com
+11/12/2022,1,0.052,eodhd.com
+12/12/2022,7,0.9534,eodhd.com
+13/12/2022,12,0.9319,eodhd.com
+14/12/2022,4,0.8588,eodhd.com
+15/12/2022,7,0.7774,eodhd.com
+16/12/2022,5,0.9948,eodhd.com
+19/12/2022,2,0.9915,eodhd.com
+20/12/2022,2,0.8295,eodhd.com
+21/12/2022,4,0.962,eodhd.com
+23/12/2022,4,0.623,eodhd.com
+24/12/2022,2,1,eodhd.com
+25/12/2022,1,0.998,eodhd.com
+27/12/2022,3,0.9677,eodhd.com
+28/12/2022,8,0.8455,eodhd.com
+29/12/2022,3,0.7247,eodhd.com
+30/12/2022,3,0.333,eodhd.com
+31/12/2022,3,0.7643,eodhd.com
+01/01/2023,1,0.995,eodhd.com
+02/01/2023,1,0.999,eodhd.com
+03/01/2023,3,0.9947,eodhd.com
+04/01/2023,3,0.4243,eodhd.com
+05/01/2023,3,0.9987,eodhd.com
+06/01/2023,3,0.996,eodhd.com
+09/01/2023,2,0.9165,eodhd.com
+10/01/2023,8,0.6849,eodhd.com
+11/01/2023,1,0.718,eodhd.com
+13/01/2023,3,0.627,eodhd.com
+14/01/2023,1,0.999,eodhd.com
+16/01/2023,3,0.476,eodhd.com
+17/01/2023,8,0.7281,eodhd.com
+18/01/2023,9,0.8362,eodhd.com
+19/01/2023,8,0.6915,eodhd.com
+20/01/2023,4,0.686,eodhd.com
+21/01/2023,1,0.999,eodhd.com
+22/01/2023,2,0.02,eodhd.com
+23/01/2023,2,0.9825,eodhd.com
+24/01/2023,10,0.7862,eodhd.com
+25/01/2023,18,0.3191,eodhd.com
+26/01/2023,23,0.3721,eodhd.com
+27/01/2023,3,0.7893,eodhd.com
+28/01/2023,1,0.823,eodhd.com
+29/01/2023,2,0.803,eodhd.com
+30/01/2023,10,0.5937,eodhd.com
+31/01/2023,1,1,eodhd.com
+01/02/2023,7,0.3236,eodhd.com
+02/02/2023,2,0.142,eodhd.com
+03/02/2023,4,0.966,eodhd.com
+04/02/2023,2,0.654,eodhd.com
+05/02/2023,1,-0.948,eodhd.com
+06/02/2023,2,0.5875,eodhd.com
+07/02/2023,9,0.494,eodhd.com
+08/02/2023,3,0.7327,eodhd.com
+09/02/2023,3,0.7663,eodhd.com
+10/02/2023,2,0.876,eodhd.com
+11/02/2023,1,1,eodhd.com
+12/02/2023,1,0.999,eodhd.com
+13/02/2023,5,0.5116,eodhd.com
+14/02/2023,3,0.9983,eodhd.com
+15/02/2023,2,0.999,eodhd.com
+16/02/2023,3,0.976,eodhd.com
+17/02/2023,3,0.9977,eodhd.com
+18/02/2023,1,0.993,eodhd.com
+20/02/2023,4,0.048,eodhd.com
+22/02/2023,6,0.489,eodhd.com
+23/02/2023,3,0.9963,eodhd.com
+24/02/2023,4,0.5553,eodhd.com
+25/02/2023,1,0.996,eodhd.com
+27/02/2023,2,0.098,eodhd.com
+28/02/2023,3,0.991,eodhd.com
+01/03/2023,4,0.9975,eodhd.com
+02/03/2023,7,0.8739,eodhd.com
+03/03/2023,4,0.8633,eodhd.com
+04/03/2023,1,0.879,eodhd.com
+05/03/2023,1,0.993,eodhd.com
+06/03/2023,3,0.359,eodhd.com
+07/03/2023,4,0.1045,eodhd.com
+08/03/2023,5,0.7994,eodhd.com
+09/03/2023,1,0.999,eodhd.com
+10/03/2023,5,0.562,eodhd.com
+12/03/2023,2,0.9985,eodhd.com
+13/03/2023,6,0.9957,eodhd.com
+14/03/2023,4,0.998,eodhd.com
+16/03/2023,1,0.999,eodhd.com
+20/03/2023,3,0.993,eodhd.com
+21/03/2023,1,0.999,eodhd.com
+22/03/2023,2,0.4955,eodhd.com
+23/03/2023,4,0.9815,eodhd.com
+24/03/2023,2,0.9445,eodhd.com
+25/03/2023,1,-0.164,eodhd.com
+26/03/2023,3,0.9997,eodhd.com
+27/03/2023,3,0.6657,eodhd.com
+28/03/2023,3,0.974,eodhd.com
+29/03/2023,3,0.9997,eodhd.com
+30/03/2023,5,0.6114,eodhd.com
+31/03/2023,1,0.994,eodhd.com
+03/04/2023,1,0.999,eodhd.com
+04/04/2023,2,0.999,eodhd.com
+05/04/2023,1,0.997,eodhd.com
+10/04/2023,1,1,eodhd.com
+11/04/2023,1,0.995,eodhd.com
+12/04/2023,8,0.6505,eodhd.com
+13/04/2023,8,0.6858,eodhd.com
+14/04/2023,1,0.999,eodhd.com
+15/04/2023,2,0.078,eodhd.com
+16/04/2023,2,0.8855,eodhd.com
+17/04/2023,2,0.7375,eodhd.com
+18/04/2023,6,0.6767,eodhd.com
+19/04/2023,27,0.6456,eodhd.com
+20/04/2023,25,0.09,eodhd.com
+21/04/2023,3,0.9803,eodhd.com
+23/04/2023,4,0.4895,eodhd.com
+24/04/2023,9,0.9829,eodhd.com
+25/04/2023,6,0.9107,eodhd.com
+26/04/2023,3,0.8703,eodhd.com
+27/04/2023,3,0.873,eodhd.com
+28/04/2023,1,1,eodhd.com
+01/05/2023,5,0.1728,eodhd.com
+02/05/2023,10,0.2478,eodhd.com
+03/05/2023,2,0.4735,eodhd.com
+04/05/2023,1,0.998,eodhd.com
+06/05/2023,1,0.954,eodhd.com
+07/05/2023,1,0.959,eodhd.com
+08/05/2023,2,0.9975,eodhd.com
+09/05/2023,12,0.7098,eodhd.com
+10/05/2023,6,0.7495,eodhd.com
+11/05/2023,2,0.9995,eodhd.com
+12/05/2023,5,0.6954,eodhd.com
+13/05/2023,1,0.99,eodhd.com
+15/05/2023,3,0.99,eodhd.com
+17/05/2023,5,0.6222,eodhd.com
+18/05/2023,1,0.994,eodhd.com
+19/05/2023,4,0.8795,eodhd.com
+20/05/2023,1,0.999,eodhd.com
+21/05/2023,2,0.998,eodhd.com
+22/05/2023,2,0.994,eodhd.com
+23/05/2023,2,0.996,eodhd.com
+24/05/2023,1,1,eodhd.com
+25/05/2023,1,0.758,eodhd.com
+27/05/2023,1,1,eodhd.com
+28/05/2023,3,0.995,eodhd.com
+29/05/2023,2,0.9995,eodhd.com
+31/05/2023,2,0.7985,eodhd.com
+01/06/2023,1,1,eodhd.com
+02/06/2023,1,1,eodhd.com
+03/06/2023,1,1,eodhd.com
+04/06/2023,1,0.999,eodhd.com
+05/06/2023,4,0.9975,eodhd.com
+06/06/2023,1,0.996,eodhd.com
+07/06/2023,2,0.521,eodhd.com
+09/06/2023,3,0.91,eodhd.com
+10/06/2023,1,0.997,eodhd.com
+14/06/2023,5,0.998,eodhd.com
+19/06/2023,3,0.993,eodhd.com
+20/06/2023,2,0.9995,eodhd.com
+21/06/2023,3,0.733,eodhd.com
+24/06/2023,3,-0.2753,eodhd.com
+26/06/2023,19,0.6783,eodhd.com
+27/06/2023,3,0.666,eodhd.com
+28/06/2023,3,0.4807,eodhd.com
+29/06/2023,5,0.9004,eodhd.com
+30/06/2023,5,0.96,eodhd.com
+02/07/2023,1,1,eodhd.com
+03/07/2023,5,0.9966,eodhd.com
+04/07/2023,2,0.995,eodhd.com
+05/07/2023,6,0.8697,eodhd.com
+08/07/2023,1,1,eodhd.com
+09/07/2023,2,0.9855,eodhd.com
+10/07/2023,1,1,eodhd.com
+12/07/2023,4,0.8423,eodhd.com
+13/07/2023,4,0.9883,eodhd.com
+14/07/2023,3,0.999,eodhd.com
+16/07/2023,1,0.402,eodhd.com
+17/07/2023,1,0.992,eodhd.com
+18/07/2023,5,0.6406,eodhd.com
+19/07/2023,12,0.6733,eodhd.com
+20/07/2023,14,0.5489,eodhd.com
+21/07/2023,2,0.9945,eodhd.com
+22/07/2023,2,0.352,eodhd.com
+24/07/2023,6,0.7605,eodhd.com
+25/07/2023,1,0.999,eodhd.com
+26/07/2023,2,0.9995,eodhd.com
+27/07/2023,3,0.999,eodhd.com
+28/07/2023,3,0.696,eodhd.com
+29/07/2023,2,0.9995,eodhd.com
+30/07/2023,2,0.9995,eodhd.com
+31/07/2023,6,0.8263,eodhd.com
+01/08/2023,2,0.8905,eodhd.com
+02/08/2023,6,0.9972,eodhd.com
+03/08/2023,3,0.9867,eodhd.com
+07/08/2023,8,0.7308,eodhd.com
+09/08/2023,2,0.9985,eodhd.com
+10/08/2023,3,0.9993,eodhd.com
+11/08/2023,7,0.821,eodhd.com
+14/08/2023,2,0.999,eodhd.com
+15/08/2023,4,0.859,eodhd.com
+17/08/2023,1,1,eodhd.com
+18/08/2023,2,0.717,eodhd.com
+20/08/2023,1,0.999,eodhd.com
+21/08/2023,4,0.9523,eodhd.com
+22/08/2023,3,0.6657,eodhd.com
+23/08/2023,8,0.9314,eodhd.com
+24/08/2023,2,0.9965,eodhd.com
+25/08/2023,1,0.977,eodhd.com
+26/08/2023,1,0.677,eodhd.com
+28/08/2023,11,0.7867,eodhd.com
+29/08/2023,4,0.9983,eodhd.com
+30/08/2023,2,0.9985,eodhd.com
+31/08/2023,5,0.8338,eodhd.com
+03/09/2023,2,0.3335,eodhd.com
+05/09/2023,2,0.995,eodhd.com
+06/09/2023,7,0.8121,eodhd.com
+07/09/2023,1,0.998,eodhd.com
+11/09/2023,1,1,eodhd.com
+12/09/2023,6,0.766,eodhd.com
+13/09/2023,11,0.9237,eodhd.com
+14/09/2023,4,0.9983,eodhd.com
+15/09/2023,1,0.999,eodhd.com
+17/09/2023,2,0.9845,eodhd.com
+18/09/2023,4,0.938,eodhd.com
+20/09/2023,13,0.6484,eodhd.com
+21/09/2023,2,0.8295,eodhd.com
+22/09/2023,6,0.7427,eodhd.com
+24/09/2023,1,1,eodhd.com
+25/09/2023,6,0.7762,eodhd.com
+26/09/2023,4,0.926,eodhd.com
+27/09/2023,1,0.649,eodhd.com
+28/09/2023,10,0.7491,eodhd.com
+30/09/2023,4,0.7353,eodhd.com
+02/10/2023,1,0.992,eodhd.com
+04/10/2023,1,1,eodhd.com
+05/10/2023,6,0.484,eodhd.com
+06/10/2023,4,0.999,eodhd.com
+09/10/2023,2,0.6125,eodhd.com
+10/10/2023,3,0.9983,eodhd.com
+16/10/2023,2,0.9995,eodhd.com
+17/10/2023,1,1,eodhd.com
+18/10/2023,2,0.001,eodhd.com
+19/10/2023,1,0.994,eodhd.com
+20/10/2023,1,0.999,eodhd.com
+22/10/2023,3,0.4597,eodhd.com
+23/10/2023,5,0.9864,eodhd.com
+24/10/2023,6,0.8125,eodhd.com
+25/10/2023,17,0.5685,eodhd.com
+26/10/2023,16,0.4992,eodhd.com
+27/10/2023,8,0.7663,eodhd.com
+30/10/2023,6,0.9938,eodhd.com
+31/10/2023,4,0.85,eodhd.com
+01/11/2023,3,0.4373,eodhd.com
+02/11/2023,7,0.8087,eodhd.com
+03/11/2023,1,0.994,eodhd.com
+04/11/2023,1,0.998,eodhd.com
+06/11/2023,4,0.9945,eodhd.com
+07/11/2023,7,0.7347,eodhd.com
+08/11/2023,9,0.8262,eodhd.com
+09/11/2023,6,0.8255,eodhd.com
+14/11/2023,10,0.8044,eodhd.com
+15/11/2023,5,0.8386,eodhd.com
+16/11/2023,9,0.0106,eodhd.com
+17/11/2023,6,-0.2705,eodhd.com
+18/11/2023,3,0.3317,eodhd.com
+19/11/2023,2,0.9995,eodhd.com
+20/11/2023,1,1,eodhd.com
+21/11/2023,6,0.8435,eodhd.com
+22/11/2023,5,0.8698,eodhd.com
+23/11/2023,1,0.999,eodhd.com
+25/11/2023,2,0.9155,eodhd.com
+26/11/2023,1,0.999,eodhd.com
+27/11/2023,6,0.9397,eodhd.com
+28/11/2023,5,0.9324,eodhd.com
+29/11/2023,2,0.887,eodhd.com
+30/11/2023,10,0.816,eodhd.com
+01/12/2023,1,0.999,eodhd.com
+03/12/2023,3,0.9967,eodhd.com
+04/12/2023,8,0.7578,eodhd.com
+05/12/2023,6,0.6983,eodhd.com
+06/12/2023,7,0.8674,eodhd.com
+07/12/2023,7,0.749,eodhd.com
+08/12/2023,4,0.792,eodhd.com
+09/12/2023,3,0.3757,eodhd.com
+10/12/2023,2,0.999,eodhd.com
+11/12/2023,8,0.8176,eodhd.com
+12/12/2023,5,0.917,eodhd.com
+13/12/2023,4,0.887,eodhd.com
+14/12/2023,6,0.5063,eodhd.com
+15/12/2023,5,0.4524,eodhd.com
+16/12/2023,1,0.997,eodhd.com
+18/12/2023,16,0.7493,eodhd.com
+19/12/2023,8,0.959,eodhd.com
+20/12/2023,9,0.9792,eodhd.com
+21/12/2023,2,0.999,eodhd.com
+23/12/2023,1,0.997,eodhd.com
+24/12/2023,3,0.748,eodhd.com
+26/12/2023,3,0.9963,eodhd.com
+27/12/2023,3,0.96,eodhd.com
+28/12/2023,4,0.7468,eodhd.com
+29/12/2023,2,0.999,eodhd.com
+30/12/2023,3,0.9973,eodhd.com
+31/12/2023,1,0.999,eodhd.com
+01/01/2024,4,0.8113,eodhd.com
+04/01/2024,4,0.7948,eodhd.com
+05/01/2024,4,0.8765,eodhd.com
+07/01/2024,2,0.9985,eodhd.com
+08/01/2024,5,0.9912,eodhd.com
+09/01/2024,6,0.8057,eodhd.com
+10/01/2024,12,0.8923,eodhd.com
+11/01/2024,3,0.7863,eodhd.com
+12/01/2024,2,0.999,eodhd.com
+13/01/2024,2,0.363,eodhd.com
+14/01/2024,2,0.6005,eodhd.com
+15/01/2024,6,0.7707,eodhd.com
+16/01/2024,8,0.7893,eodhd.com
+17/01/2024,10,0.8853,eodhd.com
+18/01/2024,9,0.831,eodhd.com
+19/01/2024,7,0.9844,eodhd.com
+20/01/2024,3,0.998,eodhd.com
+21/01/2024,2,0.9955,eodhd.com
+22/01/2024,3,0.8847,eodhd.com
+23/01/2024,12,0.7935,eodhd.com
+24/01/2024,21,0.7544,eodhd.com
+25/01/2024,33,0.6238,eodhd.com
+26/01/2024,2,0.8635,eodhd.com
+27/01/2024,3,0.7423,eodhd.com
+28/01/2024,4,0.996,eodhd.com
+29/01/2024,8,0.8976,eodhd.com
+30/01/2024,8,0.8891,eodhd.com
+31/01/2024,6,0.6237,eodhd.com
+04/02/2024,1,0.999,eodhd.com
+05/02/2024,2,0.889,eodhd.com
+06/02/2024,9,0.7954,eodhd.com
+07/02/2024,12,0.8517,eodhd.com
+08/02/2024,5,0.9262,eodhd.com
+10/02/2024,2,0.961,eodhd.com
+12/02/2024,4,0.9585,eodhd.com
+13/02/2024,5,0.9412,eodhd.com
+14/02/2024,3,0.9947,eodhd.com
+16/02/2024,6,0.7372,eodhd.com
+17/02/2024,1,0.997,eodhd.com
+18/02/2024,1,0.999,eodhd.com
+19/02/2024,5,0.7532,eodhd.com
+20/02/2024,2,0.9985,eodhd.com
+21/02/2024,6,0.634,eodhd.com
+24/02/2024,3,0.7597,eodhd.com
+25/02/2024,1,0.998,eodhd.com
+26/02/2024,1,0.998,eodhd.com
+27/02/2024,5,0.8136,eodhd.com
+28/02/2024,1,1,eodhd.com
+29/02/2024,9,0.7162,eodhd.com
+03/03/2024,1,1,eodhd.com
+04/03/2024,2,0.999,eodhd.com
+05/03/2024,6,0.3787,eodhd.com
+06/03/2024,1,0.998,eodhd.com
+09/03/2024,2,0.998,eodhd.com
+11/03/2024,4,0.8133,eodhd.com
+12/03/2024,3,0.6667,eodhd.com
+13/03/2024,5,0.6474,eodhd.com
+14/03/2024,4,0.482,eodhd.com
+18/03/2024,3,0.5023,eodhd.com
+19/03/2024,1,1,eodhd.com
+20/03/2024,6,0.6518,eodhd.com
+21/03/2024,3,0.8363,eodhd.com
+22/03/2024,2,0.719,eodhd.com
+24/03/2024,1,1,eodhd.com
+26/03/2024,4,0.7465,eodhd.com
+27/03/2024,2,0.3255,eodhd.com
+28/03/2024,1,1,eodhd.com
+31/03/2024,3,0.9973,eodhd.com
+03/04/2024,1,0.974,eodhd.com
+04/04/2024,5,0.8224,eodhd.com
+05/04/2024,1,0.999,eodhd.com
+07/04/2024,2,0.818,eodhd.com
+08/04/2024,1,0.999,eodhd.com
+13/04/2024,1,0.998,eodhd.com
+15/04/2024,3,0.913,eodhd.com
+16/04/2024,1,1,eodhd.com
+17/04/2024,1,1,eodhd.com
+19/04/2024,1,0.039,eodhd.com
+20/04/2024,2,0.999,eodhd.com
+21/04/2024,1,0.996,eodhd.com
+22/04/2024,5,0.5518,eodhd.com
+23/04/2024,4,0.9868,eodhd.com
+24/04/2024,14,0.6446,eodhd.com
+25/04/2024,6,0.7412,eodhd.com
+26/04/2024,9,0.7811,eodhd.com
+27/04/2024,4,0.9348,eodhd.com
+28/04/2024,2,0.7255,eodhd.com
+29/04/2024,6,0.9642,eodhd.com
+30/04/2024,2,0.982,eodhd.com
+03/05/2024,7,0.3667,eodhd.com
+04/05/2024,1,0.998,eodhd.com
+05/05/2024,3,0.3347,eodhd.com
+06/05/2024,10,0.7247,eodhd.com
+08/05/2024,4,0.987,eodhd.com
+09/05/2024,5,0.8156,eodhd.com
+10/05/2024,4,0.888,eodhd.com
+12/05/2024,2,0.669,eodhd.com
+13/05/2024,4,0.8845,eodhd.com
+14/05/2024,5,0.386,eodhd.com
+15/05/2024,5,0.9712,eodhd.com
+16/05/2024,10,0.7627,eodhd.com
+17/05/2024,3,0.9377,eodhd.com
+18/05/2024,1,0.994,eodhd.com
+19/05/2024,2,0.6995,eodhd.com
+20/05/2024,6,0.7053,eodhd.com
+21/05/2024,10,0.8933,eodhd.com
+22/05/2024,5,0.9462,eodhd.com
+23/05/2024,4,0.747,eodhd.com
+26/05/2024,1,0.998,eodhd.com
+29/05/2024,6,0.9893,eodhd.com
+03/06/2024,5,0.9222,eodhd.com
+04/06/2024,4,0.9608,eodhd.com
+05/06/2024,8,0.7395,eodhd.com
+07/06/2024,1,0.671,eodhd.com
+10/06/2024,6,0.6613,eodhd.com
+11/06/2024,10,0.9167,eodhd.com
+13/06/2024,11,0.8815,eodhd.com
+15/06/2024,1,0.996,eodhd.com
+17/06/2024,6,0.9945,eodhd.com
+18/06/2024,8,0.4601,eodhd.com
+19/06/2024,4,0.9933,eodhd.com
+24/06/2024,5,0.6672,eodhd.com
+26/06/2024,6,0.8093,eodhd.com
+27/06/2024,1,0.999,eodhd.com
+29/06/2024,2,0.6745,eodhd.com
+01/07/2024,8,0.8401,eodhd.com
+02/07/2024,4,0.9553,eodhd.com
+03/07/2024,5,0.6886,eodhd.com
+04/07/2024,3,0.8223,eodhd.com
+05/07/2024,3,0.957,eodhd.com
+08/07/2024,3,0.9967,eodhd.com
+09/07/2024,1,0.999,eodhd.com
+10/07/2024,2,0.996,eodhd.com
+11/07/2024,1,0.991,eodhd.com
+12/07/2024,5,0.9726,eodhd.com
+15/07/2024,3,0.922,eodhd.com
+16/07/2024,1,0.999,eodhd.com
+17/07/2024,1,0.996,eodhd.com
+18/07/2024,6,0.693,eodhd.com
+19/07/2024,2,0.595,eodhd.com
+20/07/2024,2,0.1365,eodhd.com
+22/07/2024,4,0.9923,eodhd.com
+23/07/2024,3,0.9943,eodhd.com
+24/07/2024,20,0.5754,eodhd.com
+25/07/2024,12,0.4683,eodhd.com
+26/07/2024,8,0.9064,eodhd.com
+27/07/2024,1,0.999,eodhd.com
+29/07/2024,8,0.868,eodhd.com
+30/07/2024,8,0.8903,eodhd.com
+31/07/2024,6,0.9292,eodhd.com
+01/08/2024,4,0.6043,eodhd.com
+02/08/2024,1,0.677,eodhd.com
+05/08/2024,4,0.912,eodhd.com
+06/08/2024,2,0.077,eodhd.com
+07/08/2024,4,0.6818,eodhd.com
+09/08/2024,2,0.998,eodhd.com
+11/08/2024,2,0.635,eodhd.com
+12/08/2024,7,0.8039,eodhd.com
+14/08/2024,1,0.992,eodhd.com
+15/08/2024,8,0.916,eodhd.com
+17/08/2024,2,0.9985,eodhd.com
+20/08/2024,1,0.993,eodhd.com
+21/08/2024,2,0.261,eodhd.com
+26/08/2024,7,0.6866,eodhd.com
+27/08/2024,2,0.998,eodhd.com
+28/08/2024,3,0.9963,eodhd.com
+30/08/2024,2,0.956,eodhd.com
+01/09/2024,2,0.981,eodhd.com
+04/09/2024,1,0.983,eodhd.com
+06/09/2024,1,1,eodhd.com
+07/09/2024,1,0.998,eodhd.com
+09/09/2024,2,0.998,eodhd.com
+10/09/2024,2,0.9975,eodhd.com
+11/09/2024,5,0.6836,eodhd.com
+12/09/2024,1,0.999,eodhd.com
+15/09/2024,1,1,eodhd.com
+17/09/2024,1,0.999,eodhd.com
+18/09/2024,2,0.999,eodhd.com
+19/09/2024,1,1,eodhd.com
+21/09/2024,1,0.997,eodhd.com
+22/09/2024,1,1,eodhd.com
+23/09/2024,1,0.997,eodhd.com
+24/09/2024,1,0.997,eodhd.com
+25/09/2024,2,0.998,eodhd.com
+26/09/2024,2,0.9865,eodhd.com
+28/09/2024,1,0.998,eodhd.com
+30/09/2024,1,0.998,eodhd.com
+01/10/2024,4,0.844,eodhd.com
+02/10/2024,1,0.994,eodhd.com
+04/10/2024,1,0.994,eodhd.com
+09/10/2024,2,0.9955,eodhd.com
+10/10/2024,1,0.989,eodhd.com
+15/10/2024,3,0.9983,eodhd.com
+16/10/2024,5,0.7962,eodhd.com
+17/10/2024,1,0.932,eodhd.com
+19/10/2024,1,0.997,eodhd.com
+20/10/2024,3,0.9977,eodhd.com
+21/10/2024,7,0.9516,eodhd.com
+30/10/2024,1,0,eodhd.com
+14/11/2024,1,0.996,eodhd.com
+19/11/2024,2,0.995,eodhd.com
+22/11/2024,1,0.99,eodhd.com
+16/12/2024,1,0.671,eodhd.com
+29/12/2024,1,0.995,eodhd.com
+02/01/2025,3,0.491,eodhd.com
+07/01/2025,2,0.992,eodhd.com
+09/01/2025,3,0.5423,eodhd.com
+11/01/2025,1,0.995,eodhd.com
+12/01/2025,1,0.998,eodhd.com
+13/01/2025,1,0.999,eodhd.com
+14/01/2025,1,0.986,eodhd.com
+15/01/2025,4,0.797,eodhd.com
+16/01/2025,2,0.9985,eodhd.com
+17/01/2025,1,0.998,eodhd.com
+18/01/2025,1,0.996,eodhd.com
+20/01/2025,2,0.997,eodhd.com
+21/01/2025,2,0.9965,eodhd.com
+22/01/2025,1,0.999,eodhd.com
+23/01/2025,1,0.999,eodhd.com
+24/01/2025,Elon Musk’s Biographer Calls Him a ‘Sociopath’ After Auschwitz Photo-Op,0,News API
+24/01/2025,"Transizione verso l'intelligenza artificiale, la chiave è la formazione",0,News API
+24/01/2025,"Snowdrop OS – a homebrew operating system from scratch, in assembly language",0,News API
 24/01/2025,5 Free Courses To Learn High-Paying AI Skills In 2025,0.4,News API
-25/01/2025,Cursos de Excel: 27 cursos online gratis para iniciarse en la aplicación ofimática,0.0,News API
-25/01/2025,"Google's seventh store is coming up in Austin, Texas",0.0,News API
-25/01/2025,"""Tenía hasta mi propio masajista"": quién es Rony Sebok, la ingeniera que trabajó con Steve Jobs nada más salir de la universidad",0.0,News API
-26/01/2025,La computación reversible promete algo que parece imposible: chips que recuperan energía al funcionar,0.0,News API
-26/01/2025,Business Tech News: Zuckerberg Says AI Will Replace Mid-Level Engineers Soon,0.0,News API
+24/01/2025,2,0.994,eodhd.com
+25/01/2025,Cursos de Excel: 27 cursos online gratis para iniciarse en la aplicación ofimática,0,News API
+25/01/2025,"Google's seventh store is coming up in Austin, Texas",0,News API
+25/01/2025,"""Tenía hasta mi propio masajista"": quién es Rony Sebok, la ingeniera que trabajó con Steve Jobs nada más salir de la universidad",0,News API
+26/01/2025,La computación reversible promete algo que parece imposible: chips que recuperan energía al funcionar,0,News API
+26/01/2025,Business Tech News: Zuckerberg Says AI Will Replace Mid-Level Engineers Soon,0,News API
+26/01/2025,1,1,eodhd.com
 27/01/2025,"The FTC Take Action, Is Time Finally Up For John Deere On Right To Repair?",0.1286,News API
-27/01/2025,Media agency giant Horizon is on the hunt for acquisitions as advertising M&A heats up,0.0,News API
-28/01/2025,ОЦЕНКА ПОТРЕБНОСТЕЙ В GPU ДЛЯ AGI МАСШТАБА МОЗГА,0.0,News API
-28/01/2025,Блокбастеры в нескольких килобайтах: панорамная история демосцены,0.0,News API
-29/01/2025,Only 1 in 10 Oracle Java users want to stay with Big Red,0.0,News API
-29/01/2025,Security updates for Wednesday,0.0,News API
-29/01/2025,"LLVM 20 Feature Development Wraps Up With AMX-AVX512, AMX-FP8, AVX10.2 & AMD GFX950",0.0,News API
+27/01/2025,Media agency giant Horizon is on the hunt for acquisitions as advertising M&A heats up,0,News API
+27/01/2025,1,0.993,eodhd.com
+28/01/2025,ОЦЕНКА ПОТРЕБНОСТЕЙ В GPU ДЛЯ AGI МАСШТАБА МОЗГА,0,News API
+28/01/2025,Блокбастеры в нескольких килобайтах: панорамная история демосцены,0,News API
+28/01/2025,4,0.986,eodhd.com
+29/01/2025,Only 1 in 10 Oracle Java users want to stay with Big Red,0,News API
+29/01/2025,Security updates for Wednesday,0,News API
+29/01/2025,"LLVM 20 Feature Development Wraps Up With AMX-AVX512, AMX-FP8, AVX10.2 & AMD GFX950",0,News API
+29/01/2025,8,0.9076,eodhd.com
 30/01/2025,DeepSeek is a hot topic on earnings calls this quarter,0.25,News API
-30/01/2025,"IBM PalmTop PC 110: легендарный карманный ноутбук, опередивший время",0.0,News API
-30/01/2025,Should You Pick IBM Stock At $250?,0.0,News API
-30/01/2025,"Fragmented cybersecurity is costing businesses billions, and putting them at risk",0.0,News API
+30/01/2025,"IBM PalmTop PC 110: легендарный карманный ноутбук, опередивший время",0,News API
+30/01/2025,Should You Pick IBM Stock At $250?,0,News API
+30/01/2025,"Fragmented cybersecurity is costing businesses billions, and putting them at risk",0,News API
 30/01/2025,"Live Blog: Will DeepSeek Impacted Stocks like NVIDIA (NVDA), Broadcom (AVGO) & Marvell (MRVL) Rebound Today?",0.1364,News API
-30/01/2025,"Tras 41 años en Carrefour y a un año de jubilarse, la despiden. La acusan de dejar una reseña online, negativa, del hipermercado",0.0,News API
-30/01/2025,La Generación Z ha perdido interés en trabajar en las grandes tech. Y no es raro: muchas ya no se ajustan a sus valores,0.0,News API
-31/01/2025,AI-driven battery brain promises to jumpstart European EVs,0.0,News API
-31/01/2025,Xerox Alto Source Code (2014),0.0,News API
-31/01/2025,Ciberseguridad del mañana: Telefónica e IBM unen fuerzas ante al reto cuántico,0.0,News API
-31/01/2025,Dieser Quantencomputer passt in vier Serverschränke – und arbeitet mit Photonen,0.0,News API
-31/01/2025,"Apple est toujours l’entreprise la plus “admirée”, pour la 18e année de suite",0.0,News API
-31/01/2025,Почти половина бизнеса IBM теперь приходится на ПО — компания делает ставку на ИИ и open source,0.0,News API
-31/01/2025,"[Перевод] Всё, что я узнал о запуске локальных языковых моделей",0.0,News API
+30/01/2025,"Tras 41 años en Carrefour y a un año de jubilarse, la despiden. La acusan de dejar una reseña online, negativa, del hipermercado",0,News API
+30/01/2025,La Generación Z ha perdido interés en trabajar en las grandes tech. Y no es raro: muchas ya no se ajustan a sus valores,0,News API
+30/01/2025,"Wall Street Remains Flat, Microsoft Eyes Heaviest Drop Since Late 2022, Gold Sets Fresh Records: What's Driving Markets Thursday? - Apple  ( NASDAQ:AAPL ) ",-0.0083,Alpha Vantage
+30/01/2025,6,0.9077,eodhd.com
+31/01/2025,AI-driven battery brain promises to jumpstart European EVs,0,News API
+31/01/2025,Xerox Alto Source Code (2014),0,News API
+31/01/2025,Ciberseguridad del mañana: Telefónica e IBM unen fuerzas ante al reto cuántico,0,News API
+31/01/2025,Dieser Quantencomputer passt in vier Serverschränke – und arbeitet mit Photonen,0,News API
+31/01/2025,"Apple est toujours l’entreprise la plus “admirée”, pour la 18e année de suite",0,News API
+31/01/2025,Почти половина бизнеса IBM теперь приходится на ПО — компания делает ставку на ИИ и open source,0,News API
+31/01/2025,"[Перевод] Всё, что я узнал о запуске локальных языковых моделей",0,News API
+31/01/2025,IBM Soars to New Highs on Q4 Earnings Beat: ETFs to Tap,0.1364,Alpha Vantage
+31/01/2025,"Stock Market News for Jan 31, 2025",0,Alpha Vantage
+31/01/2025,"Telefonica, IBM Join Forces to Develop Quantum-Safe Security Solutions",0,Alpha Vantage
+31/01/2025,7,0.9306,eodhd.com
 01/02/2025,"The origin and unexpected evolution of the word ""mainframe""",0.1,News API
-02/02/2025,Los mejores colores web accesibles para personas con daltonismo,0.0,News API
+01/02/2025,IBM Could Win Big From DeepSeek's AI Disruption,0.4,Alpha Vantage
+01/02/2025,10,0.9952,eodhd.com
+02/02/2025,Los mejores colores web accesibles para personas con daltonismo,0,News API
+02/02/2025,Has IBM Stock Become a Buy?,0,Alpha Vantage
+02/02/2025,Is IBM Stock a Buy at an All-Time High?,0.16,Alpha Vantage
+02/02/2025,4,0.9185,eodhd.com
 03/02/2025,How the Main Frame Became the Mainframe: an Etymological Dissertation,0.1667,News API
-03/02/2025,A computer can never be held accountable,0.0,News API
+03/02/2025,A computer can never be held accountable,0,News API
 03/02/2025,DeepSeek spills Big AI's open secret: Bright people with good ideas can beat billion dollar binges,0.2,News API
-03/02/2025,This Lenovo ThinkPad laptop with 32GB of RAM is 45% off,0.0,News API
-03/02/2025,Keebin’ with Kristina: the One with the Keyboard Configurator,0.0,News API
-03/02/2025,What was the size of the first-generation floppy disk?,0.0,News API
-04/02/2025,Red Hat Plans to Add AI to Fedora and GNOME,0.0,News API
-04/02/2025,IBM Gives Long-Term Sales Growth Outlook That Tops Expectations,0.0,News API
+03/02/2025,This Lenovo ThinkPad laptop with 32GB of RAM is 45% off,0,News API
+03/02/2025,Keebin’ with Kristina: the One with the Keyboard Configurator,0,News API
+03/02/2025,What was the size of the first-generation floppy disk?,0,News API
+03/02/2025,Dow Logs Best January Since 2019: 5 Best Stocks in the ETF,1,Alpha Vantage
+03/02/2025,"Accenture Stock: Buy, Sell, or Hold?",0,Alpha Vantage
+03/02/2025,7,0.993,eodhd.com
+04/02/2025,Red Hat Plans to Add AI to Fedora and GNOME,0,News API
+04/02/2025,IBM Gives Long-Term Sales Growth Outlook That Tops Expectations,0,News API
 04/02/2025,Microsoft Is Dead (2007),-0.2,News API
-04/02/2025,"Carreras Grupo Logístico, IBM y SEIDOR impulsan la transformación digital con IA",0.0,News API
-04/02/2025,Guardó 7.000 ordenadores de Apple para revenderlos mejorados: Steve Jobs prefirió recuperarlos y enterrarlos en un vertedero,0.0,News API
-04/02/2025,Почему ваше портфолио UX/UI-дизайнера не работает: 7 критических ошибок и как их исправить,0.0,News API
-04/02/2025,NHKが特別損失30億円計上　システム開発中止原因、IBMを提訴,0.0,News API
-05/02/2025,"International Business Machines Corporation (IBM) Reaffirmed with Buy Rating by Bank of America, Set Target at $270 Following Investor Day",0.0,News API
-05/02/2025,El cobre ha reinado en la industria de los chips durante décadas. Ya tiene un sustituto imbatible: el rutenio,0.0,News API
-05/02/2025,I'm Done with Ubuntu,0.0,News API
-06/02/2025,IBM’s Arvind Krishna Is Betting on Specialized AI,0.0,News API
-06/02/2025,TIME Reveals the 2025 TIME100 AI Impact Award Recipients Recognized Moving their Industries –and the World– Forward,0.0,News API
-06/02/2025,Intel нашла куда пристроить свои квантовые процессоры — они появятся в компьютерах «Made in Japan»,0.0,News API
+04/02/2025,"Carreras Grupo Logístico, IBM y SEIDOR impulsan la transformación digital con IA",0,News API
+04/02/2025,Guardó 7.000 ordenadores de Apple para revenderlos mejorados: Steve Jobs prefirió recuperarlos y enterrarlos en un vertedero,0,News API
+04/02/2025,Почему ваше портфолио UX/UI-дизайнера не работает: 7 критических ошибок и как их исправить,0,News API
+04/02/2025,NHKが特別損失30億円計上　システム開発中止原因、IBMを提訴,0,News API
+04/02/2025,These Were the 5 Top-Performing Stocks in the Dow Jones Industrial Average in January 2025,-0.15,Alpha Vantage
+04/02/2025,5,0.8756,eodhd.com
+05/02/2025,"International Business Machines Corporation (IBM) Reaffirmed with Buy Rating by Bank of America, Set Target at $270 Following Investor Day",0,News API
+05/02/2025,El cobre ha reinado en la industria de los chips durante décadas. Ya tiene un sustituto imbatible: el rutenio,0,News API
+05/02/2025,I'm Done with Ubuntu,0,News API
+05/02/2025,"IBM Story Is Underappreciated, Goldman Sachs Says Stock Can Re-Rate Higher - IBM  ( NYSE:IBM ) ",0.25,Alpha Vantage
+05/02/2025,Is IBM Stock a Portfolio Must-Have Post Solid Q4 Earnings?,0,Alpha Vantage
+05/02/2025,Is It Too Late to Buy Palantir Stock Post Blockbuster Quarter?,-0.3,Alpha Vantage
+05/02/2025,"Live Streaming Market To Grow By USD 20.64 Billion From 2025-2029, Rising Smartphone Penetration And Internet Access Boosting Growth, Report On AI-Powered Market Evolution - Technavio",0.1364,Alpha Vantage
+05/02/2025,7,0.7207,eodhd.com
+06/02/2025,IBM’s Arvind Krishna Is Betting on Specialized AI,0,News API
+06/02/2025,TIME Reveals the 2025 TIME100 AI Impact Award Recipients Recognized Moving their Industries –and the World– Forward,0,News API
+06/02/2025,Intel нашла куда пристроить свои квантовые процессоры — они появятся в компьютерах «Made in Japan»,0,News API
+06/02/2025,Kratos Defense and GSK have been highlighted as Zacks Bull and Bear of the Day,0,Alpha Vantage
+06/02/2025,1,0.998,eodhd.com
 07/02/2025,Elektronische Patientenakte: Fast alle gesetzlich Versicherten haben eine,0.2,News API
-07/02/2025,"Meet Eagles' star quarterback Jalen Hurts and his family, including his college sweetheart",0.0,News API
-07/02/2025,В погоне за багами: на кого охотились и как зарабатывали белые хакеры,0.0,News API
+07/02/2025,"Meet Eagles' star quarterback Jalen Hurts and his family, including his college sweetheart",0,News API
+07/02/2025,В погоне за багами: на кого охотились и как зарабатывали белые хакеры,0,News API
 07/02/2025,81 Times Customer Support Chats Were Completely Useless,-0.5,News API
-08/02/2025,比爾蓋茲談 Intel 困境：已迷失方向，重振雄風「非常困難」,0.0,News API
+08/02/2025,比爾蓋茲談 Intel 困境：已迷失方向，重振雄風「非常困難」,0,News API
+08/02/2025,This Top Quantum Computing Stock Nears $1 Billion in Signings,0.5,Alpha Vantage
+08/02/2025,2,0.9925,eodhd.com
 09/02/2025,Missing Link: Super Bowl? Super Werbung!,0.1833,News API
-09/02/2025,"Antes de fundar Microsoft, a Bill Gates y Paul Allen se les ocurrieron otras posibles startups tecnológicas. Aunque acertaron, sus ideas fueron visionarias",0.0,News API
+09/02/2025,"Antes de fundar Microsoft, a Bill Gates y Paul Allen se les ocurrieron otras posibles startups tecnológicas. Aunque acertaron, sus ideas fueron visionarias",0,News API
+09/02/2025,2,0.9975,eodhd.com
 10/02/2025,How far you live from work could determine your RTO,0.1182,News API
+10/02/2025,"Should You Buy, Sell or Hold QBTS Stock at Its P/S of 90.31X?",0,Alpha Vantage
+10/02/2025,Is Invesco Large Cap Value ETF  ( PWV )  a Strong ETF Right Now?,0.3111,Alpha Vantage
+10/02/2025,3,0.9873,eodhd.com
 11/02/2025,Quantum computing startup QuEra closes $230 million funding round,-0.2,News API
-11/02/2025,The Raging Debate: When Will Quantum Arrive?,0.0,News API
-11/02/2025,El futuro de la computación cuántica: ¿Qué tan cerca estamos de la revolución tecnológica?,0.0,News API
-12/02/2025,Apple Resumes Advertising on X,0.0,News API
-12/02/2025,NHK、システム開発中止し赤字分を支払えと提訴 → IBM「幾度も建設的な協議開始を申し入れたのに！」,0.0,News API
+11/02/2025,The Raging Debate: When Will Quantum Arrive?,0,News API
+11/02/2025,El futuro de la computación cuántica: ¿Qué tan cerca estamos de la revolución tecnológica?,0,News API
+11/02/2025,"This IBM Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday - AZZ  ( NYSE:AZZ ) , Gaia  ( NASDAQ:GAIA ) ",0.5,Alpha Vantage
+11/02/2025,IBM watsonx to Support AI Initiative in Saudi Arabia: Stock to Gain?,0,Alpha Vantage
+11/02/2025,3 Stocks to Watch From a Prospering Technology Solutions Industry,0,Alpha Vantage
+11/02/2025,3,0.8767,eodhd.com
+12/02/2025,Apple Resumes Advertising on X,0,News API
+12/02/2025,NHK、システム開発中止し赤字分を支払えと提訴 → IBM「幾度も建設的な協議開始を申し入れたのに！」,0,News API
 12/02/2025,AI program plays the long game to solve decades-old math problems,-0.225,News API
-12/02/2025,Fed Affirms Rate Patience; Trump Eases Jordan Aid Threats | Horizons Middle East & Africa 02/12/2025,0.0,News API
+12/02/2025,Fed Affirms Rate Patience; Trump Eases Jordan Aid Threats | Horizons Middle East & Africa 02/12/2025,0,News API
 12/02/2025,Running hot? Server shipments forecast to cool in 2025,0.3,News API
-13/02/2025,Apple resumes advertising on Elon Musk’s X after 15-month pause,0.0,News API
-13/02/2025,От счетных палочек до ПАКов,0.0,News API
-13/02/2025,IBM under fire as return-to-office order suspected of replacing human staff with AI,0.0,News API
+12/02/2025,'Racism Has No Place in Missouri': State Attorney General Sues Starbucks Over Hiring Policies - Starbucks  ( NASDAQ:SBUX ) ,0.05,Alpha Vantage
+12/02/2025,1,0.997,eodhd.com
+13/02/2025,Apple resumes advertising on Elon Musk’s X after 15-month pause,0,News API
+13/02/2025,От счетных палочек до ПАКов,0,News API
+13/02/2025,IBM under fire as return-to-office order suspected of replacing human staff with AI,0,News API
 13/02/2025,8 groundbreaking laptops that changed the game,-0.4,News API
-14/02/2025,The History of S.U.S..E,0.0,News API
-14/02/2025,Эксперты прогнозируют охлаждение рынка ИИ-серверов в 2025 году,0.0,News API
-14/02/2025,"Apple fait son retour sur X avec de nouvelles publicités, malgré les polémiques",0.0,News API
-15/02/2025,Intel: крупнейший убыток в истории и смена стратегии. Что происходит с корпорацией?,0.0,News API
-15/02/2025,"To avoid being replaced by LLMs, do what they can't",0.0,News API
-17/02/2025,NES86 – IBM PC Emulator for the NES,0.0,News API
+13/02/2025,"Seagate Stock Trades at a Discount: Buy, Sell or Hold?",0,Alpha Vantage
+13/02/2025,3 Tech Stocks Warren Buffett Admits He's Made Mistakes On,0,Alpha Vantage
+13/02/2025,2,0.786,eodhd.com
+14/02/2025,The History of S.U.S..E,0,News API
+14/02/2025,Эксперты прогнозируют охлаждение рынка ИИ-серверов в 2025 году,0,News API
+14/02/2025,"Apple fait son retour sur X avec de nouvelles publicités, malgré les polémiques",0,News API
+14/02/2025,Seagate Inks Deal to Acquire Intevac in $119 Million All-Cash Deal,0,Alpha Vantage
+14/02/2025,1,0.995,eodhd.com
+15/02/2025,Intel: крупнейший убыток в истории и смена стратегии. Что происходит с корпорацией?,0,News API
+15/02/2025,"To avoid being replaced by LLMs, do what they can't",0,News API
+15/02/2025,2,0.982,eodhd.com
+17/02/2025,NES86 – IBM PC Emulator for the NES,0,News API
 17/02/2025,13 Free AI Courses To Learn High-Paying Skills In 2025,0.4,News API
-18/02/2025,【社会/IT】NHKに提訴された日本IBMの反論が生々しい…仕様書に記載ない仕様が満載,0.0,News API
-18/02/2025,EEUU quiere liderar en IA a cualquier precio. Su problema: el 38% de sus expertos se ha formado en China,0.0,News API
-18/02/2025,"Apple wirbt wieder auf X, kauft Hashtags",0.0,News API
-18/02/2025,Design is Deeply Rooted in Care,0.0,News API
+17/02/2025,3,0.991,eodhd.com
+18/02/2025,【社会/IT】NHKに提訴された日本IBMの反論が生々しい…仕様書に記載ない仕様が満載,0,News API
+18/02/2025,EEUU quiere liderar en IA a cualquier precio. Su problema: el 38% de sus expertos se ha formado en China,0,News API
+18/02/2025,"Apple wirbt wieder auf X, kauft Hashtags",0,News API
+18/02/2025,Design is Deeply Rooted in Care,0,News API
+18/02/2025,"AMD Closing Competitive GPU Gap With Nvidia, Gains Market Share From Intel In Client And Server Markets: Analyst - Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+18/02/2025,Is IBM an Undervalued Dividend Stock?,0,Alpha Vantage
+18/02/2025,2,0.9845,eodhd.com
 19/02/2025,Microsoft announces quantum computing breakthrough with new Majorana 1 chip,0.1364,News API
-19/02/2025,The women who made America’s microchips and the children who paid for it,0.0,News API
+19/02/2025,The women who made America’s microchips and the children who paid for it,0,News API
 19/02/2025,Be Careful What You Ask For: Voice Control,-0.1,News API
-19/02/2025,Cómo almacenar datos para que sigan existiendo dentro de un siglo,0.0,News API
+19/02/2025,Cómo almacenar datos para que sigan existiendo dentro de un siglo,0,News API
 19/02/2025,Bare Metal: почему «голое железо» снова в тренде,0.05,News API
-19/02/2025,The Future of Quantum Computing: What Developers Need to Know,0.0,News API
+19/02/2025,The Future of Quantum Computing: What Developers Need to Know,0,News API
+19/02/2025,4 AI Stocks to Watch in the Quantum Computing Revolution,0,Alpha Vantage
+19/02/2025,2 Tech Stocks to Buy Hand Over Fist,0,Alpha Vantage
+19/02/2025,3,0.9943,eodhd.com
 20/02/2025,"Insiders say IBM's broader return-to-office plan hits older, more expensive staff hard",-0.0313,News API
-20/02/2025,Majorana 1: Dieser Quantenchip ist ein großes Versprechen,0.0,News API
-20/02/2025,二十年磨一剑，微软刚发布的巴掌大量子芯片碾压全球超算，马斯克转发力挺,0.0,News API
-20/02/2025,一顆科技巨星的隕落（上）━英特爾的興起,0.0,News API
-20/02/2025,日本IBM、日本企業での採用が進むTBMを解説--「Apptio」導入の広がりが背景に,0.0,News API
-21/02/2025,Una moneda que puede «lanzarse» en un auténtico proceso cuántico para lograr la aleatoriedad perfecta,0.0,News API
-21/02/2025,Lenovo isn't fussed by Trumpian tariffs or finding enough energy to run AI,0.0,News API
-22/02/2025,ArcaOS (OS/2 Warp OEM) 5.1.1 Has Been Released,0.0,News API
-22/02/2025,Scientists Question Microsoft's Quantum Computing Claims,0.0,News API
-23/02/2025,Chipzilla Devours the Desktop,0.0,News API
-24/02/2025,Docling - Pour convertir vos documents sans prise de tête,0.0,News API
-24/02/2025,The DOS 3.3 Sys.com Bug Hunt,0.0,News API
-24/02/2025,AI Reshapes Corporate Workforce as Companies Halt Traditional Hiring,0.0,News API
+20/02/2025,Majorana 1: Dieser Quantenchip ist ein großes Versprechen,0,News API
+20/02/2025,二十年磨一剑，微软刚发布的巴掌大量子芯片碾压全球超算，马斯克转发力挺,0,News API
+20/02/2025,一顆科技巨星的隕落（上）━英特爾的興起,0,News API
+20/02/2025,日本IBM、日本企業での採用が進むTBMを解説--「Apptio」導入の広がりが背景に,0,News API
+20/02/2025,Microsoft's Majorana 1 Shakes Up the Quantum Realm: 3 Stocks to Watch,0.5,Alpha Vantage
+20/02/2025,1,0.841,eodhd.com
+21/02/2025,Una moneda que puede «lanzarse» en un auténtico proceso cuántico para lograr la aleatoriedad perfecta,0,News API
+21/02/2025,Lenovo isn't fussed by Trumpian tariffs or finding enough energy to run AI,0,News API
+22/02/2025,ArcaOS (OS/2 Warp OEM) 5.1.1 Has Been Released,0,News API
+22/02/2025,Scientists Question Microsoft's Quantum Computing Claims,0,News API
+22/02/2025,3,0.9973,eodhd.com
+23/02/2025,Chipzilla Devours the Desktop,0,News API
+24/02/2025,Docling - Pour convertir vos documents sans prise de tête,0,News API
+24/02/2025,The DOS 3.3 Sys.com Bug Hunt,0,News API
+24/02/2025,AI Reshapes Corporate Workforce as Companies Halt Traditional Hiring,0,News API
 24/02/2025,"IBM Consulting workers told management wants to 'more closely align pay, performance'",0.35,News API
-24/02/2025,What Could Merging The IBM And Red Hat Middleware Teams Accomplish?,0.0,News API
-24/02/2025,"Microsoft set to rival Google, IBM with first-of-its-kind quantum chip with topological core architecture",0.0,News API
-25/02/2025,heise+ | Der USB-Stick wird 25 Jahre alt – Erfolg mit Tücken,0.0,News API
-25/02/2025,History of CAD – David Weisberg,0.0,News API
-26/02/2025,"When Hiring, Emphasize Skills over Degrees",0.0,News API
+24/02/2025,What Could Merging The IBM And Red Hat Middleware Teams Accomplish?,0,News API
+24/02/2025,"Microsoft set to rival Google, IBM with first-of-its-kind quantum chip with topological core architecture",0,News API
+24/02/2025,IonQ Stock Before Q4 Earnings Release: To Buy or Not to Buy?,0,Alpha Vantage
+24/02/2025,Is WisdomTree U.S. Multifactor ETF  ( USMF )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+25/02/2025,heise+ | Der USB-Stick wird 25 Jahre alt – Erfolg mit Tücken,0,News API
+25/02/2025,History of CAD – David Weisberg,0,News API
+25/02/2025,Okta Rises 15% YTD: Should You Add the Stock in Your Portfolio?,0,Alpha Vantage
+25/02/2025,Palantir Stock Up 283% in a Year: Is There Still a Buy Opportunity?,0,Alpha Vantage
+25/02/2025,7 Quantum Computing Stocks That Could Supercharge Your Portfolio,0,Alpha Vantage
+25/02/2025,These 3 Dow Jones Stocks Are Crushing It in 2025. Are They Still Buys?,0.4,Alpha Vantage
+26/02/2025,"When Hiring, Emphasize Skills over Degrees",0,News API
 26/02/2025,"IBM Granite 3.2 uses conditional reasoning, time series forecasting and document vision to tackle challenging enterprise use cases",0.5,News API
-26/02/2025,Microsoftが量子コンピューターの飛躍的進化を発表、実用化は数年以内？,0.0,News API
-26/02/2025,"Профиль ЦФТ или я его слепила из того, что было",0.0,News API
-26/02/2025,IBM、Apache Cassandraの開発を主導するDataStaxを買収へ,0.0,News API
+26/02/2025,Microsoftが量子コンピューターの飛躍的進化を発表、実用化は数年以内？,0,News API
+26/02/2025,"Профиль ЦФТ или я его слепила из того, что было",0,News API
+26/02/2025,IBM、Apache Cassandraの開発を主導するDataStaxを買収へ,0,News API
 27/02/2025,ColorWave AirPods Retro is a cute homage to classic Apple computers,0.3333,News API
-27/02/2025,Amazon собрала квантовый компьютер на кошачьих кубитах — его ошибки исправляют «кошки Шрёдингера»,0.0,News API
+27/02/2025,Amazon собрала квантовый компьютер на кошачьих кубитах — его ошибки исправляют «кошки Шрёдингера»,0,News API
 27/02/2025,"IBM releases its Granite 3.2 LLM family, featuring optional reasoning capabilities, a new vision model optimized for document processing, and time series models",0.1364,News API
-27/02/2025,IBM Completes Acquisition of HashiCorp,0.0,News API
-27/02/2025,"Thousands of Exposed GitHub Repositories, Now Private, Can Still Be Accessed Through Copilot",0.0,News API
-27/02/2025,Qualcomm und IBM tun sich für generative KI für Geschäftskunden zusammen,0.0,News API
-27/02/2025,Qualcomm e IBM refuerzan su alianza para impulsar la IA en el sector empresarial,0.0,News API
-27/02/2025,Los mejores cursos para conseguir un trabajo en lenguajes de programación demandados y muy bien pagados en España,0.0,News API
-27/02/2025,高通攜手IBM自邊際至雲端布局企業級生成式AI解決方案,0.0,News API
-27/02/2025,Apple Accused of Misleading Consumers With 'Carbon Neutral' Claims,0.0,News API
-27/02/2025,Intelligenza artificiale: Qualcomm e IBM portano watsonx e i modelli Granite sui processori Qualcomm,0.0,News API
-28/02/2025,"This Weekend Only, Coursera Plus Is 40% Off and Get Must-Have Certifications for Today’s Job Market",0.0,News API
-28/02/2025,Sicherheitsupdate: Angreifer können Middleware IBM TXSeries kompromittieren,0.0,News API
-28/02/2025,"IBM likes Hashicorp, finally puts a $6.4B ring on it",0.0,News API
-28/02/2025,Qualcomm and IBM announce collaboration on enterprise-grade AI,0.0,News API
+27/02/2025,IBM Completes Acquisition of HashiCorp,0,News API
+27/02/2025,"Thousands of Exposed GitHub Repositories, Now Private, Can Still Be Accessed Through Copilot",0,News API
+27/02/2025,Qualcomm und IBM tun sich für generative KI für Geschäftskunden zusammen,0,News API
+27/02/2025,Qualcomm e IBM refuerzan su alianza para impulsar la IA en el sector empresarial,0,News API
+27/02/2025,Los mejores cursos para conseguir un trabajo en lenguajes de programación demandados y muy bien pagados en España,0,News API
+27/02/2025,高通攜手IBM自邊際至雲端布局企業級生成式AI解決方案,0,News API
+27/02/2025,Apple Accused of Misleading Consumers With 'Carbon Neutral' Claims,0,News API
+27/02/2025,Intelligenza artificiale: Qualcomm e IBM portano watsonx e i modelli Granite sui processori Qualcomm,0,News API
+27/02/2025,IonQ to Acquire Geneva-Based ID Quantique: How to Play the Stock,0,Alpha Vantage
+27/02/2025,3 Reasons Why Microsoft Is the New King of Quantum Computing With Majorana 1,0.1364,Alpha Vantage
+27/02/2025,Is iShares MSCI USA Value Factor ETF  ( VLUE )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+28/02/2025,"This Weekend Only, Coursera Plus Is 40% Off and Get Must-Have Certifications for Today’s Job Market",0,News API
+28/02/2025,Sicherheitsupdate: Angreifer können Middleware IBM TXSeries kompromittieren,0,News API
+28/02/2025,"IBM likes Hashicorp, finally puts a $6.4B ring on it",0,News API
+28/02/2025,Qualcomm and IBM announce collaboration on enterprise-grade AI,0,News API
 28/02/2025,"Amazon joins the quantum computing race, announcing new 'Ocelot' chip",0.1364,News API
-28/02/2025,"Apenas hay programadores de COBOL, pero tampoco de estos otros lenguajes tan viejos como bien pagados, según los expertos",0.0,News API
-01/03/2025,Number-Colour-Phoneme Associations: From IBM CGA Colours to Mnemonic Systems,0.0,News API
+28/02/2025,"Apenas hay programadores de COBOL, pero tampoco de estos otros lenguajes tan viejos como bien pagados, según los expertos",0,News API
+28/02/2025,Buy OKTA Stock Before Q4 Earnings? Here's What You Should Know,0,Alpha Vantage
+28/02/2025,IBM Completes the Acquisition of HashiCorp: Will it Benefit the Stock?,0,Alpha Vantage
+01/03/2025,Number-Colour-Phoneme Associations: From IBM CGA Colours to Mnemonic Systems,0,News API
 01/03/2025,"Nvidia: A complete guide to the hardware company behind the AI boom and its chips, financials, and leadership",-0.15,News API
-02/03/2025,Un archivo de tarjetas perforadas para preservar este curioso fragmento de la historia tecnológica,0.0,News API
-02/03/2025,История ERP,0.0,News API
-02/03/2025,IBM、HashiCorpの買収を完了したと発表,0.0,News API
-03/03/2025,Claude 3.7 ha devuelto a la vida un viejo programa de 1997. La pregunta es si la IA podrá traducir viejos proyectos en COBOL o FORTRAN,0.0,News API
-03/03/2025,IBM presenta i modelli Granite 3.2 con capacità di ragionamento,0.0,News API
-03/03/2025,How the collapse of local cloud provider caused biz continuity issues in UK government,0.0,News API
-03/03/2025,"Netscape Navigator празднует 30 лет. История и технологии, которые важны и сегодня",0.0,News API
-03/03/2025,Sicherheitslücke in IBM Storage Virtualize ermöglicht Schadcode-Ausführung,0.0,News API
-03/03/2025,明治安田生命とIBM、システム開発で生成AIを活用--生産性25%向上を確認,0.0,News API
-03/03/2025,Vodafone Trials Quantum-Safe Tech to Protect Smartphone Browsing,0.0,News API
-04/03/2025,Von 2015 bis 2025: Preise bei IBM sind um 50 Prozent gestiegen,0.0,News API
-04/03/2025,Aberdeen restores the 'e's after admitting 'abrdn' rebrand wasn't that clvr,0.0,News API
-04/03/2025,Keebin’ with Kristina: the One with the Schreibmaschine,0.0,News API
-04/03/2025,IBM amplia la famiglia Granite con una nuova AI per le imprese,0.0,News API
+01/03/2025,These 2 Artificial Intelligence Stocks Could Be the Best Buys in the Quantum Computing Revolution,0.2,Alpha Vantage
+02/03/2025,Un archivo de tarjetas perforadas para preservar este curioso fragmento de la historia tecnológica,0,News API
+02/03/2025,История ERP,0,News API
+02/03/2025,IBM、HashiCorpの買収を完了したと発表,0,News API
+03/03/2025,Claude 3.7 ha devuelto a la vida un viejo programa de 1997. La pregunta es si la IA podrá traducir viejos proyectos en COBOL o FORTRAN,0,News API
+03/03/2025,IBM presenta i modelli Granite 3.2 con capacità di ragionamento,0,News API
+03/03/2025,How the collapse of local cloud provider caused biz continuity issues in UK government,0,News API
+03/03/2025,"Netscape Navigator празднует 30 лет. История и технологии, которые важны и сегодня",0,News API
+03/03/2025,Sicherheitslücke in IBM Storage Virtualize ermöglicht Schadcode-Ausführung,0,News API
+03/03/2025,明治安田生命とIBM、システム開発で生成AIを活用--生産性25%向上を確認,0,News API
+03/03/2025,Vodafone Trials Quantum-Safe Tech to Protect Smartphone Browsing,0,News API
+03/03/2025,Should Invesco Large Cap Value ETF  ( PWV )  Be on Your Investing Radar?,0.2143,Alpha Vantage
+03/03/2025,Should Invesco Dow Jones Industrial Average Dividend ETF  ( DJD )  Be on Your Investing Radar?,-0.15,Alpha Vantage
+04/03/2025,Von 2015 bis 2025: Preise bei IBM sind um 50 Prozent gestiegen,0,News API
+04/03/2025,Aberdeen restores the 'e's after admitting 'abrdn' rebrand wasn't that clvr,0,News API
+04/03/2025,Keebin’ with Kristina: the One with the Schreibmaschine,0,News API
+04/03/2025,IBM amplia la famiglia Granite con una nuova AI per le imprese,0,News API
 04/03/2025,"LLVM/Clang 20.1 Released With AMX-AVX512, AMX-FP8, AVX10.2, AMD GFX950 & Much More",0.5,News API
-05/03/2025,Будущее рынка мессенджеров и видеосвязи России. О чём говорят разработчики? Главное с форума В+К-2024,0.0,News API
-05/03/2025,Zwei Sicherheitslücken in IBM Business Automation Workflow geschlossen,0.0,News API
-05/03/2025,IBM、HashiCorpの買収を完了したことを発表,0.0,News API
-05/03/2025,Granite 3.2 : IBM lui aussi rajoute du raisonnement à son IA,0.0,News API
+05/03/2025,Будущее рынка мессенджеров и видеосвязи России. О чём говорят разработчики? Главное с форума В+К-2024,0,News API
+05/03/2025,Zwei Sicherheitslücken in IBM Business Automation Workflow geschlossen,0,News API
+05/03/2025,IBM、HashiCorpの買収を完了したことを発表,0,News API
+05/03/2025,Granite 3.2 : IBM lui aussi rajoute du raisonnement à son IA,0,News API
+05/03/2025,Melinda French Gates got her start at Microsoft because an IBM hiring manager told her to turn down their job offer—‘It dumbfounded me’,-0.0778,News API
+05/03/2025,4 Cloud Computing Stocks to Watch Amid AI Proliferation,0,Alpha Vantage
+05/03/2025,3 Hennessy Mutual Funds to Buy for Balanced Investment Strategies,0,Alpha Vantage
+06/03/2025,Melinda French Gates says she took a job at a 'little company' called Microsoft after her hiring manager at IBM told her to go for it,-0.0938,News API
+06/03/2025,"Von wegen souverän: IBM treibt Preise in die Höhe, Deutsche müssen zahlen",0,News API
+06/03/2025,"«Мы просто обновили рабочий таск-трекер, а команда обновила резюме»",0,News API
+06/03/2025,"Как мы создали интеграционную платформу, которая работает",0,News API
+06/03/2025,"Трамп встретится с главами Intel, Qualcomm, HP и IBM: на кону тарифы, экспорт и судьба «Закона о чипах»",0,News API
+06/03/2025,"AI Chip Leaders Nvidia, AMD, Broadcom Slide Amid Marvell Earnings and US Policy Concerns - Advanced Micro Devices  ( NASDAQ:AMD ) , ARM Holdings  ( NASDAQ:ARM ) ",0.4,Alpha Vantage
+06/03/2025,IBM Extends JNPR Tie-Up for AI-Native Networking: Stock to Gain?,0,Alpha Vantage
+06/03/2025,Should iShares MSCI USA Min Vol Factor ETF  ( USMV )  Be on Your Investing Radar?,0,Alpha Vantage
+06/03/2025,"Rigetti Claims 'Leadership' In Quantum Computing Race, Aims To Scale To 100 Qubits As It Looks To Catch Up With IBM, Google - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",0,Alpha Vantage
+06/03/2025,Mistral releases new optical character recognition (OCR) API claiming top performance globally,0.2121,News API
+07/03/2025,[Перевод] История S.u.S.E. Начало,0,News API
+07/03/2025,Get 40% Off 3 Months of Coursera Plus & Access Unlimited Courses – Offer Ends March 9,0,News API
+07/03/2025,Deloitte and Accenture workers worry about losing their jobs as DOGE focuses on consulting contracts,0,News API
+07/03/2025,Amazon execs trash talk Microsoft's big quantum computing breakthrough,0,News API
+07/03/2025,ＡＩ「人類全体養ってあげるからもう働かなくていいよ」 ← 幸せな世界になるのか？,0,News API

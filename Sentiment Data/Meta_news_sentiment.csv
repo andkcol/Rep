@@ -1,136 +1,1156 @@
 Date,Title,Sentiment,Source
-24/01/2025,A buscar empleo: Mark Zuckerberg ya desarrolla una IA que programa tan bien como un humano,0.0,News API
+01/11/2021,3,0.3333,eodhd.com
+08/11/2021,1,0.971,eodhd.com
+17/11/2021,1,0.991,eodhd.com
+22/11/2021,1,0.989,eodhd.com
+30/11/2021,1,0.817,eodhd.com
+02/12/2021,1,0.996,eodhd.com
+31/12/2021,1,0.989,eodhd.com
+03/01/2022,1,0.361,eodhd.com
+04/01/2022,1,0,eodhd.com
+05/01/2022,2,0.2885,eodhd.com
+06/01/2022,1,0.998,eodhd.com
+14/01/2022,1,0.751,eodhd.com
+19/01/2022,1,0.997,eodhd.com
+21/01/2022,1,0.99,eodhd.com
+24/01/2022,1,0,eodhd.com
+08/06/2022,4,0.2543,eodhd.com
+09/06/2022,15,0.117,eodhd.com
+10/06/2022,18,0.2501,eodhd.com
+11/06/2022,5,0.0442,eodhd.com
+12/06/2022,3,0.771,eodhd.com
+13/06/2022,12,0.2542,eodhd.com
+14/06/2022,15,0.6216,eodhd.com
+15/06/2022,14,0.6623,eodhd.com
+16/06/2022,14,0.6234,eodhd.com
+17/06/2022,17,0.3393,eodhd.com
+18/06/2022,2,0.6195,eodhd.com
+19/06/2022,2,0.9995,eodhd.com
+20/06/2022,6,-0.0917,eodhd.com
+21/06/2022,24,0.5449,eodhd.com
+22/06/2022,17,0.3032,eodhd.com
+23/06/2022,28,0.5425,eodhd.com
+24/06/2022,24,0.5153,eodhd.com
+25/06/2022,3,0.0583,eodhd.com
+26/06/2022,3,0.2173,eodhd.com
+27/06/2022,13,0.695,eodhd.com
+28/06/2022,13,0.3518,eodhd.com
+29/06/2022,17,0.4488,eodhd.com
+30/06/2022,16,0.1968,eodhd.com
+01/07/2022,28,0.011,eodhd.com
+02/07/2022,5,-0.1312,eodhd.com
+03/07/2022,1,-0.985,eodhd.com
+04/07/2022,7,0.5341,eodhd.com
+05/07/2022,25,0.3526,eodhd.com
+06/07/2022,20,0.3544,eodhd.com
+07/07/2022,32,0.4182,eodhd.com
+08/07/2022,12,0.5769,eodhd.com
+09/07/2022,2,0.824,eodhd.com
+10/07/2022,1,-0.422,eodhd.com
+11/07/2022,19,0.1583,eodhd.com
+12/07/2022,11,0.4427,eodhd.com
+13/07/2022,19,0.3093,eodhd.com
+14/07/2022,16,-0.0829,eodhd.com
+15/07/2022,13,0.4355,eodhd.com
+16/07/2022,3,0.4513,eodhd.com
+17/07/2022,3,0.236,eodhd.com
+18/07/2022,14,0.5709,eodhd.com
+19/07/2022,30,0.2928,eodhd.com
+20/07/2022,22,0.3846,eodhd.com
+21/07/2022,25,0.4085,eodhd.com
+22/07/2022,26,0.107,eodhd.com
+23/07/2022,4,0.644,eodhd.com
+24/07/2022,4,0.7778,eodhd.com
+25/07/2022,32,0.3124,eodhd.com
+26/07/2022,25,0.3526,eodhd.com
+27/07/2022,49,0.1738,eodhd.com
+28/07/2022,48,0.2588,eodhd.com
+29/07/2022,30,0.1855,eodhd.com
+30/07/2022,1,-0.318,eodhd.com
+31/07/2022,5,0.404,eodhd.com
+01/08/2022,19,0.3646,eodhd.com
+02/08/2022,18,0.5007,eodhd.com
+03/08/2022,19,0.2279,eodhd.com
+04/08/2022,23,0.2957,eodhd.com
+05/08/2022,20,0.3312,eodhd.com
+06/08/2022,5,0.2748,eodhd.com
+07/08/2022,4,0.6713,eodhd.com
+08/08/2022,12,0.2925,eodhd.com
+09/08/2022,15,0.5129,eodhd.com
+10/08/2022,20,0.3735,eodhd.com
+11/08/2022,14,0.3584,eodhd.com
+12/08/2022,6,0.251,eodhd.com
+13/08/2022,3,0.5033,eodhd.com
+15/08/2022,10,0.2857,eodhd.com
+16/08/2022,9,0.3433,eodhd.com
+17/08/2022,13,-0.0429,eodhd.com
+18/08/2022,6,0.1468,eodhd.com
+19/08/2022,14,0.1736,eodhd.com
+20/08/2022,3,0.659,eodhd.com
+21/08/2022,4,0.595,eodhd.com
+22/08/2022,10,0.5087,eodhd.com
+23/08/2022,16,0.4643,eodhd.com
+24/08/2022,15,0.5745,eodhd.com
+25/08/2022,10,0.5166,eodhd.com
+26/08/2022,14,0.39,eodhd.com
+27/08/2022,4,0.4485,eodhd.com
+28/08/2022,5,0.4856,eodhd.com
+29/08/2022,11,0.5323,eodhd.com
+30/08/2022,11,0.4385,eodhd.com
+31/08/2022,13,0.2914,eodhd.com
+01/09/2022,11,0.4672,eodhd.com
+02/09/2022,17,0.4013,eodhd.com
+03/09/2022,2,-0.328,eodhd.com
+04/09/2022,1,0.965,eodhd.com
+05/09/2022,7,0.3659,eodhd.com
+06/09/2022,17,0.3974,eodhd.com
+07/09/2022,7,0.7623,eodhd.com
+08/09/2022,10,0.543,eodhd.com
+09/09/2022,11,0.5014,eodhd.com
+10/09/2022,1,0.966,eodhd.com
+11/09/2022,1,-0.977,eodhd.com
+12/09/2022,15,0.4765,eodhd.com
+13/09/2022,18,0.2232,eodhd.com
+14/09/2022,25,0.2127,eodhd.com
+15/09/2022,19,0.4158,eodhd.com
+16/09/2022,11,0.0844,eodhd.com
+17/09/2022,7,0.5031,eodhd.com
+18/09/2022,4,0.423,eodhd.com
+19/09/2022,8,0.5538,eodhd.com
+20/09/2022,7,0.7763,eodhd.com
+21/09/2022,14,0.1004,eodhd.com
+22/09/2022,22,0.45,eodhd.com
+23/09/2022,15,0.5267,eodhd.com
+24/09/2022,1,-0.44,eodhd.com
+25/09/2022,3,0.177,eodhd.com
+26/09/2022,7,0.766,eodhd.com
+27/09/2022,18,0.0988,eodhd.com
+28/09/2022,10,0.5139,eodhd.com
+29/09/2022,16,0.0189,eodhd.com
+30/09/2022,11,0.4111,eodhd.com
+01/10/2022,3,0.665,eodhd.com
+02/10/2022,2,-0.3205,eodhd.com
+03/10/2022,16,0.2858,eodhd.com
+04/10/2022,17,0.4346,eodhd.com
+05/10/2022,14,0.4802,eodhd.com
+06/10/2022,8,0.2231,eodhd.com
+07/10/2022,24,0.2504,eodhd.com
+08/10/2022,1,0.999,eodhd.com
+09/10/2022,5,0.5136,eodhd.com
+10/10/2022,11,0.2457,eodhd.com
+11/10/2022,28,0.3193,eodhd.com
+12/10/2022,13,0.4235,eodhd.com
+13/10/2022,16,0.1453,eodhd.com
+14/10/2022,23,0.5177,eodhd.com
+15/10/2022,6,-0.1677,eodhd.com
+16/10/2022,3,0.4663,eodhd.com
+17/10/2022,16,0.7227,eodhd.com
+18/10/2022,17,0.4184,eodhd.com
+19/10/2022,12,0.4608,eodhd.com
+20/10/2022,17,0.3261,eodhd.com
+21/10/2022,19,0.395,eodhd.com
+22/10/2022,7,0.3803,eodhd.com
+23/10/2022,2,0.7525,eodhd.com
+24/10/2022,30,0.3588,eodhd.com
+25/10/2022,30,0.3398,eodhd.com
+26/10/2022,41,0.4024,eodhd.com
+27/10/2022,78,0.3247,eodhd.com
+28/10/2022,40,0.2499,eodhd.com
+29/10/2022,6,0.5082,eodhd.com
+30/10/2022,9,0.207,eodhd.com
+31/10/2022,20,0.6156,eodhd.com
+01/11/2022,17,0.3446,eodhd.com
+02/11/2022,15,0.4681,eodhd.com
+03/11/2022,27,0.273,eodhd.com
+04/11/2022,13,0.4122,eodhd.com
+05/11/2022,2,0.3545,eodhd.com
+06/11/2022,8,-0.0741,eodhd.com
+07/11/2022,34,0.2603,eodhd.com
+08/11/2022,23,0.3378,eodhd.com
+09/11/2022,42,-0.0725,eodhd.com
+10/11/2022,31,0.3771,eodhd.com
+11/11/2022,21,0.3375,eodhd.com
+12/11/2022,4,0.6813,eodhd.com
+13/11/2022,3,0.3403,eodhd.com
+14/11/2022,21,0.3174,eodhd.com
+15/11/2022,19,0.4653,eodhd.com
+16/11/2022,14,0.4838,eodhd.com
+17/11/2022,20,0.2845,eodhd.com
+18/11/2022,17,0.508,eodhd.com
+19/11/2022,6,0.492,eodhd.com
+20/11/2022,2,-0.4865,eodhd.com
+21/11/2022,4,-0.1368,eodhd.com
+22/11/2022,17,0.5296,eodhd.com
+23/11/2022,12,0.5908,eodhd.com
+24/11/2022,5,0.793,eodhd.com
+25/11/2022,9,0.4694,eodhd.com
+26/11/2022,2,0.686,eodhd.com
+27/11/2022,5,0.725,eodhd.com
+28/11/2022,21,0.3573,eodhd.com
+29/11/2022,13,0.448,eodhd.com
+30/11/2022,10,0.5208,eodhd.com
+01/12/2022,18,0.122,eodhd.com
+02/12/2022,10,0.4188,eodhd.com
+03/12/2022,3,0.9947,eodhd.com
+04/12/2022,6,0.1005,eodhd.com
+05/12/2022,12,0.3309,eodhd.com
+06/12/2022,32,0.1539,eodhd.com
+07/12/2022,12,0.6018,eodhd.com
+08/12/2022,18,0.6463,eodhd.com
+09/12/2022,12,0.2729,eodhd.com
+10/12/2022,5,0.597,eodhd.com
+11/12/2022,5,-0.2656,eodhd.com
+12/12/2022,5,0.5708,eodhd.com
+13/12/2022,12,0.6968,eodhd.com
+14/12/2022,18,0.0726,eodhd.com
+15/12/2022,18,0.7193,eodhd.com
+16/12/2022,23,0.3244,eodhd.com
+17/12/2022,9,0.278,eodhd.com
+18/12/2022,5,0.1438,eodhd.com
+19/12/2022,25,-0.068,eodhd.com
+20/12/2022,19,0.4629,eodhd.com
+21/12/2022,12,0.4014,eodhd.com
+22/12/2022,9,0.5011,eodhd.com
+23/12/2022,30,0.5385,eodhd.com
+24/12/2022,2,0.316,eodhd.com
+25/12/2022,3,0.2837,eodhd.com
+26/12/2022,1,0.202,eodhd.com
+27/12/2022,7,0.4474,eodhd.com
+28/12/2022,15,0.3086,eodhd.com
+29/12/2022,9,0.5686,eodhd.com
+30/12/2022,10,0.0517,eodhd.com
+31/12/2022,3,0.6667,eodhd.com
+01/01/2023,5,-0.1256,eodhd.com
+02/01/2023,2,0.993,eodhd.com
+03/01/2023,10,0.4312,eodhd.com
+04/01/2023,16,0.426,eodhd.com
+05/01/2023,15,0.3009,eodhd.com
+06/01/2023,11,0.5573,eodhd.com
+07/01/2023,4,-0.553,eodhd.com
+08/01/2023,5,-0.492,eodhd.com
+09/01/2023,11,0.3235,eodhd.com
+10/01/2023,17,0.5088,eodhd.com
+11/01/2023,15,0.3865,eodhd.com
+12/01/2023,9,0.6729,eodhd.com
+13/01/2023,6,0.5858,eodhd.com
+14/01/2023,2,0.363,eodhd.com
+15/01/2023,4,0.2313,eodhd.com
+16/01/2023,3,-0.1447,eodhd.com
+17/01/2023,8,0.4201,eodhd.com
+18/01/2023,18,0.2408,eodhd.com
+19/01/2023,19,0.3184,eodhd.com
+20/01/2023,13,0.4935,eodhd.com
+21/01/2023,2,0.4715,eodhd.com
+22/01/2023,3,0.0203,eodhd.com
+23/01/2023,14,0.5776,eodhd.com
+24/01/2023,11,0.7632,eodhd.com
+25/01/2023,15,0.2021,eodhd.com
+26/01/2023,22,0.2822,eodhd.com
+27/01/2023,16,0.6327,eodhd.com
+28/01/2023,4,0.5333,eodhd.com
+29/01/2023,6,0.4052,eodhd.com
+30/01/2023,19,0.1251,eodhd.com
+31/01/2023,25,0.5465,eodhd.com
+01/02/2023,53,0.4735,eodhd.com
+02/02/2023,61,0.5684,eodhd.com
+03/02/2023,34,0.313,eodhd.com
+04/02/2023,8,0.4744,eodhd.com
+05/02/2023,4,0.5273,eodhd.com
+06/02/2023,21,0.3042,eodhd.com
+07/02/2023,18,0.4616,eodhd.com
+08/02/2023,17,0.1972,eodhd.com
+09/02/2023,19,0.1928,eodhd.com
+10/02/2023,16,0.3174,eodhd.com
+11/02/2023,8,0.6288,eodhd.com
+12/02/2023,4,0.0368,eodhd.com
+13/02/2023,28,0.3862,eodhd.com
+14/02/2023,16,0.6062,eodhd.com
+15/02/2023,10,0.3189,eodhd.com
+16/02/2023,11,0.4126,eodhd.com
+17/02/2023,26,0.4342,eodhd.com
+18/02/2023,1,0.985,eodhd.com
+19/02/2023,19,0.3301,eodhd.com
+20/02/2023,19,0.3342,eodhd.com
+21/02/2023,32,0.3516,eodhd.com
+22/02/2023,29,0.3742,eodhd.com
+23/02/2023,12,0.4345,eodhd.com
+24/02/2023,17,0.2639,eodhd.com
+25/02/2023,3,0.3073,eodhd.com
+26/02/2023,3,0.278,eodhd.com
+27/02/2023,17,0.4304,eodhd.com
+28/02/2023,16,0.7359,eodhd.com
+01/03/2023,16,0.6416,eodhd.com
+02/03/2023,15,0.3149,eodhd.com
+03/03/2023,22,0.3109,eodhd.com
+04/03/2023,2,0.0185,eodhd.com
+05/03/2023,3,0.7517,eodhd.com
+06/03/2023,13,0.4954,eodhd.com
+07/03/2023,34,0.1078,eodhd.com
+08/03/2023,13,0.518,eodhd.com
+09/03/2023,18,0.4043,eodhd.com
+10/03/2023,31,0.3239,eodhd.com
+11/03/2023,10,0.4408,eodhd.com
+12/03/2023,6,0.7097,eodhd.com
+13/03/2023,19,0.6103,eodhd.com
+14/03/2023,46,0.1646,eodhd.com
+15/03/2023,32,0.3603,eodhd.com
+16/03/2023,26,0.4031,eodhd.com
+17/03/2023,23,0.1516,eodhd.com
+18/03/2023,5,0.2048,eodhd.com
+19/03/2023,3,0.7863,eodhd.com
+20/03/2023,16,0.4791,eodhd.com
+21/03/2023,25,0.2098,eodhd.com
+22/03/2023,25,0.3132,eodhd.com
+23/03/2023,28,-0.0224,eodhd.com
+24/03/2023,20,0.2326,eodhd.com
+25/03/2023,1,0.718,eodhd.com
+26/03/2023,10,0.5646,eodhd.com
+27/03/2023,16,0.5253,eodhd.com
+28/03/2023,6,0.3433,eodhd.com
+29/03/2023,2,0.976,eodhd.com
+30/03/2023,3,0.749,eodhd.com
+02/04/2023,1,0.572,eodhd.com
+03/04/2023,6,0.8815,eodhd.com
+04/04/2023,5,0.5386,eodhd.com
+05/04/2023,6,0.3975,eodhd.com
+06/04/2023,4,0.994,eodhd.com
+07/04/2023,2,0.842,eodhd.com
+08/04/2023,2,0.889,eodhd.com
+09/04/2023,1,1,eodhd.com
+10/04/2023,1,0.992,eodhd.com
+11/04/2023,3,0.9223,eodhd.com
+12/04/2023,2,0.9625,eodhd.com
+13/04/2023,1,0.971,eodhd.com
+14/04/2023,2,-0.823,eodhd.com
+15/04/2023,1,1,eodhd.com
+16/04/2023,1,0.999,eodhd.com
+17/04/2023,5,0.9904,eodhd.com
+18/04/2023,4,0.8948,eodhd.com
+19/04/2023,4,0.4588,eodhd.com
+20/04/2023,3,0.972,eodhd.com
+21/04/2023,8,0.9921,eodhd.com
+22/04/2023,3,0.503,eodhd.com
+23/04/2023,7,0.6681,eodhd.com
+24/04/2023,8,0.288,eodhd.com
+25/04/2023,7,0.7247,eodhd.com
+26/04/2023,4,0.6745,eodhd.com
+27/04/2023,11,0.6172,eodhd.com
+28/04/2023,10,0.8018,eodhd.com
+30/04/2023,2,0.6905,eodhd.com
+01/05/2023,4,0.781,eodhd.com
+02/05/2023,3,0.666,eodhd.com
+03/05/2023,6,0.6202,eodhd.com
+04/05/2023,6,0.3975,eodhd.com
+05/05/2023,8,0.8609,eodhd.com
+06/05/2023,1,0.998,eodhd.com
+07/05/2023,1,0.999,eodhd.com
+08/05/2023,7,0.6401,eodhd.com
+09/05/2023,7,0.7834,eodhd.com
+10/05/2023,5,0.7702,eodhd.com
+11/05/2023,4,0.7613,eodhd.com
+12/05/2023,1,0.994,eodhd.com
+13/05/2023,1,0.599,eodhd.com
+14/05/2023,2,0.955,eodhd.com
+15/05/2023,6,0.6608,eodhd.com
+16/05/2023,4,0.7198,eodhd.com
+17/05/2023,1,0.999,eodhd.com
+18/05/2023,5,0.7598,eodhd.com
+19/05/2023,3,0.996,eodhd.com
+20/05/2023,1,0.523,eodhd.com
+22/05/2023,12,0.7842,eodhd.com
+23/05/2023,3,0.835,eodhd.com
+24/05/2023,3,0.9957,eodhd.com
+25/05/2023,6,0.9952,eodhd.com
+26/05/2023,4,0.9985,eodhd.com
+28/05/2023,1,0.999,eodhd.com
+29/05/2023,2,0.996,eodhd.com
+30/05/2023,1,1,eodhd.com
+31/05/2023,3,0.9807,eodhd.com
+01/06/2023,6,0.5878,eodhd.com
+02/06/2023,3,0.6843,eodhd.com
+03/06/2023,2,0.999,eodhd.com
+04/06/2023,2,0.9985,eodhd.com
+05/06/2023,4,0.9293,eodhd.com
+07/06/2023,6,0.9872,eodhd.com
+08/06/2023,10,0.6991,eodhd.com
+09/06/2023,3,0.9823,eodhd.com
+10/06/2023,1,0.382,eodhd.com
+11/06/2023,3,0.664,eodhd.com
+12/06/2023,6,0.8487,eodhd.com
+13/06/2023,4,0.6688,eodhd.com
+14/06/2023,1,0.827,eodhd.com
+15/06/2023,6,0.9682,eodhd.com
+16/06/2023,6,0.9867,eodhd.com
+20/06/2023,2,0.9915,eodhd.com
+21/06/2023,1,0.996,eodhd.com
+22/06/2023,1,0.998,eodhd.com
+23/06/2023,7,0.7779,eodhd.com
+24/06/2023,1,1,eodhd.com
+26/06/2023,7,0.649,eodhd.com
+27/06/2023,2,0.735,eodhd.com
+28/06/2023,3,0.9267,eodhd.com
+29/06/2023,3,0.966,eodhd.com
+30/06/2023,7,0.7566,eodhd.com
+01/07/2023,1,-0.038,eodhd.com
+03/07/2023,3,0.334,eodhd.com
+04/07/2023,6,0.8992,eodhd.com
+05/07/2023,6,0.8028,eodhd.com
+06/07/2023,9,0.75,eodhd.com
+07/07/2023,8,0.9656,eodhd.com
+08/07/2023,1,0.856,eodhd.com
+09/07/2023,1,0.941,eodhd.com
+10/07/2023,9,0.6084,eodhd.com
+11/07/2023,8,0.8143,eodhd.com
+12/07/2023,8,0.2618,eodhd.com
+13/07/2023,11,0.8803,eodhd.com
+14/07/2023,6,0.9733,eodhd.com
+15/07/2023,2,0.9475,eodhd.com
+16/07/2023,1,0.98,eodhd.com
+17/07/2023,7,0.9486,eodhd.com
+18/07/2023,3,0.996,eodhd.com
+19/07/2023,3,0.976,eodhd.com
+20/07/2023,4,0.7553,eodhd.com
+21/07/2023,4,0.8475,eodhd.com
+22/07/2023,2,0.557,eodhd.com
+23/07/2023,1,0.599,eodhd.com
+24/07/2023,6,0.9382,eodhd.com
+25/07/2023,8,0.8554,eodhd.com
+26/07/2023,9,0.8374,eodhd.com
+27/07/2023,17,0.837,eodhd.com
+28/07/2023,10,0.9677,eodhd.com
+29/07/2023,3,0.6667,eodhd.com
+30/07/2023,2,0.913,eodhd.com
+31/07/2023,11,0.8398,eodhd.com
+01/08/2023,5,0.9722,eodhd.com
+02/08/2023,3,0.3333,eodhd.com
+03/08/2023,7,0.6633,eodhd.com
+04/08/2023,3,0.8417,eodhd.com
+05/08/2023,1,0.998,eodhd.com
+06/08/2023,1,0.998,eodhd.com
+07/08/2023,6,0.9125,eodhd.com
+08/08/2023,9,0.7508,eodhd.com
+09/08/2023,3,0.581,eodhd.com
+10/08/2023,2,0.995,eodhd.com
+11/08/2023,6,0.9612,eodhd.com
+12/08/2023,2,0.989,eodhd.com
+13/08/2023,4,0.9018,eodhd.com
+14/08/2023,6,0.3115,eodhd.com
+15/08/2023,9,0.9942,eodhd.com
+16/08/2023,3,0.992,eodhd.com
+17/08/2023,3,0.9967,eodhd.com
+18/08/2023,6,0.9787,eodhd.com
+20/08/2023,1,0.026,eodhd.com
+21/08/2023,9,0.856,eodhd.com
+22/08/2023,4,0.9978,eodhd.com
+23/08/2023,9,0.8993,eodhd.com
+24/08/2023,7,0.9734,eodhd.com
+25/08/2023,7,0.9047,eodhd.com
+26/08/2023,1,1,eodhd.com
+27/08/2023,1,1,eodhd.com
+28/08/2023,2,0.997,eodhd.com
+29/08/2023,5,0.989,eodhd.com
+30/08/2023,2,0.812,eodhd.com
+31/08/2023,3,0.9977,eodhd.com
+01/09/2023,7,0.8179,eodhd.com
+02/09/2023,2,0.9985,eodhd.com
+03/09/2023,3,0.999,eodhd.com
+04/09/2023,1,0.998,eodhd.com
+05/09/2023,3,0.583,eodhd.com
+06/09/2023,6,0.5977,eodhd.com
+07/09/2023,5,0.9596,eodhd.com
+08/09/2023,4,0.9995,eodhd.com
+09/09/2023,2,0.9935,eodhd.com
+10/09/2023,2,0.9995,eodhd.com
+11/09/2023,6,0.8588,eodhd.com
+12/09/2023,3,0.9983,eodhd.com
+13/09/2023,3,0.9513,eodhd.com
+14/09/2023,5,0.6992,eodhd.com
+15/09/2023,6,0.902,eodhd.com
+17/09/2023,2,0.9995,eodhd.com
+18/09/2023,3,0.994,eodhd.com
+19/09/2023,8,0.8631,eodhd.com
+20/09/2023,7,0.9853,eodhd.com
+21/09/2023,4,0.9365,eodhd.com
+22/09/2023,9,0.9924,eodhd.com
+23/09/2023,4,0.63,eodhd.com
+24/09/2023,3,0.9857,eodhd.com
+25/09/2023,2,0.8695,eodhd.com
+26/09/2023,2,0.9975,eodhd.com
+27/09/2023,3,0.9893,eodhd.com
+28/09/2023,10,0.7214,eodhd.com
+29/09/2023,10,0.6865,eodhd.com
+30/09/2023,3,1,eodhd.com
+01/10/2023,2,0.8565,eodhd.com
+02/10/2023,5,0.7146,eodhd.com
+03/10/2023,6,0.3683,eodhd.com
+04/10/2023,6,0.9985,eodhd.com
+05/10/2023,6,0.925,eodhd.com
+06/10/2023,6,0.811,eodhd.com
+08/10/2023,3,0.9923,eodhd.com
+09/10/2023,1,1,eodhd.com
+10/10/2023,2,0.938,eodhd.com
+11/10/2023,8,0.9914,eodhd.com
+12/10/2023,3,0.8747,eodhd.com
+13/10/2023,3,0.9747,eodhd.com
+14/10/2023,3,0.7563,eodhd.com
+15/10/2023,4,0.9748,eodhd.com
+16/10/2023,4,0.6615,eodhd.com
+17/10/2023,4,0.91,eodhd.com
+18/10/2023,6,0.7623,eodhd.com
+19/10/2023,2,0.997,eodhd.com
+20/10/2023,2,0.993,eodhd.com
+21/10/2023,1,1,eodhd.com
+22/10/2023,2,0.59,eodhd.com
+23/10/2023,8,0.4383,eodhd.com
+24/10/2023,8,0.9019,eodhd.com
+25/10/2023,9,0.8044,eodhd.com
+26/10/2023,11,0.4549,eodhd.com
+27/10/2023,10,0.6391,eodhd.com
+28/10/2023,2,0.8735,eodhd.com
+29/10/2023,4,0.8355,eodhd.com
+30/10/2023,9,0.9851,eodhd.com
+31/10/2023,3,0.9957,eodhd.com
+01/11/2023,8,0.7903,eodhd.com
+02/11/2023,5,0.9366,eodhd.com
+03/11/2023,4,0.996,eodhd.com
+04/11/2023,1,-0.318,eodhd.com
+05/11/2023,2,0.8725,eodhd.com
+06/11/2023,2,0.9965,eodhd.com
+07/11/2023,2,1,eodhd.com
+08/11/2023,3,0.9573,eodhd.com
+09/11/2023,3,0.994,eodhd.com
+10/11/2023,1,0.997,eodhd.com
+11/11/2023,3,0.9783,eodhd.com
+13/11/2023,9,0.9603,eodhd.com
+14/11/2023,12,0.9946,eodhd.com
+15/11/2023,10,0.9775,eodhd.com
+16/11/2023,5,0.5342,eodhd.com
+17/11/2023,1,0.967,eodhd.com
+18/11/2023,4,0.9965,eodhd.com
+19/11/2023,4,0.9983,eodhd.com
+20/11/2023,7,0.9979,eodhd.com
+21/11/2023,9,0.9953,eodhd.com
+22/11/2023,3,1,eodhd.com
+23/11/2023,6,0.9978,eodhd.com
+24/11/2023,5,0.9994,eodhd.com
+26/11/2023,8,0.7431,eodhd.com
+27/11/2023,4,0.998,eodhd.com
+28/11/2023,5,0.9982,eodhd.com
+29/11/2023,1,0.999,eodhd.com
+30/11/2023,4,0.974,eodhd.com
+01/12/2023,3,0.8717,eodhd.com
+02/12/2023,1,1,eodhd.com
+03/12/2023,4,0.9998,eodhd.com
+04/12/2023,5,0.9922,eodhd.com
+05/12/2023,5,0.9994,eodhd.com
+06/12/2023,4,0.9993,eodhd.com
+07/12/2023,8,0.9953,eodhd.com
+08/12/2023,7,0.9589,eodhd.com
+09/12/2023,2,0.993,eodhd.com
+10/12/2023,6,0.9992,eodhd.com
+11/12/2023,9,0.9988,eodhd.com
+12/12/2023,3,0.9953,eodhd.com
+13/12/2023,5,0.9988,eodhd.com
+14/12/2023,5,0.9906,eodhd.com
+15/12/2023,6,0.9975,eodhd.com
+16/12/2023,1,1,eodhd.com
+17/12/2023,1,0.997,eodhd.com
+18/12/2023,3,0.9983,eodhd.com
+19/12/2023,8,0.999,eodhd.com
+20/12/2023,8,0.9984,eodhd.com
+21/12/2023,3,0.9983,eodhd.com
+22/12/2023,11,0.8155,eodhd.com
+23/12/2023,1,0.996,eodhd.com
+24/12/2023,3,0.998,eodhd.com
+25/12/2023,4,0.998,eodhd.com
+26/12/2023,1,0.998,eodhd.com
+27/12/2023,2,0.999,eodhd.com
+28/12/2023,5,0.998,eodhd.com
+29/12/2023,4,0.993,eodhd.com
+30/12/2023,1,1,eodhd.com
+01/01/2024,7,0.9979,eodhd.com
+02/01/2024,3,0.986,eodhd.com
+03/01/2024,8,0.9891,eodhd.com
+04/01/2024,7,0.9947,eodhd.com
+05/01/2024,6,0.9992,eodhd.com
+07/01/2024,1,0.986,eodhd.com
+08/01/2024,7,0.987,eodhd.com
+09/01/2024,4,0.9985,eodhd.com
+10/01/2024,5,0.9996,eodhd.com
+11/01/2024,4,0.9965,eodhd.com
+12/01/2024,2,0.999,eodhd.com
+13/01/2024,3,0.9963,eodhd.com
+14/01/2024,1,0.999,eodhd.com
+15/01/2024,2,0.9965,eodhd.com
+16/01/2024,6,0.6675,eodhd.com
+17/01/2024,7,0.756,eodhd.com
+18/01/2024,1,0.996,eodhd.com
+19/01/2024,7,0.7224,eodhd.com
+20/01/2024,6,0.9928,eodhd.com
+21/01/2024,3,0.9963,eodhd.com
+22/01/2024,6,0.8933,eodhd.com
+23/01/2024,9,0.9071,eodhd.com
+24/01/2024,7,0.6907,eodhd.com
+25/01/2024,9,0.8997,eodhd.com
+26/01/2024,14,0.7446,eodhd.com
+27/01/2024,3,0.9987,eodhd.com
+28/01/2024,10,0.6373,eodhd.com
+29/01/2024,20,0.7146,eodhd.com
+30/01/2024,18,0.7297,eodhd.com
+31/01/2024,33,0.3554,eodhd.com
+01/02/2024,45,0.6761,eodhd.com
+02/02/2024,93,0.6842,eodhd.com
+03/02/2024,10,0.7075,eodhd.com
+04/02/2024,14,0.8459,eodhd.com
+05/02/2024,36,0.2918,eodhd.com
+06/02/2024,26,0.4396,eodhd.com
+07/02/2024,37,0.7078,eodhd.com
+08/02/2024,27,0.6162,eodhd.com
+09/02/2024,23,0.6557,eodhd.com
+10/02/2024,10,0.6193,eodhd.com
+11/02/2024,8,0.4438,eodhd.com
+12/02/2024,23,0.6562,eodhd.com
+13/02/2024,9,0.9891,eodhd.com
+14/02/2024,26,0.7869,eodhd.com
+15/02/2024,25,0.558,eodhd.com
+16/02/2024,11,0.4527,eodhd.com
+17/02/2024,3,0.9987,eodhd.com
+18/02/2024,6,0.7843,eodhd.com
+19/02/2024,8,0.7344,eodhd.com
+20/02/2024,20,0.7583,eodhd.com
+21/02/2024,10,0.8157,eodhd.com
+22/02/2024,21,0.7141,eodhd.com
+23/02/2024,11,0.8345,eodhd.com
+24/02/2024,8,0.7205,eodhd.com
+25/02/2024,8,0.8063,eodhd.com
+26/02/2024,18,0.506,eodhd.com
+27/02/2024,11,0.6582,eodhd.com
+28/02/2024,7,0.8489,eodhd.com
+29/02/2024,15,0.5867,eodhd.com
+01/03/2024,11,0.7105,eodhd.com
+02/03/2024,6,0.3985,eodhd.com
+03/03/2024,1,0.999,eodhd.com
+04/03/2024,14,0.6431,eodhd.com
+05/03/2024,20,0.394,eodhd.com
+06/03/2024,19,0.544,eodhd.com
+07/03/2024,5,0.7842,eodhd.com
+08/03/2024,11,0.5141,eodhd.com
+09/03/2024,5,0.7448,eodhd.com
+10/03/2024,2,0.9975,eodhd.com
+11/03/2024,20,0.5799,eodhd.com
+12/03/2024,13,0.6902,eodhd.com
+13/03/2024,8,0.6819,eodhd.com
+14/03/2024,10,0.309,eodhd.com
+15/03/2024,5,0.518,eodhd.com
+17/03/2024,8,0.7298,eodhd.com
+18/03/2024,7,0.4803,eodhd.com
+19/03/2024,15,0.7137,eodhd.com
+20/03/2024,8,0.1909,eodhd.com
+21/03/2024,20,0.584,eodhd.com
+22/03/2024,11,0.6028,eodhd.com
+23/03/2024,4,0.6458,eodhd.com
+24/03/2024,8,0.8864,eodhd.com
+25/03/2024,18,0.877,eodhd.com
+26/03/2024,10,0.5168,eodhd.com
+27/03/2024,13,0.9028,eodhd.com
+28/03/2024,15,0.1307,eodhd.com
+29/03/2024,5,0.5548,eodhd.com
+30/03/2024,4,0.7485,eodhd.com
+31/03/2024,5,0.6514,eodhd.com
+01/04/2024,13,0.6947,eodhd.com
+02/04/2024,14,0.5883,eodhd.com
+03/04/2024,7,0.6487,eodhd.com
+04/04/2024,11,0.5015,eodhd.com
+05/04/2024,9,0.5896,eodhd.com
+06/04/2024,3,0.4527,eodhd.com
+07/04/2024,5,0.7272,eodhd.com
+08/04/2024,9,0.7268,eodhd.com
+09/04/2024,13,0.6303,eodhd.com
+10/04/2024,12,0.7995,eodhd.com
+11/04/2024,9,0.0639,eodhd.com
+12/04/2024,12,0.8958,eodhd.com
+13/04/2024,5,0.7976,eodhd.com
+14/04/2024,11,0.8619,eodhd.com
+15/04/2024,8,0.5314,eodhd.com
+16/04/2024,21,0.245,eodhd.com
+17/04/2024,16,0.7746,eodhd.com
+18/04/2024,27,0.8292,eodhd.com
+19/04/2024,26,0.67,eodhd.com
+20/04/2024,4,0.7205,eodhd.com
+21/04/2024,4,0.3085,eodhd.com
+22/04/2024,28,0.827,eodhd.com
+23/04/2024,23,0.7192,eodhd.com
+24/04/2024,28,0.7398,eodhd.com
+25/04/2024,36,0.4109,eodhd.com
+26/04/2024,28,0.687,eodhd.com
+27/04/2024,14,0.7661,eodhd.com
+28/04/2024,8,0.7005,eodhd.com
+29/04/2024,23,0.4901,eodhd.com
+30/04/2024,25,0.3538,eodhd.com
+01/05/2024,18,0.5149,eodhd.com
+02/05/2024,15,0.6109,eodhd.com
+03/05/2024,14,0.3987,eodhd.com
+04/05/2024,6,0.6173,eodhd.com
+05/05/2024,7,0.7597,eodhd.com
+06/05/2024,15,0.5279,eodhd.com
+07/05/2024,12,0.6999,eodhd.com
+08/05/2024,17,0.4888,eodhd.com
+09/05/2024,16,0.4789,eodhd.com
+10/05/2024,15,0.5685,eodhd.com
+11/05/2024,1,1,eodhd.com
+12/05/2024,8,0.774,eodhd.com
+13/05/2024,15,0.621,eodhd.com
+14/05/2024,9,0.6358,eodhd.com
+15/05/2024,16,0.5862,eodhd.com
+16/05/2024,19,0.5967,eodhd.com
+17/05/2024,12,0.6608,eodhd.com
+18/05/2024,6,0.564,eodhd.com
+19/05/2024,6,0.5887,eodhd.com
+20/05/2024,9,0.8468,eodhd.com
+21/05/2024,11,0.4665,eodhd.com
+22/05/2024,5,0.7902,eodhd.com
+23/05/2024,17,0.7791,eodhd.com
+24/05/2024,17,0.7752,eodhd.com
+25/05/2024,2,0.8445,eodhd.com
+26/05/2024,3,0.6623,eodhd.com
+27/05/2024,7,0.685,eodhd.com
+28/05/2024,15,0.5927,eodhd.com
+29/05/2024,19,0.6946,eodhd.com
+30/05/2024,16,0.7739,eodhd.com
+31/05/2024,10,0.1604,eodhd.com
+01/06/2024,11,0.9072,eodhd.com
+02/06/2024,8,0.5593,eodhd.com
+03/06/2024,8,0.6819,eodhd.com
+04/06/2024,12,0.7964,eodhd.com
+05/06/2024,12,0.5269,eodhd.com
+06/06/2024,22,0.5608,eodhd.com
+07/06/2024,18,0.7351,eodhd.com
+08/06/2024,8,0.7241,eodhd.com
+09/06/2024,4,0.74,eodhd.com
+10/06/2024,14,0.508,eodhd.com
+11/06/2024,6,0.9372,eodhd.com
+12/06/2024,11,0.5244,eodhd.com
+13/06/2024,7,0.8484,eodhd.com
+14/06/2024,16,0.7007,eodhd.com
+15/06/2024,6,0.7653,eodhd.com
+16/06/2024,3,0.9983,eodhd.com
+17/06/2024,9,0.8316,eodhd.com
+18/06/2024,15,0.7028,eodhd.com
+19/06/2024,15,0.7091,eodhd.com
+20/06/2024,12,0.6321,eodhd.com
+21/06/2024,21,0.719,eodhd.com
+22/06/2024,1,1,eodhd.com
+23/06/2024,3,0.6667,eodhd.com
+24/06/2024,16,0.5078,eodhd.com
+25/06/2024,11,0.7654,eodhd.com
+26/06/2024,9,0.7438,eodhd.com
+27/06/2024,14,0.589,eodhd.com
+28/06/2024,13,0.5246,eodhd.com
+29/06/2024,2,0.997,eodhd.com
+30/06/2024,3,0.7983,eodhd.com
+01/07/2024,16,0.2279,eodhd.com
+02/07/2024,18,0.5944,eodhd.com
+03/07/2024,13,0.8685,eodhd.com
+04/07/2024,14,0.7786,eodhd.com
+05/07/2024,17,0.6868,eodhd.com
+06/07/2024,1,0.999,eodhd.com
+07/07/2024,1,0.999,eodhd.com
+08/07/2024,4,0.8568,eodhd.com
+09/07/2024,16,0.4387,eodhd.com
+10/07/2024,13,0.8476,eodhd.com
+11/07/2024,9,0.5068,eodhd.com
+12/07/2024,16,0.4371,eodhd.com
+13/07/2024,2,0.999,eodhd.com
+14/07/2024,4,0.749,eodhd.com
+15/07/2024,17,0.7201,eodhd.com
+16/07/2024,4,0.951,eodhd.com
+17/07/2024,5,0.7802,eodhd.com
+18/07/2024,13,0.6484,eodhd.com
+19/07/2024,13,0.3392,eodhd.com
+20/07/2024,5,0.6094,eodhd.com
+21/07/2024,7,0.5797,eodhd.com
+22/07/2024,8,0.8198,eodhd.com
+23/07/2024,20,0.8423,eodhd.com
+24/07/2024,16,0.3129,eodhd.com
+25/07/2024,20,0.4087,eodhd.com
+26/07/2024,20,0.7602,eodhd.com
+28/07/2024,11,0.3773,eodhd.com
+29/07/2024,17,0.5937,eodhd.com
+30/07/2024,29,0.5178,eodhd.com
+31/07/2024,22,0.8196,eodhd.com
+01/08/2024,27,0.651,eodhd.com
+02/08/2024,13,0.7061,eodhd.com
+03/08/2024,5,0.6202,eodhd.com
+04/08/2024,1,0.998,eodhd.com
+05/08/2024,16,0.1492,eodhd.com
+06/08/2024,16,0.7416,eodhd.com
+07/08/2024,14,0.6301,eodhd.com
+08/08/2024,21,0.7273,eodhd.com
+09/08/2024,17,0.7132,eodhd.com
+10/08/2024,5,0.7966,eodhd.com
+11/08/2024,5,0.828,eodhd.com
+12/08/2024,18,0.5578,eodhd.com
+13/08/2024,14,0.7506,eodhd.com
+14/08/2024,20,0.6851,eodhd.com
+15/08/2024,17,0.6937,eodhd.com
+16/08/2024,16,0.6678,eodhd.com
+18/08/2024,3,0.7007,eodhd.com
+19/08/2024,3,0.992,eodhd.com
+20/08/2024,8,0.8251,eodhd.com
+21/08/2024,4,0.83,eodhd.com
+22/08/2024,3,0.9977,eodhd.com
+23/08/2024,4,0.9583,eodhd.com
+24/08/2024,5,0.7514,eodhd.com
+25/08/2024,6,0.721,eodhd.com
+26/08/2024,8,0.635,eodhd.com
+27/08/2024,18,0.3064,eodhd.com
+28/08/2024,14,0.5352,eodhd.com
+29/08/2024,6,0.7843,eodhd.com
+30/08/2024,9,0.7756,eodhd.com
+31/08/2024,2,0.9935,eodhd.com
+01/09/2024,3,0.9987,eodhd.com
+02/09/2024,7,0.6186,eodhd.com
+03/09/2024,7,0.671,eodhd.com
+04/09/2024,8,0.3734,eodhd.com
+05/09/2024,14,0.5254,eodhd.com
+06/09/2024,9,0.7263,eodhd.com
+07/09/2024,6,0.666,eodhd.com
+08/09/2024,7,0.9804,eodhd.com
+09/09/2024,9,0.9151,eodhd.com
+10/09/2024,9,0.5703,eodhd.com
+11/09/2024,5,0.6564,eodhd.com
+12/09/2024,10,0.6721,eodhd.com
+13/09/2024,1,0.999,eodhd.com
+15/09/2024,1,0.99,eodhd.com
+16/09/2024,14,0.5739,eodhd.com
+17/09/2024,21,0.4424,eodhd.com
+18/09/2024,15,0.5529,eodhd.com
+19/09/2024,13,0.7661,eodhd.com
+20/09/2024,1,0.999,eodhd.com
+21/09/2024,1,0.999,eodhd.com
+22/09/2024,5,0.991,eodhd.com
+23/09/2024,9,0.7642,eodhd.com
+24/09/2024,4,0.8625,eodhd.com
+25/09/2024,9,0.6988,eodhd.com
+26/09/2024,15,0.4219,eodhd.com
+27/09/2024,11,0.7497,eodhd.com
+28/09/2024,4,0.593,eodhd.com
+29/09/2024,5,0.9116,eodhd.com
+30/09/2024,6,0.7528,eodhd.com
+01/10/2024,15,0.8867,eodhd.com
+02/10/2024,8,0.4071,eodhd.com
+03/10/2024,7,0.7636,eodhd.com
+04/10/2024,17,0.6978,eodhd.com
+05/10/2024,4,0.9958,eodhd.com
+06/10/2024,8,0.8625,eodhd.com
+07/10/2024,1,0.999,eodhd.com
+08/10/2024,14,0.6031,eodhd.com
+09/10/2024,17,0.8399,eodhd.com
+10/10/2024,9,0.7087,eodhd.com
+11/10/2024,6,0.386,eodhd.com
+12/10/2024,6,0.5518,eodhd.com
+13/10/2024,5,0.9124,eodhd.com
+14/10/2024,11,0.7567,eodhd.com
+15/10/2024,1,0.998,eodhd.com
+16/10/2024,8,0.6339,eodhd.com
+17/10/2024,17,0.596,eodhd.com
+18/10/2024,13,0.5025,eodhd.com
+19/10/2024,6,0.8862,eodhd.com
+20/10/2024,7,0.9637,eodhd.com
+21/10/2024,6,0.9918,eodhd.com
+23/10/2024,5,0.1818,eodhd.com
+24/10/2024,1,0.137,eodhd.com
+27/10/2024,1,0,eodhd.com
+29/10/2024,6,0.202,eodhd.com
+30/10/2024,6,0.4282,eodhd.com
+31/10/2024,5,-0.0266,eodhd.com
+01/11/2024,7,0.4711,eodhd.com
+02/11/2024,2,0.6555,eodhd.com
+03/11/2024,2,0.102,eodhd.com
+04/11/2024,3,0.3183,eodhd.com
+05/11/2024,1,0.34,eodhd.com
+06/11/2024,5,0.1128,eodhd.com
+07/11/2024,2,0.739,eodhd.com
+08/11/2024,6,0.0452,eodhd.com
+09/11/2024,3,0.271,eodhd.com
+11/11/2024,1,0.778,eodhd.com
+12/11/2024,3,0.5813,eodhd.com
+13/11/2024,1,0,eodhd.com
+14/11/2024,7,-0.1014,eodhd.com
+15/11/2024,4,0.356,eodhd.com
+17/11/2024,1,0,eodhd.com
+18/11/2024,2,-0.056,eodhd.com
+19/11/2024,1,0,eodhd.com
+20/11/2024,3,0.535,eodhd.com
+21/11/2024,2,0.04,eodhd.com
+22/11/2024,3,0.504,eodhd.com
+24/11/2024,2,-0.101,eodhd.com
+27/11/2024,1,0,eodhd.com
+28/11/2024,4,-0.0445,eodhd.com
+30/11/2024,1,0.997,eodhd.com
+03/12/2024,6,0.2485,eodhd.com
+05/12/2024,4,0.2783,eodhd.com
+06/12/2024,2,0.4935,eodhd.com
+08/12/2024,4,0.1585,eodhd.com
+09/12/2024,2,-0.2235,eodhd.com
+10/12/2024,4,0.0503,eodhd.com
+13/12/2024,4,0.586,eodhd.com
+14/12/2024,4,-0.0243,eodhd.com
+15/12/2024,1,0.226,eodhd.com
+16/12/2024,1,0.511,eodhd.com
+17/12/2024,5,0.6518,eodhd.com
+19/12/2024,4,0.3358,eodhd.com
+20/12/2024,2,-0.0725,eodhd.com
+23/12/2024,3,0.0957,eodhd.com
+24/12/2024,2,0.49,eodhd.com
+25/12/2024,1,-0.625,eodhd.com
+27/12/2024,3,0.2707,eodhd.com
+28/12/2024,4,0.2968,eodhd.com
+31/12/2024,2,0.101,eodhd.com
+01/01/2025,1,0,eodhd.com
+02/01/2025,4,0.1405,eodhd.com
+03/01/2025,3,0.38,eodhd.com
+05/01/2025,3,-0.2897,eodhd.com
+07/01/2025,6,0.4467,eodhd.com
+08/01/2025,4,0.4433,eodhd.com
+09/01/2025,3,0.3653,eodhd.com
+10/01/2025,6,0.1525,eodhd.com
+11/01/2025,3,0.4067,eodhd.com
+12/01/2025,4,0.5433,eodhd.com
+13/01/2025,8,0.363,eodhd.com
+14/01/2025,11,0.3582,eodhd.com
+15/01/2025,17,0.5533,eodhd.com
+16/01/2025,8,0.4859,eodhd.com
+17/01/2025,12,0.6013,eodhd.com
+18/01/2025,11,0.7725,eodhd.com
+19/01/2025,16,0.7479,eodhd.com
+20/01/2025,9,0.7987,eodhd.com
+21/01/2025,4,0.9333,eodhd.com
+22/01/2025,15,0.4313,eodhd.com
+23/01/2025,12,0.7533,eodhd.com
+24/01/2025,A buscar empleo: Mark Zuckerberg ya desarrolla una IA que programa tan bien como un humano,0,News API
 24/01/2025,"The calls for a Meta boycott don't seem to be having much of an impact, data shows",0.2,News API
-25/01/2025,"Meta reveals how it plans to make money on Threads, its X competitor with 300 million users",0.0,News API
-25/01/2025,The Zuckermoon is over,0.0,News API
-25/01/2025,The companies fighting back against Trump's war on DEI,0.0,News API
-26/01/2025,Meta is ditching fact checkers for X-style community notes. Will they work?,0.0,News API
+24/01/2025,17,0.5777,eodhd.com
+25/01/2025,"Meta reveals how it plans to make money on Threads, its X competitor with 300 million users",0,News API
+25/01/2025,The Zuckermoon is over,0,News API
+25/01/2025,The companies fighting back against Trump's war on DEI,0,News API
+25/01/2025,5,0.5312,eodhd.com
+26/01/2025,Meta is ditching fact checkers for X-style community notes. Will they work?,0,News API
 26/01/2025,FSF: Meta's License for Its Llama 3.1 AI Model 'is Not a Free Software License',-0.2,News API
-27/01/2025,Samsung Project Moohan vs. Meta Quest 3: Battle for the future of XR,0.0,News API
-27/01/2025,Meta Sets Up War Rooms To Analyze DeepSeek's Tech,0.0,News API
-27/01/2025,Meta AI rolls out preference-based answers using your shared data,0.0,News API
+26/01/2025,14,0.7419,eodhd.com
+27/01/2025,Samsung Project Moohan vs. Meta Quest 3: Battle for the future of XR,0,News API
+27/01/2025,Meta Sets Up War Rooms To Analyze DeepSeek's Tech,0,News API
+27/01/2025,Meta AI rolls out preference-based answers using your shared data,0,News API
 27/01/2025,"Leaked Instagram deals reveal Meta is offering TikTok creators as much as $300,000 to post. Read the contract terms.",0.2,News API
+27/01/2025,23,0.6033,eodhd.com
 28/01/2025,Samsung’s New Android XR Headset Shows Everyone Underestimated the Apple Vision Pro,0.1364,News API
 28/01/2025,"Meta is bringing its Reality Labs division closer to its main business, reversing some of Mark Zuckerberg's huge 2021 reorg",0.2833,News API
-28/01/2025,"DeepSeek Turned the AI World on Its Head, but Don't Fall For The Hype Just Yet",0.0,News API
-29/01/2025,Bernard Arnault says laid-off Meta staff were 'promoted outwards' — and LVMH's Tiffany is doing the same,0.0,News API
-29/01/2025,Mark Zuckerberg says this is a make-or-break year for Meta's AI glasses,0.0,News API
-29/01/2025,"4 tips for those struggling to find a tech job, from a former recruiter at Amazon, Meta, and Google",0.0,News API
-29/01/2025,Meta agrees to pay $25 million to settle lawsuit with President Donald Trump,0.0,News API
+28/01/2025,"DeepSeek Turned the AI World on Its Head, but Don't Fall For The Hype Just Yet",0,News API
+28/01/2025,25,0.4601,eodhd.com
+29/01/2025,Bernard Arnault says laid-off Meta staff were 'promoted outwards' — and LVMH's Tiffany is doing the same,0,News API
+29/01/2025,Mark Zuckerberg says this is a make-or-break year for Meta's AI glasses,0,News API
+29/01/2025,"4 tips for those struggling to find a tech job, from a former recruiter at Amazon, Meta, and Google",0,News API
+29/01/2025,Meta agrees to pay $25 million to settle lawsuit with President Donald Trump,0,News API
+29/01/2025,33,0.762,eodhd.com
 30/01/2025,Zuckerberg tips hat to Musk over fact-checking: 'I'm not afraid to admit when someone does something better',0.4,News API
 30/01/2025,Meta CEO Mark Zuckerberg tells employees to 'buckle up' for an 'intense year' in a leaked all-hands recording,0.2,News API
 30/01/2025,"Meta blows past Q4 earnings expectations, focuses on personalized AI for 2025",-0.25,News API
-30/01/2025,Meta uncharacteristically quiet about $5 billion in VR losses,0.0,News API
-30/01/2025,"Donnerstag: Meta mit KI-Blasen und mehr Gewinn, Microsoft-Wachstum dank Cloud-KI",0.0,News API
+30/01/2025,Meta uncharacteristically quiet about $5 billion in VR losses,0,News API
+30/01/2025,"Donnerstag: Meta mit KI-Blasen und mehr Gewinn, Microsoft-Wachstum dank Cloud-KI",0,News API
+30/01/2025,31,0.6504,eodhd.com
 31/01/2025,Meta sold over 1 million units of Ray-Ban smart glasses in 2024,0.2143,News API
 31/01/2025,Zuckerberg wants 'billions of AI glasses' worldwide in a decade; is that possible?,0.1,News API
-31/01/2025,DeepSeek Outstrips Meta and Mistral To Lead Open-Source AI Race,0.0,News API
+31/01/2025,DeepSeek Outstrips Meta and Mistral To Lead Open-Source AI Race,0,News API
 31/01/2025,Mark Zuckerberg said he has no plans to change Meta's hybrid work policy: 'The status quo is fine',0.4167,News API
-31/01/2025,What is the Pokémon TCG Pocket meta in February 2025?,0.0,News API
+31/01/2025,What is the Pokémon TCG Pocket meta in February 2025?,0,News API
 31/01/2025,DeepSeek’s Safety Guardrails Failed Every Test Researchers Threw at Its AI Chatbot,-0.5,News API
-31/01/2025,WhatsApp Says Some Users Targeted by Israeli Spyware,0.0,News API
+31/01/2025,WhatsApp Says Some Users Targeted by Israeli Spyware,0,News API
+31/01/2025,29,0.5488,eodhd.com
 01/02/2025,Big Tech isn't backing down from its big AI spending,-0.0519,News API
 01/02/2025,"News Weekly: DeepSeek rising, massive Garmin outage, the S Pen confusion, and more",0.25,News API
 01/02/2025,"Sam Altman says OpenAI will embrace two new AI approaches, one from DeepSeek and another from Meta",0.1364,News API
 01/02/2025,Foreign Hackers Are Using Google’s Gemini in Attacks on the US,-0.125,News API
-02/02/2025,"Disgraceful that videos seen by Southport killer still online, says Cooper",0.0,News API
+01/02/2025,10,0.5926,eodhd.com
+02/02/2025,"Disgraceful that videos seen by Southport killer still online, says Cooper",0,News API
+02/02/2025,8,0.6946,eodhd.com
 03/02/2025,"The Meta Quest 3S Batman Bundle Returns to Its Pre-Holiday Pricing, Like It’s Black Friday Again",-0.1667,News API
-03/02/2025,Meta issues a stern warning to employees about leaks,0.0,News API
+03/02/2025,Meta issues a stern warning to employees about leaks,0,News API
 03/02/2025,"Meta CTO said 2025 will likely prove the metaverse is a visionary feat or 'legendary misadventure,' leaked memo shows",0.5,News API
-04/02/2025,"Meta's VP of VR is leaving and it's time for the company to ""give a damn"" again",0.0,News API
-04/02/2025,"Ex-Meta director sues the tech giant, alleging a 'toxic pattern of silencing women'",0.0,News API
+03/02/2025,26,0.5526,eodhd.com
+04/02/2025,"Meta's VP of VR is leaving and it's time for the company to ""give a damn"" again",0,News API
+04/02/2025,"Ex-Meta director sues the tech giant, alleging a 'toxic pattern of silencing women'",0,News API
 04/02/2025,"I've worked as an engineer at Google, Meta, and Amazon, and found out I'm autistic in my late 30s. Here's how it's impacted my tech career.",-0.25,News API
 04/02/2025,Teen Mental Health App Sent Kids’ Data Straight to TikTok,0.0333,News API
 04/02/2025,Meta's CTO says he called the whole DeepSeek thing 6 months ago,0.2,News API
-04/02/2025,China Is Investigating Google Over Trump's Tariffs,0.0,News API
-05/02/2025,Meta is all in on AI wearables while figuring out where the metaverse fits in,0.0,News API
-05/02/2025,Meta CTO: 2025 Make or Break Year for Metaverse,0.0,News API
+04/02/2025,China Is Investigating Google Over Trump's Tariffs,0,News API
+04/02/2025,20,0.6585,eodhd.com
+05/02/2025,Meta is all in on AI wearables while figuring out where the metaverse fits in,0,News API
+05/02/2025,Meta CTO: 2025 Make or Break Year for Metaverse,0,News API
 05/02/2025,Mark Zuckerberg is $40 billion richer this year on Meta's winning streak,0.5,News API
-05/02/2025,What's The Best Class In Path Of Exile 2 For Solo Play?,1.0,News API
+05/02/2025,What's The Best Class In Path Of Exile 2 For Solo Play?,1,News API
+05/02/2025,26,0.5987,eodhd.com
 06/02/2025,"The Meta Quest saw Wii-like growth in 2024, but that spells trouble for some games",-0.2,News API
 06/02/2025,I quit Airbnb after almost 8 years and felt more anxious than free. Deprogramming my Big Tech mindset was harder than I thought.,0.11,News API
 06/02/2025,Magic: The Gathering Is Tapping in For a New Movie,0.3182,News API
+06/02/2025,20,0.662,eodhd.com
 07/02/2025,Meta employees question the company's removal of posts on its internal forum: 'This is a free speech issue',0.2,News API
-07/02/2025,Internal Meta memo shows how its performance-based cuts will work,0.0,News API
-07/02/2025,Pinterest Says Its DEI Commitments Put It at Risk of Conservative Backlash,0.0,News API
-07/02/2025,"Los correos de Meta revelan que descargó 81,7 TB de libros con copyright vía BitTorrent para entrenar sus modelos de IA",0.0,News API
+07/02/2025,Internal Meta memo shows how its performance-based cuts will work,0,News API
+07/02/2025,Pinterest Says Its DEI Commitments Put It at Risk of Conservative Backlash,0,News API
+07/02/2025,"Los correos de Meta revelan que descargó 81,7 TB de libros con copyright vía BitTorrent para entrenar sus modelos de IA",0,News API
 07/02/2025,Mistral AI's 'Le Chat' Chatbot Now Available on iPhone,0.4,News API
+07/02/2025,18,0.5013,eodhd.com
 08/02/2025,"News Weekly: Alphabet's earnings soar, new Zenfone Ultra, and more",0.3182,News API
+08/02/2025,18,0.617,eodhd.com
+09/02/2025,12,0.7509,eodhd.com
 10/02/2025,Meta is boosting its speech and translation AI with a fresh program,0.3,News API
-10/02/2025,Meta speeds up its hiring process for machine learning engineers as it cuts thousands of 'low performers',0.0,News API
+10/02/2025,Meta speeds up its hiring process for machine learning engineers as it cuts thousands of 'low performers',0,News API
 10/02/2025,Meta stock records longest winning streak to date,0.5,News API
-10/02/2025,Meta set to notify workers impacted by its performance-based cuts,0.0,News API
+10/02/2025,Meta set to notify workers impacted by its performance-based cuts,0,News API
 10/02/2025,ChatGPT and Google won battle for best tech Super Bowl ads — and Meta lost,0.6667,News API
-10/02/2025,"A software engineer shares the résumé that got him onsite interviews at Meta, Amazon, and Dropbox — and hired at Microsoft",0.0,News API
-10/02/2025,Meta faces lawsuit for training AI with pirated books,0.0,News API
-10/02/2025,Mark Zuckerberg está reestructurando Meta para centrarse en la IA: la excepción ha sido Europa y su regulación laboral,0.0,News API
+10/02/2025,"A software engineer shares the résumé that got him onsite interviews at Meta, Amazon, and Dropbox — and hired at Microsoft",0,News API
+10/02/2025,Meta faces lawsuit for training AI with pirated books,0,News API
+10/02/2025,Mark Zuckerberg está reestructurando Meta para centrarse en la IA: la excepción ha sido Europa y su regulación laboral,0,News API
 10/02/2025,Reid Hoffman doesn't want Big Tech's pivot from fact-checking to mean more misinformation,0.0625,News API
 10/02/2025,Ready at Dawn co-founder says Ubisoft demanded their game’s protagonist be male,-0.0667,News API
+10/02/2025,21,0.5171,eodhd.com
 11/02/2025,Meta's job cuts surprised some employees who said they weren't low-performers,0.1,News API
-11/02/2025,Meta Starts Eliminating Jobs in Shift To Find AI Talent,0.0,News API
-11/02/2025,Meta diseñará sus chips de IA con ayuda de un ingeniero de Samsung,0.0,News API
+11/02/2025,Meta Starts Eliminating Jobs in Shift To Find AI Talent,0,News API
+11/02/2025,Meta diseñará sus chips de IA con ayuda de un ingeniero de Samsung,0,News API
 11/02/2025,Federal Workers Launch New Lawsuit to Fight DOGE’s Data Access,0.1364,News API
 11/02/2025,The He-Man Movie Has Found a Few More Heroes,0.15,News API
-12/02/2025,12 Days of Insider Studios,0.0,News API
-12/02/2025,A Taylor Lautner: Werewolf Hunter TV Series Will Pick Up Where Twilight Left Off,0.0,News API
+11/02/2025,24,0.7406,eodhd.com
+12/02/2025,12 Days of Insider Studios,0,News API
+12/02/2025,A Taylor Lautner: Werewolf Hunter TV Series Will Pick Up Where Twilight Left Off,0,News API
+12/02/2025,7,0.6049,eodhd.com
 13/02/2025,You thought AR and VR were expensive? Wait til you see what Meta wants to spend on AI this year,-0.15,News API
 13/02/2025,Utilities want to power Big Tech's AI ambitions with natural gas. These are the data centers they're betting on.,0.05,News API
 13/02/2025,Alien: Rogue Incursion Meta Quest 3 review: Brilliant gameplay marred by one big problem,0.2167,News API
 13/02/2025,Arm reportedly signs Meta as first chip customer,0.25,News API
-13/02/2025,German Regulator Charges Apple With Abuse of Power Over App Tracking Tool,0.0,News API
+13/02/2025,German Regulator Charges Apple With Abuse of Power Over App Tracking Tool,0,News API
 13/02/2025,Director of the Game ‘Avowed’ Says AI Can’t Replace Human Creativity,-0.2,News API
-14/02/2025,Meta’s Ray-Bans have sold two million pairs — its maker is prepping to sell 10M each year,0.0,News API
-14/02/2025,Meta Building Big-Ass Undersea Internet Cable,0.0,News API
-14/02/2025,Meta Is Looking to Get Into the AI Humanoid Robot Business,0.0,News API
-14/02/2025,"Like Apple, Meta is Working on Humanoid Robots",0.0,News API
-14/02/2025,"Meta anuncia Project Waterworth, un gigantesco cable submarino de fibra óptica",0.0,News API
-14/02/2025,Meta stock continues record run: 'Prime example' of implementing AI,0.0,News API
-14/02/2025,Meta quiere revolucionar el mercado de los robots humanoides con IA,0.0,News API
-14/02/2025,"Instagram is testing a dislike button, but only for comments",0.0,News API
-14/02/2025,Meta Just Made a $65 Billion Bet--And It Could Change Everything,0.0,News API
-14/02/2025,Meta: Are humanoid robots reshaping the tech giant's AI narrative?,0.0,News API
-15/02/2025,Report: Meta Betting on AI-Powered Humanoid Robots,0.0,News API
+13/02/2025,21,0.4035,eodhd.com
+14/02/2025,Meta’s Ray-Bans have sold two million pairs — its maker is prepping to sell 10M each year,0,News API
+14/02/2025,Meta Building Big-Ass Undersea Internet Cable,0,News API
+14/02/2025,Meta Is Looking to Get Into the AI Humanoid Robot Business,0,News API
+14/02/2025,"Like Apple, Meta is Working on Humanoid Robots",0,News API
+14/02/2025,"Meta anuncia Project Waterworth, un gigantesco cable submarino de fibra óptica",0,News API
+14/02/2025,Meta stock continues record run: 'Prime example' of implementing AI,0,News API
+14/02/2025,Meta quiere revolucionar el mercado de los robots humanoides con IA,0,News API
+14/02/2025,"Instagram is testing a dislike button, but only for comments",0,News API
+14/02/2025,Meta Just Made a $65 Billion Bet--And It Could Change Everything,0,News API
+14/02/2025,Meta: Are humanoid robots reshaping the tech giant's AI narrative?,0,News API
+14/02/2025,26,0.7628,eodhd.com
+15/02/2025,Report: Meta Betting on AI-Powered Humanoid Robots,0,News API
+15/02/2025,8,0.3268,eodhd.com
 16/02/2025,Meta Project Aria - Smart Glasses Research Kit,0.2143,News API
 16/02/2025,Meta Says It’ll Tattle to Trump if EU Keeps Being Mean,-0.3125,News API
+16/02/2025,9,0.5879,eodhd.com
 17/02/2025,"Meta's Ray-Ban smart glasses are a hit, and it's now planning a massive production ramp-up",0.1071,News API
-17/02/2025,"Ni IA, ni realidad virtual: Apple y Meta ya están preparándose para la siguiente revolución",0.0,News API
-17/02/2025,Ray-Ban Meta Glasses: Massive Produktionssteigerung geplant,0.0,News API
+17/02/2025,"Ni IA, ni realidad virtual: Apple y Meta ya están preparándose para la siguiente revolución",0,News API
+17/02/2025,Ray-Ban Meta Glasses: Massive Produktionssteigerung geplant,0,News API
+17/02/2025,10,0.5615,eodhd.com
 18/02/2025,Facebook is about to mass delete a lot of old live streams,0.1182,News API
-18/02/2025,Meta announces its next Connect — and a Llama AI surprise,0.0,News API
-18/02/2025,Meta plans to build the world's longest subsea cable that will connect the US to India,0.0,News API
+18/02/2025,Meta announces its next Connect — and a Llama AI surprise,0,News API
+18/02/2025,Meta plans to build the world's longest subsea cable that will connect the US to India,0,News API
 18/02/2025,"The wait is finally over. Mira Murati announces new startup, Thinking Machines Lab.",0.0682,News API
-19/02/2025,2025 is 'a Meta story' for Big Tech. Here's why.,0.0,News API
-20/02/2025,"Meta, it's time to kill Horizon Worlds before it kills the Meta Quest",0.0,News API
+18/02/2025,24,0.5519,eodhd.com
+19/02/2025,2025 is 'a Meta story' for Big Tech. Here's why.,0,News API
+19/02/2025,30,0.6856,eodhd.com
+20/02/2025,"Meta, it's time to kill Horizon Worlds before it kills the Meta Quest",0,News API
 20/02/2025,"FTC Launches Broad Tech 'Censorship' Probe Targeting Meta, Uber",0.0625,News API
-20/02/2025,You can't use Meta in China but the OnePlus Watch 3 is 'Meda in China',0.0,News API
-21/02/2025,Internal Meta documents show which teams were hit the hardest in 'low performer' cuts,0.0,News API
-21/02/2025,On Zero Sum Games (The Informational Meta-Game),0.0,News API
+20/02/2025,You can't use Meta in China but the OnePlus Watch 3 is 'Meda in China',0,News API
+20/02/2025,19,0.7091,eodhd.com
+21/02/2025,Internal Meta documents show which teams were hit the hardest in 'low performer' cuts,0,News API
+21/02/2025,On Zero Sum Games (The Informational Meta-Game),0,News API
+21/02/2025,3,0.9927,eodhd.com
 22/02/2025,You shouldn't steal eBooks unless you have good lawyers,0.7,News API
 22/02/2025,Water Chlorination Might Be Raising Our Risk of Certain Cancers,0.2143,News API
-24/02/2025,Meet the Journalists Training AI Models for Meta and OpenAI,0.0,News API
+22/02/2025,4,0.4375,eodhd.com
+24/02/2025,Meet the Journalists Training AI Models for Meta and OpenAI,0,News API
 24/02/2025,I only had positive performance reviews during 2 years at Meta. I still got laid off as a 'low performer.',0.0758,News API
 24/02/2025,Meta rolls out its AI chatbot to nearly a dozen Middle Eastern nations,0.05,News API
-25/02/2025,Elon Musk hates OpenAI's for-profit transformation plan. He's not the only one.,0.0,News API
+25/02/2025,Elon Musk hates OpenAI's for-profit transformation plan. He's not the only one.,0,News API
 25/02/2025,Meta just scored a small win in its feud with Apple,0.275,News API
-25/02/2025,Chicory: A JVM native WebAssembly runtime,0.0,News API
+25/02/2025,Chicory: A JVM native WebAssembly runtime,0,News API
 25/02/2025,Daniel Kaluuya’s Barney Movie Has Added Another Surprising Talent: Ayo Edebiri,0.7,News API
 26/02/2025,"Meta in talks for $200 billion AI data center project, The Information reports",-0.1,News API
 26/02/2025,Meta to build $200B AI data center. Clayco CEO weighs in.,-0.1,News API
-27/02/2025,Meta apologizes for the sudden influx of graphic content on Instagram reels,0.0,News API
-27/02/2025,Meta is firing about 20 employees for leaking,0.0,News API
-27/02/2025,Meta’s AI chatbot will soon have a standalone app,0.0,News API
+27/02/2025,Meta apologizes for the sudden influx of graphic content on Instagram reels,0,News API
+27/02/2025,Meta is firing about 20 employees for leaking,0,News API
+27/02/2025,Meta’s AI chatbot will soon have a standalone app,0,News API
 27/02/2025,Why Did Instagram Reels Start Recommending a Ton of Violent and Graphic Content?,-0.4,News API
-27/02/2025,Apple will let parents share their kids’ ages to limit app access,0.0,News API
+27/02/2025,Apple will let parents share their kids’ ages to limit app access,0,News API
 27/02/2025,Meta Aria Gen 2 smart glasses look like serious upgrade on Ray-Ban Meta,-0.0595,News API
 27/02/2025,Sesame is the first voice assistant I’ve ever wanted to talk to more than once,0.375,News API
-28/02/2025,Meta to Release Standalone AI App to Compete With ChatGPT,0.0,News API
+28/02/2025,Meta to Release Standalone AI App to Compete With ChatGPT,0,News API
 28/02/2025,"Mark Zuckerberg copied Benson Boone's Grammys look, right down to the sparkly blue jumpsuit",0.0434,News API
 01/03/2025,"These niche, expensive VR headsets will fill the gap Meta Quest has left behind in 2025",-0.3,News API
 02/03/2025,'I'm not tech-savvy - but within hours I could buy an illegal knife on social media',-0.2333,News API
-03/03/2025,Conspiracy Theorists Think Mark Zuckerberg Started Myrtle Beach Wildfires,0.0,News API
+03/03/2025,Conspiracy Theorists Think Mark Zuckerberg Started Myrtle Beach Wildfires,0,News API
 03/03/2025,Trump’s FCC Head Warns EU Content Rules ‘Incompatible’ With Free Speech,0.4,News API
-04/03/2025,"Somehow, David Arquette Will Return for the Increasingly Meta Scream 7",0.0,News API
-04/03/2025,People Are Paying Millions to Dine With Donald Trump at Mar-a-Lago,0.0,News API
+04/03/2025,"Somehow, David Arquette Will Return for the Increasingly Meta Scream 7",0,News API
+04/03/2025,People Are Paying Millions to Dine With Donald Trump at Mar-a-Lago,0,News API
 04/03/2025,These smart glasses have given me a new reason to record video again,0.1753,News API
 04/03/2025,"TECNO launches the Camon 40 series, unveils new AI smart glasses to take on Meta",0.1753,News API
 04/03/2025,How brands can elevate everyday moments in 2025,-0.2,News API
+05/03/2025,Mysterious Blocklist Prevents Former Meta Employees From Returning,0,News API
+05/03/2025,Utah becomes the first state to pass an app store age verification bill,0.25,News API
+05/03/2025,Meta keeps secret 'block' lists of ex-employees — and even help from its C-suite can't get you off them,-0.4,News API
+05/03/2025,Instagram says it's 'doubling down' on DMs. This chart shows just how much.,0.0222,News API
+06/03/2025,DuckDuckGo is amping up its AI search tool but will still let you leave it behind,-0.4,News API
+06/03/2025,"Zuckerberg despidió al 5% de la plantilla de Meta ""por bajo rendimiento"". Sus exempleados aseguran que hay otra razón",0,News API
+06/03/2025,You don't have to wait til Civ VII VR to play great strategy games on the Meta Quest 3,0.8,News API
+06/03/2025,Project Astra joins Gemini arm as Google gears up for a public launch,0,News API
+07/03/2025,Tsleil-Waututh Nation and the Government of Canada sign a Reconciliation Agreement,0,Alpha Vantage
+07/03/2025,1 Artificial Intelligence  ( AI )  Semiconductor Stock to Buy on the Dip Hand Over Fist Right Now  ( Hint: It's Not Nvidia or AMD ) ,-0.1571,Alpha Vantage
+07/03/2025,Nature's Fynd Wins Prestigious NEXTY Award for Dairy-Free Fy™ Yogurt,0.3,Alpha Vantage
+07/03/2025,MP Hanley announces over $1 million to support Yukon First Nation tourism and cultural industries,0.175,Alpha Vantage
+07/03/2025,Why Lumen Stock Is Surging Today,0,Alpha Vantage
+07/03/2025,Largest U.S. Kidney Patient Group Tells Disney CEO Robert Iger to Hold The View Co-Host Joy Behar Publicly Accountable for Saying Kidney Donation is Contingent Upon Political Beliefs of Transplant Recipient,0.175,Alpha Vantage
+07/03/2025,"NVIDIA vs. IONQ: Which is the Better AI Stock By Far, and a Buy?",0.3,Alpha Vantage
+07/03/2025,"Big Tech Discounts Investors Can Buy Now  ( GOOGL, AMZN, META ) ",0,Alpha Vantage
+07/03/2025,"ROSEN, A LEADING LAW FIRM,, Encourages Integral Ad Science Holding Corp. Investors to Secure Counsel Before Important Deadline in Securities Class Action - IAS - Integral Ad Science Holdi  ( NASDAQ:IAS ) ",0.175,Alpha Vantage
+07/03/2025,Samsung Android XR Headset Could Cost as Much as the Apple Vision Pro,0.2,News API
+07/03/2025,Inside the high-wire business of MrBeast,0,News API
+07/03/2025,‘Startup Nation’ Groups Say They’re Meeting Trump Officials to Push for Deregulated ‘Freedom Cities’,0,News API
+08/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages e.l.f. Beauty, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ELF - e.l.f. Beauty  ( NYSE:ELF ) ",0.175,Alpha Vantage
+08/03/2025,"Meta Secretly Keeps 'Block' Lists of Ex-Employee, Former Google HR Chief Calls It 'Unheard Of' - Meta Platforms  ( NASDAQ:META ) ",-0.2,Alpha Vantage
+08/03/2025,"Consumer Tech News  ( Mar 3-Mar 7 ) : Discord May Initiate IPO, Apple's New MacBook Air With M4 Chip, Tencent' Yuanbao AI Surpassed DeepSeek As Most Downloaded & More - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.3788,Alpha Vantage
+08/03/2025,KIDZ BOP KIDS BREAK GUINNESS WORLD RECORDS TITLE AT WEMBLEY ARENA!,0,Alpha Vantage
+08/03/2025,Dupixent®  ( dupilumab )  Late-Breaking Positive Pivotal Data in Bullous Pemphigoid Presented at AAD,0.3636,Alpha Vantage
+08/03/2025,Press Release: Dupixent late-breaking positive pivotal data in bullous pemphigoid presented at AAD,0.3636,Alpha Vantage
+08/03/2025,Press Release: Dupixent late-breaking positive pivotal data in bullous pemphigoid presented at AAD - Regeneron Pharmaceuticals  ( NASDAQ:REGN ) ,0.3636,Alpha Vantage
+08/03/2025,"SQ, XYZ FINAL DEADLINE: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Block, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important March 18 Deadline in Securities Class Action - SQ, XYZ",0.225,Alpha Vantage
+08/03/2025,Government of Canada awards contract to Chantier Davie Canada Inc. for construction of new polar icebreaker,0.0265,Alpha Vantage
+08/03/2025,"ROSEN, NATIONAL INVESTOR COUNSEL, Encourages Walgreens Boots Alliance, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - WBA - Walgreens Boots Alliance  ( NASDAQ:WBA ) ",0.3,Alpha Vantage
+08/03/2025,"ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Elastic N.V. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ESTC - Elastic  ( NYSE:ESTC ) ",0.225,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Edison International - Edison Intl  ( NYSE:EIX ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Rocket Lab USA - Rocket Lab USA  ( NASDAQ:RKLB ) ",0,Alpha Vantage
+08/03/2025,How Facebook Marketplace is keeping young people on the platform,0.1,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Manhattan Associates - Manhattan Associates  ( NASDAQ:MANH ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of e.l.f. Beauty - e.l.f. Beauty  ( NYSE:ELF ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Maravai LifeSciences - Maravai LifeSciences  ( NASDAQ:MRVI ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Venture - Venture Global  ( NYSE:VG ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Intellia Therapeutics - Intellia Therapeutics  ( NASDAQ:NTLA ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of TransMedics Group - TransMedics Group  ( NASDAQ:TMDX ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Alarum - Alarum Technologies  ( NASDAQ:ALAR ) ",0,Alpha Vantage
+08/03/2025,"Electronic Arts Inc. Investor News: If You Have Suffered Losses in Electronic Arts Inc.  ( NASDAQ: EA ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Electronic Arts  ( NASDAQ:EA ) ",-0.2,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Constellation Brands - Constellation Brands  ( NYSE:STZ ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Neumora Therapeutics - Neumora Therapeutics  ( NASDAQ:NMRA ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Mullen - Mullen Automotive  ( NASDAQ:MULN ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Monolithic Power Systems - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0,Alpha Vantage
+08/03/2025,"SHAREHOLDER REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Merck & Co. - Merck & Co  ( NYSE:MRK ) ",0,Alpha Vantage
+08/03/2025,"Google Faces Congressional Scrutiny As House Panel Demands Internal Communications On Government Pressure: 'YouTube… Was A Direct Participant In The Federal Government's Censorship Regime' - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",0.05,Alpha Vantage
+08/03/2025,"The Smartest Growth Stock to Buy With $1,000 Right Now",0.2857,Alpha Vantage
+08/03/2025,Best Language Learning App  ( 2025 ) : Mondly Named Top Language Learning Program by Expert Consumers,0.75,Alpha Vantage
+08/03/2025,3 Reasons Tech Investors Shouldn't Worry Too Much About Tumbling Artificial Intelligence  ( AI )  Stocks This Week,-0.2,Alpha Vantage
+08/03/2025,"2 Stock-Split AI Stocks to Buy Before They Soar in 2025, According to Wall Street",0,Alpha Vantage
+08/03/2025,CoinEx Strategic Trading: Key Insights on Auto-Invest Plan,0,Alpha Vantage
+08/03/2025,"Google's Monopoly Fight Just Got More Intense: Justice Department Reaffirms Plan To Split Up The Tech Giant In Historic Antitrust Battle - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.175,Alpha Vantage
+08/03/2025,How DeepSeek's rise sparked a massive re-rating of Chinese tech stocks,0,Alpha Vantage
+08/03/2025,"TDS ALERT: Bragar Eagel & Squire, P.C. is Investigating Telephone and Data Systems, Inc on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - Telephone and Data Sys  ( NYSE:TDS ) ",-0.2,Alpha Vantage
+08/03/2025,"APPLOVIN ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against AppLovin Corporation and Encourages Investors to Contact the Firm - AppLovin  ( NASDAQ:APP ) ",-0.05,Alpha Vantage
+08/03/2025,"ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Rocket Lab USA, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - RKLB - Rocket Lab USA  ( NASDAQ:RKLB ) ",0.175,Alpha Vantage
+08/03/2025,"ROSEN, A LEADING NATIONAL FIRM, Encourages Skyworks Solutions, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SWKS - Skyworks Solutions  ( NASDAQ:SWKS ) ",0.175,Alpha Vantage
+08/03/2025,"SoundHound AI, Inc. Investor News: If You Have Suffered Losses in SoundHound AI, Inc.  ( NASDAQ: SOUN, SOUNW )  You Are Encouraged to Contact The Rosen Law Firm About Your Rights - SoundHound AI  ( NASDAQ:SOUN ) ",-0.2,Alpha Vantage
+09/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages Quantum Computing Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - QUBT - Quantum Computing  ( NASDAQ:QUBT ) ",0.175,Alpha Vantage
