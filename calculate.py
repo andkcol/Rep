@@ -18,7 +18,7 @@ def process_sentiment_data():
             df = pd.read_csv(file_path, parse_dates=['Date'])
             
             # Ensure 'date' column is in datetime format and sort by date
-            df['Date'] = pd.to_datetime(df['Date'])
+            df['Date'] = pd.to_datetime(df['Date'], format='%d/%m/%Y')
             df = df.sort_values('Date')
             
             # Group by date and calculate daily average sentiment score
