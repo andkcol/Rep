@@ -1029,6 +1029,7 @@ Date,Title,Sentiment,Source
 13/02/2025,German Regulator Charges Apple With Abuse of Power Over App Tracking Tool,0,News API
 13/02/2025,Director of the Game ‘Avowed’ Says AI Can’t Replace Human Creativity,-0.2,News API
 13/02/2025,21,0.4035,eodhd.com
+13/02/2025,Thousands of Americans Use Sideloading Workaround to Install TikTok on iPhones,0.0,News API
 14/02/2025,Meta’s Ray-Bans have sold two million pairs — its maker is prepping to sell 10M each year,0,News API
 14/02/2025,Meta Building Big-Ass Undersea Internet Cable,0,News API
 14/02/2025,Meta Is Looking to Get Into the AI Humanoid Robot Business,0,News API
@@ -1073,8 +1074,11 @@ Date,Title,Sentiment,Source
 25/02/2025,Meta just scored a small win in its feud with Apple,0.275,News API
 25/02/2025,Chicory: A JVM native WebAssembly runtime,0,News API
 25/02/2025,Daniel Kaluuya’s Barney Movie Has Added Another Surprising Talent: Ayo Edebiri,0.7,News API
+25/02/2025,Meta Platforms darf von bild.de übermittelte Daten nicht generell speichern,0.0,News API
+25/02/2025,Microsoft brings data center hype back to earth but the boom lives on,-0.05,News API
 26/02/2025,"Meta in talks for $200 billion AI data center project, The Information reports",-0.1,News API
 26/02/2025,Meta to build $200B AI data center. Clayco CEO weighs in.,-0.1,News API
+26/02/2025,Meta Quest 3: Niantic macht räumliche Scans greifbar,0.0,News API
 27/02/2025,Meta apologizes for the sudden influx of graphic content on Instagram reels,0,News API
 27/02/2025,Meta is firing about 20 employees for leaking,0,News API
 27/02/2025,Meta’s AI chatbot will soon have a standalone app,0,News API
@@ -1084,10 +1088,12 @@ Date,Title,Sentiment,Source
 27/02/2025,Sesame is the first voice assistant I’ve ever wanted to talk to more than once,0.375,News API
 28/02/2025,Meta to Release Standalone AI App to Compete With ChatGPT,0,News API
 28/02/2025,"Mark Zuckerberg copied Benson Boone's Grammys look, right down to the sparkly blue jumpsuit",0.0434,News API
+28/02/2025,Nach Flut von Gewaltvideos bei Instagram greift Meta ein,0.0,News API
 01/03/2025,"These niche, expensive VR headsets will fill the gap Meta Quest has left behind in 2025",-0.3,News API
 02/03/2025,'I'm not tech-savvy - but within hours I could buy an illegal knife on social media',-0.2333,News API
 03/03/2025,Conspiracy Theorists Think Mark Zuckerberg Started Myrtle Beach Wildfires,0,News API
 03/03/2025,Trump’s FCC Head Warns EU Content Rules ‘Incompatible’ With Free Speech,0.4,News API
+03/03/2025,Deepfake nudes are the perfect issue for Melania Trump to take on: It's bipartisan and everyone agrees it's a problem.,1.0,News API
 04/03/2025,"Somehow, David Arquette Will Return for the Increasingly Meta Scream 7",0,News API
 04/03/2025,People Are Paying Millions to Dine With Donald Trump at Mar-a-Lago,0,News API
 04/03/2025,These smart glasses have given me a new reason to record video again,0.1753,News API
@@ -1113,6 +1119,7 @@ Date,Title,Sentiment,Source
 07/03/2025,Samsung Android XR Headset Could Cost as Much as the Apple Vision Pro,0.2,News API
 07/03/2025,Inside the high-wire business of MrBeast,0,News API
 07/03/2025,‘Startup Nation’ Groups Say They’re Meeting Trump Officials to Push for Deregulated ‘Freedom Cities’,0,News API
+07/03/2025,WhatsApp wants you using Meta AI through a dedicated widget now,0.2,News API
 08/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages e.l.f. Beauty, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ELF - e.l.f. Beauty  ( NYSE:ELF ) ",0.175,Alpha Vantage
 08/03/2025,"Meta Secretly Keeps 'Block' Lists of Ex-Employee, Former Google HR Chief Calls It 'Unheard Of' - Meta Platforms  ( NASDAQ:META ) ",-0.2,Alpha Vantage
 08/03/2025,"Consumer Tech News  ( Mar 3-Mar 7 ) : Discord May Initiate IPO, Apple's New MacBook Air With M4 Chip, Tencent' Yuanbao AI Surpassed DeepSeek As Most Downloaded & More - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.3788,Alpha Vantage
@@ -1153,4 +1160,236 @@ Date,Title,Sentiment,Source
 08/03/2025,"ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Rocket Lab USA, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - RKLB - Rocket Lab USA  ( NASDAQ:RKLB ) ",0.175,Alpha Vantage
 08/03/2025,"ROSEN, A LEADING NATIONAL FIRM, Encourages Skyworks Solutions, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SWKS - Skyworks Solutions  ( NASDAQ:SWKS ) ",0.175,Alpha Vantage
 08/03/2025,"SoundHound AI, Inc. Investor News: If You Have Suffered Losses in SoundHound AI, Inc.  ( NASDAQ: SOUN, SOUNW )  You Are Encouraged to Contact The Rosen Law Firm About Your Rights - SoundHound AI  ( NASDAQ:SOUN ) ",-0.2,Alpha Vantage
+08/03/2025,"Meta is letting its engineers brag openly about its AR glasses, and I love it",0.25,News API
 09/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages Quantum Computing Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - QUBT - Quantum Computing  ( NASDAQ:QUBT ) ",0.175,Alpha Vantage
+09/03/2025,"ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages GSK plc Investors to Secure Counsel Before Important Deadline in Securities Class Action - GSK - GSK  ( NYSE:GSK ) ",0.35,Alpha Vantage
+09/03/2025,"ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages ICON plc Investors to Secure Counsel Before Important Deadline in Securities Class Action - ICLR - Icon  ( NASDAQ:ICLR ) ",0.35,Alpha Vantage
+09/03/2025,"ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages Edison International Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - EIX - Edison Intl  ( NYSE:EIX ) ",0.2071,Alpha Vantage
+09/03/2025,"ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Neumora Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - NMRA - Neumora Therapeutics  ( NASDAQ:NMRA ) ",0.19,Alpha Vantage
+09/03/2025,Tariq Khatri Sets World Record for Meta Engagement Rate and Lowest Cost Per View in Digital Marketing History,0.0,Alpha Vantage
+09/03/2025,"RC INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Ready Capital Corporation Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Ready Capital  ( NYSE:RC ) ",0.1667,Alpha Vantage
+09/03/2025,"ELF INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that e.l.f. Beauty, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - e.l.f. Beauty  ( NYSE:ELF ) ",0.1,Alpha Vantage
+09/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages Intellia Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - NTLA - Intellia Therapeutics  ( NASDAQ:NTLA ) ",0.175,Alpha Vantage
+09/03/2025,"ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Monolithic Power Systems, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MPWR - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.3,Alpha Vantage
+09/03/2025,"ROSEN, TOP-RANKED INVESTOR COUNSEL, Encourages ModivCare Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MODV - ModivCare  ( NASDAQ:MODV ) ",0.3,Alpha Vantage
+09/03/2025,TOP RANKED ROSEN LAW FIRM Encourages TELUS International  ( Cda )  Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - TIXT - TELUS Intl  ( NYSE:TIXT ) ,0.2,Alpha Vantage
+09/03/2025,"ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Semtech Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - SMTC - Semtech  ( NASDAQ:SMTC ) ",0.28,Alpha Vantage
+09/03/2025,"ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Atkore Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ATKR - Atkore  ( NYSE:ATKR ) ",0.3,Alpha Vantage
+09/03/2025,"Elon Musk's xAI Expands, Apple Delays Siri, Meta's AI Assistant May Get Paid Subscriptions, And More: This Week In AI - Meta Platforms  ( NASDAQ:META ) , Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
+09/03/2025,"DEADLINE ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Pacira - Pacira BioSciences  ( NASDAQ:PCRX ) ",0.0,Alpha Vantage
+09/03/2025,"SHAREHOLDER ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Ready Capital - Ready Capital  ( NYSE:RC ) ",0.2,Alpha Vantage
+09/03/2025,Meet the Unstoppable Artificial Intelligence  ( AI )  Stock That Could Join the $3 Trillion Club by 2028,-0.6,Alpha Vantage
+09/03/2025,2 Leading Tech Stocks to Buy in 2025,0.0,Alpha Vantage
+09/03/2025,3 Best Artificial Intelligence  ( AI )  Stocks to Buy in March,0.2,Alpha Vantage
+09/03/2025,2 AI Chip Stocks to Buy on the Dip,0.0,Alpha Vantage
+09/03/2025,Did Warren Buffett Sell This Artificial Intelligence  ( AI )  Stock Too Soon?,-0.6,Alpha Vantage
+09/03/2025,2 Top Stocks That Could Double Your Money in 5 Years,0.25,Alpha Vantage
+09/03/2025,Is NuScale Power Stock a Buy Now?,0.0,Alpha Vantage
+09/03/2025,2 Reasons the Tech Sell-Off Could Be a Great Buying Opportunity for AI Stock Investors,0.8,Alpha Vantage
+10/03/2025,Chopped Leaf Ignites Taste Buds with New Jalapeño Popper Grilled Cheese,0.1364,Alpha Vantage
+10/03/2025,BIG3 AND THE NATIONAL BASKETBALL LEAGUE TO BRING FIRST INTERNATIONAL SHOWCASE TO AUSTRALIA IN PARTNERSHIP WITH GAMEABOVE SPORTS,0.125,Alpha Vantage
+10/03/2025,GoPro's 'Grom Quest' Talent Search Program Brings Five New Stars into the GoPro Athlete Family - GoPro  ( NASDAQ:GPRO ) ,0.1364,Alpha Vantage
+10/03/2025,Ride in Style with JAKKS Pacific's New Roxy Dolls - Jakks Pacific  ( NASDAQ:JAKK ) ,0.1364,Alpha Vantage
+10/03/2025,Inozyme Pharma Reports Full Year 2024 Financial Results and Announces Strategic Prioritization of ENPP1 Deficiency Pivotal Program and Recent Business Highlights,0.2125,Alpha Vantage
+10/03/2025,Spin Master Renews Its Global Master Toy Partner Agreement with DreamWorks Animation's Preschool Powerhouse Gabby's Dollhouse,0.0,Alpha Vantage
+10/03/2025,"""Reef Builders"" Documentary Chronicling One of the World's Largest* Coral Reef Restoration Programs Announced at SXSW Film Festival",0.0,Alpha Vantage
+10/03/2025,Novo Nordisk A/S: CagriSema demonstrates superior weight loss in adults with obesity or overweight and type 2 diabetes in the REDEFINE 2 trial,0.7,Alpha Vantage
+10/03/2025,Synaptics Launches Ultra-Low-Power Wi-Fi/Bluetooth/802.15.4 Triple Combo SoC Family for Embedded Edge AI IoT - Synaptics  ( NASDAQ:SYNA ) ,0.0,Alpha Vantage
+10/03/2025,"MannKind Showcases Efficacy, Safety, and Mealtime Control Data from Recent Pediatric and Adult Studies of Afrezza® at the ATTD Conference, March 19-22 - MannKind  ( NASDAQ:MNKD ) ",0.05,Alpha Vantage
+10/03/2025,"MannKind Showcases Efficacy, Safety, and Mealtime Control Data from Recent Pediatric and Adult Studies of Afrezza® at the ATTD Conference, March 19-22",0.05,Alpha Vantage
+10/03/2025,Synaptics Extends Edge AI Portfolio with High-Performance Adaptive MCUs for Multimodal Context-Aware Computing - Synaptics  ( NASDAQ:SYNA ) ,0.0,Alpha Vantage
+10/03/2025,"Mark Zuckerberg's Meta Platforms A Lucrative Bet As 'Investors Favor Less Leveraged Tech Stocks,' Says Expert Amid Mag7's 2025 Underperformance - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.1667,Alpha Vantage
+10/03/2025,3 Mistakes to Avoid if the Stock Market Crashes in 2025,0.0,Alpha Vantage
+10/03/2025,Has Nvidia Stock Become Too Cheap to Ignore?,0.4,Alpha Vantage
+10/03/2025,Better Buy in 2025: Nvidia Stock or Bitcoin?,0.5,Alpha Vantage
+10/03/2025,Nasdaq Stock Correction: 4 Magnificent Artificial Intelligence  ( AI )  Stocks That Make for Slam-Dunk Buys Right Now,0.2286,Alpha Vantage
+10/03/2025,Wolters Kluwer appoints Lisa Nelson as CEO of Financial & Corporate Compliance,0.0,Alpha Vantage
+10/03/2025,Wolters Kluwer appoints Lisa Nelson as CEO of Financial & Corporate Compliance - Wolters Kluwer  ( OTC:WTKWY ) ,0.0,Alpha Vantage
+10/03/2025,"Mark Zuckerberg Offered China Full Censorship Control And User Data Access, Says Meta Whistleblower: 'Working Hand In Glove With The Chinese Communist Party' - Meta Platforms  ( NASDAQ:META ) ",0.175,Alpha Vantage
+10/03/2025,Bitdeer Completes Testing of its Latest SEAL03 Bitcoin Mining Chip - Bitdeer Technologies  ( NASDAQ:BTDR ) ,0.5,Alpha Vantage
+10/03/2025,"Ray-Ban and Meta unveil new smart glasses, but good luck snagging a pair",0.3502,News API
+10/03/2025,"Zuckerberg's Meta Considered Sharing User Data with China, Whistleblower Alleges",0.0,News API
+10/03/2025,"George R.R. Martin Is Really Never, Ever Finishing That Damn Book",-0.1,News API
+11/03/2025,Meta Is Ready to Rock Nvidia’s Boat With Its In-House AI Chip,0.2,News API
+11/03/2025,Co-op Meta Quest games were my highlight of the March VR Games Showcase,0.0,News API
+11/03/2025,Some female Meta employees created a secret 'Facebook Feminist Fight Club' group after feeling unsupported by Sheryl Sandberg,-0.2,News API
+11/03/2025,Meta ya prueba un chip propio para entrenar modelos de IA,0.0,News API
+11/03/2025,"The AI data center boom will create new jobs. Most won't be at Amazon, Microsoft, Google, or Meta.",0.1788,News API
+11/03/2025,Bluesky CEO appears to troll Mark Zuckerberg with her own Latin T-shirt that says 'a world without Caesars',0.6,News API
+11/03/2025,Facebook Was 'Hand In Glove' With China,0.0,News API
+12/03/2025,Meta is trying to block ex-employee’s book alleging misconduct and harassment,0.0,News API
+12/03/2025,"Amazon, Google and Meta Support Tripling Nuclear Power By 2050",0.0,News API
+12/03/2025,Bericht: Meta Platforms testet selbst entwickelten Chip für KI-Training,0.0,News API
+13/03/2025,TOP RANKED ROSEN LAW FIRM Encourages Edison International Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - EIX - Edison Intl  ( NYSE:EIX ) ,0.1563,Alpha Vantage
+13/03/2025,"ROSEN, LEADING INVESTOR COUNSEL, Encourages TELUS International  ( Cda )  Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - TIXT - TELUS Intl  ( NYSE:TIXT ) ",0.225,Alpha Vantage
+13/03/2025,"ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Semtech Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - SMTC - Semtech  ( NASDAQ:SMTC ) ",0.3,Alpha Vantage
+13/03/2025,"ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages Walgreens Boots Alliance, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - WBA - Walgreens Boots Alliance  ( NASDAQ:WBA ) ",0.35,Alpha Vantage
+13/03/2025,"ROSEN, LEADING TRIAL ATTORNEYS, Encourages Polestar Automotive Holding UK PLC Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - PSNY - Polestar Automotive  ( NASDAQ:PSNY ) ",0.19,Alpha Vantage
+13/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages ICON plc Investors to Secure Counsel Before Important Deadline in Securities Class Action - ICLR - Icon  ( NASDAQ:ICLR ) ",0.175,Alpha Vantage
+13/03/2025,"ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Target Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - TGT - Target  ( NYSE:TGT ) ",0.3,Alpha Vantage
+13/03/2025,"IIPR DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Innovative Industrial Properties, Inc. Investors to Secure Counsel Before Important March 18 Deadline in Securities Class Action - IIPR - Innovative Ind Props  ( NYSE:IIPR ) ",0.3167,Alpha Vantage
+13/03/2025,"FTAI FINAL DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages FTAI Aviation Ltd. Investors to Secure Counsel Before Important March 18 Deadline in Securities Class Action - FTAI - FTAI Aviation  ( NASDAQ:FTAI ) ",0.18,Alpha Vantage
+13/03/2025,"ROSEN, SKILLED INVESTOR COUNSEL, Encourages Merck & Co., Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MRK - Merck & Co  ( NYSE:MRK ) ",0.35,Alpha Vantage
+13/03/2025,Jim Cramer: The White House should change its messaging,0.0,Alpha Vantage
+13/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages Mullen Automotive, Inc. f/k/a Net Element, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MULN, NETE - Mullen Automotive  ( NASDAQ:MULN ) ",0.14,Alpha Vantage
+13/03/2025,"ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Venture Global, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - VG - Venture Global  ( NYSE:VG ) ",0.1167,Alpha Vantage
+13/03/2025,"ROSEN, LEADING INVESTOR COUNSEL, Encourages Newmont Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - NEM - Newmont  ( NYSE:NEM ) ",0.3,Alpha Vantage
+13/03/2025,"ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Alarum Technologies Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ALAR - Alarum Technologies  ( NASDAQ:ALAR ) ",0.175,Alpha Vantage
+13/03/2025,"ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Skyworks Solutions, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SWKS - Skyworks Solutions  ( NASDAQ:SWKS ) ",0.3,Alpha Vantage
+13/03/2025,GURU Organic Energy Announces Election of Directors,0.0,Alpha Vantage
+13/03/2025,GURU Organic Energy Announces Election of Directors,0.0,Alpha Vantage
+13/03/2025,"Meta Shares Drop During Market Sell-Off, Tariff Concerns: What's Going On? - Meta Platforms  ( NASDAQ:META ) ",0.0,Alpha Vantage
+13/03/2025,O-I GLASS TO DETAIL STRATEGIC INITIATIVES TO DRIVE LONG-TERM VALUE,0.0,Alpha Vantage
+13/03/2025,ZimVie Announces Upcoming Changes to Company's Board of Directors,0.0,Alpha Vantage
+13/03/2025,ZimVie Announces Upcoming Changes to Company's Board of Directors - ZimVie  ( NASDAQ:ZIMV ) ,0.0,Alpha Vantage
+13/03/2025,Why Meta Platforms Stock Is Sinking Today,0.0,Alpha Vantage
+13/03/2025,EXPERIENCE UNFORGETTABLE SPRING CELEBRATIONS AT GRANDE LAKES ORLANDO,0.8,Alpha Vantage
+13/03/2025,Deadline Alert: Elastic N.V.  ( ESTC )  Investors Who Lost Money Urged To Contact Glancy Prongay & Murray LLP About Securities Fraud Lawsuit - Elastic  ( NYSE:ESTC ) ,0.0,Alpha Vantage
+13/03/2025,"Deadline Alert: Venture Global, Inc.  ( VG )  Investors Who Lost Money Urged To Contact Glancy Prongay & Murray LLP About Securities Fraud Lawsuit - Venture Global  ( NYSE:VG ) ",0.0,Alpha Vantage
+13/03/2025,"ANDREW PHUNG HOSTS THE SIZZLING NEW CANADIAN ORIGINAL SERIES, BIG BURGER BATTLE, PREMIERING APRIL 21 ON FLAVOUR NETWORK",0.1705,Alpha Vantage
+13/03/2025,Levi & Korsinsky Notifies Shareholders of AppLovin Corporation ( APP )  of a Class Action Lawsuit and an Upcoming Deadline - AppLovin  ( NASDAQ:APP ) ,0.1,Alpha Vantage
+13/03/2025,Wolters Kluwer successfully prices €500 million seven-year Eurobond,0.75,Alpha Vantage
+13/03/2025,Wolters Kluwer successfully prices €500 million seven-year Eurobond - Wolters Kluwer  ( OTC:WTKWY ) ,0.75,Alpha Vantage
+13/03/2025,HII is Selected to Support the Nation's Combat-Ready Force with $182 Million Pilot Training Contract - Huntington Ingalls Indus  ( NYSE:HII ) ,0.0,Alpha Vantage
+13/03/2025,nuEra Cannabis Expands Medical Cannabis Access for Women's Health,0.0,Alpha Vantage
+13/03/2025,"Producer Inflation Craters, A Government Shutdown Will Be A Buying Opportunity - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+13/03/2025,"Facebook, Instagram, and Threads start testing Community Notes next week",0.0,News API
+13/03/2025,Flatiron Books says it will keep publishing book from ex-Meta employee,0.0,News API
+13/03/2025,Meta stops ex-director from promoting critical memoir,0.0,News API
+13/03/2025,"Meta, Now Fact-Check Free, Is Testing X-Style Community Notes",0.4,News API
+13/03/2025,"'We want to do it right this time,' Meta says as it starts testing Community Notes",0.2857,News API
+13/03/2025,"How to get a FREE Meta Quest 3S with this Verizon internet deal — yes, it's real",0.3,News API
+13/03/2025,"Meta Platforms beginnt Feldtests von ""Community Notes""",0.0,News API
+13/03/2025,Mark Zuckerberg Doesn’t Want You to Read This Book,0.0,News API
+14/03/2025,BYDFi Announces Contract Copy Trading Leader Program - Up to 30% Profit Share for Top Traders,0.5,Alpha Vantage
+14/03/2025,StorageVault Announces Quarterly Dividend for Q1 2025,0.0,Alpha Vantage
+14/03/2025,"BEASLEY BROADCAST GROUP TO REPORT 2024 FOURTH QUARTER FINANCIAL RESULTS, HOST CONFERENCE CALL AND WEBCAST ON MARCH 20 - Beasley Broadcast Group  ( NASDAQ:BBGI ) ",0.0,Alpha Vantage
+14/03/2025,Nasdaq Sell-Off: 2 Stocks Down 53% and 31% to Buy on the Dip and Hold Forever,-0.1556,Alpha Vantage
+14/03/2025,Bitget Wallet Rolls Out Full Berachain Integration Amid Multi-Chain Expansion,0.35,Alpha Vantage
+14/03/2025,"The News Forum's A Healthy Dose Premieres Weekly, Bringing Timely Health & Wellness Insights, Airing Saturdays at 9:30 PM EST",0.5,Alpha Vantage
+14/03/2025,1 Unstoppable Vanguard ETF to Buy With $550 During the S&P 500 Sell-Off,0.0,Alpha Vantage
+14/03/2025,"Trump Suggests Meta May Invest Upto $60 Billion In The US By The End Of 2025 - Meta Platforms  ( NASDAQ:META ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+14/03/2025,"QBTS, DOCU, ULTA, META, TSLA: Top 5 Trending Stocks Today - Meta Platforms  ( NASDAQ:META ) , DocuSign  ( NASDAQ:DOCU ) ",0.5,Alpha Vantage
+14/03/2025,"ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Monolithic Power Systems, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MPWR - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.3,Alpha Vantage
+14/03/2025,"ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages Intellia Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - NTLA - Intellia Therapeutics  ( NASDAQ:NTLA ) ",0.175,Alpha Vantage
+14/03/2025,"ROSEN, THE FIRST FILING FIRM, Encourages Neumora Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - NMRA - Neumora Therapeutics  ( NASDAQ:NMRA ) ",0.1429,Alpha Vantage
+14/03/2025,"ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Fluence Energy, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - FLNC - Fluence Energy  ( NASDAQ:FLNC ) ",0.3,Alpha Vantage
+14/03/2025,"ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages Atkore Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ATKR - Atkore  ( NYSE:ATKR ) ",0.28,Alpha Vantage
+14/03/2025,"PCRX DEADLINE: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Pacira BioSciences, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important March 14 Deadline in Securities Class Action - PCRX - Pacira BioSciences  ( NASDAQ:PCRX ) ",0.3,Alpha Vantage
+14/03/2025,"ROSEN, GLOBAL INVESTOR COUNSEL, Encourages ModivCare Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MODV - ModivCare  ( NASDAQ:MODV ) ",0.225,Alpha Vantage
+14/03/2025,"ROSEN, A TRUSTED AND LEADING LAW FIRM, Encourages Quantum Computing Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - QUBT - Quantum Computing  ( NASDAQ:QUBT ) ",0.175,Alpha Vantage
+14/03/2025,Meta Tries to Bury a Tell-All Book,-0.1,News API
+14/03/2025,Invincible‘s Finale Flipped One of The Walking Dead‘s Most Famous Moments,0.2667,News API
+14/03/2025,Are Meta's protests about a former employee's explosive book causing a Streisand effect — drawing even more attention?,0.25,News API
+14/03/2025,House GOP subpoenas Big Tech for evidence that Biden made AI woke,0.0,News API
+14/03/2025,Bluesky says it sold out of shirts that call out CEOs who seek to 'control your experience online',0.0,News API
+14/03/2025,"Studio People Can Fly phases out VR games, citing retreat in investments from platform holders",0.8,News API
+17/03/2025,The Anti-DEI Agenda Is Reprogramming America,0.0,News API
+17/03/2025,"Lifetime Access to All-in-One AI Tool 1Min.AI for Peanuts, Now Just $30 (87% Off)",0.0,News API
+18/03/2025,Snap CEO Evan Spiegel explains his joke job title on LinkedIn,0.0,News API
+18/03/2025,Palmer Luckey said he bet all his cash on Meta in 2021,0.0,News API
+18/03/2025,"FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies",0.0,News API
+19/03/2025,Auction of Washington Wines Announces 2025 Event Season Benefiting the Community,0.0,Alpha Vantage
+19/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages Newmont Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - NEM - Newmont  ( NYSE:NEM ) ",0.175,Alpha Vantage
+19/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages AppLovin Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - APP - AppLovin  ( NASDAQ:APP ) ",0.175,Alpha Vantage
+19/03/2025,Nvidia's Jensen Huang on why DeepSeek's new model will need '100 times more computing',0.3182,Alpha Vantage
+19/03/2025,"SoundHound AI, Inc. Announcement: If You Have Suffered Losses in SoundHound AI, Inc.  ( NASDAQ: SOUN, SOUNW )  You Are Encouraged to Contact The Rosen Law Firm About Your Rights - SoundHound AI  ( NASDAQ:SOUN ) ",-0.2,Alpha Vantage
+19/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages Neumora Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - NMRA - Neumora Therapeutics  ( NASDAQ:NMRA ) ",0.125,Alpha Vantage
+19/03/2025,"ROSEN, A LEADING INVESTOR RIGHTS LAW FIRM, Encourages TransMedics Group, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - TMDX - TransMedics Group  ( NASDAQ:TMDX ) ",0.125,Alpha Vantage
+19/03/2025,"ROSEN, A GLOBAL AND LEADING LAW FIRM, Encourages Target Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - TGT - Target  ( NYSE:TGT ) ",0.14,Alpha Vantage
+19/03/2025,"ROSEN, A LEADING LAW FIRM, Encourages TFI International Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - TFII - TFI International  ( NYSE:TFII ) ",0.1167,Alpha Vantage
+19/03/2025,Meta AI is rolling out in Europe after all,0.0,News API
+19/03/2025,"The VR Hype Cycle Is Over, and Just in Time for the AR Hype Cycle to Begin",0.0,News API
+20/03/2025,In-Depth Analysis: Meta Platforms Versus Competitors In Interactive Media & Services Industry - Meta Platforms  ( NASDAQ:META ) ,0.0,Alpha Vantage
+20/03/2025,"INVESTOR ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Mullen - Mullen Automotive  ( NASDAQ:MULN ) ",0.0,Alpha Vantage
+20/03/2025,"INVESTOR ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Crocs - Crocs  ( NASDAQ:CROX ) ",0.0,Alpha Vantage
+20/03/2025,"INVESTOR ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of e.l.f. Beauty - e.l.f. Beauty  ( NYSE:ELF ) ",0.0,Alpha Vantage
+20/03/2025,"INVESTOR ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Edison International - Edison Intl  ( NYSE:EIX ) ",0.0,Alpha Vantage
+20/03/2025,World Market Selects Ovative As Its Digital Marketing and Measurement Agency,0.0,Alpha Vantage
+20/03/2025,"INVESTOR ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Alarum - Alarum Technologies  ( NASDAQ:ALAR ) ",0.0,Alpha Vantage
+20/03/2025,"Atos successfully sides with Special Olympics World Winter Games Turin 2025, the world's largest humanitarian sporting event of the year",0.5536,Alpha Vantage
+20/03/2025,Luxury Travel Advisor's ULTRA Summit from Questex to Deliver Vital Industry Insights,0.1,Alpha Vantage
+20/03/2025,"Life360 Adds a Touch of Kawaii With Tile X Hello Kitty®, a Limited-Edition Collection in Partnership With Sanrio",0.0,Alpha Vantage
+20/03/2025,Get Your Game On! The Global Candy Crush All Stars Tournament Returns with $1M Prize Pool Up for Grabs - Microsoft  ( NASDAQ:MSFT ) ,-0.25,Alpha Vantage
+20/03/2025,Fish Game Kings - A Proven Leader Once Again with Online Games ORCA and Golden Dragon Fish Game Content,-0.1667,Alpha Vantage
+20/03/2025,"Pepsi, Poppi, and the Creosote Bush",0.0,Alpha Vantage
+20/03/2025,"Spring comes to KidZania Dallas: Where Kids Explore, Learn, and Have Fun!",0.375,Alpha Vantage
+20/03/2025,"LiveOne  ( NASDAQ: LVO )  Exceeds 1.3M Subscribers and Ad-Supported Users, Including Tesla - LiveOne  ( NASDAQ:LVO ) ",0.0,Alpha Vantage
+20/03/2025,$MUBARAK and $MUBARAKAH Now Available for Trading on BYDFi,0.4,Alpha Vantage
+20/03/2025,"Cytokinetics Announces Launch of EARTH-HCM, a Public Health Education Tool for the Hypertrophic Cardiomyopathy Community - Cytokinetics  ( NASDAQ:CYTK ) ",0.0,Alpha Vantage
+20/03/2025,"Cytokinetics Announces Launch of EARTH-HCM, a Public Health Education Tool for the Hypertrophic Cardiomyopathy Community",0.0,Alpha Vantage
+20/03/2025,Aqua-Tots Dives Deeper into New Jersey with Fifth Location Coming Mid-April to North Bergen,0.1364,Alpha Vantage
+20/03/2025,BEASLEY BROADCAST GROUP REPORTS FOURTH QUARTER REVENUE OF $67.3 MILLION - Beasley Broadcast Group  ( NASDAQ:BBGI ) ,0.0,Alpha Vantage
+20/03/2025,Solvang Commits to Inmarsat Nexuswave Fleetwide for Crew and Business Connectivity - Viasat  ( NASDAQ:VSAT ) ,0.0,Alpha Vantage
+20/03/2025,"Pebble Founder Echoes Mark Zuckerberg's Concerns, Slams Apple For Making It 'Nearly Impossible' To Build Smartwatches That Work With iPhone - Alphabet  ( NASDAQ:GOOGL ) , Apple  ( NASDAQ:AAPL ) ",-0.6667,Alpha Vantage
+20/03/2025,"Share Buyback Transaction Details March 13 - March 19, 2025",0.0,Alpha Vantage
+20/03/2025,"Zacks Investment Ideas feature highlights: Tesla, Apple, Nvidia, Meta and Amazon",0.0,Alpha Vantage
+20/03/2025,Market Sell-Off: Should Investors Buy the Dip in Meta Platforms Stock?,0.0,Alpha Vantage
+20/03/2025,"Anatomy Of A Correction: Magnificent 7 Fall Mirrors 2022 Pattern But It's Comparable To 2018: Caused By Repricing Of 'Animal Spirits' Explains Expert - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",1.0,Alpha Vantage
+20/03/2025,Alvotech Acquires Xbrane's R&D Operations in Sweden and Further Affirms its Global Leadership Position in Biosimilars Development and Production - Alvotech  ( NASDAQ:ALVO ) ,0.0,Alpha Vantage
+20/03/2025,"ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Venture Global, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - VG - Venture Global  ( NYSE:VG ) ",0.18,Alpha Vantage
+20/03/2025,"ROSEN, TOP-RANKED INVESTOR COUNSEL, Encourages Walgreens Boots Alliance, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important March 31 Deadline in Securities Class Action - WBA - Walgreens Boots Alliance  ( NASDAQ:WBA ) ",0.3,Alpha Vantage
+20/03/2025,"ROSEN, SKILLED INVESTOR COUNSEL, Encourages Edison International Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - EIX - Edison Intl  ( NYSE:EIX ) ",0.2071,Alpha Vantage
+20/03/2025,"CROX DEADLINE: ROSEN, LEADING INVESTOR COUNSEL, Encourages Crocs, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important March 24 Deadline in Securities Class Action - CROX - Crocs  ( NASDAQ:CROX ) ",0.3,Alpha Vantage
+20/03/2025,"Cathie Wood Offloads Meta Stock While Mark Zuckerberg Celebrates Llama AI Success - Meta Platforms  ( NASDAQ:META ) , ARK Innovation ETF  ( ARCA:ARKK ) ",0.3,Alpha Vantage
+20/03/2025,"INGRAM ALERT: Bragar Eagel & Squire, P.C. is Investigating Ingram Micro Holding Corporation on Behalf of Ingram Stockholders and Encourages Investors to Contact the Firm - Ingram Micro Holding  ( NYSE:INGM ) ",-0.2,Alpha Vantage
+20/03/2025,"ENCORE ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against enCore Energy Corp. and Encourages Investors to Contact the Firm - enCore Energy  ( NASDAQ:EU ) ",-0.05,Alpha Vantage
+20/03/2025,"TFI ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against TFI International Inc. and Encourages Investors to Contact the Firm - TFI International  ( NYSE:TFII ) ",-0.025,Alpha Vantage
+20/03/2025,"GERON ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against Geron Corporation and Encourages Investors to Contact the Firm - Geron  ( NASDAQ:GERN ) ",-0.05,Alpha Vantage
+20/03/2025,"FLUENCE ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against Fluence Energy, Inc. and Encourages Investors to Contact the Firm - Fluence Energy  ( NASDAQ:FLNC ) ",-0.05,Alpha Vantage
+20/03/2025,"XPLR ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against XPLR Infrastructure, LP and Encourages Investors to Contact the Firm - XPLR Infr  ( NYSE:XIFR ) ",-0.05,Alpha Vantage
+20/03/2025,"RH ALERT: Bragar Eagel & Squire, P.C. is Investigating RH on Behalf of RH Stockholders and Encourages Investors to Contact the Firm - RH  ( NYSE:RH ) ",-0.2,Alpha Vantage
+20/03/2025,"ROSEN, A TRUSTED AND LEADING LAW FIRM, Encourages Monolithic Power Systems, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MPWR - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.175,Alpha Vantage
+20/03/2025,"ROSEN, A LEADING NATIONAL FIRM, Encourages GSK plc Investors to Secure Counsel Before Important Deadline in Securities Class Action - GSK - GSK  ( NYSE:GSK ) ",0.175,Alpha Vantage
+20/03/2025,Novartis receives third FDA approval for oral Fabhalta®  ( iptacopan )  - the first and only treatment approved in C3 glomerulopathy  ( C3G ) ,0.0833,Alpha Vantage
+20/03/2025,Jim Cramer says holding Home Depot stock is a good idea,0.7,Alpha Vantage
+20/03/2025,"ROSEN, SKILLED INVESTOR COUNSEL, Encourages Monolithic Power Systems, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MPWR - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.35,Alpha Vantage
+20/03/2025,LIGHTSPEED STUDIOS Forges Ahead with Key Game Developments and Expands Creative Vision,0.0333,Alpha Vantage
+20/03/2025,"Top Research Reports for Apple, Meta Platforms & Chevron",0.5,Alpha Vantage
+20/03/2025,"TRSG Announcement: If You Have Suffered Losses in Tungray Technologies Inc  ( NASDAQ: TRSG ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Tungray Technologies  ( NASDAQ:TRSG ) ",-0.2,Alpha Vantage
+20/03/2025,"IAS DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Integral Ad Science Holding Corp. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - IAS - Integral Ad Science Holdi  ( NASDAQ:IAS ) ",0.225,Alpha Vantage
+20/03/2025,"Viatris Inc. Announcement: If You Have Suffered Losses in Viatris Inc.  ( NASDAQ: VTRS ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Viatris  ( NASDAQ:VTRS ) ",-0.2,Alpha Vantage
+20/03/2025,"EPIX DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages ESSA Pharma Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important March 25 Deadline in Securities Class Action - EPIX - ESSA Pharma  ( NASDAQ:EPIX ) ",0.225,Alpha Vantage
+20/03/2025,"ROSEN, LEADING INVESTOR COUNSEL, Encourages Elastic N.V. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ESTC - Elastic  ( NYSE:ESTC ) ",0.3,Alpha Vantage
+20/03/2025,"Dave Inc. Investor News: If You Have Suffered Losses in Dave Inc.  ( NASDAQ: DAVE ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Dave  ( NASDAQ:DAVE ) ",-0.2,Alpha Vantage
+20/03/2025,"NVO DEADLINE ALERT: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Novo Nordisk A/S Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - NVO - Novo Nordisk  ( NYSE:NVO ) ",0.225,Alpha Vantage
+20/03/2025,Dyne Therapeutics Announces Appointment of Erick J. Lucera as Chief Financial Officer - Dyne Therapeutics  ( NASDAQ:DYN ) ,0.0,Alpha Vantage
+20/03/2025,"GO DEADLINE: ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Grocery Outlet Holding Corp. Investors with Losses in Excess of $100K to Secure Counsel Before Important March 31 Deadline in Securities Class Action - GO - Grocery Outlet Holding  ( NASDAQ:GO ) ",0.225,Alpha Vantage
+20/03/2025,Hisense's Newest TV Sound System Combines Wireless Freedom with Immersive Sound,0.4,Alpha Vantage
+20/03/2025,"NEARLY 9,000 RAIL TEAMSTERS RATIFY CONTRACT",0.1,Alpha Vantage
+20/03/2025,Take the Lead: Forward a New Evolution in Slide-Free Pathology with MUSE Microscopy's Groundbreaking SmartPath Technology,0.1364,Alpha Vantage
+20/03/2025,Keith E. Sonderling Sworn in as Acting Director of Institute of Museum and Library Services,0.0,Alpha Vantage
+20/03/2025,EXECUTIVE PRODUCER BRADLEY COOPER'S FILM CAREGIVING TO PREMIERE ON PBS FOR NATIONWIDE BROADCAST JUNE 24 STREAMING BEGINS MAY 27,0.0,Alpha Vantage
+20/03/2025,Why Meta Platforms Stock Is Climbing Today,0.0,Alpha Vantage
+20/03/2025,Baltic Horizon Fund plans to redeem early part of the bonds,0.1,Alpha Vantage
+20/03/2025,"Nvidia's First Quantum Computing Day, $4.5T Quad Witching, European Banks Beat Tech Stocks By 34%",0.125,Alpha Vantage
+20/03/2025,DELL Expands Portfolio with New AI Solutions: Buy or Hold the Stock?,0.1364,Alpha Vantage
+20/03/2025,"La Vida Gardens Celebrates Dispensary Opening in Belleville, NJ with Kickoff Event",0.0,Alpha Vantage
+20/03/2025,"Dirty Boxing Championship Streaming First Live Event, DBX 1 on Youtube Featuring Yoel Romero, Andrei Arlovski and Ulysses Diaz",-0.0712,Alpha Vantage
+20/03/2025,Deadline Alert: Ready Capital Corporation  ( RC )  Investors Who Lost Money Urged To Contact Glancy Prongay & Murray LLP About Securities Fraud Lawsuit - Ready Capital  ( NYSE:RC ) ,0.2,Alpha Vantage
+20/03/2025,"Meta AI aterriza en España: así es el asistente que quiere marcar un antes y un después en WhatsApp, Facebook e Instagram",0.0,News API
+20/03/2025,Meta unveils new AR glasses with heart rate monitoring,0.1364,News API
+20/03/2025,Meta AI is coming to Europe after almost a whole year of negotiations,0.2,News API
+20/03/2025,The Unbelievable Scale of AI’s Pirated-Books Problem,-0.25,News API
+21/03/2025,VERB's 'Go Fund Yourself' TV Show to Air First-Ever Marathon on Cheddar TV - Verb Tech  ( NASDAQ:VERB ) ,0.0,Alpha Vantage
+21/03/2025,NV5 Acquires CRS Survey; Strengthens North Carolina Infrastructure Capabilities - NV5 Global  ( NASDAQ:NVEE ) ,0.0,Alpha Vantage
+21/03/2025,Duolingo Announces the Grand Opening of Duo's Treehouse - Duolingo  ( NASDAQ:DUOL ) ,0.5,Alpha Vantage
+21/03/2025,NV5 Acquires CRS Survey; Strengthens North Carolina Infrastructure Capabilities,0.0,Alpha Vantage
+21/03/2025,FDA Approves New Prostate Cancer Imaging Agent Gozellix®,0.1364,Alpha Vantage
+21/03/2025,"The Zacks Analyst Blog Highlights Apple, Meta Platforms, Chevron, Taylor Devices and GSI Technology",0.0,Alpha Vantage
+21/03/2025,"3 Growth ETFs to Buy With $1,000 and Hold Forever",0.0,Alpha Vantage
+21/03/2025,1 Fantastic Growth Stock Down 18% to Buy Right Now,0.1767,Alpha Vantage
+21/03/2025,"Market Sell-Off: The Ultimate Growth Stock to Buy With $1,000 Right Now",0.1429,Alpha Vantage
+21/03/2025,"2 Artificial Intelligence  ( AI )  Stocks to Buy Before They Soar to $4 Trillion, According to Certain Wall Street Analysts",-0.1929,Alpha Vantage
+21/03/2025,"Dan Ives Just Said Buying the Dip in This Artificial Intelligence  ( AI )  Stock Is a ""Generational Opportunity""  ( Hint: It's Not Nvidia ) ",-0.6,Alpha Vantage
+21/03/2025,"Perplexity Can Make 'Apple Intelligence Work' Says CEO Aravind Srinivas As iPhone Maker Attracts Criticism On Siri And AI Delays - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+21/03/2025,"Bitget Wallet Introduces Super DEX, An Upgraded Swap Experience",0.3333,Alpha Vantage
+21/03/2025,"Civitas Resources, Inc. Investor News: If You Have Suffered Losses in Civitas Resources, Inc.  ( NYSE: CIVI )  You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Civitas Resources  ( NYSE:CIVI ) ",-0.2,Alpha Vantage
+21/03/2025,"Cathie Wood Bets On Elon Musk's Tesla Despite Cybertruck Recall, Dumps Zuckerberg's Meta Shares Again - Meta Platforms  ( NASDAQ:META ) , ARK Innovation ETF  ( ARCA:ARKK ) ",0.0,Alpha Vantage
+21/03/2025,"Ibotta, Inc. Investor News: If You Have Suffered Losses in Ibotta, Inc.  ( NASDAQ: IBTA )  You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Ibotta  ( NYSE:IBTA ) ",-0.2,Alpha Vantage
+21/03/2025,"ROSEN, A RANKED AND LEADING FIRM, Encourages Rocket Lab USA, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - RKLB - Rocket Lab USA  ( NASDAQ:RKLB ) ",0.175,Alpha Vantage
+21/03/2025,"Bragar Eagel & Squire, P.C. Is Investigating Lion Electric, Flywire, Civitas, and SoundHound and Encourages Investors to Contact the Firm - Flywire  ( NASDAQ:FLYW ) , Civitas Resources  ( NYSE:CIVI ) ",-0.2,Alpha Vantage
+21/03/2025,"Bragar Eagel & Squire, P.C. Is Investigating Dave, Red Cat, Perpetua, and Voyager and Encourages Investors to Contact the Firm - Dave  ( NASDAQ:DAVE ) , Perpetua Resources  ( NASDAQ:PPTA ) ",-0.1,Alpha Vantage
+21/03/2025,Myth of Empires - Xizhou Civilization DLC Available Now on Steam with a Limited-Time 10% Discount,0.4,Alpha Vantage
+21/03/2025,"Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against AppLovin and e.l.f. Beauty and Encourages Investors to Contact the Firm - AppLovin  ( NASDAQ:APP ) , e.l.f. Beauty  ( NYSE:ELF ) ",-0.05,Alpha Vantage
+21/03/2025,"RTFKT, Inc. Announcement: If You Have Suffered Losses in Nike NFTs Issued by RTFKT, Inc., You Are Encouraged to Contact The Rosen Law Firm About Your Rights",-0.2,Alpha Vantage
