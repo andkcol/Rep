@@ -2151,6 +2151,9 @@ Date,Title,Sentiment,Source
 20/03/2025,Commerce Secretary Howard Lutnick hawks Tesla stock on TV: 'It'll never be this cheap again',0.4,News API
 20/03/2025,"It's another recall for Tesla's Cybertruck, this time for 46,000 of them",0.0,News API
 20/03/2025,Tesla's most bullish analyst says 2 things need to change,0.5,News API
+20/03/2025,US attorney general re-announces ‘severe’ charges against alleged Tesla arsonists,-0.025,News API
+20/03/2025,3 people face federal charges for Tesla attacks. Are such acts domestic terrorism?,0.0,News API
+20/03/2025,Regulators Recall Nearly All Tesla Cybertrucks,0.1,News API
 21/03/2025,How High Or Low Can The SPY Go Today? - SPDR S&P 500  ( ARCA:SPY ) ,0.08,Alpha Vantage
 21/03/2025,Jim Cramer's top 10 things to watch in the stock market Friday,0.5,Alpha Vantage
 21/03/2025,"Tesla Record Highest Trade-Ins Amid Backlash Against CEO Elon Musk, Surge In Vandalism - Tesla  ( NASDAQ:TSLA ) ",0.0,Alpha Vantage
@@ -2172,3 +2175,92 @@ Date,Title,Sentiment,Source
 21/03/2025,"Tesla's Cybertruck Sales At Just 47K Is 'Really Bad' For 250K Target, Says Ross Gerber Amid Recall Troubles - Tesla  ( NASDAQ:TSLA ) ",-0.7,Alpha Vantage
 21/03/2025,"NKE, QUBT, FDX, QBTS, TSLA: Top 5 Trending Stocks Today - Nike  ( NYSE:NKE ) , FedEx  ( NYSE:FDX ) ",0.5,Alpha Vantage
 21/03/2025,"Cathie Wood Bets On Elon Musk's Tesla Despite Cybertruck Recall, Dumps Zuckerberg's Meta Shares Again - Meta Platforms  ( NASDAQ:META ) , ARK Innovation ETF  ( ARCA:ARKK ) ",0.0,Alpha Vantage
+21/03/2025,Elon Musk made more promises about Optimus and Cybercabs at Tesla’s surprise all-hands meeting,0.5,News API
+21/03/2025,Elon Musk calls Jimmy Kimmel an 'unfunny jerk' after his jokes about Tesla and DOGE,0.0,News API
+21/03/2025,Elon Musk is paying voters again ahead of the Wisconsin Supreme Court election,0.0,News API
+21/03/2025,The White House's promotion of Tesla's stock is an ethics nightmare — and it's not even working,0.0,News API
+21/03/2025,"Tesla springs last-minute public all hands on staffers, confusion ensues",0.0,News API
+21/03/2025,Elon Musk's surprise all-hands brings Tesla's biggest bull back from the brink,0.0,News API
+21/03/2025,Elon Musk meets defence officials in Pentagon visit,0.0,News API
+21/03/2025,"Tesla 'armageddon,' a 'legion' of Optimus robots, and no mention of DOGE: 5 takeaways from Elon Musk's livestream",0.0,News API
+21/03/2025,Elon Musk's surprise Tesla all-hands left some workers feeling comforted and some feeling cynical,-0.3,News API
+23/03/2025,Will.i.am says he invested in Tesla before Elon Musk became CEO — but missed out on Airbnb,0.0,News API
+24/03/2025,The FBI launched a task force to investigate Tesla attacks,0.0,News API
+24/03/2025,"Bomb squad finds 'incendiary' devices at a Tesla dealership, police say",0.0,News API
+24/03/2025,The FBI launched a Tesla task force to investigate threats against the company,0.0,News API
+24/03/2025,More trouble for Tesla as China's BYD crosses $100 billion barrier,0.15,News API
+25/03/2025,"Big Tech Companies Employ Majority Of H-1B Visa Workers: Where Do Amazon, Google, Meta Rank? - Amazon.com  ( NASDAQ:AMZN ) ",-0.4,Alpha Vantage
+25/03/2025,Ford Patent Filing For Manual Shift In EVs: Will Car Owners Appreciate The Legacy Stick Shift Efforts? - Ford Motor  ( NYSE:F ) ,0.0,Alpha Vantage
+25/03/2025,Markets Flat-to-Higher; Bears Look Exhausted,-0.4,Alpha Vantage
+25/03/2025,"Nvidia Is A Good Buy In This Sideways Market - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.55,Alpha Vantage
+25/03/2025,"Warren Buffett Top Wealth Gainer, Elon Musk Top Wealth Loser In 2025: Here's How Much Billionaires Have Added, Lost - Tesla  ( NASDAQ:TSLA ) , SPDR S&P 500  ( ARCA:SPY ) ",0.4,Alpha Vantage
+25/03/2025,Tesla Pauses FSD Trial in China to Seek Regulatory Approval,0.0,Alpha Vantage
+25/03/2025,Does the S&P 500 Rally Make MDT Stock a Buy Amid Easing Trade Tension?,0.0,Alpha Vantage
+25/03/2025,Filling in that Tesla 'crack',0.0,Alpha Vantage
+25/03/2025,Tesla Takedown: all the news about the protests roiling the automaker,0.0,News API
+25/03/2025,“This man is not our boss” — EPA workers rally against DOGE cuts,0.0,News API
+25/03/2025,One of Tesla's biggest bulls is undeterred and calling for the stock to rally 800% over 5 years,0.0,News API
+25/03/2025,Why Tesla is at a tipping point,0.0,News API
+25/03/2025,Tesla has flirted with disaster before. This time feels different.,0.0,News API
+25/03/2025,Tesla just got even more bad news from Europe,-0.1,News API
+25/03/2025,Porsche’s next Taycan gets an infotainment upgrade — but no new CarPlay,-0.0341,News API
+25/03/2025,"Cathie Wood: BYD cars are 'fabulous,' but Tesla is still competitive",0.4,News API
+25/03/2025,Las ventas de Tesla en Europa siguen en caída libre,0.0,News API
+26/03/2025,Trump says Tesla CEO Elon Musk didn't advise on auto tariffs despite DOGE role,0.0,Alpha Vantage
+26/03/2025,Breaking Down the Mag 7 Earnings Outlook,-0.1556,Alpha Vantage
+26/03/2025,Breaking Down the Mag 7 Earnings Outlook,-0.1556,Alpha Vantage
+26/03/2025,2 Wonderful High-Tech ETFs That Still Look Like Bargains Right Now,0.6429,Alpha Vantage
+26/03/2025,Billionaire Investor Ron Baron Thinks This Artificial Intelligence  ( AI )  Stock Could Climb 525%  ( Hint: It's Not Nvidia ) ,-0.6,Alpha Vantage
+26/03/2025,"4 EV Stocks Soaring As Tesla Tumbles - BYD  ( OTC:BYDDY ) , Honda Motor Co  ( NYSE:HMC ) ",0.0,Alpha Vantage
+26/03/2025,"Top Stock Reports for Tesla, Home Depot & Boston Scientific",0.5,Alpha Vantage
+26/03/2025,"Warren Buffett To Help EV Owners On Long Road Trips - General Motors  ( NYSE:GM ) , EVgo  ( NASDAQ:EVGO ) ",0.0,Alpha Vantage
+26/03/2025,What's Going On With Tesla Shares Wednesday? - Tesla  ( NASDAQ:TSLA ) ,0.0,Alpha Vantage
+26/03/2025,The Famous Walz Bottom in Tesla Stock,0.5,Alpha Vantage
+26/03/2025,Why Tesla Stock Is Sinking Today,0.0,Alpha Vantage
+26/03/2025,"Alibaba And BMW To Launch AI Assistant In Future China Models; Boeing 737 MAX Fraud Trial Set For June; Gold M&A Activity Rises, But Deal Sizes Shrink - Top Headlines While The U.S. Slept",0.25,Alpha Vantage
+26/03/2025,How To Trade The Top Tech Stocks Today?,0.5,Alpha Vantage
+26/03/2025,"The Atlantic publishes full Signal thread with Hegseth, Waltz after Trump says texts not classified",0.35,Alpha Vantage
+26/03/2025,Here Are 3 Top ETFs I'd Buy Right Now,0.3929,Alpha Vantage
+26/03/2025,ATKR SHAREHOLDER NOTICE: Did Atkore Inc. Commit Fraud? Investors are Notified to Contact BFA Law about the Class Action by April 23  ( NYSE:ATKR )  - Atkore  ( NYSE:ATKR ) ,0.1,Alpha Vantage
+26/03/2025,Tesla Stock Rises 3.9% After Key Signal; Closes Near Day's High - Tesla  ( NASDAQ:TSLA ) ,0.0867,Alpha Vantage
+26/03/2025,LiveOne's  ( NASDAQ: LVO )  Reaches Milestone 1.4 Million Subscribers and Ad-Supported Users,0.0,Alpha Vantage
+26/03/2025,Should You Invest in the Fidelity MSCI Consumer Discretionary Index ETF  ( FDIS ) ?,0.0,Alpha Vantage
+26/03/2025,1 Unstoppable Vanguard ETF to Confidently Buy With $400 During the Stock Market Sell-Off,0.5,Alpha Vantage
+26/03/2025,"Tesla Teases Robotaxi Launch In Texas, But Industry Veterans Question Safety And Readiness: 'If A Company Were Serious…' - Alphabet  ( NASDAQ:GOOG ) , General Motors  ( NYSE:GM ) ",0.05,Alpha Vantage
+26/03/2025,Tesla Suspended from Canadian EV Rebates and Future Programs Amid 'Illegitimate and Illegal US Tariffs' On Canada - Tesla  ( NASDAQ:TSLA ) ,-0.25,Alpha Vantage
+26/03/2025,"Hong Kong stocks rise, led by Chinese EV makers and tech firms",0.0,Alpha Vantage
+26/03/2025,"The ""Magnificent Seven"" Stocks Are Selling Off. Here Are My Top 5 to Buy Now.",0.75,Alpha Vantage
+26/03/2025,Should You Invest in the CoreWeave IPO? History Offers a Clear Answer.,0.1,Alpha Vantage
+26/03/2025,4 reasons why Elon Musk should worry about Tesla in China,0.0,News API
+26/03/2025,The Nissan Leaf lives on as a compact SUV with a Tesla charge port,0.0,News API
+26/03/2025,Canada freezes Tesla rebates worth $43 million to check each one is valid,0.3,News API
+27/03/2025,Trump escalates his trade war with new tariffs,0.1364,Alpha Vantage
+27/03/2025,"Asia Markets Mixed, Europe Slips On Auto Tariff Worries, Gold Advances Toward Record High - Global Markets Today While US Slept - SmartETFs Asia Pacific Dividend Builder ETF  ( ARCA:ADIV ) ",0.0533,Alpha Vantage
+27/03/2025,"GM, Ford, Tesla And Other Auto Stocks Slide In Thursday Pre-Market: What's Going On? - Ford Motor  ( NYSE:F ) , General Motors  ( NYSE:GM ) ",-0.0375,Alpha Vantage
+27/03/2025,Cathie Wood sees AI driving US$10 trillion global robotaxi revolution,0.0,Alpha Vantage
+27/03/2025,"Over 7 million Vehicles Could Face The Brunt Of Trump's Auto Tariffs: 'This Could Drive Not The Overall Economy, Strictly The Auto industry Into Recession' - Stellantis  ( NYSE:STLA ) , General Motors  ( NYSE:GM ) ",0.025,Alpha Vantage
+27/03/2025,"The Zacks Analyst Blog Highlights Tesla, The Home Depot, Boston Scientific, Frequency Electronics and Bridger Aerospace",0.0,Alpha Vantage
+27/03/2025,"Zacks Earnings Trends Highlights: Meta, Tesla, Nvidia, Google, Microsoft, Amazon and Apple",0.0,Alpha Vantage
+27/03/2025,Billionaire Bill Ackman Is Buying a Brilliant Robotaxi Stock Up 145% in 2 Years  ( Hint: Not Tesla ) ,0.9,Alpha Vantage
+27/03/2025,US robotics firms push for national strategy to compete with China,0.0,Alpha Vantage
+27/03/2025,Ontario Premier Doug Ford Supports Retaliatory Tariffs Amid US Auto Levy: 'Inflict As Much Pain As Possible' - Tesla  ( NASDAQ:TSLA ) ,0.1,Alpha Vantage
+27/03/2025,"Tesla And Other US Robotics Giants Demand Federal Strategy To Compete With China's $138 Billion Push - Warn America Will Lose The Race Without It - Alibaba Gr Hldgs  ( NYSE:BABA ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.125,Alpha Vantage
+27/03/2025,'Dominant': US and Chinese robotics start-ups attract 75% of global funding,0.0,Alpha Vantage
+27/03/2025,Elon Musk Warns Of 'Significant' Impact On Tesla Due To Trump's Auto Tariffs: 'The Cost Impact Is Not Trivial' - Tesla  ( NASDAQ:TSLA ) ,0.125,Alpha Vantage
+27/03/2025,"Alibaba Chairman Questions Future Of Humanoid Robots After Nvidia CEO Jensen Huang Predicts Factory Adoption Within 5 Years: 'Don't Need Machines To Replace Humans' - Alibaba Gr Hldgs  ( NYSE:BABA ) , BMW  ( OTC:BMWKY ) ",0.0,Alpha Vantage
+27/03/2025,Nordic companies lead the charge on electric vehicles,0.0,Alpha Vantage
+27/03/2025,"Trump's 25% Auto Tariff Raises Will Put Pressure On Interest Rates, Says Economist - Tesla Investor Gary Black Says President Found 'Further Ways To Push The Economy Into Recession Today' - BYD  ( OTC:BYDDY ) , AutoNation  ( NYSE:AN ) ",-0.0833,Alpha Vantage
+27/03/2025,"Trump Imposes 25% Tariffs On Auto Imports, Says 'This Will Continue To Spur Growth' - Canada, EU Slam The Move - BYD  ( OTC:BYDDY ) , AutoNation  ( NYSE:AN ) ",0.0,Alpha Vantage
+27/03/2025,Trump Slaps 25% Tariffs On Autos: What It Means For Your Next Car Purchase - General Motors  ( NYSE:GM ) ,0.025,Alpha Vantage
+27/03/2025,Why GM stock is getting hit the hardest by Trump auto tariffs,0.0,Alpha Vantage
+27/03/2025,"RFK Jr. Plans Major Health Dept. Shakeup With 10,000 Job Cuts; Trump Open To Easing China Tariffs To Push TikTok Deal Forward As Deadline Looms; Walmart Loses $22B In Value In One Day As Consumer Confidence Slips - Top Headlines While The U.S. Slept",0.0656,Alpha Vantage
+27/03/2025,"What's Going On With Ford Shares Thursday? - Ford Motor  ( NYSE:F ) , General Motors  ( NYSE:GM ) ",0.05,Alpha Vantage
+27/03/2025,"Defiance's XMAG ETF Outshines S&P 500 Amid ""Magnificent 7"" Crash, Proving Its Value as a Diversification Powerhouse",1.0,Alpha Vantage
+27/03/2025,How To Trade SPY With Initial Jobless Claims In Focus - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+27/03/2025,"Commerce Secretary Lutnick Promoting Tesla On Fox News: 'We're All Going To Be Buying $30,000 Tesla Robots.' Anyone Who Doesn't Is 'Silly' - Tesla  ( NASDAQ:TSLA ) ",-0.5,Alpha Vantage
+27/03/2025,"Stock Market News For Mar 27, 2025",0.0,Alpha Vantage
+27/03/2025,Jim Gibson to join PacBio as Chief Financial Officer,0.0,Alpha Vantage
+27/03/2025,Jim Gibson to join PacBio as Chief Financial Officer - Pacific Biosciences  ( NASDAQ:PACB ) ,0.0,Alpha Vantage
+27/03/2025,"Here's what Elon Musk, the UAW and industry figures are saying about Trump's auto tariffs",0.0,Alpha Vantage
+27/03/2025,Can the Tide Turn for 'Magnificent Seven' Stocks? ETFs in Focus,1.0,Alpha Vantage
+27/03/2025,Tesla to Enter Saudi Arabia Market Amid Declining Global Sales,0.0,Alpha Vantage

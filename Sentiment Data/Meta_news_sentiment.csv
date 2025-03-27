@@ -1371,6 +1371,10 @@ Date,Title,Sentiment,Source
 20/03/2025,Meta unveils new AR glasses with heart rate monitoring,0.1364,News API
 20/03/2025,Meta AI is coming to Europe after almost a whole year of negotiations,0.2,News API
 20/03/2025,The Unbelievable Scale of AI’s Pirated-Books Problem,-0.25,News API
+20/03/2025,Threads finally lets you set the following feed as default,0.0,News API
+20/03/2025,Meta didn't want people to read this book. Now it's a No. 1 bestseller.,0.0,News API
+20/03/2025,This new Meta Quest v74 feature is set to revolutionize immersive experiences,0.1364,News API
+20/03/2025,Meta's head of Oculus Publishing used GDC to debunk your 'theories' about VR profitability,0.0,News API
 21/03/2025,VERB's 'Go Fund Yourself' TV Show to Air First-Ever Marathon on Cheddar TV - Verb Tech  ( NASDAQ:VERB ) ,0.0,Alpha Vantage
 21/03/2025,NV5 Acquires CRS Survey; Strengthens North Carolina Infrastructure Capabilities - NV5 Global  ( NASDAQ:NVEE ) ,0.0,Alpha Vantage
 21/03/2025,Duolingo Announces the Grand Opening of Duo's Treehouse - Duolingo  ( NASDAQ:DUOL ) ,0.5,Alpha Vantage
@@ -1393,3 +1397,89 @@ Date,Title,Sentiment,Source
 21/03/2025,Myth of Empires - Xizhou Civilization DLC Available Now on Steam with a Limited-Time 10% Discount,0.4,Alpha Vantage
 21/03/2025,"Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against AppLovin and e.l.f. Beauty and Encourages Investors to Contact the Firm - AppLovin  ( NASDAQ:APP ) , e.l.f. Beauty  ( NYSE:ELF ) ",-0.05,Alpha Vantage
 21/03/2025,"RTFKT, Inc. Announcement: If You Have Suffered Losses in Nike NFTs Issued by RTFKT, Inc., You Are Encouraged to Contact The Rosen Law Firm About Your Rights",-0.2,Alpha Vantage
+21/03/2025,How ‘Careless People’ is becoming a bigger problem for Meta,-0.0167,News API
+21/03/2025,Bigscreen’s super light Beyond 2 headset adds optional eye-tracking,0.3667,News API
+21/03/2025,Meta AI llega por fin a Europa… con limitaciones,0.0,News API
+21/03/2025,Threads Update Adds Profile Topics and Follower-Only Replies,0.0,News API
+21/03/2025,"El éxito de Meta AI en EEUU ha sido limitado, pero ahora quieren intentarlo en un país adicto a WhatsApp: España",0.0,News API
+21/03/2025,"Meta has revenue sharing agreements with Llama AI model hosts, filing reveals",0.0,News API
+22/03/2025,Facebook to stop targeting ads at UK woman after legal fight,0.2,News API
+22/03/2025,Playing a game with your boss? Just let them win.,0.2,News API
+22/03/2025,"Meta pirated at least 101 of my books, and others",-0.3,News API
+23/03/2025,Quest developers are joining forces to solve the 'VR visibility crisis',0.0,News API
+23/03/2025,Facebook Whistleblower Demands Overturn of Interview Ban - as Her Book Remains a Bestseller,0.0,News API
+24/03/2025,Ex-Meta VP is raising back-to-back mega funding rounds from the same investors who made a fortune when Google bought Wiz,0.0,News API
+24/03/2025,Xiaomi se la clava a Ray-Ban y Meta: sus nuevas gafas inteligentes son más delgadas y mucho más baratas,0.0,News API
+24/03/2025,Olvídate de las Ray-Ban Meta: Samsung y Google tienen casi listas sus gafas con Android XR (vas a querer unas),0.0,News API
+25/03/2025,El círculo azul llega a WhatsApp: qué es Meta AI y cómo va a revolucionar el uso que haces en la app,0.0,News API
+25/03/2025,Meta Considers Charging For Ad-Free Facebook and Instagram In the UK,0.0,News API
+25/03/2025,"Samsung could be launching its smart glasses this year, giving Meta a tough fight",-0.0873,News API
+25/03/2025,Meta AI llega a WhatsApp en Europa: cómo se usa y qué debes saber sobre el círculo azul que lo muestra,0.0,News API
+26/03/2025,"GSK DEADLINE ALERT: ROSEN, NATIONAL INVESTOR COUNSEL, Encourages GSK plc Investors to Secure Counsel Before Important April 7 Deadline in Securities Class Action - GSK - GSK  ( NYSE:GSK ) ",0.3,Alpha Vantage
+26/03/2025,Breaking Down the Mag 7 Earnings Outlook,-0.1556,Alpha Vantage
+26/03/2025,Breaking Down the Mag 7 Earnings Outlook,-0.1556,Alpha Vantage
+26/03/2025,Alvotech Reports Record Results for 2024 and Provides Business Update,0.0,Alpha Vantage
+26/03/2025,Alvotech Reports Record Results for 2024 and Provides Business Update,0.0,Alpha Vantage
+26/03/2025,"IAS DEADLINE ALERT: ROSEN, TOP-RANKED INVESTOR COUNSEL, Encourages Integral Ad Science Holding Corp. Investors to Secure Counsel Before Important March 31 Deadline in Securities Class Action - IAS - Integral Ad Science Holdi  ( NASDAQ:IAS ) ",0.3,Alpha Vantage
+26/03/2025,"PSNY DEADLINE NOTICE: ROSEN, LEADING TRIAL ATTORNEYS, Encourages Polestar Automotive Holding UK PLC Investors to Secure Counsel Before Important March 31 Deadline in Securities Class Action First Filed by the Firm - PSNY - Polestar Automotive  ( NASDAQ:PSNY ) ",0.19,Alpha Vantage
+26/03/2025,"ROSEN, LEADING INVESTOR COUNSEL, Encourages Skyworks Solutions, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SWKS - Skyworks Solutions  ( NASDAQ:SWKS ) ",0.3,Alpha Vantage
+26/03/2025,HISENSE DEBUTS 2025 ULED SERIES WITH BIGGER SCREENS FOR MORE IMMERSIVE ENTERTAINMENT,0.25,Alpha Vantage
+26/03/2025,Tens of Thousands Anticipated to Play Pickleball Simultaneously Across North America During Inaugural Agassi Open Play Day on April 12 - Life Time Group Hldgs  ( NYSE:LTH ) ,0.0,Alpha Vantage
+26/03/2025,"Faruqi & Faruqi Reminds Neumora Therapeutics Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of April 7, 2025 - NMRA - Neumora Therapeutics  ( NASDAQ:NMRA ) ",0.1,Alpha Vantage
+26/03/2025,"Faruqi & Faruqi Reminds Polestar Automotive Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of March 31, 2025 - PSNY - Polestar Automotive  ( NASDAQ:PSNY ) ",0.1,Alpha Vantage
+26/03/2025,"Faruqi & Faruqi Reminds Maravai Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of May 5, 2025 - MRVI - Maravai LifeSciences  ( NASDAQ:MRVI ) ",0.1,Alpha Vantage
+26/03/2025,"Faruqi & Faruqi Reminds Monolithic Power Systems Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of April 7, 2025 - MPWR - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.1,Alpha Vantage
+26/03/2025,"Faruqi & Faruqi Reminds TELUS International Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of March 31, 2025 - TIXT - TELUS Intl  ( NYSE:TIXT ) ",0.05,Alpha Vantage
+26/03/2025,"Faruqi & Faruqi Reminds Zynex Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of May 19, 2025 - ZYXI - Zynex  ( NASDAQ:ZYXI ) ",0.1,Alpha Vantage
+26/03/2025,"Faruqi & Faruqi Reminds Rocket Lab Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of April 28, 2025 - RKLB - Rocket Lab USA  ( NASDAQ:RKLB ) ",0.1,Alpha Vantage
+26/03/2025,"GO DEADLINE ALERT: ROSEN, A LONGSTANDING FIRM, Encourages Grocery Outlet Holding Corp. Investors to Secure Counsel Before Important March 31 Deadline in Securities Class Action - GO - Grocery Outlet Holding  ( NASDAQ:GO ) ",0.175,Alpha Vantage
+26/03/2025,"Faruqi & Faruqi Reminds ModivCare Investors of the Pending Class Action Lawsuit with a Lead Plaintiff Deadline of March 31, 2025 - MODV - ModivCare  ( NASDAQ:MODV ) ",0.1,Alpha Vantage
+26/03/2025,"PSNY INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Polestar Automotive Holding UK PLC Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Polestar Automotive  ( NASDAQ:PSNY ) ",0.1,Alpha Vantage
+26/03/2025,"UCTT INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Ultra Clean Holdings, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Ultra Clean Hldgs  ( NASDAQ:UCTT ) ",0.2778,Alpha Vantage
+26/03/2025,"MRVI INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Maravai LifeSciences Holdings, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit - Maravai LifeSciences  ( NASDAQ:MRVI ) ",0.1,Alpha Vantage
+27/03/2025,AIM ImmunoTech Reports Fourth Quarter and Full Year 2024 Financial Results and Provides Corporate Update,0.0875,Alpha Vantage
+27/03/2025,AIM ImmunoTech Reports Fourth Quarter and Full Year 2024 Financial Results and Provides Corporate Update,0.0875,Alpha Vantage
+27/03/2025,"Worksport Ltd. Reports Fiscal Year 2024 Results, Achieves 455% Year-Over-Year Revenue Growth",0.0,Alpha Vantage
+27/03/2025,"Beyonttra™  ( acoramidis ) , the First Near-complete TTR Stabilizer  ( ≥90% ) , Approved in Japan to Treat ATTR-CM - BridgeBio Pharma  ( NASDAQ:BBIO ) ",0.25,Alpha Vantage
+27/03/2025,BioStem Technologies to Present at the 24th Annual Needham Virtual Healthcare Conference - BioStem Technologies  ( OTC:BSEM ) ,0.0,Alpha Vantage
+27/03/2025,XPO Announces $750 Million Share Repurchase Authorization,0.0,Alpha Vantage
+27/03/2025,3 Reasons to Buy Meta Platforms Stock Hand Over Fist,0.0,Alpha Vantage
+27/03/2025,Epson Signs Bertelkamp Automation as an AutomateFirst Gold Partner - Seiko Epson  ( OTC:SEKEY ) ,0.0,Alpha Vantage
+27/03/2025,"US Stocks Likely To Open Mixed: 'Expect Volatility. Buckle Up,' Says Expert",0.0,Alpha Vantage
+27/03/2025,"Zacks Earnings Trends Highlights: Meta, Tesla, Nvidia, Google, Microsoft, Amazon and Apple",0.0,Alpha Vantage
+27/03/2025,"Share Buyback Transaction Details March 20 - March 26, 2025",0.0,Alpha Vantage
+27/03/2025,EngageLab Empowers Customer Communication Platform with Advanced Messaging Solution,0.4,Alpha Vantage
+27/03/2025,EngageLab Empowers Customer Communication Platform with Advanced Messaging Solution - Aurora Mobile  ( NASDAQ:JG ) ,0.4,Alpha Vantage
+27/03/2025,Alvotech Appoints Dr. Balaji V. Prasad as Chief Strategy Officer,0.0,Alpha Vantage
+27/03/2025,Alvotech Appoints Dr. Balaji V. Prasad as Chief Strategy Officer,0.0,Alpha Vantage
+27/03/2025,Alvotech Appoints Dr. Balaji V. Prasad as Chief Strategy Officer - Alvotech  ( NASDAQ:ALVO ) ,0.0,Alpha Vantage
+27/03/2025,Nasdaq Post-Correction: My Top 3 AI Stocks to Buy Before They Soar,0.5,Alpha Vantage
+27/03/2025,ilionx and LeapXpert Introduce Modern Communication Channels to the Public Sector,0.1,Alpha Vantage
+27/03/2025,"Nasdaq Tumbles 2% Amid Decline In Alphabet, Amazon: Investor Sentiment Declines, Greed Index Remains In 'Fear' Zone - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+27/03/2025,James Gorman to join General Atlantic as adviser ahead of IPO,0.05,Alpha Vantage
+27/03/2025,"Microsoft abandons data centre projects, sparking oversupply fears",0.0,Alpha Vantage
+27/03/2025,"ULTRA CLEAN ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against Ultra Clean Holdings, Inc. and Encourages Investors to Contact the Firm - Ultra Clean Hldgs  ( NASDAQ:UCTT ) ",0.2,Alpha Vantage
+27/03/2025,LeddarTech Reports Annual Shareholder Meeting Results,0.0,Alpha Vantage
+27/03/2025,Dave Ramsey Just Found Out You Can Split Your DoorDash Into Four Payments. The Look On His Face Says It All - DoorDash  ( NASDAQ:DASH ) ,0.0,Alpha Vantage
+27/03/2025,APP INVESTORS: Kirby McInerney LLP Reminds AppLovin Corporation Investors of Important Deadline and Encourages Investors to Contact the Firm - AppLovin  ( NASDAQ:APP ) ,0.1,Alpha Vantage
+27/03/2025,"ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Mullen Automotive, Inc. f/k/a Net Element, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - MULN, NETE - Mullen Automotive  ( NASDAQ:MULN ) ",0.225,Alpha Vantage
+27/03/2025,HireVue Unveils Reimagined Hiring Experience and Solidifies Its Role As the Backbone of Skills-Based Hiring at Horizon Conference,0.0,Alpha Vantage
+27/03/2025,Cegedim Full year 2024 results: Operating profitability improved,0.35,Alpha Vantage
+27/03/2025,St. Augustine Food + Wine Festival Announces New Location For Signature Events,0.1364,Alpha Vantage
+27/03/2025,Empire State Development Announces 10 Startups Selected for Round Eight of Luminate NY,-0.2,Alpha Vantage
+27/03/2025,SCREENVISION MEDIA FURTHER SECURES ITS ROBUST EXHIBITOR NETWORK VIA PARTNERSHIP EXTENSION WITH MARCUS THEATRES - Marcus  ( NYSE:MCS ) ,0.0,Alpha Vantage
+27/03/2025,Deadline Alert: Alarum Technologies Ltd.  ( ALAR )  Investors Who Lost Money Urged To Contact Glancy Prongay & Murray LLP About Securities Fraud Lawsuit - Alarum Technologies  ( NASDAQ:ALAR ) ,0.0,Alpha Vantage
+27/03/2025,Deadline Alert: enCore Energy Corp.  ( EU )  Investors Who Lost Money Urged To Contact Glancy Prongay & Murray LLP About Securities Fraud Lawsuit - enCore Energy  ( NASDAQ:EU ) ,0.0,Alpha Vantage
+27/03/2025,The 30-Year Fixed-Rate Mortgage Ticks Down - Federal Home Loan  ( OTC:FMCC ) ,-0.1556,Alpha Vantage
+27/03/2025,"Bitget Wallet Expands Cross-Chain Swap Support to 27 Networks, Among the Most in the Industry",0.5,Alpha Vantage
+27/03/2025,Exploring The Competitive Space: Meta Platforms Versus Industry Peers In Interactive Media & Services - Meta Platforms  ( NASDAQ:META ) ,0.0,Alpha Vantage
+27/03/2025,MAYBELLINE NEW YORK AND THE WNBA TEAM UP TO EMPOWER COMMUNITIES THROUGH BEAUTY AND BASKETBALL IN CANADA,0.1364,Alpha Vantage
+27/03/2025,Baltic Horizon Fund general meeting of investors and a notice to convene a new general meeting of investors,0.0788,Alpha Vantage
+27/03/2025,Baltic Horizon Fund general meeting of investors and a notice to convene a new general meeting of investors,0.0788,Alpha Vantage
+27/03/2025,"Microsoft Halts Expansion Plans, Yet Analysts Still Rank It Among Top Investment Picks - Microsoft  ( NASDAQ:MSFT ) ",-0.15,Alpha Vantage
+27/03/2025,"T. ROWE PRICE EXPANDS ACTIVE EQUITY ETF ROSTER WITH TWO NEW TRANSPARENT OFFERINGS - T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Hedged Equity ETF  ( ARCA:THEQ ) , T. Rowe Price Exchange-Traded Funds, Inc. T. Rowe Price Capital Appreciation Premium Income ETF  ( ARCA:TCAL ) ",0.0015,Alpha Vantage
+27/03/2025,"Stock Market News For Mar 27, 2025",0.0,Alpha Vantage
+27/03/2025,GUNDAM TO TAKE OVER TIMES SQUARE WITH EPIC IMMERSIVE EVENT THIS SATURDAY NIGHT,0.1,Alpha Vantage
+27/03/2025,Mainz Biomed Enrolls First Patient in Its eAArly DETECT 2 Clinical Study,0.25,Alpha Vantage
+27/03/2025,"SiriusXM Canada announces comprehensive coverage, new additions to lineup for 2025 Major League Baseball season",0.0994,Alpha Vantage
+27/03/2025,BRACH'S® Will Hide Your Easter Eggs with Its First-Ever Egg Hunt Hiding Service,0.0,Alpha Vantage

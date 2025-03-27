@@ -25,7 +25,14 @@ COMPANIES = [
     {"ticker": "NFLX", "name": "Netflix"},
     {"ticker": "NVDA", "name": "Nvidia"},
     {"ticker": "IBM", "name": "IBM"},
-    {"ticker": "AMD", "name": "AMD"}
+    {"ticker": "AMD", "name": "AMD"},
+    {"ticker": "FSLY", "name": "Fastly"},
+    {"ticker": "PTON", "name": "Peloton"},
+    {"ticker": "ZM", "name": "Zoom"},
+    {"ticker": "ROKU", "name": "Roku"},
+    {"ticker": "OKTA", "name": "Okta"},
+    {"ticker": "NET", "name": "Cloudflare"},
+    {"ticker": "U", "name": "Unity"}
 ]
 
 def fetch_alpha_vantage_news(ticker): # Fetch news from Alpha Vantage for a given stock ticker
