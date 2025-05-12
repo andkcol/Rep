@@ -2044,6 +2044,7 @@ Date,Title,Sentiment,Source
 18/03/2025,Jensen Huang – Nvidia GTC 2025 Keynote,0.0,News API
 18/03/2025,Quantum computing just got an AI upgrade,0.0,News API
 18/03/2025,Nvidia Dynamo: A Datacenter Scale Distributed Inference Serving Framework,0.0,News API
+18/03/2025,The Alienware x16 R2 gaming laptop with RTX 4080 has a $500 discount,0.0,News API
 19/03/2025,Nvidia's Jensen Huang on why DeepSeek's new model will need '100 times more computing',0.3182,Alpha Vantage
 19/03/2025,"If I Could Only Buy 1 Artificial Intelligence  ( AI )  Chip Stock Over the Next Decade, This Would Be It  ( Hint: It's Not Nvidia ) ",-0.2,Alpha Vantage
 19/03/2025,Meet This Under-the-Radar AI IPO Stock Growing Its Revenue 737%,0.0,Alpha Vantage
@@ -2056,6 +2057,7 @@ Date,Title,Sentiment,Source
 19/03/2025,2 reasons why Nvidia's Jensen Huang isn't worried,0.0,News API
 19/03/2025,A tu PC le gusta el último movimiento de NVIDIA: la RTX 5090 y toda la serie RTX 50 ahora es más barata,0.0,News API
 19/03/2025,Nvidia CEO Jensen Huang says every company will become an 'AI factory.' Here's what he means.,0.0,News API
+19/03/2025,The price might not be the problem with Nvidia GPUs after all,0.0,News API
 20/03/2025,Market Analysis: NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
 20/03/2025,Is Nvidia Sitting On The AI Goldmine No One Sees Yet? - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
 20/03/2025,A Closer Look at NVIDIA's Options Market Dynamics - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
@@ -2126,6 +2128,7 @@ Date,Title,Sentiment,Source
 20/03/2025,Nvidia’s RTX 5060 May Have Just Joined the Queue of Hardware Delayed This Week,0.0,News API
 20/03/2025,Cómo configurar el panel de control de Nvidia para exprimir tu tarjeta gráfica mientras juegas,0.0,News API
 20/03/2025,La directora general de AMD está en China con un propósito: arrebatar el mercado de la IA a NVIDIA,0.05,News API
+20/03/2025,Nvidia senkt offizielle Grafikkartenpreise der GeForce RTX 5000,0.0,News API
 21/03/2025,Pasqal Teams With NVIDIA To Expand Hybrid Quantum Computing Tech - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
 21/03/2025,How High Or Low Can The SPY Go Today? - SPDR S&P 500  ( ARCA:SPY ) ,0.08,Alpha Vantage
 21/03/2025,Stock Market Correction: Here Are My Top 5 Stocks That Could Soar By The End of 2025,0.5,Alpha Vantage
@@ -2150,6 +2153,7 @@ Date,Title,Sentiment,Source
 21/03/2025,Micron Technology  ( MU )  Q2 2025 Earnings Call Transcript,0.0,Alpha Vantage
 21/03/2025,Trump’s confusing crusade against Big Tech,-0.15,News API
 22/03/2025,Bob Iger Showcases Disneyland Paris’ New Lion King Ride,0.1364,News API
+22/03/2025,"Nvidia Stock Slide Signals Time to Reposition, Says Wealth Manager Michael Landsberg: 'I Wouldn't Buy Tech Here On The Dip'",0.0,News API
 24/03/2025,Jack Ma-Backed Ant Touts AI Breakthrough Using Chinese Chips,0.0,News API
 24/03/2025,NVIDIA (NVDA) Breaks Barriers with Advanced AI Networking,0.4,News API
 24/03/2025,"Driver issues with Nvidia GPUs? No, it’s not just you",0.0,News API
@@ -2157,6 +2161,7 @@ Date,Title,Sentiment,Source
 25/03/2025,Brazilian Modders Upgrade NVidia Geforce GTX 970 to 8 GB of VRAM,0.0,News API
 25/03/2025,Databricks Has a Trick That Lets AI Models Improve Themselves,0.0,News API
 25/03/2025,RISC Architecture Really Did Change Everything,0.2,News API
+25/03/2025,"Before You Rush to Buy Nvidia, Here Are 3 Artificial Intelligence (AI) Stocks You Can't Afford to Ignore",-0.6,News API
 26/03/2025,The Quantum Sandbox: How AI + QC Changes Everything,0.0,Alpha Vantage
 26/03/2025,Breaking Down the Mag 7 Earnings Outlook,-0.1556,Alpha Vantage
 26/03/2025,Breaking Down the Mag 7 Earnings Outlook,-0.1556,Alpha Vantage
@@ -2178,6 +2183,7 @@ Date,Title,Sentiment,Source
 26/03/2025,Meet a decades-old software company hitching a ride on the Nvidia rocket ship,0.0,News API
 26/03/2025,"Nvidia’s next-gen GPUs could get a major design change, here’s why that’s good news",0.3812,News API
 26/03/2025,US expands export blacklist to keep computing tech out of China,0.0,News API
+26/03/2025,"Intel is reportedly 'working to finalize commitments from Nvidia' as a foundry partner, suggesting gaming potential for the 18A node",0.0,News API
 27/03/2025,"Trade Wars, Deglobalization, Crypto... How Investors Can Navigate the News",0.0,Alpha Vantage
 27/03/2025,SoundHound AI Has Been My Favorite Artificial Intelligence Stock in 2025. Here's Why I'm Not Changing Course in the Sell-Off.,-0.05,Alpha Vantage
 27/03/2025,Trump escalates his trade war with new tariffs,0.1364,Alpha Vantage
@@ -2221,3 +2227,737 @@ Date,Title,Sentiment,Source
 27/03/2025,How To Trade SPY With Initial Jobless Claims In Focus - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
 27/03/2025,Top Women-Run Company Stocks to Enrich Your Portfolio,0.5,Alpha Vantage
 27/03/2025,Tech's Next Golden Age: 3 Reasons The Vanguard S&P 500 ETF Is a Must-Buy Right Now,0.2714,Alpha Vantage
+27/03/2025,Jensen Huang's net worth is $106 billion. Here's how the Nvidia CEO built his fortune and spends his money.,0.15,News API
+27/03/2025,Veteran fund manager offers blunt take after Nvidia stock drop,0.05,News API
+27/03/2025,An Nvidia exec explains how CMOs are using AI to get the most out of their ad budgets,0.5,News API
+27/03/2025,"Death Cross Pattern Appears for NVIDIA Stock: Buy, Hold, or Sell?",0.0,News API
+28/03/2025,3 AI Giants Well-Positioned to Bounce Back Stronger After The Nasdaq Correction,0.0,Alpha Vantage
+28/03/2025,1 No-Brainer Artificial Intelligence  ( AI )  Stock to Buy Before It Skyrockets,-0.6,Alpha Vantage
+28/03/2025,"Public Keys: GameStop Wants Bitcoin, Miners Face Shrinkage, Robinhood Gets a Time Out",0.1,Alpha Vantage
+28/03/2025,How to Tune Out Market Noise,0.0,Alpha Vantage
+28/03/2025,"SoftBank Looks At Investing $1 Trillion For US AI Push With Robot-Run Industrial Parks - SoftBank Group  ( OTC:SFTBF ) , SoftBank Group  ( OTC:SFTBY ) ",0.0,Alpha Vantage
+28/03/2025,"EXCLUSIVE: Which Magnificent 7 Stock Will Perform Best In The Next 3 Months? New Poll Shows A Favorite  ( And It's Not Nvidia )  - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.5273,Alpha Vantage
+28/03/2025,Is IONQ Stock the Next NVIDIA and Worth Buying Now?,0.15,Alpha Vantage
+28/03/2025,"Bitcoin, Ethereum and XRP Fall to Weekly Lows as Liquidations Spike Above $450 Million",0.0,Alpha Vantage
+28/03/2025,Will the Launch of Cloud Inference Platform Benefit AKAM Stock?,0.0,Alpha Vantage
+28/03/2025,"New Inflation Data Dismays Bulls, CoreWeave IPO Shows Cooling AI Frenzy, Lululemon Shows Cautious Consumer Spending",0.1364,Alpha Vantage
+28/03/2025,"Nvidia Stock 'An Attractive Opportunity,' Analyst Says Valuation Cheap Despite China Restrictions - NVIDIA  ( NASDAQ:NVDA ) ",0.6,Alpha Vantage
+28/03/2025,Should You Hold on to APLD Stock Despite its 24% Dip in 3 Months?,0.0,Alpha Vantage
+28/03/2025,Why Is Nvidia  ( NVDA )  Down 7.3% Since Last Earnings Report?,-0.0778,Alpha Vantage
+28/03/2025,"The Zacks Analyst Blog Highlights NVIDIA, Alphabet, Microsoft and AMD",0.0,Alpha Vantage
+28/03/2025,"The Zacks Analyst Blog Highlights CVS Health, Ulta Beauty, Progressive, AMD and Citigroup",0.0,Alpha Vantage
+28/03/2025,Investigating NVIDIA's Standing In Semiconductors & Semiconductor Equipment Industry Compared To Competitors - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+28/03/2025,"Bitcoin Falls To $85K, Altcoins Drop Ahead Of Inflation Data; Trump's Tariffs May Raise $800B, But Risks Loom; Tesla Faces EV Incentive Cuts In UK After Canada - Top Headlines While The U.S. Slept",0.5,Alpha Vantage
+28/03/2025,3 Reasons Why IREN Limited Stock is a Buy Despite 34.2% YTD Dip,-0.0714,Alpha Vantage
+28/03/2025,3 Dividend Yield Mutual Funds to Buy Amid Market Uncertainty,0.0,Alpha Vantage
+28/03/2025,2 Incredible Growth Stocks I'm Buying Hand Over Fist,0.9,Alpha Vantage
+28/03/2025,"Tariff Fears And Ease In Demand Hype Slows Semiconductor Expansion - NVIDIA  ( NASDAQ:NVDA ) , Intel  ( NASDAQ:INTC ) ",0.0,Alpha Vantage
+28/03/2025,Better Artificial Intelligence Stock: AMD vs. Nvidia,-0.05,Alpha Vantage
+28/03/2025,Trading The SPY As PCE Inflation Report Takes Center Stage,-0.1,Alpha Vantage
+28/03/2025,Monolithic Power  ( NASDAQ: MPWR )  Deadline Approaching: Berger Montague Advises Investors of Deadline in Securities Fraud Lawsuit - Monolithic Power Systems  ( NASDAQ:MPWR ) ,0.0,Alpha Vantage
+28/03/2025,Prediction: Micron Stock Will Soar Over the Next 3 Years. Here's 1 Reason Why.,0.0,Alpha Vantage
+28/03/2025,Better Artificial Intelligence  ( AI )  Stock: Nvidia vs. AMD,-0.05,Alpha Vantage
+28/03/2025,"Prediction: This Artificial Intelligence  ( AI )  Stock Will Join Nvidia, Meta Platforms, Apple, Microsoft, Amazon, and Alphabet in the Trillion-Dollar Club By The End of The Decade",-0.6,Alpha Vantage
+28/03/2025,Nvidia Stock Is Down Over 20% From Its All-Time High. Here's Why It Could Soar by the End of 2025.,0.0022,Alpha Vantage
+28/03/2025,3 Northern Mutual Funds for Solid Returns,0.0,Alpha Vantage
+28/03/2025,"Intel's SuperFluid Cooling Tech 'Possibly Suitable For Nvidia's GB300' Chips, Says Expert Amid INTC's Efforts To Secure Commitments For Foundry Services - Apple  ( NASDAQ:AAPL ) , Broadcom  ( NASDAQ:AVGO ) ",0.475,Alpha Vantage
+28/03/2025,"Intel Board Shake-Up Continues As Three Directors Exit Amid Leadership Overhaul Under CEO Lip-Bu Tan - Broadcom  ( NASDAQ:AVGO ) , Intel  ( NASDAQ:INTC ) ",0.0,Alpha Vantage
+28/03/2025,"If You Invested $1,000 In AMD And Bitcoin When CEO Lisa Su Called Blockchains A Distraction, Here's What You'd Have Now - Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+28/03/2025,Where Will Nvidia Stock Be in 4 Years? The Answer May Shock You.,0.0,Alpha Vantage
+28/03/2025,Razer Blade 16 Review: A Toasty Powerhouse,0.0,News API
+28/03/2025,Don't overthink CoreWeave's IPO. It is a bellwether — just not for all of AI.,0.0,News API
+29/03/2025,"Down 13% to 41%, These 3 Nvidia Partners Are Raging Buys",-0.1556,Alpha Vantage
+29/03/2025,3 Quantum Computing Stocks That Could Make You a Millionaire,0.0,Alpha Vantage
+29/03/2025,"Down 50%, Should You Buy AMD Stock on the Dip?",-0.1556,Alpha Vantage
+29/03/2025,2 Under-the-Radar Stocks With Market-Beating Potential,0.0,Alpha Vantage
+29/03/2025,Is SoundHound AI Stock the Best Buy Now After the Market Correction?,1.0,Alpha Vantage
+29/03/2025,This Is the Top Mag 7 Stock to Buy Today,0.5,Alpha Vantage
+29/03/2025,"Cathie Wood's Ark Invest Loads Up On Robinhood, Nvidia-Backed CoreWeave: Offloads Spotify, Roku - ARK Genomic Revolution ETF  ( BATS:ARKG ) , ARK Innovation ETF  ( ARCA:ARKK ) ",0.0,Alpha Vantage
+29/03/2025,Is the Roundhill Generative AI & Technology ETF a Millionaire Maker?,0.0,Alpha Vantage
+29/03/2025,Should You Forget Nvidia and Buy These 2 Artificial Intelligence  ( AI )  Stocks Instead?,-0.6,Alpha Vantage
+29/03/2025,"Nvidia-Backed Scale AI Reportedly Eyes $25 Billion Valuation In Tender Offer Amid Explosive Demand For Labeled Data And Machine Learning Tools - Meta Platforms  ( NASDAQ:META ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+29/03/2025,"Microsoft Co-Founder Bill Gates Praises China As A Pioneer In Solar, Batteries, And AI: Warns Tensions Are Stifling Global Innovation - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2,Alpha Vantage
+29/03/2025,"Nvidia-Backed CoreWeave's CEO Defends Microsoft, OpenAI Revenue Concentration Due To 'Mind-Bendingly Large Deals - CoreWeave  ( NASDAQ:CRWV ) , IBM  ( NYSE:IBM ) ",0.0446,Alpha Vantage
+29/03/2025,Should You Worry About Nvidia's Challenges in China? History Offers a Compelling Answer.,0.2,Alpha Vantage
+29/03/2025,"Nasdaq Correction: 2 AI Stocks Down 26% and 46% to Buy Before They Soar, According to Wall Street",-0.1556,Alpha Vantage
+29/03/2025,My Top Artificial Intelligence  ( AI )  Stock to Buy Today  ( Hint: It's Not Nvidia ) ,-0.05,Alpha Vantage
+29/03/2025,"Intel Should Stop Competing With TSMC's Cutting-Edge Chips And Merge With Mature Node Giants, Says TSMC Veteran Chiang Shang-Yi - Broadcom  ( NASDAQ:AVGO ) , GLOBALFOUNDRIES  ( NASDAQ:GFS ) ",0.05,Alpha Vantage
+29/03/2025,Prediction: This Artificial Intelligence  ( AI )  Company Will Be the Biggest Beneficiary of Self-Driving Vehicles  ( Hint: It's Not Tesla ) ,-0.6,Alpha Vantage
+29/03/2025,"Mark Cuban Advises Against Sole Dependence on AI for Work, Says It's 'Never the Answer'",0.0,Alpha Vantage
+29/03/2025,I’m still testing the new Razer Blade 16 and I have mixed feelings,0.0682,News API
+30/03/2025,"Warren Buffett's Resounding Message to Wall Street, Delivered Over a Number of Years, Couldn't Be Clearer. And It May Change the Way You Invest Right Now.",0.2857,Alpha Vantage
+30/03/2025,Is Oracle Stock a Buy Now?,0.0,Alpha Vantage
+30/03/2025,"DEADLINE ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Monolithic Power Systems - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.0,Alpha Vantage
+30/03/2025,"CoreWeave IPO, Elon Musk'x xAI Acquires X, Microsoft's Wake-Up Call, China's Huawei Makes Advances, And More: This Week In AI - CoreWeave  ( NASDAQ:CRWV ) , Alphabet  ( NASDAQ:GOOG ) ",0.5,Alpha Vantage
+30/03/2025,Monolithic Power Systems Inc. Sued for Securities Law Violations - Investors Should Contact Levi & Korsinsky for More Information - MPWR,0.5,Alpha Vantage
+30/03/2025,"Berger Montague Reminds Monolithic Power Systems  ( MPWR )  Investors With Substantial Losses to Inquire About a Securities Fraud Class Action by April 7, 2025",0.1,Alpha Vantage
+30/03/2025,2 Artificial Intelligence  ( AI )  Stocks to Buy Before the Next Stock Market Swing,-0.3,Alpha Vantage
+30/03/2025,A Market Downturn Creates a Perfect Entry Point for This Promising AI Player,0.6,Alpha Vantage
+30/03/2025,Better Artificial Intelligence Stock: SoundHound AI vs. Cerence AI,-0.05,Alpha Vantage
+30/03/2025,Here's the Next AI Stock I'm Buying,0.0,Alpha Vantage
+30/03/2025,"Down 57% From All-Time Highs, Is This Quantum Computing Stock the Bargain of the Decade?",-0.1556,Alpha Vantage
+30/03/2025,Nvidia Has 81% of Its $304 Million Stock Portfolio Invested in 3 Groundbreaking AI Stocks,0.0,Alpha Vantage
+30/03/2025,"2 Stock-Split AI Stocks to Buy Before They Soar 85% and 105%, According to Certain Wall Street Analysts",0.2143,Alpha Vantage
+30/03/2025,2 Nasdaq Stocks I Would Buy if the Stock Market Plummets in 2025,0.0,Alpha Vantage
+31/03/2025,"Stagflation Risk Rises - Prepare To Close The Barn Door Before The Horse Bolts, Apple's AI Doctor",0.0,Alpha Vantage
+31/03/2025,Analyzing NVIDIA In Comparison To Competitors In Semiconductors & Semiconductor Equipment Industry - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+31/03/2025,CoreWeave shares slump nearly 10% in second day of trading,0.05,Alpha Vantage
+31/03/2025,"The Market's Volatility, CoreWeave's IPO, Bitcoin's Future, and More",0.25,Alpha Vantage
+31/03/2025,"Trump's Sons Back 'American Bitcoin' With Hut 8; Gold Tops $3,100 Amid Tariff Jitters; Alibaba Expo Boosts US Orders 27% - Top Headlines While The U.S. Slept",0.1667,Alpha Vantage
+31/03/2025,"Cathie Wood and Warren Buffett Both Own This ""Magnificent Seven"" Stock. Should You Buy It Hand Over Fist During the Nasdaq Sell-Off?",0.8,Alpha Vantage
+31/03/2025,Are We Heading Into A Bear Market? - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+31/03/2025,"ASUS Republic of Gamers Announces ROG Strix SCAR, Strix G18, and Zephyrus, Are Now Available and Shipping - Asustek Computer  ( OTC:ASUUY ) ",0.4,Alpha Vantage
+31/03/2025,"Nasdaq Sell-Off: After Losing Nearly $800 Billion in Market Cap, Is Nvidia Stock a Buy Anymore? History Offers a Clear Indicator of What Could Happen Next.",0.075,Alpha Vantage
+31/03/2025,"This Artificial Intelligence  ( AI )  Stock Is a ""Magnificent Seven"" Leader. But Is It a Buy?",0.2,Alpha Vantage
+31/03/2025,The Zacks Analyst Blog Highlights NVIDIA and IonQ,0.0,Alpha Vantage
+31/03/2025,How High Or Low Can The SPY Go Today?,0.08,Alpha Vantage
+31/03/2025,"Market Outlook: What To Expect This Week - eBay  ( NASDAQ:EBAY ) , American International Gr  ( NYSE:AIG ) ",0.0,Alpha Vantage
+31/03/2025,Prediction: Buying This Artificial Intelligence  ( AI )  Stock Will Set You Up for Life  ( And It's Not Palantir ) ,-0.6,Alpha Vantage
+31/03/2025,"""Rule Breaker Investing"" Mailbag: Chalkboard Wisdom and Favorite Words",0.5,Alpha Vantage
+31/03/2025,Fabrinet and Fluor have been highlighted as Zacks Bull and Bear of the Day,0.0,Alpha Vantage
+31/03/2025,"Nvidia Declines Nearly 4% In Monday Pre-Market: What's Going On? - CoreWeave  ( NASDAQ:CRWV ) , NVIDIA  ( NASDAQ:NVDA ) ",0.1,Alpha Vantage
+31/03/2025,3 No-Brainer Stocks That Could Rebound Strongly in April,0.4333,Alpha Vantage
+31/03/2025,"CoreWeave's 'Tough' IPO: A Warning Sign For AI Investors? Expert Flags Microsoft's Rejection - Alibaba Gr Hldgs  ( NYSE:BABA ) , CoreWeave  ( NASDAQ:CRWV ) ",-0.3889,Alpha Vantage
+31/03/2025,IREN Business Update - IREN  ( NASDAQ:IREN ) ,0.0,Alpha Vantage
+31/03/2025,"Perplexity CEO Aravind Srinivas Shuts Down Financial Rumors, Says AI Search Startup Has 'No Plans Of IPOing Before 2028' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.0778,Alpha Vantage
+31/03/2025,Should You Invest in the Technology Select Sector SPDR ETF  ( XLK ) ?,0.0,Alpha Vantage
+31/03/2025,Should BNY Mellon US Large Cap Core Equity ETF  ( BKLC )  Be on Your Investing Radar?,0.2143,Alpha Vantage
+31/03/2025,Is iShares MSCI ACWI Low Carbon Target ETF  ( CRBN )  a Strong ETF Right Now?,0.2397,Alpha Vantage
+31/03/2025,"Nvidia GPUs Power Jeff Bezos-Backed Figure AI As It Competes With Elon Musk's Tesla In Humanoid Robotics - Microsoft  ( NASDAQ:MSFT ) , NVIDIA  ( NASDAQ:NVDA ) ",0.0,Alpha Vantage
+31/03/2025,Venture capital veteran Allen Zhu questions humanoid robots' value,0.0,Alpha Vantage
+31/03/2025,Nvidia Stock Investors Got Fantastic News From CEO Jensen Huang,0.4,Alpha Vantage
+31/03/2025,Is Artificial Intelligence  ( AI )  GPU Giant Nvidia Poised to Be a Victim of Its Own Success?,0.045,Alpha Vantage
+31/03/2025,"This Fund Manager Predicts Tesla's Stock Will Rise Nearly 1,000%. Should Investors Believe the Hype?",0.1,Alpha Vantage
+31/03/2025,Bull of the Day: Fabrinet  ( FN ) ,0.0,Alpha Vantage
+31/03/2025,My Top Artificial Intelligence  ( AI )  Stocks to Buy Right Now,0.0619,Alpha Vantage
+31/03/2025,CoreWeave's IPO tested the waters - and missed the mark,0.0,Alpha Vantage
+31/03/2025,"Nvidia Executive 'Very Bullish' Edge AI Company Mimik, Cathie Wood Notes 'High Praise' For The Company She Backs - NVIDIA  ( NASDAQ:NVDA ) ",0.18,Alpha Vantage
+31/03/2025,Did Apple Just Give Nvidia Investors 1 Billion Reasons to Celebrate?,0.0,Alpha Vantage
+31/03/2025,The Best Gadgets of March 2025,1.0,News API
+31/03/2025,NVIDIA (NasdaqGS:NVDA) Partners With Quantum Machines For AI-Quantum Computing Breakthrough,0.0,News API
+31/03/2025,AMD Just Made Its Boldest Move Yet to Beat Nvidia in the AI Race,0.0,News API
+31/03/2025,Zwei Spielstudios empfehlen alte Treiber für GeForce RTX 4000,0.0,News API
+01/04/2025,"MPWR Deadline in 6 Days: Kessler Topaz Meltzer & Check, LLP Reminds Monolithic Power Systems, Inc.  ( MPWR )  Investors of Filing Deadline in Class Action Lawsuit - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.1,Alpha Vantage
+01/04/2025,"Trump's 'Liberation Day' Creates 'Major Uncertainty' For Big Tech, Analyst Dan Ives Says - NVIDIA  ( NASDAQ:NVDA ) ",0.0312,Alpha Vantage
+01/04/2025,Rivian CEO Says US Needs More Under $50K EVs To Catch Up To China: 'You Have To Have The Plumbing Right' - Rivian Automotive  ( NASDAQ:RIVN ) ,0.3929,Alpha Vantage
+01/04/2025,Seeking Exposure to AI Stocks? Use This Tool,0.0,Alpha Vantage
+01/04/2025,IPO Mania: What's Going on With Newsmax Shares?,0.0,Alpha Vantage
+01/04/2025,The Alienware Aurora R16 with RTX 4090 is finally on sale again,0.0,News API
+01/04/2025,Intel's new CEO acknowledges the company fell behind and he wants customers to be 'brutally honest',0.1341,News API
+01/04/2025,Zwei Monate nach Launch: Der Grafikkartenmarkt erholt sich langsam,0.0,News API
+02/04/2025,Nvidia Stock Is Down Nearly 20% YTD: What's Going On? - NVIDIA  ( NASDAQ:NVDA ) ,-0.0278,Alpha Vantage
+02/04/2025,Why Nvidia Stock Lost 13% in March,0.0,Alpha Vantage
+02/04/2025,"Time to Start Buying AI Stocks?  ( NVDA, VRT, PLTR ) ",0.0,Alpha Vantage
+02/04/2025,Why Some Quantum Computing Stocks Soared Last Month  ( While Others Slumped ) ,0.0,Alpha Vantage
+02/04/2025,Bitcoin miner Bitfarms secures up to $300M loan from Macquarie,0.0,Alpha Vantage
+02/04/2025,"Gold Outshines Tech Stocks And Bitcoin, As Bulls And Bears Battle Ahead Of Trump Tariff Announcement",0.0,Alpha Vantage
+02/04/2025,CoreWeave IPO: Is this Fast-Growing AI Stock a Buy Right Now?,0.2857,Alpha Vantage
+02/04/2025,Bitcoin Awaits Trump Tariff Move As Optimism Grows; Tesla Slips In March While Rivals Gain; Novo Nordisk Investor Earns $9B From Soaring Weight Loss Drug Sales - Top Headlines While The U.S. Slept,0.5,Alpha Vantage
+02/04/2025,Industry Comparison: Evaluating NVIDIA Against Competitors In Semiconductors & Semiconductor Equipment Industry - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+02/04/2025,ServiceNow vs. Atlassian: Which ITSM Provider Has Greater Upside?,0.5,Alpha Vantage
+02/04/2025,"ONGOING DEADLINE ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Monolithic Power Systems - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.0,Alpha Vantage
+02/04/2025,"ANSS Sets CFD Simulation Record Using AMD GPUs, Frontier Supercomputer",0.0,Alpha Vantage
+02/04/2025,Betting On Both Outcomes: A Liberation Day Gameplan,0.0,Alpha Vantage
+02/04/2025,2 Cheap Tech Stocks I'm Buying Right Now,0.3429,Alpha Vantage
+02/04/2025,"The Zacks Analyst Blog Highlights Microsoft, Alphabet, Nvidia and Amazon",0.0,Alpha Vantage
+02/04/2025,"How To Trade SPY, As Market Braces For Trump's Tariffs Plan - Tesla  ( NASDAQ:TSLA ) ",0.0,Alpha Vantage
+02/04/2025,Should Nvidia Investors Worry About Artificial Intelligence  ( AI )  Bubble Reports?,-0.6,Alpha Vantage
+02/04/2025,Is Amazon Stock Worth Holding Now on NOVA AI's Potential?,0.15,Alpha Vantage
+02/04/2025,3 Brilliant Quantum Computing Stocks I'm Buying Now,0.9,Alpha Vantage
+02/04/2025,Sterling Infrastructure's and AppFolio have been highlighted as Zacks Bull and Bear of the Day,0.0,Alpha Vantage
+02/04/2025,"Nvidia's Revenue Wouldn't Be 'Impacted...At All' If It Didn't Invest In CoreWeave: Analyst Explains Reason Behind Neo Cloud Investments - CoreWeave  ( NASDAQ:CRWV ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.4,Alpha Vantage
+02/04/2025,Billionaire Israel Englander Jettisoned Shares of Nvidia and Microsoft and Is Piling Into 2 High-Growth Tech Stocks,0.0,Alpha Vantage
+02/04/2025,"2 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",0.0,Alpha Vantage
+02/04/2025,Fast Track to AV1 with Beamr: High-Quality at a Fraction of the Cost - Beamr Imaging  ( NASDAQ:BMR ) ,0.2,Alpha Vantage
+02/04/2025,Fast Track to AV1 with Beamr: High-Quality at a Fraction of the Cost,0.2,Alpha Vantage
+02/04/2025,"How Much Further Can the ""Magnificent Seven"" Fall? Here's What History Suggests.",0.5,Alpha Vantage
+02/04/2025,These 2 Vanguard ETFs Have Over 10% of Assets in Nvidia Stock. Here's Why Both Growth Funds Are Great Buys Now.,0.8,Alpha Vantage
+02/04/2025,"Down 28%, Should You Buy the Dip on Nvidia?",-0.1556,Alpha Vantage
+02/04/2025,"Tesla Short Interest Soars To 21.16%, Making It 4th Most Shorted Stock Currently: Here's What Its Charts Indicate - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",0.1667,Alpha Vantage
+02/04/2025,Is iShares U.S. Equity Factor ETF  ( LRGF )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+02/04/2025,2 Growth Stocks and 1 ETF to Buy Even If the Stock Market Keeps Falling in 2025,0.0,Alpha Vantage
+02/04/2025,Billionaire Stanley Druckenmiller Sold Nvidia and Broadcom and Is Buying This Spectacular Artificial Intelligence  ( AI )  Stock Instead,0.0,Alpha Vantage
+02/04/2025,Does Nvidia-Backed CoreWeave's Lackluster IPO Signal the AI Stock Boom Is Officially Over?,0.0,Alpha Vantage
+02/04/2025,2 Unstoppable Artificial Intelligence  ( AI )  Stocks to Buy in April and 1 to Avoid,-0.6,Alpha Vantage
+02/04/2025,Where Will SoundHound AI Be in 3 Years?,0.0,Alpha Vantage
+02/04/2025,"4 No-Brainer ""Magnificent Seven"" Stocks to Buy Right Now",0.6429,Alpha Vantage
+02/04/2025,"CoreWeave Surges 42% In Post-IPO Rally As Nvidia-Backed AI Firm Recovers From Weak Debut - CoreWeave  ( NASDAQ:CRWV ) , Galaxy Digital Holdings  ( OTC:BRPHF ) ",-0.1917,Alpha Vantage
+02/04/2025,Oracle Recently Delivered Incredible News for Advanced Micro Devices  ( AMD )  Stock Investors,0.4333,Alpha Vantage
+02/04/2025,"Will Artificial Intelligence  ( AI )  Colossus Palantir Technologies Soar 46% or Plunge 53%, According to Select Wall Street Analysts?",-0.6,Alpha Vantage
+02/04/2025,"Nvidia Rival AMD Completes $4.9B Acquisition Of ZT Systems To Strengthen AI And Data Center Dominance - Alphabet  ( NASDAQ:GOOGL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.15,Alpha Vantage
+02/04/2025,These 3 Are Great Artificial Intelligence  ( AI )  Stocks to Buy on the Dip Right Now,0.1619,Alpha Vantage
+02/04/2025,"Intel's Stock Plummeted 50% In Past 12 Months, Now The Lip-Bu Tan-Led Company Is Betting On 18A Chip Breakthrough: 'We're Freezing It' - Broadcom  ( NASDAQ:AVGO ) , Intel  ( NASDAQ:INTC ) ",-0.25,Alpha Vantage
+02/04/2025,Better AI Stock: Amazon vs. Oracle,0.5,Alpha Vantage
+02/04/2025,"Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Edison, Elastic, Monolithic Power Systems, and ICON and Encourages Investors to Contact the Firm - Edison Intl  ( NYSE:EIX ) , Elastic  ( NYSE:ESTC ) ",-0.05,Alpha Vantage
+02/04/2025,Treasury Secretary Bessent says market woes are more about tech stock sell-off than Trump's tariffs,0.5,Alpha Vantage
+02/04/2025,Alienware gaming PC with RTX 5080 is $400 off,0.0,News API
+02/04/2025,"Nvidia RTX 5070 available at suggested price at Best Buy, grab it now",0.7,News API
+03/04/2025,Better Artificial Intelligence  ( AI )  Stock: Nvidia vs. Broadcom,-0.05,Alpha Vantage
+03/04/2025,"If You'd Invested $10,000 in Tesla Stock 10 Years Ago, Here's How Much You'd Have Today",0.2,Alpha Vantage
+03/04/2025,Prediction: 4 Artificial Intelligence  ( AI )  Stocks That Could Be Worth More Than Apple by 2030,0.0667,Alpha Vantage
+03/04/2025,2 Top AI Stocks Down 28% or More to Buy and Hold for 10 Years,0.2815,Alpha Vantage
+03/04/2025,"Google In Talks To Rent Nvidia's Blackwell Chips From CoreWeave: Report - CoreWeave  ( NASDAQ:CRWV ) , Broadcom  ( NASDAQ:AVGO ) ",0.0,Alpha Vantage
+03/04/2025,Bull of the Day: Nova  ( NVMI ) ,0.0,Alpha Vantage
+03/04/2025,Prediction: IonQ Could Surge by 200% in the Next 3 Years,0.0,Alpha Vantage
+03/04/2025,1 No-Brainer Artificial Intelligence  ( AI )  ETF to Buy With $40 During the S&P 500 Sell-Off,-0.6,Alpha Vantage
+03/04/2025,3 Top Bargain Stocks Ready for the Next Bull Run,0.2333,Alpha Vantage
+03/04/2025,"Nvidia Has Ceded Its Spot as the No. 1 Holding on Robinhood to a Company Expected to Skyrocket 900%, According to a Prominent Money Manager",0.2,Alpha Vantage
+03/04/2025,"ByteDance, Alibaba, And Tencent Order $16 Billion Worth Of Nvidia's H20 Chips As Demand Surges For DeepSeek's Low-Cost AI Models: Report - Alibaba Gr Hldgs  ( NYSE:BABA ) , NVIDIA  ( NASDAQ:NVDA ) ",0.3,Alpha Vantage
+03/04/2025,"Peter Thiel-Backed Nonprofit Sentient Aims To Be America's DeepSeek, Takes Aim At Closed AI Systems - Microsoft  ( NASDAQ:MSFT ) , NVIDIA  ( NASDAQ:NVDA ) ",-0.1,Alpha Vantage
+03/04/2025,"Trump's 'Reciprocal Tariff' Plan Hits Market Confidence As Dow Futures Drops Over 830 Points - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+03/04/2025,"Nvidia, AMD, Apple, Meta, Tesla: Why These 5 Stocks Are Trending On Trump's Liberation Day - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+03/04/2025,Panicking Over Trump's Tariffs? 2 Warren Buffett Pearls of Wisdom to Remember,0.0,Alpha Vantage
+03/04/2025,Looking Ahead to the Q1 Earnings Season,0.0,Alpha Vantage
+03/04/2025,Looking Ahead to the Q1 Earnings Season,0.0,Alpha Vantage
+03/04/2025,Why Applied Digital Stock Is Plummeting Today,0.0,Alpha Vantage
+03/04/2025,"Monolithic Power Systems, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. April 7, 2025 Deadline to file Lead Plaintiff Motion - Monolithic Power Systems  ( NASDAQ:MPWR ) ",-0.2,Alpha Vantage
+03/04/2025,Can AMD Outperform NVIDIA? Let's See if the Stock is Worth Buying Now,0.3,Alpha Vantage
+03/04/2025,D-Wave Quantum Surges 38% in March: Is QBTS a Smart Buy Now?,0.2143,Alpha Vantage
+03/04/2025,Why Nvidia Stock Is Plummeting Today -- It's More Than Trump's Tariffs,0.5,Alpha Vantage
+03/04/2025,Mag 7 relinquishes more than $800 billion as tech drives stock market nosedive,0.5,Alpha Vantage
+03/04/2025,Tariffs Will Provide Great Buying Opportunity In Long Term - Investors Must First Cross Stagflation Chasm,0.25,Alpha Vantage
+03/04/2025,Nasdaq Correction: 3 Artificial Intelligence  ( AI )  Stocks That Are Now Too Cheap to Ignore,0.1,Alpha Vantage
+03/04/2025,Samsung's China Chip Pivot Gains Steam With 54% Export Surge Amid US Market Struggles - Samsung Electronics Co  ( OTC:SSNLF ) ,0.0,Alpha Vantage
+03/04/2025,2 Tech Stocks With More Potential Than Any Cryptocurrency,0.25,Alpha Vantage
+03/04/2025,Here's How Tariffs Could Affect This Industry Giant. Should Investors Be Worried?,0.0,Alpha Vantage
+03/04/2025,"Zacks Earnings Trends Highlights: Meta Platforms, Tesla, Nvidia, Alphabet and Microsoft",0.0,Alpha Vantage
+03/04/2025,"The Render Network Announces RenderCon 2025: The future of Hollywood and AI - with Ariel Emanuel, Beeple and other industry luminaries",-0.0625,Alpha Vantage
+03/04/2025,3 Growth Stocks That Have Dwarfed Nvidia's Returns Over the Past 12 Months,-0.25,Alpha Vantage
+03/04/2025,"Today's Trade Strategy For SPY, AAPL, MSFT, NVDA, GOOGL, META, TSLA",0.0,Alpha Vantage
+03/04/2025,"The Silver Lining In The Liberation Day Tariff Announcement - NVIDIA  ( NASDAQ:NVDA ) , RH  ( NYSE:RH ) ",0.0,Alpha Vantage
+03/04/2025,4 Top No-Load Mutual Funds for 2025 and Beyond,0.5,Alpha Vantage
+03/04/2025,"RH Posts Downbeat Earnings, Joins Apple, Tesla, Nvidia And Other Big Stocks Moving Lower In Thursday's Pre-Market Session - Apple  ( NASDAQ:AAPL ) , AdvanSix  ( NYSE:ASIX ) ",-0.0625,Alpha Vantage
+03/04/2025,"JPMorgan Says Broadcom, Marvell Could Dominate AI's Next Frontier - Here's Why - Broadcom  ( NASDAQ:AVGO ) , Marvell Tech  ( NASDAQ:MRVL ) ",0.0,Alpha Vantage
+03/04/2025,LG ANNOUNCES PRICING AND AVAILABILITY OF ITS FIRST SMART GAMING MONITOR SERIES,0.2321,Alpha Vantage
+03/04/2025,Nasdaq-100 Sees Worst Quarter in 3 Years: What Lies Ahead for ETFs?,-1.0,Alpha Vantage
+03/04/2025,Apple has its biggest stock drop in five years because of Trump’s tariffs,0.0,News API
+03/04/2025,Apple has its biggest stock drop in five years because of Trump’s tariffs,0.0,News API
+03/04/2025,Nintendo’s Switch 2 era comes at a price,0.0,News API
+03/04/2025,How the Nintendo Switch 2 stacks up to the Steam Deck,0.0,News API
+03/04/2025,NVIDIA confirma que la Nintendo Switch 2 es compatible con DLSS y trazado de rayos,0.0,News API
+03/04/2025,"Nvidia Finally Spills The Beans On What's Powering The Switch 2, Promises '10x' Graphics Performance Of Original Switch",0.1875,News API
+03/04/2025,This HP Omen gaming desktop dropped to $780 after a 40% discount,0.0,News API
+04/04/2025,"Guess, Tesla, Nvidia And Other Big Stocks Moving Lower In Friday's Pre-Market Session - Alibaba Gr Hldgs  ( NYSE:BABA ) , Adaptive Biotechnologies  ( NASDAQ:ADPT ) ",-0.0625,Alpha Vantage
+04/04/2025,Nvidia Slips Into Bearish Trend As HSBC Downgrades AI Giant - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+04/04/2025,3 Dividend Stocks to Buy Now That Have Raised Their Payouts for at Least 40 Consecutive Years,-0.3,Alpha Vantage
+04/04/2025,Why SoundHound AI Stock Plunged 25% Lower in March,0.0,Alpha Vantage
+04/04/2025,1 Prediction From Nvidia That Should Excite AMD Investors,0.0,Alpha Vantage
+04/04/2025,"Elon Musk, Mark Zuckerberg And Jensen Huang See $34 Billion Wiped Out In A Single Day: Here's How Much Other 'Magnificent 7' Billionaires Lost After Trump's Liberation Day - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.2679,Alpha Vantage
+04/04/2025,"The Best Nasdaq ETF to Invest $1,000 in Right Now",0.6429,Alpha Vantage
+04/04/2025,Should Vanguard Russell 1000 ETF  ( VONE )  Be on Your Investing Radar?,0.0,Alpha Vantage
+04/04/2025,"US Stocks Likely To Open Lower After The Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert - Apple  ( NASDAQ:AAPL ) , American Shared Hospital  ( AMEX:AMS ) ",-0.12,Alpha Vantage
+04/04/2025,"Stocks Set To Continue Crashing After Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert - Apple  ( NASDAQ:AAPL ) , American Shared Hospital  ( AMEX:AMS ) ",-0.2,Alpha Vantage
+04/04/2025,"2 ""Magnificent Seven"" Stocks Down 19% and 25% You'll Wish You'd Bought on the Dip",0.4222,Alpha Vantage
+04/04/2025,3 Important Numbers to Know for Bitcoin Investors,0.4,Alpha Vantage
+04/04/2025,2 Top Tech Stocks to Buy in April,0.5,Alpha Vantage
+04/04/2025,Jensen Huang Recently Delivered Incredible News for Nvidia Investors,0.45,Alpha Vantage
+04/04/2025,"Top Analyst Cautions 'Economic Armageddon' For Tech Sector If Current Tariffs Stay: 'This Is As Nervous As I've Seen Investors Since Covid' - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",0.2333,Alpha Vantage
+04/04/2025,Stock-Split Watch: Is Alphabet Next?,0.0,Alpha Vantage
+04/04/2025,3 Top-Ranked Balanced Mutual Funds to Hedge Against Market Risk,0.0,Alpha Vantage
+04/04/2025,"Move Over, Stock-Split Stocks: IPO Mania Is Taking Center Stage  ( and It's Probably Not Going to End Well ) ",-0.1,Alpha Vantage
+04/04/2025,"Nasdaq Dips 6% Following Trump's Tariffs As Nvidia, Apple Decline: Investor Sentiment Plunges, Greed Index Remains In 'Extreme Fear' Zone - Apple  ( NASDAQ:AAPL ) , American Shared Hospital  ( AMEX:AMS ) ",-0.0417,Alpha Vantage
+04/04/2025,"Trump's Reciprocal Tariffs Threaten To Derail Big Tech's Billion-Dollar AI Infrastructure Plans, Analyst Singles Out This OpenAI-Linked Project As Likely To Get Hit - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1333,Alpha Vantage
+04/04/2025,"AI could affect 40% of jobs and widen inequality between nations, UN warns",0.0,Alpha Vantage
+04/04/2025,"CLASS ACTION DEADLINE APPROACHING: Berger Montague Advises Monolithic Power Systems  ( NASDAQ: MPWR )  Investors to Inquire About a Securities Fraud Class Action by April 7, 2025 - Monolithic Power Systems  ( NASDAQ:MPWR ) ",0.0667,Alpha Vantage
+04/04/2025,Wall Street ends with heavy losses as Trump tariffs ignite global recession fears - ETCFO,-0.1,Alpha Vantage
+04/04/2025,"Bill Ackman: 'Just Pick Up The Phone'-Says Trump Will Reward Early Dealmakers, Punish Foreign Tariff Retaliation - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.0125,Alpha Vantage
+04/04/2025,India's fightback against Trump's tariffs - ETCFO,0.0,Alpha Vantage
+04/04/2025,"TSMC Steps Up To Take 20% Stake In Joint Venture With Intel As Struggling Chipmaker Grapples With Nearly $19 Billion Losses In 2024: Report - Broadcom  ( NASDAQ:AVGO ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.25,Alpha Vantage
+04/04/2025,CNBC's Inside India newsletter: How far is India from creating its own DeepSeek?,0.35,Alpha Vantage
+04/04/2025,The AI industry doesn’t know if Trump just killed its GPU supply,-0.2,News API
+04/04/2025,President Trump Says Chip Tariffs Coming ‘Very Soon’,0.2,News API
+04/04/2025,Nvidia adds native Python support to CUDA,0.0,News API
+04/04/2025,Nintendo Switch 2 und Switch OLED im Vergleich,0.0,News API
+04/04/2025,覇王に隙なし。NVIDIAが見せた最新戦略の盤石っぷりを解説,0.0,News API
+06/04/2025,Bank of America gives eye-popping Nvidia stock forecast amid tariffs,0.0,News API
+06/04/2025,Nvidia veröffentlicht PhysX vollständig als Open Source,0.0,News API
+07/04/2025,Building AI is about to get even more expensive — even with the semiconductor tariff exemption,0.0,News API
+07/04/2025,Comprar un PC con ARM en 2025: ¿tiene sentido hacerlo?,0.0,News API
+07/04/2025,"$115 million just poured into this startup that makes engineering 1,000x faster — and Bezos, Altman, and Nvidia are all betting on its success",0.3,News API
+07/04/2025,"Larry Fink says we are 'probably' in a recession, but don't sell your stocks just yet",0.0,News API
+08/04/2025,Meta Releases Much-Anticipated Llama 4 Models-Are They Truly That Amazing?,0.6,Alpha Vantage
+08/04/2025,Nvidia  ( NVDA )  Stock Moves -1.37%: What You Should Know,0.0,Alpha Vantage
+08/04/2025,How Rigetti's 2024 Quantum Dreams Turned Into 2025 Nightmares,0.0,Alpha Vantage
+08/04/2025,Dell Technologies vs HPE: Which AI Server Stock Has Greater Upside?,0.5,Alpha Vantage
+08/04/2025,Taiwan Semiconductor Stock Sinks 26% YTD: Should You Hold or Exit?,-0.1,Alpha Vantage
+08/04/2025,Broadcom Unveils $10 Billion Stock Buyback: Buy AVGO Stock Now?,0.0,Alpha Vantage
+08/04/2025,"Trump Tariff Strategy Creates 'Self-Inflicted Market Debacle': Analyst - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+08/04/2025,Why Nvidia Stock Is Skyrocketing Today,0.0,Alpha Vantage
+08/04/2025,Why Nvidia Stock Is Jumping Today,0.0,Alpha Vantage
+08/04/2025,3 Stocks That Cathie Wood Is Buying During the Stock Market Sell-Off,0.0,Alpha Vantage
+08/04/2025,Top 3D Printing Stocks to Build Your Portfolios for Solid Returns,0.25,Alpha Vantage
+08/04/2025,The Nasdaq Is Officially in a Bear Market. Here's Why History Says Investors Shouldn't Panic.,0.0,Alpha Vantage
+08/04/2025,Exploring The Competitive Space: NVIDIA Versus Industry Peers In Semiconductors & Semiconductor Equipment - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+08/04/2025,Industry Innovator Susan Foley Joins S4 Capital's Monks,0.0,Alpha Vantage
+08/04/2025,"Marvell Technology, Nvidia, Tesla, Apple And Other Big Stocks Moving Higher On Tuesday - Apple  ( NASDAQ:AAPL ) , Applied Optoelectronics  ( NASDAQ:AAOI ) ",0.0417,Alpha Vantage
+08/04/2025,Wall Street Looks To Rebound As Futures Rise After $9 Trillion Tariff Selloff; Bitcoin Outperforms Big Tech; Apple Demand Surges Amid Iphone Price Hike Fears - Top Headlines While the U.S. Slept,0.25,Alpha Vantage
+08/04/2025,"SPY, IVV, VOO Battle for Top ETF Crown Amid S&P 500 Swings",0.5,Alpha Vantage
+08/04/2025,"Nvidia And Google Bet Big On Quantum AI With $150M Investment In SandboxAQ, Raising Series E Round To $450 Million - Alphabet  ( NASDAQ:GOOGL ) , NVIDIA  ( NASDAQ:NVDA ) ",-0.1,Alpha Vantage
+08/04/2025,How To Trade The Market Amid Tariff News - SPDR S&P 500  ( ARCA:SPY ) ,0.0,Alpha Vantage
+08/04/2025,"Prediction: After Losing Over $1 Trillion in Market Cap This Year, Nvidia Stock Will Rebound in Epic Fashion. Here's Why.",0.1,Alpha Vantage
+08/04/2025,"Company News for Apr 8, 2025",0.0,Alpha Vantage
+08/04/2025,"HUMBL, Inc. Announces Joint Venture Agreement with MultiCortex to Expand its Artificial Intelligence  ( AI )  Distribution",-0.6,Alpha Vantage
+08/04/2025,Is Nvidia Stock Severely Affected By President Trump's Tariffs?,0.0,Alpha Vantage
+08/04/2025,"EXCLUSIVE: Nvidia May Be The Face Of AI But The Valuation Story Is Getting Complicated, Says Expert - NVIDIA  ( NASDAQ:NVDA ) ",-0.5,Alpha Vantage
+08/04/2025,"AI models get stuck 'overthinking.' Nvidia, Google, and Foundry have a fix.",0.0,News API
+08/04/2025,heise+ | Bit-Rauschen: Intels neuer Chef ist ein alter Bekannter,0.0,News API
+08/04/2025,¿Cuánto dinero ha perdido Apple por los aranceles de Trump? La cifra es bestial,0.0,News API
+09/04/2025,Is Nvidia's Artificial Intelligence  ( AI )  Business Recession-Resistant?,-0.6,Alpha Vantage
+09/04/2025,"Down 61%, Should You Buy the Dip on Rigetti Computing?",-0.1556,Alpha Vantage
+09/04/2025,Quantum Computing Is a Hot Topic in the Artificial Intelligence Sector. But Which Stocks Will Still be Around Decades From Now?,-0.175,Alpha Vantage
+09/04/2025,"The Zacks Analyst Blog Highlights Apple, NVIDIA and Broadcom",0.0,Alpha Vantage
+09/04/2025,Should You Invest in the Invesco PHLX Semiconductor ETF  ( SOXQ ) ?,0.0,Alpha Vantage
+09/04/2025,Should Motley Fool 100 Index ETF  ( TMFC )  Be on Your Investing Radar?,0.6,Alpha Vantage
+09/04/2025,Will Intel Stock Be a Trade War Winner?,0.0,Alpha Vantage
+09/04/2025,Taiwan Semiconductor Manufacturing Is Down 35%. Here's Why Now Could Be the Best Time to Buy the AI Stock.,0.4222,Alpha Vantage
+09/04/2025,"Got $3,000? 2 Artificial Intelligence  ( AI )  Stocks to Buy and Hold for the Long Term",-0.325,Alpha Vantage
+09/04/2025,"US Stocks Futures Trade Mixed Ahead Of Opening Bell: 'Preserve Capital In Conditions Of High Uncertainty,' Says Expert - Aehr Test System  ( NASDAQ:AEHR ) , Apple  ( NASDAQ:AAPL ) ",0.08,Alpha Vantage
+09/04/2025,"Nvidia Has Generated 21,000% Returns in 10 Years. Here's How Well the S&P 500's Second-Best-Performing Stock Has Done",0.0,Alpha Vantage
+09/04/2025,3 No-Brainer Growth Stocks to Buy for Less Than $100,-0.1667,Alpha Vantage
+09/04/2025,Where Will Nvidia Stock Be in 3 Years?,0.0,Alpha Vantage
+09/04/2025,The Nasdaq Just Moved From a Correction to a Bear Market. Here's How Long It Could Last.,-0.025,Alpha Vantage
+09/04/2025,Broadcom Shared Amazing News With Semiconductor Investors,0.6,Alpha Vantage
+09/04/2025,Prediction: This Relentless Vanguard ETF Will Beat the S&P 500 Again in 2025,0.0,Alpha Vantage
+09/04/2025,Stock Market Crash: 3 Tech Stocks You Can Buy and Hold for the Next Decade,0.25,Alpha Vantage
+09/04/2025,Nvidia and Palantir Are Down 37% and 41% From Their Respective All-Time High -- but It Isn't Time to Buy Just Yet,0.0015,Alpha Vantage
+09/04/2025,"Dow Dips Over 300 Points As US-China Trade Tensions Escalate: Apple, Tesla, Nvidia, Amazon Decline, Greed Index Remains In 'Extreme Fear' Zone - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.125,Alpha Vantage
+09/04/2025,"Nvidia's Jensen Huang Doesn't Want To Be Elon Musk, Reveals His Biographer: 'He Hates Science Fiction' - NVIDIA  ( NASDAQ:NVDA ) , Tesla  ( NASDAQ:TSLA ) ",0.0,Alpha Vantage
+09/04/2025,Best AI Stock to Buy Now: Nvidia vs. Palantir Technologies,1.0,Alpha Vantage
+09/04/2025,Nvidia-Supplier ASML's CEO Wants Young Leaders To Stop Asking Him This 'Absurd' But Common Question And Do This Instead,-0.125,Alpha Vantage
+09/04/2025,"Trump Threatened TSMC He'd Impose Up To 100% Tariffs If It Didn't Manufacture Chips In US: 'These Chip Companies Are Loaded' - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+09/04/2025,TSMC could face US$1 billion fine over chip in Huawei AI processor,0.4167,Alpha Vantage
+09/04/2025,"Cathie Wood Loads Up On $18.2 Million Worth Of Nvidia Stock, Adds $5.8 Million Worth Of Amazon Shares To Her Shopping Cart Amid Trump Tariff Upheaval - Amazon.com  ( NASDAQ:AMZN ) ",0.3,Alpha Vantage
+09/04/2025,Prediction: This Artificial Intelligence  ( AI )  Stock Will Be Worth More Than Nvidia in 2030,0.0667,Alpha Vantage
+09/04/2025,Trump administration eases on Nvidia H20 chip crackdown,0.0,News API
+09/04/2025,Nvidia Chip Sales Continue in China After CEO’s Visit to Mar-a-Lago,0.0,News API
+10/04/2025,Why AMD Stock Is Plummeting Today,0.0,Alpha Vantage
+10/04/2025,"Hardware, Tech Stocks Fall As Markets Pull Back From Tariff-Driven Rally: What's Going On? - Dell Technologies  ( NYSE:DELL ) ",0.0,Alpha Vantage
+10/04/2025,Retail investors are running head first into this topsy-turvy market,0.25,Alpha Vantage
+10/04/2025,"Can Palantir Outperform NVIDIA, and Should You Buy the Stock?",0.0,Alpha Vantage
+10/04/2025,Wall Street's Wild Ride: What Tuesday's Rally Means for Investors,0.1,Alpha Vantage
+10/04/2025,"Why Nvidia, Palantir, Broadcom, and Other Semiconductor and AI Stocks Rallied This Week",-0.125,Alpha Vantage
+10/04/2025,Nvidia Is Sinking Today. Is It Time to Buy the Artificial Intelligence  ( AI )  Stock?,-0.6,Alpha Vantage
+10/04/2025,"Palantir Stock Appreciates 22% Year to Date: Buy, Hold, or Sell?",0.0,Alpha Vantage
+10/04/2025,AMD's EPYC Powers GOOGL & ORCL Solutions: Should You Hold the Stock?,0.0,Alpha Vantage
+10/04/2025,Semiconductors Leading Nasdaq's Bounce-Back: ETFs in Focus,0.0,Alpha Vantage
+10/04/2025,The Real Reason Behind Trump's Tariff Reversals - SPDR S&P 500  ( ARCA:SPY ) ,-0.1,Alpha Vantage
+10/04/2025,"Runway AI Secures $300M From Nvidia And Fidelity To Revolutionize Film With Gen-4 Model And Studio Deals Raising Its Valuation To $3B - NVIDIA  ( NASDAQ:NVDA ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+10/04/2025,"Rule Breaker Investing: Essays From Yesterday, Vol. 7",0.0,Alpha Vantage
+10/04/2025,"Bitcoin Falls To $78K As Market Jitters; Trump Halts Tariffs After Bond Yield Spike; US-China Tensions Spark Visa Cancellations, Strain Academic Ties - Top Headlines While the US Slept",0.25,Alpha Vantage
+10/04/2025,Derivative-Based ETFs at the Heart of the Historic Market Run,0.0,Alpha Vantage
+10/04/2025,Intel  ( INTC )  Moves 18.8% Higher: Will This Strength Last?,0.125,Alpha Vantage
+10/04/2025,Why Shares of Nvidia Are Sinking Today,0.0,Alpha Vantage
+10/04/2025,5 Leveraged ETFs That Skyrocketed on 90-Day Tariff Pause,0.0,Alpha Vantage
+10/04/2025,how-to-trade-SPY-as-inflation-cools,0.0,Alpha Vantage
+10/04/2025,Why AMD Stock Rallied Harder Than Nvidia After New Tariff Announcement,0.0182,Alpha Vantage
+10/04/2025,"This COVID Growth Stock, Down 88% From Its Peak, May Be A Hidden Gem Amid Trump's Tariffs",-0.1611,Alpha Vantage
+10/04/2025,Trump's Tariff Pause Triggers Epic Rally: How to Play Mag 7 Now,0.1,Alpha Vantage
+10/04/2025,"Stock Market News for Apr 10, 2025",0.0,Alpha Vantage
+10/04/2025,Top Big Data Stocks to Power Up Your Portfolio Right Away,0.2619,Alpha Vantage
+10/04/2025,Why Nvidia Stock Could Be Tech's Biggest Bargain in 2025,0.0,Alpha Vantage
+10/04/2025,"Notice to Long-Term Shareholders of Driven Bands Holdings, Inc.  ( NASDAQ: DRVN ) ; ModivCare, Inc.  ( NASDAQ: MODV ) ; Monolithic Power Systems, Inc.  ( NASDAQ: MPWR ) ; and Virtu Financial Inc.  ( NASDAQ: VIRT ) , Grabar Law Office Investigates Claims on Your Behalf - ModivCare  ( NASDAQ:MODV ) , Driven Brands Hldgs  ( NASDAQ:DRVN ) ",0.0,Alpha Vantage
+10/04/2025,Semtech  ( SMTC )  CEO Acknowledges CopperEdge Delays Amid Investor Lawsuit - Hagens Berman,0.0,Alpha Vantage
+10/04/2025,Nvidia  ( NVDA )  Moves 18.7% Higher: Will This Strength Last?,0.125,Alpha Vantage
+10/04/2025,"Tariffs Are Crushing These 2 Stocks, but Long-Term Investors Could Get an Amazing Bargain",0.5,Alpha Vantage
+10/04/2025,Plenty of Time to Buy the Dip: Top Tech Stocks Still Down 30% and 50% to Buy,0.1722,Alpha Vantage
+10/04/2025,5 AI Bigwigs to Buy at Attractive Valuations Amid Extreme Volatility,0.3375,Alpha Vantage
+10/04/2025,1 Unstoppable Chip Company That Could Soar to a $1 Trillion Valuation,0.0,Alpha Vantage
+10/04/2025,"Jim Cramer Says Pre-Market Slide Driven By Profit-Takers: 'Shorts Are Trying To Figure Whether To Operate On Nvidia, AVGO, AAPL' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+10/04/2025,What Nvidia Stock Investors Should Know About Recent Tariff Updates,0.0,Alpha Vantage
+10/04/2025,2 Growth Stocks to Buy and Hold Forever,0.0,Alpha Vantage
+10/04/2025,Jim Cramer Reminds Investors 'Nobody Ever Made A Dime Panicking' After Market Rally Amid Tariff Pause - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+10/04/2025,Should iShares S&P 500 Growth ETF  ( IVW )  Be on Your Investing Radar?,0.0,Alpha Vantage
+10/04/2025,Should You Invest in the Vanguard Information Technology ETF  ( VGT ) ?,0.0,Alpha Vantage
+10/04/2025,Should Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF  ( GSLC )  Be on Your Investing Radar?,0.2143,Alpha Vantage
+10/04/2025,Could 1 of These Stocks Be the Next Nvidia?,0.0,Alpha Vantage
+10/04/2025,"US Stocks Likely To Open Lower Ahead Of March Inflation Release: Expert Highlights 'Fairly Weak Returns' After 5%+ Gains In S&P 500 - Apple  ( NASDAQ:AAPL ) , Amtech Systems  ( NASDAQ:ASYS ) ",-0.125,Alpha Vantage
+10/04/2025,4 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade,-0.3,Alpha Vantage
+10/04/2025,"Zacks Industry Outlook Highlights Super Micro Computer, NetApp and Quantum",0.3333,Alpha Vantage
+10/04/2025,Cathie Wood Goes Bargain Hunting in the Market Crash. 2 AI Stocks She Just Bought.,0.0,Alpha Vantage
+10/04/2025,3 Top Vanguard ETFs to Buy With the S&P 500 in Correction,0.5,Alpha Vantage
+10/04/2025,Nvidia Stock Dropped 35% From Its High. History Says This Will Happen Next.,0.08,Alpha Vantage
+10/04/2025,Prediction: This Artificial Intelligence  ( AI )  Stock Will Rebound More Than Any Other This Year  ( Hint: It's Not Nvidia ) ,-0.075,Alpha Vantage
+10/04/2025,"S&P 500 Records Biggest Surge Since 2008 As Trump Pauses Tariffs: Greed Index Remains In 'Extreme Fear' Zone - Apple  ( NASDAQ:AAPL ) , CarMax  ( NYSE:KMX ) ",-0.125,Alpha Vantage
+10/04/2025,Buzzy Nvidia-backed AI startup Wayve is partnering with Nissan on autonomous driving tech,0.4,News API
+10/04/2025,"Le han enseñado todos los capítulos de ‘Tom y Jerry’ a una IA, y ahora es capaz de crear sus propios episodios",0.0,News API
+10/04/2025,Amazon CEO's annual letter is here. He predicts AI won't be 'as expensive as it is today' thanks to chip improvements.,-0.15,News API
+10/04/2025,Retail investors didn't lose faith as stocks crashed — and it paid off big-time,0.0,News API
+11/04/2025,Roundhill Investment Wants to Launch an ETF Focused on Humanoid Robots,0.2,Alpha Vantage
+11/04/2025,"FuriosaAI Turns Down Meta's $800M Bid To Go Rogue With RNGD, As AI Chip War Between Nvidia, Google, And Meta Heats Up - Alphabet  ( NASDAQ:GOOGL ) , Meta Platforms  ( NASDAQ:META ) ",-0.1556,Alpha Vantage
+11/04/2025,"Jim Cramer's week ahead: Earnings from Goldman Sachs, Johnson & Johnson and Netflix",0.0,Alpha Vantage
+11/04/2025,"APLD Set to Report Q3 Earnings: Buy, Sell or Hold the Stock?",0.0,Alpha Vantage
+11/04/2025,"Which AI Stock, NVIDIA or Broadcom, Is the Better Bargain to Buy?",0.5,Alpha Vantage
+11/04/2025,Spotlight on NVIDIA: Analyzing the Surge in Options Activity - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+11/04/2025,Foreigners Dump The Dollar; Gold And Yen Act As Safe Haven; JPMorgan Helps Stock Market; Cooler PPI,0.5,Alpha Vantage
+11/04/2025,Tech stocks head for winning week with Nvidia tracking for 15% bounceback,0.5,Alpha Vantage
+11/04/2025,Can Alphabet's New AI and Cloud Launches Push the Stock Higher?,0.1932,Alpha Vantage
+11/04/2025,Why Recursion Pharmaceuticals Stock Is Skyrocketing Today,0.0,Alpha Vantage
+11/04/2025,Understanding NVIDIA's Position In Semiconductors & Semiconductor Equipment Industry Compared To Competitors - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+11/04/2025,"Trump Signs Major Crypto Law, Nixes IRS Rule Targeting DeFi; China Imposes 125% Tariffs On US Goods, Urges Policy Reversal; Pentagon Slashes $5.1 Billion In Consulting Contracts - Top Headlines While the U.S. Slept",0.2812,Alpha Vantage
+11/04/2025,Nasdaq Bear Market: Could Buying Nvidia Today Set You Up for Life?,0.0,Alpha Vantage
+11/04/2025,Super Micro Computer vs. NetApp: Which IaaS Stock is a Better Buy?,0.4167,Alpha Vantage
+11/04/2025,"Are Chinese Tech Stocks At A 'Serious Risk' Amid Escalating Trade War? 'Delisting Is Moving Up In The List Of Retaliatory Options,' Says Analyst - Alibaba Gr Hldgs  ( NYSE:BABA ) , Apple  ( NASDAQ:AAPL ) ",-0.1667,Alpha Vantage
+11/04/2025,1 Simple Reason to Buy Micron Stock Right Now,0.1429,Alpha Vantage
+11/04/2025,"Trading Strategy For SPY, As Market Eyes PPI Data - Alphabet  ( NASDAQ:GOOGL ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+11/04/2025,Opinion | Trump's tariffs could mean saying goodbye to US dollar profits,-0.3125,Alpha Vantage
+11/04/2025,China amends 'place of origin' in boost to local semiconductor manufacturers,0.0,Alpha Vantage
+11/04/2025,Nvidia Is Down 26% From Its All-Time High. Here's Why It's Not Time to Panic.,0.0022,Alpha Vantage
+11/04/2025,Nasdaq Bear Market: 3 No-Brainer Artificial Intelligence  ( AI )  Stocks to Buy in April,-0.05,Alpha Vantage
+11/04/2025,"The Smartest Growth Stock to Buy With $10,000 Right Now",0.2857,Alpha Vantage
+11/04/2025,"The Zacks Analyst Blog Highlights NVIDIA, Palantir Technologies, Advanced Micro Devices, Microsoft and Amazon.com",0.4,Alpha Vantage
+11/04/2025,"The Zacks Analyst Blog Highlights NVIDIA, Broadcom, Marvell, Jabil and Super Micro Computer",0.3333,Alpha Vantage
+11/04/2025,"President Donald Trump Delivers Huge News for Investors! What It Means for Nvidia, Tesla, and Apple.",0.5,Alpha Vantage
+11/04/2025,Stock Market Turmoil: Here Are My Top 10 Stocks to Buy Now,0.5,Alpha Vantage
+11/04/2025,"US Stocks Likely To Open Lower As Volatility Persists Before Bank Earnings: 'Fed Is Likely To Cut Rates Again On June 18th,' Says Expert - Apple  ( NASDAQ:AAPL ) , Bank of New York Mellon  ( NYSE:BK ) ",0.0341,Alpha Vantage
+11/04/2025,"US Stock Futures Recover After Early Dip, Poised To Open Higher Amid Volatility: 'Fed Is Likely To Cut Rates Again On June 18th,' Says Expert  ( UPDATED )  - Apple  ( NASDAQ:AAPL ) , Bank of New York Mellon  ( NYSE:BK ) ",0.0973,Alpha Vantage
+11/04/2025,Where Will Nvidia Be in 5 Years?,0.0,Alpha Vantage
+11/04/2025,Zacks Investment Ideas feature highlights: Nvidia and Apple,0.0,Alpha Vantage
+11/04/2025,3 Ways to Keep Your Portfolio Safe During Tariff Volatility,0.5,Alpha Vantage
+11/04/2025,My 2 Favorite Stocks to Buy Right Now,0.3929,Alpha Vantage
+11/04/2025,Where Will Intel Stock Be in 3 Years?,0.0,Alpha Vantage
+11/04/2025,Should You Really Buy Stocks During Market Turmoil? History Offers an Answer That May Surprise You.,0.15,Alpha Vantage
+11/04/2025,"The Best Growth ETF to Invest $1,000 in Right Now",0.6429,Alpha Vantage
+11/04/2025,2 AI Stocks to Buy in the Wake of the Market Sell-Off,0.0,Alpha Vantage
+11/04/2025,"'There'll be A Transition Cost And Transition Problems,' Admits Trump Amid Tariff Woes, While Bessent Hints At Negotiation Deals - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+11/04/2025,"Dow Tumbles Over 1,000 Points As Nvidia, Apple And Tesla Decline: Greed Index Remains In 'Extreme Fear' Zone - Apple  ( NASDAQ:AAPL ) , JPMorgan Chase  ( NYSE:JPM ) ",-0.125,Alpha Vantage
+11/04/2025,"Stock Market Correction: 2 Brilliant AI Stocks Down 45% and 48% to Buy Before They Soar, According to Wall Street",0.3722,Alpha Vantage
+11/04/2025,Nvidia CEO Jensen Huang Admits He Was Wrong About Quantum Computing. Are Quantum Stocks Buys Right Now?,-0.1071,Alpha Vantage
+11/04/2025,"El milagro de NVIDIA: va a poder seguir vendiendo su GPU H20 para IA en China, aunque le ha costado una cena de 1 millón por comensal",0.0,News API
+11/04/2025,Nvidia on NixOS WSL – Ollama up 24/7 on your gaming PC,0.0,News API
+12/04/2025,Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now,0.5429,Alpha Vantage
+12/04/2025,Is Google a Threat to Nvidia's AI Dominance?,0.0,Alpha Vantage
+12/04/2025,"5 Cheap, Leading AI Stocks That Are Screaming Buys in April",0.4,Alpha Vantage
+12/04/2025,Should You Forget Palantir and Buy This Artificial Intelligence  ( AI )  Stock Instead?,-0.6,Alpha Vantage
+12/04/2025,Prediction: 2 AI Stocks Will Be Worth More Than Palantir Technologies by Early 2026,0.3,Alpha Vantage
+12/04/2025,"Trump Tariff Wars: China's New Rule To Exempt Nvidia, Qualcomm And Others From Levies, But These Chip Companies Will Be Hit With 125% Tariffs - Broadcom  ( NASDAQ:AVGO ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2682,Alpha Vantage
+12/04/2025,SenseTime to expand computing power amid surging AI model demand,0.0,Alpha Vantage
+12/04/2025,"MONOLITHIC POWER SYSTEMS ALERT: Bragar Eagel & Squire, P.C. is Investigating Monolithic Power Systems, Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - Monolithic Power Systems  ( NASDAQ:MPWR ) ",-0.2,Alpha Vantage
+12/04/2025,Is Nvidia a Buy?,0.0,Alpha Vantage
+12/04/2025,Here's How Artificial Intelligence  ( AI )  Is Driving Profit Growth for These 2 Tech Stocks,-0.6,Alpha Vantage
+12/04/2025,Who is Colette Kress? Meet the Nvidia CFO who has overseen the chipmaker's meteoric rise,0.0,News API
+12/04/2025,Alienware Area-51 Review: It Would Be My Forever Case if It Didn’t Look so Dated,0.0,News API
+12/04/2025,"iPhones, Macs, and Other Apple Devices Exempted From Trump Tariffs",-0.125,News API
+12/04/2025,Apple y NVIDIA respiran: Estados Unidos exime de aranceles recíprocos a la electrónica de consumo clave y componentes estratégicos,0.0,News API
+12/04/2025,ヒト型ロボ、映像カメラクルーになる,0.0,News API
+13/04/2025,Amazon and Alphabet Bet Big on AI. Why History Says It's Time to Buy Both Stocks,0.0,Alpha Vantage
+13/04/2025,Nvidia and Broadcom Helped Propel This ETF 18% Higher in a Single Day. Here's Why It's Still a Buy Now.,0.0893,Alpha Vantage
+13/04/2025,2 AI Stocks That Could Help Set You Up for Life,0.0,Alpha Vantage
+13/04/2025,"Nvidia Shares Are Down 25% From 52-Week High -- Should You Buy, Hold, or Sell Now?",0.0022,Alpha Vantage
+13/04/2025,"Don't Worry, AI Investors, the Artificial Intelligence Boom Is Still on -- But There Are Rising Dangers for Nvidia",-0.6,Alpha Vantage
+13/04/2025,Where Will Nvidia Stock Be in 1 Year?,0.0,Alpha Vantage
+13/04/2025,4 Monster Stocks to Hold for the Next 10 Years,0.0,Alpha Vantage
+13/04/2025,Better Artificial Intelligence Stock: Super Micro Computer vs. Dell Technologies,0.0778,Alpha Vantage
+13/04/2025,3 Top Tech Stocks Down 27% to 57% to Buy in This Volatile Market,0.1722,Alpha Vantage
+13/04/2025,"The Best Trillion-Dollar Stock to Buy Now, According to Wall Street",1.0,Alpha Vantage
+13/04/2025,"Drivers, start your evidence: NY jury to hear roaring tale of a NASCAR superfan and his allegedly crooked hedge fund",0.0,News API
+13/04/2025,"Meet Nvidia co-founder Curtis Priem, who helped found and build the AI powerhouse",0.0,News API
+14/04/2025,Nvidia To Build $500 Billion AI Infrastructure In US In the Next Four Years - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+14/04/2025,Nvidia to Invest $500 Billion to Build AI Supercomputers in US Amid Trade Tensions,0.0,Alpha Vantage
+14/04/2025,"Chip Shock: 3 Hot Semiconductor ETFs To Watch As Trump's Tariff Bomb Ticks - Broadcom  ( NASDAQ:AVGO ) , ASML Holding  ( NASDAQ:ASML ) ",0.375,Alpha Vantage
+14/04/2025,"Which Mag-7 Stock, Apple or NVIDIA, Should You Buy for Tariff Relief?",0.0,Alpha Vantage
+14/04/2025,ServiceNow Dips 26% Year to Date: Hold or Fold the NOW Stock?,0.0,Alpha Vantage
+14/04/2025,2 Stocks to Watch From the Challenging Computer Industry,0.5,Alpha Vantage
+14/04/2025,Intel To Offload 51% Of Altera Business To PE Firm Silver Lake - Intel  ( NASDAQ:INTC ) ,-0.2,Alpha Vantage
+14/04/2025,Trump Gives Apple A Reprieve But Tramples On Stock Market Bulls' Initial Jubilation - MP Materials  ( NYSE:MP ) ,0.0,Alpha Vantage
+14/04/2025,"Rep. Jefferson Shreve Has Sold Up to $3.10M Worth Of NVIDIA Stock: Here's What You Should Know - BlackRock  ( NYSE:BLK ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.35,Alpha Vantage
+14/04/2025,ETFs Surge on US Stocks' Best Week Since 2023: What's Next?,0.5,Alpha Vantage
+14/04/2025,Nvidia to mass produce AI supercomputers in Texas as part of $500 billion U.S. push,0.0,Alpha Vantage
+14/04/2025,"White House To Reveal Semiconductor Tariff Plan This Week; Michael Saylor Resumes Bitcoin Buying After Brief Pause: 'No Tariffs On Orange Dots'; ConocoPhillips Vs. Occidental: Both Surge On Oil, But Only One Sets The Pace - Top Headlines While the U.S. Slept",0.125,Alpha Vantage
+14/04/2025,Amtech Stock Plummets 31% YTD: Should Investors Hold or Fold?,0.0,Alpha Vantage
+14/04/2025,Tech Set to Surge on Tariff Pause: 5 ETF Picks,0.0,Alpha Vantage
+14/04/2025,TechInsights Releases Initial Findings of its NVIDIA Blackwell HGX B200 Platform Teardown,0.0,Alpha Vantage
+14/04/2025,Technical Analysis For Trading SPY And Top Tech Stocks Amid Tariff News,0.25,Alpha Vantage
+14/04/2025,Can Meta Platforms' Expanding AI Focus Push the Stock Higher?,0.25,Alpha Vantage
+14/04/2025,Does XPeng's Global Push & AI Edge Make This EV Stock a Buy?,0.0,Alpha Vantage
+14/04/2025,Semtech  ( SMTC )  CEO Acknowledges CopperEdge Delays Amid Investor Lawsuit - Hagens Berman - Semtech  ( NASDAQ:SMTC ) ,0.0,Alpha Vantage
+14/04/2025,"Jim Cramer Warns Nvidia And Apple Shorts May Let Stocks Rally Before Striking Again: 'Only Way They Can Get Out Of This Mess' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.1083,Alpha Vantage
+14/04/2025,"Third Harmonic Bio, Apple, Dell And Other Big Stocks Moving Lower In Monday's Pre-Market Session - Apple  ( NASDAQ:AAPL ) , Best Buy Co  ( NYSE:BBY ) ",0.2188,Alpha Vantage
+14/04/2025,Here's When I Would Buy the Dip on Palantir's Stock,0.0,Alpha Vantage
+14/04/2025,Stock Market Sell-Off: 2 Dirt Cheap Stocks To Buy Now,0.4,Alpha Vantage
+14/04/2025,"Why Are Semiconductor Stocks Trading Higher On Monday? - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.325,Alpha Vantage
+14/04/2025,Tariff Turmoil: Are Tech Stocks Out of the Woods?,0.0,Alpha Vantage
+14/04/2025,"The Smartest S&P 500 ETF to Buy With $2,000 Right Now",0.2857,Alpha Vantage
+14/04/2025,1 Reason SoundHound AI Could Be the Next Nvidia,0.0,Alpha Vantage
+14/04/2025,Should You Invest in the Invesco AI and Next Gen Software ETF  ( IGPT ) ?,0.0,Alpha Vantage
+14/04/2025,Should You Invest in the Fidelity MSCI Information Technology Index ETF  ( FTEC ) ?,0.0,Alpha Vantage
+14/04/2025,"US Stocks Likely To Open Higher: Expert Says 'The Selling Pressure Is Starting To Be Exhausted' - Aon  ( NYSE:AON ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.0417,Alpha Vantage
+14/04/2025,"Apple, SMCI, Nvidia, AMD And Other Tech Stocks Climb In Monday Pre-Market: What's Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1375,Alpha Vantage
+14/04/2025,"Nvidia-Backed Recursion, Ginkgo Bioworks Rally Following FDA's Decision To End Animal Testing - Absci  ( NASDAQ:ABSI ) , Charles River  ( NYSE:CRL ) ",0.0,Alpha Vantage
+14/04/2025,ETF Winners Amid Wall Street's Best Week Since 2023,1.0,Alpha Vantage
+14/04/2025,This Artificial Intelligence Challenger Is Down 49%. Is It Time to Buy the Dip on the Stock?,-0.3778,Alpha Vantage
+14/04/2025,3 Reasons to Buy Alphabet Stock Like There's No Tomorrow,0.0,Alpha Vantage
+14/04/2025,"Trump To Unveil Semiconductor Tariff Plan This Week, Signals Flexibility On Tech Exemptions - NVIDIA  ( NASDAQ:NVDA ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+14/04/2025,"Bitcoin, Dogecoin Flat, Ethereum Slides After Trump's Breather On Tech Tariffs: $79,000 Or $97,000? Analyst Predicts Next Moves For BTC - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",-0.1083,Alpha Vantage
+14/04/2025,Nvidia leans further into US manufacturing as Trump promises chip tariffs down the road,-0.0778,News API
+14/04/2025,"Nvidia Says It's Making Chips in Arizona, Supercomputers in Texas",0.0,News API
+14/04/2025,Nvidia pledges to build its own factories in the U.S. for the first time to make AI supercomputers,0.425,News API
+14/04/2025,Nvidia's healthcare boss talks changes coming to doctors' offices — and which companies may get a boost and lower costs,0.0,News API
+14/04/2025,Nvidia Shares Rebound as Wall Street Sees 52% Upside Over 12 Months,0.0,News API
+14/04/2025,Nvidia’s cheapest 2025 graphics card might just be its most important,0.45,News API
+14/04/2025,NVIDIA mueve ficha en plena guerra arancelaria: promete fabricar hasta medio billón de dólares en productos de IA en EEUU,0.0,News API
+14/04/2025,"Trump Planning Semiconductor Tariffs That Will Impact Apple, No One 'Getting Off the Hook'",0.0,News API
+14/04/2025,NVIDIA to manufacture AI supercomputers in the U.S. for the first time,0.25,News API
+15/04/2025,Nvidia’s RTX 5060 Ti arrives on April 16th starting at $379,0.0,News API
+15/04/2025,"Nvidia Promises the RTX 5060 Ti Is a 1440p Beast, but Tariffs Could Change That",0.0,News API
+15/04/2025,Que NVIDIA comience a fabricar sus chips de IA en EEUU permite algo importante: supercomputadoras a prueba de aranceles,0.0,News API
+15/04/2025,China ha dado un paso de gigante: ya tiene una alternativa a CUDA de NVIDIA para IA que permite reciclar su código,0.0,News API
+16/04/2025,"Nvidia probed over how its chips may have been obtained by DeepSeek, which US lawmakers accused of spying for China",0.0,News API
+16/04/2025,Nvidia expects $5.5 billion in charges tied to the Trump administration's new export restrictions on H20 chips to China,0.1364,News API
+16/04/2025,U.S. House Panel Says China’s DeepSeek AI Is a ‘Profound Threat’ to National Security,0.0833,News API
+16/04/2025,Time to Buy Nvidia: Cleo's Sarah Kunst,0.0,News API
+16/04/2025,Nvidia could be hit hard by the new chip export license. Analysts warn the big decision is still to come.,-0.0518,News API
+16/04/2025,El Gobierno de EEUU acaba de dar un golpe muy duro a NVIDIA: ya no podrá vender su GPU H20 para IA en China,0.0,News API
+16/04/2025,Nvidia lässt KI-Server künftig in den USA bauen,0.0,News API
+16/04/2025,"Mittwoch: Soziales Netzwerk von OpenAI, Lizenzpflicht für Nvidias KI-Chips",0.0,News API
+16/04/2025,Nvidia drohen Milliardenkosten wegen neuer US-Regeln für Chip-Export nach China,0.0,News API
+16/04/2025,Fox News AI Newsletter: Nvidia announces plans to make AI supercomputers in US,0.0,News API
+16/04/2025,Nvidia warns of $5.5bn writedown as US tightens export curbs,0.0,News API
+16/04/2025,NVIDIA、「一般向けGPU」をついに正式に発表。5060 Tiは今日発売、9万6800円から,0.0,News API
+16/04/2025,Nvidia GeForce RTX 5060 Ti 16GB review: the best Nvidia GPU this generation,1.0,News API
+17/04/2025,Here is how much the Magnificent 7 lost after stocks tanked over tariff warnings from the Fed and Nvidia,0.6,News API
+17/04/2025,U.S. stocks drop as Nvidia slides and the fog of Trump's trade war thickens,0.0,News API
+17/04/2025,The chip industry just got a much-needed boost as Trump tariffs loom large,0.2143,News API
+17/04/2025,"Ubuntu 25.04 'Plucky Puffin' Arrives With Linux 6.14, GNOME 48, and ARM64 Desktop ISO",0.0,News API
+17/04/2025,"Donnerstag: Handyverträge auf 2 Jahre begrenzt, Nvidia von Trump überrumpelt",0.0,News API
+17/04/2025,Nvidias Kosten wegen neuer US-Exportregeln für KI-Chips könnten sich verdoppeln,0.0,News API
+17/04/2025,KI-Chips und China: Nvidia-CEO fliegt nach Peking,0.0,News API
+18/04/2025,Razer Blade 16 (2025) review: ultra settings on an ultra-thin laptop for an ultra-high price,0.0,News API
+18/04/2025,Razer Is Once Again Selling at Least One of Its Laptops Despite Tariffs,-0.3,News API
+21/04/2025,"Dow Jones Futures: Trump Calls Powell 'Loser'; Apple, Nvidia, Tesla Sell Off",0.0,News API
+21/04/2025,Why CEOs are taking it slow with big decisions,-0.15,News API
+21/04/2025,"Cyberpunk 2077 on Switch 2 uses DLSS, making it the first Switch 2 game",-0.075,News API
+21/04/2025,The Future of Compute: Nvidia's Crown Is Slipping,-0.05,News API
+22/04/2025,Intel's former CEO says Nvidia got 2 things right,0.1429,News API
+22/04/2025,Huawei konkurriert mit vielen Chips gegen Nvidia,0.0,News API
+22/04/2025,Alternative zu Nvidia: Neuer KI-Chip von Huawei vor der Auslieferung,0.0,News API
+23/04/2025,"China's AI growth will be 'largely unaffected' by chip export rules, analysts say",-0.05,News API
+23/04/2025,Should You Forget Nvidia and Buy These 2 Millionaire-Maker Stocks Instead?,0.0,News API
+23/04/2025,Intel To Slash Over 20% of Workforce in Major Restructuring Move,0.0625,News API
+23/04/2025,"NVIDIA arrasa con sus chips de IA: mientras tanto, algunos jugadores llevan meses lidiando con problemas en sus gráficas",0.0,News API
+23/04/2025,Bitcoin inches closer to flipping NVIDIA in stunning market surge,0.5,News API
+23/04/2025,Nvidia-Blackwell-Grafikkarten: Hotfix-Treiber repariert Temperaturanzeige,0.0,News API
+23/04/2025,"OpenAI Forecasts Revenue Topping $125 Billion in 2029 as Agents, New Products Gain",0.1364,News API
+24/04/2025,"Tech stocks climb as Nvidia, Amazon reject claims of AI buildout slowdown",0.0,News API
+24/04/2025,AI supercomputers could need as much power as a city by 2030,0.2,News API
+26/04/2025,"These are the hardest companies to interview for, according to Glassdoor",0.0,News API
+26/04/2025,Tech billionaires courted Trump ahead of his return to office. Here's how their relationships have changed since.,0.0,News API
+27/04/2025,"Prediction: This Stock Will Be Worth More Than Nvidia, Microsoft, and Apple 5 Years From Now",0.4,News API
+28/04/2025,"Alexandria Ocasio-Cortez Asks,'How Much Did Majorie Taylor Greene Make When She Bought The Dip?' - SPDR S&P 500  ( ARCA:SPY ) ",0.2,Alpha Vantage
+28/04/2025,Nvidia Gets Hit by China Threat. Time to Buy the Dip?,0.0,Alpha Vantage
+28/04/2025,Why Taiwan Semiconductor Manufacturing Stock Is Sinking Today,0.0,Alpha Vantage
+28/04/2025,Can SNOW Stock Continue Its Rally After Gaining 33% in Six Months?,0.0,Alpha Vantage
+28/04/2025,Cognizant to Report Q1 Earnings: What's in Store for the Stock?,0.0,Alpha Vantage
+28/04/2025,"Intel's Struggles Continue, but Is a Turnaround Near?",0.1,Alpha Vantage
+28/04/2025,Azure Drives Microsoft's AI Strategy: Wait for Q3 Before Buying,0.0,Alpha Vantage
+28/04/2025,Is Lam Research Stock a Buy Post Upbeat Q3 Earnings Performance?,0.0,Alpha Vantage
+28/04/2025,"China Risk To Nvidia, Flood Of Earnings And Jobs Report Ahead - NVIDIA  ( NASDAQ:NVDA ) ",0.0,Alpha Vantage
+28/04/2025,"Navigating A Roller Coaster Market - Apple  ( NASDAQ:AAPL ) , Celestica  ( NYSE:CLS ) ",0.0,Alpha Vantage
+28/04/2025,Should Nvidia Investors Be Worried About Its Singapore Revenue?,0.0,Alpha Vantage
+28/04/2025,Nvidia and Broadcom Got Fantastic News From Google,0.4,Alpha Vantage
+28/04/2025,"Buy, Sell or Hold Meta Platforms Stock? Key Tips Ahead of Q1 Earnings",0.0,Alpha Vantage
+28/04/2025,Looking At NVIDIA's Recent Unusual Options Activity - NVIDIA  ( NASDAQ:NVDA ) ,0.1,Alpha Vantage
+28/04/2025,4 Brilliant Growth Stocks to Buy Now and Hold for the Long Term,0.425,Alpha Vantage
+28/04/2025,AT&T vs. Verizon: Which Telecom Stock is a Better Buy Right Now?,0.3929,Alpha Vantage
+28/04/2025,"Tesla's ""Moment of Truth""",0.0,Alpha Vantage
+28/04/2025,Analysts revise Nvidia price target on chip demand,0.0,News API
+29/04/2025,Stock Market Ignoring Tariff Pull Forward But Prudent Investors Should Not - SPDR S&P 500  ( ARCA:SPY ) ,0.0,Alpha Vantage
+29/04/2025,"ICT Adoption in Healthcare and Life Sciences Set to Accelerate, Projected to Grow at 14.58% CAGR by 2030",0.0,Alpha Vantage
+29/04/2025,"The Best Vanguard ETF to Invest $1,000 in Right Now",0.6429,Alpha Vantage
+29/04/2025,NVIDIA Corporation  ( NVDA )  is Attracting Investor Attention: Here is What You Should Know,0.0,Alpha Vantage
+29/04/2025,"Cadence's Q1 Earnings & Revenues Surpass Estimates, Surge Y/Y",0.0,Alpha Vantage
+29/04/2025,National Fuel Gas Company and Century Communities have been highlighted as Zacks Bull and Bear of the Day,0.0,Alpha Vantage
+29/04/2025,Stock-Split Watch: Is Nvidia Next?,0.0,Alpha Vantage
+29/04/2025,AI Cryptocurrencies Are Surging. Which Ones Should You Buy?,0.0,Alpha Vantage
+29/04/2025,"As Trump Completes 100 Days As President, Elon Musk, Jeff Bezos, Mark Zuckerberg And Other Billionaire Backers See $195 Billion Wealth Wipeout Amid Market Turmoil - Meta Platforms  ( NASDAQ:META ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.125,Alpha Vantage
+29/04/2025,Itron's Q1 Earnings Ahead: Key Factors Investors Should Watch,0.0,Alpha Vantage
+29/04/2025,Is Palantir Technologies the Ultimate Stock to Avoid Tariff Fears?,0.0,Alpha Vantage
+29/04/2025,"Asia And Europe Markets Mixed, Gold Dips On Trade Truce Hope - Global Markets Today While US Slept - SmartETFs Asia Pacific Dividend Builder ETF  ( ARCA:ADIV ) ",0.0,Alpha Vantage
+29/04/2025,Inside Best-Performing Leveraged ETFs of Last Week,0.0,Alpha Vantage
+29/04/2025,Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence  ( AI )  Giant Nvidia,-0.2,Alpha Vantage
+29/04/2025,"13 Vanguard ETFs to Buy With $1,000 and Hold Forever",0.0,Alpha Vantage
+29/04/2025,Should SPDR Portfolio S&P 500 ETF  ( SPLG )  Be on Your Investing Radar?,0.0,Alpha Vantage
+29/04/2025,Is John Hancock Multifactor Large Cap ETF  ( JHML )  a Strong ETF Right Now?,0.3111,Alpha Vantage
+29/04/2025,2 Artificial Intelligence  ( AI )  Stocks That Could Make You a Millionaire,-0.6,Alpha Vantage
+29/04/2025,Nvidia Partners Shared Amazing News About AI Growth,0.6,Alpha Vantage
+29/04/2025,Prediction: Buying MercadoLibre Stock Today Will Set You Up for Life,0.0,Alpha Vantage
+29/04/2025,"Nvidia, Johnson & Johnson, Hyundai, Toyota, SoftBank CEOs To Join Trump At White House As He Touts Investment Surge In First 100 Days: Report - Johnson & Johnson  ( NYSE:JNJ ) , Hyundai Motor  ( OTC:HYMTF ) ",0.125,Alpha Vantage
+29/04/2025,What Nvidia Investors Should Know About Tesla's AI Updates,0.0,Alpha Vantage
+29/04/2025,3 Growth Stocks Down as Much as 34% to Buy Right Now,0.1101,Alpha Vantage
+29/04/2025,The Best Tech ETF to Invest $250 in Right Now,0.6429,Alpha Vantage
+29/04/2025,Stock-Split Watch: Is Super Micro Computer Next?,0.1667,Alpha Vantage
+29/04/2025,Prediction: Nvidia Will Beat the Tariff Turmoil  ( and the Stock Will Soar ) ,0.0,Alpha Vantage
+29/04/2025,5 Reasons to Buy Broadcom Stock Like There's No Tomorrow,0.0,Alpha Vantage
+29/04/2025,3 Growth Stocks Down 25% or More to Buy Right Now,0.2101,Alpha Vantage
+29/04/2025,Prediction: Palantir Technologies Won't Live Up to the Hype on May 5,0.1364,Alpha Vantage
+29/04/2025,Q1 2025 Revenues,0.0,Alpha Vantage
+29/04/2025,"Top Trending Coins Today - NVIDIA  ( NASDAQ:NVDA ) , Plug Power  ( NASDAQ:PLUG ) ",0.5,Alpha Vantage
+29/04/2025,"Alibaba Shares Spike In Hong Kong As Tech Giant Takes Aim At DeepSeek's Disruption And Baidu's Ernie Turbo Models With Qwen 3 Launch - Alibaba Gr Hldgs  ( NYSE:BABA ) , Baidu  ( NASDAQ:BIDU ) ",0.0,Alpha Vantage
+29/04/2025,Huawei planea asestar el golpe final a NVIDIA en China. Tiene una nueva GPU para IA que en teoría es extremadamente potente,0.0,News API
+30/04/2025,Nvidia’s new tool can turn 3D scenes into AI images,0.1364,News API
+30/04/2025,« Un système IA capable de battre NVIDIA » : Huawei fait trembler les États-Unis,0.2,News API
+01/05/2025,"Intel Planning A Homegrown Challenge To Nvidia, Says It's 'Not A Quick Fix' - Intel  ( NASDAQ:INTC ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.1667,Alpha Vantage
+01/05/2025,Amazon beats on top and bottom line but issues light second quarter guidance,0.3,Alpha Vantage
+01/05/2025,Bitcoin Rises as 'Magnificent 7' Earnings Fuel Risk-Taking,1.0,Alpha Vantage
+01/05/2025,Bitcoin Legacy: Securing Your Block of Generational Wealth,0.0,Alpha Vantage
+01/05/2025,Should You Hold on to Vertiv Despite the Stock's 19% YTD Decline?,0.0,Alpha Vantage
+01/05/2025,Nvidia Stock Is Rallying Thursday: What's Driving The Action? - NVIDIA  ( NASDAQ:NVDA ) ,0.1,Alpha Vantage
+01/05/2025,Why CoreWeave Stock Is Skyrocketing Today,0.0,Alpha Vantage
+01/05/2025,Nvidia Is Jumping Today -- Is the Artificial Intelligence  ( AI )  Stock a Buy?,-0.6,Alpha Vantage
+01/05/2025,Smart Money Is Betting Big In TSM Options - Taiwan Semiconductor  ( NYSE:TSM ) ,0.1071,Alpha Vantage
+01/05/2025,Why Nvidia Stock Bounded Higher Thursday,0.25,Alpha Vantage
+01/05/2025,"Data center boom in world's largest market is not slowing down, Dominion Energy says",-0.1278,Alpha Vantage
+01/05/2025,"AI Helps Microsoft And Meta, But Consumer Angst Hurts McDonald's - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",0.0,Alpha Vantage
+01/05/2025,Prime Focus Technologies launches CLEAR® Content Studio AI Agents--leveraging NVIDIA Technology for the future of storytelling,0.0,Alpha Vantage
+01/05/2025,"AI ETFs Set to Gain on Robust Meta, Microsoft Earnings",0.0,Alpha Vantage
+01/05/2025,1 Artificial Intelligence  ( AI )  Stock That Could Go Parabolic,-0.6,Alpha Vantage
+01/05/2025,Nvidia says Anthropic is telling 'tall tales' in its defense of U.S. AI chip restrictions on China,0.0,Alpha Vantage
+01/05/2025,"Got $3,000? 2 Hypergrowth Stocks Down Over 25% to Buy and Hold for the Long Term",-0.1028,Alpha Vantage
+01/05/2025,"Why Are Nvidia, Broadcom And Other Chip Stocks Soaring On Thursday? - Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1375,Alpha Vantage
+01/05/2025,1 Thing Smart Investors Know About Bear Markets,0.2143,Alpha Vantage
+01/05/2025,"How To Trade SPY And Top Tech Stocks, As Jobless Claims Jump - Tesla  ( NASDAQ:TSLA ) , SPDR S&P 500  ( ARCA:SPY ) ",0.5,Alpha Vantage
+01/05/2025,Bitcoin On Track to Resume Rally: 4 Crypto Stocks in Focus,0.0,Alpha Vantage
+01/05/2025,'The US economy will thrive': Why the market's 'Dr. Doom' is bullish on American exceptionalism despite Trump,0.0,Alpha Vantage
+01/05/2025,Stock Market Sell-Off: Should You Buy the Dip on Nvidia Stock?,0.0,Alpha Vantage
+01/05/2025,3 Best Nasdaq Stocks to Buy in May,1.0,Alpha Vantage
+01/05/2025,2 Millionaire-Maker Artificial Intelligence  ( AI )  Stocks,-0.6,Alpha Vantage
+01/05/2025,Nvidia and Anthropic Publicly Clash Over AI Chip Export Controls,0.0,News API
+01/05/2025,"Nvidia CEO, Qualcomm outlook, Roblox strength: Trending Tickers",0.0,News API
+01/05/2025,Mark Zuckerberg just declared war on the entire advertising industry,0.0,News API
+01/05/2025,Grafikkarten und Hardware: Entspannung bei den Preisen für Nvidia-Grafikkarten,0.0,News API
+01/05/2025,"NVIDIA GeForce ""Game Ready"" graphics driver update fixes bugs from a previous release — Flickering screens patched",-0.1222,News API
+02/05/2025,"Good Jobs Report And New China Stance Bring Aggressive Stock Buying, But Apple And Amazon Disappoint - SPDR S&P 500  ( ARCA:SPY ) ",0.4182,Alpha Vantage
+02/05/2025,"EXCLUSIVE: April's 20 Most-Searched Tickers On Pro - Where Do Tesla, Apple, Palantir, Nvidia Stocks Rank? - SPDR S&P 500  ( ARCA:SPY ) ",-0.8,Alpha Vantage
+02/05/2025,Why Super Micro Computer Stock Is Plummeting This Week,0.3333,Alpha Vantage
+02/05/2025,"The Zacks Analyst Blog Highlights NVIDIA, Visa, HIVE Blockchain and Accenture",0.0,Alpha Vantage
+02/05/2025,"How To Trade SPY, As US Job Growth Slows Marginally In April",0.0,Alpha Vantage
+02/05/2025,Is Super Micro Computer Stock a Buy Now?,0.3333,Alpha Vantage
+02/05/2025,Jim Cramer's top 10 things to watch in the stock market Friday,0.5,Alpha Vantage
+02/05/2025,5 Fidelity Mutual Funds to Buy Amid Market Uncertainty,0.0,Alpha Vantage
+02/05/2025,Prediction: 3 Quantum Computing Stocks That Will Be Worth More Than IonQ 10 Years From Now,0.4333,Alpha Vantage
+02/05/2025,Breakfast News: China Considers Trade Talks,0.0,Alpha Vantage
+02/05/2025,"IREN to Release Q3 FY25 Results on May 14, 2025 - IREN  ( NASDAQ:IREN ) ",0.0,Alpha Vantage
+02/05/2025,"Netflix Stock Just Notched a New All-Time High. Is This a Brilliant ""Recession-Proof"" Stock Pick?",0.3988,Alpha Vantage
+02/05/2025,"Did Huawei Just Say ""Checkmate"" to Nvidia?",0.0,Alpha Vantage
+02/05/2025,Alphabet Just Delivered Fantastic News for Nvidia Shareholders,0.4,Alpha Vantage
+02/05/2025,Should You Forget Nvidia and Buy 2 Artificial Intelligence  ( AI )  Stocks Right Now?,-0.1571,Alpha Vantage
+02/05/2025,2 Artificial Intelligence Stocks to Buy in May,-0.6,Alpha Vantage
+02/05/2025,"Nvidia Slams Amazon-Backed Anthropic Over Support For Stricter China Chip Bans, Mocks 'Tall Tales' Of Smuggling With Live Lobsters And 'Baby Bumps' - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",0.1364,Alpha Vantage
+02/05/2025,Is Alphabet Stock a Buy Now?,0.0,Alpha Vantage
+02/05/2025,April ETF Asset Report: VOO & Short-Term Bonds Lead Gains,0.0,Alpha Vantage
+02/05/2025,Bull of the Day: Broadcom  ( AVGO ) ,0.0,Alpha Vantage
+02/05/2025,Once-in-a-Decade Buying Opportunity: 1 Dirt Cheap AI Stock Wall Street Predicts Will Soar,0.4,Alpha Vantage
+02/05/2025,"Nvidia CEO Jensen Huang Warns US Lawmakers Are Fueling Rise Of China's Huawei With Their Chip Export Bans - NVIDIA  ( NASDAQ:NVDA ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+02/05/2025,Nvidia raises concerns about Huawei's growing AI chip capabilities,0.0,Alpha Vantage
+02/05/2025,The Climate Crisis Threatens Supply Chains. Manufacturers Hope AI Can Help,0.0,News API
+02/05/2025,Nvidia CEO gets first base salary pay bump in 10 years,-0.275,News API
+02/05/2025,"Nvidia CEO Jensen Huang Sounds Alarm As 50% Of AI Researchers Are Chinese, Urges America To Reskill Amid 'Infinite Game'",-0.2,News API
+03/05/2025,"My top gaming laptop of 2024 defended its crown with a redesign, but lost one of my favorite features",0.5,News API
+05/05/2025,"Meta, Microsoft, Alphabet, and Amazon Just Delivered Incredible News for Nvidia Stock Investors",0.9,Alpha Vantage
+05/05/2025,Nvidia  ( NVDA )  Stock Moves -0.59%: What You Should Know,0.0,Alpha Vantage
+05/05/2025,Uber vs. Lyft Earnings Preview: Robotaxi Ambitions in Focus,0.0,Alpha Vantage
+05/05/2025,The Standout Magnificent 7 Stock: Microsoft's Quiet Dominance,0.5,Alpha Vantage
+05/05/2025,"Brag, Burn, Learn: ZJK Industrial's Costly Nvidia Lesson",0.0,Alpha Vantage
+05/05/2025,What's Going On With Advanced Micro Devices? - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+05/05/2025,Got $100? 1 Artificial Intelligence  ( AI )  Semiconductor Stock to Buy Hand Over Fist Right Now  ( Hint: It's Not Nvidia ) ,-0.1571,Alpha Vantage
+05/05/2025,"SOUN Gears Up to Post Q1 Earnings: Buy, Sell or Hold the Stock?",0.0,Alpha Vantage
+05/05/2025,Evaluating NVIDIA Against Peers In Semiconductors & Semiconductor Equipment Industry - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+05/05/2025,"Book More Profits, Buffett's Company Reports Worst Earnings Drop Since 2020, OPEC+ Surprise",-0.25,Alpha Vantage
+05/05/2025,Why This Could Be an Extremely Volatile Week for Nvidia,-0.125,Alpha Vantage
+05/05/2025,Nvidia's New Challenge: US Lawmaker Wants Company To Track Its Chips To Avoid Smuggling In China - NVIDIA  ( NASDAQ:NVDA ) ,0.1682,Alpha Vantage
+05/05/2025,"Why Nvidia, Microsoft, and Meta Platforms Investors Just Had an Amazing Week",0.6,Alpha Vantage
+05/05/2025,Why Broadcom Stock Jumped 15% in April,0.0,Alpha Vantage
+05/05/2025,Inside the shadowy business of AI-chip smuggling,0.0,Alpha Vantage
+05/05/2025,How China is still getting its hands on Nvidia's gear,0.0,Alpha Vantage
+05/05/2025,Deutsche Bank and Caesars Entertainment have been highlighted as Zacks Bull and Bear of the Day,0.0,Alpha Vantage
+05/05/2025,How To Trade SPY And Top Tech Stocks Ahead Of PMI Data,0.5,Alpha Vantage
+05/05/2025,"Stock Market News for May 5, 2025",0.0,Alpha Vantage
+05/05/2025,"The Zacks Analyst Blog Highlights NVIDIA, Meta Platforms and Microsoft",0.0,Alpha Vantage
+05/05/2025,Zacks Industry Outlook Highlights NVIDIA and Texas Instruments,0.0,Alpha Vantage
+05/05/2025,"Will $10,000 Invested in Nvidia Stock Turn Into $1 Million a Decade From Now?",0.0,Alpha Vantage
+05/05/2025,"Firefly Neuroscience Achieves Multi-Fold Database, IP Portfolio, and Commercial Footprint Expansion Through Acquisition of Evoke Neuroscience, Inc.",0.0,Alpha Vantage
+05/05/2025,"Firefly Neuroscience Achieves Multi-Fold Database, IP Portfolio, and Commercial Footprint Expansion Through Acquisition of Evoke Neuroscience, Inc. - Firefly Neuroscience  ( NASDAQ:AIFF ) ",0.0,Alpha Vantage
+05/05/2025,Wall Street Analysts Like These AI Stocks in 2025. Should You Buy Them?,0.0,Alpha Vantage
+05/05/2025,Should Vanguard S&P 500 ETF  ( VOO )  Be on Your Investing Radar?,0.0,Alpha Vantage
+05/05/2025,Should iShares Core S&P 500 ETF  ( IVV )  Be on Your Investing Radar?,0.0,Alpha Vantage
+05/05/2025,Is Franklin U.S. Equity Index ETF  ( USPX )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+05/05/2025,Is FlexShares Quality Dividend ETF  ( QDF )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+05/05/2025,"Jensen Huang, Magic Johnson, Patrick Dempsey, Linda Yaccarino And More Bigwigs Headline Milken Global Conference 2025: What You Need To Know - NVIDIA  ( NASDAQ:NVDA ) , Abbott Laboratories  ( NYSE:ABT ) ",0.3333,Alpha Vantage
+05/05/2025,China's answer to Autodesk is betting on AI to build a 'world model',0.0,Alpha Vantage
+05/05/2025,Where Will Nvidia Stock Be in 4 Years?,0.0,Alpha Vantage
+05/05/2025,"Here's How Investing $50 Per Week Can Create $50,000 in Annual Dividends",0.0,Alpha Vantage
+05/05/2025,NVIDIA no da por perdido el mercado chino: tiene un plan para volver a esquivar una vez más las sanciones de EEUU,0.0,News API
+05/05/2025,Analyzing Modern Nvidia GPU Cores,0.2,News API
+05/05/2025,Nvidia und Mediatek könnten PC-Prozessoren zur Computex zeigen,0.0,News API
+06/05/2025,"3 Cheap ""Magnificent Seven"" Stocks to Load Up On",0.7,Alpha Vantage
+06/05/2025,"Should You Buy Nvidia Stock After Microsoft, Amazon, Alphabet, and Meta Updated Investors on Capital Expenditures?",0.0,Alpha Vantage
+06/05/2025,"Could Investing $10,000 in Super Micro Computer Make You a Millionaire?",0.3333,Alpha Vantage
+06/05/2025,Should Vanguard S&P 500 Growth ETF  ( VOOG )  Be on Your Investing Radar?,0.0,Alpha Vantage
+06/05/2025,Should Fidelity Nasdaq Composite Index ETF  ( ONEQ )  Be on Your Investing Radar?,0.0,Alpha Vantage
+06/05/2025,Should SoFi Select 500 ETF  ( SFY )  Be on Your Investing Radar?,0.0,Alpha Vantage
+06/05/2025,Palantir Stock Drops 9% Despite a Stellar Earnings Report Featuring 71% U.S. Commercial Revenue Growth,0.125,Alpha Vantage
+06/05/2025,Bull of the Day: Credo Technology  ( CRDO ) ,0.0,Alpha Vantage
+06/05/2025,Meet the Monster Stock that Continues to Crush the Market,0.0,Alpha Vantage
+06/05/2025,2 Tech Stocks That Could Help Set You Up for Life,0.0,Alpha Vantage
+06/05/2025,Here Is My Top Artificial Intelligence  ( AI )  Stock to Buy in May,-0.05,Alpha Vantage
+06/05/2025,"Got $1,000? 2 Top Growth Stocks to Buy That Could Double Your Money",0.25,Alpha Vantage
+06/05/2025,"Iterate.ai and ASA Computers Launch AIcurate, Bringing Secure, On-Prem AI to Enterprises and SMBs",0.4,Alpha Vantage
+06/05/2025,"2 Colossal Dow Stocks to Buy Hand Over Fist in May, and 1 to Avoid",0.3,Alpha Vantage
+06/05/2025,26/2025・Trifork Group: Interim report for the quarter ending 31 March 2025,0.0,Alpha Vantage
+06/05/2025,"Correction From Source: Firefly Neuroscience Achieves Multi-Fold Database, IP Portfolio, and Commercial Footprint Expansion Through Acquisition of Evoke Neuroscience, Inc.",0.0,Alpha Vantage
+06/05/2025,"Correction From Source: Firefly Neuroscience Achieves Multi-Fold Database, IP Portfolio, and Commercial Footprint Expansion Through Acquisition of Evoke Neuroscience, Inc. - Firefly Neuroscience  ( NASDAQ:AIFF ) ",0.0,Alpha Vantage
+06/05/2025,Nvidia CEO says 'San Francisco is back' — and it's thanks to the AI gold rush,0.1,News API
+06/05/2025,"A New GTA VI Trailer Is Here, but We Still Don’t Know if the Game Is Coming to Switch 2",-0.1318,News API
+06/05/2025,GenAI-Accelerated TLA+ Challenge,0.0,News API
+06/05/2025,Why This Nvidia-Backed Robotaxi Stock Is Skyrocketing Today,0.0,News API
+07/05/2025,"Super Micro Impacted By AI Server Delays And Nvidia Supply Limits, Analysts Lower Forecast - Super Micro Computer  ( NASDAQ:SMCI ) ",0.3333,Alpha Vantage
+07/05/2025,Here Is My Top Artificial Intelligence  ( AI )  Stock to Buy in May  ( Hint: It's Not Nvidia ) ,-0.05,Alpha Vantage
+07/05/2025,"Chip Stocks Rise As Trump Reportedly Plans To Roll Back Biden-Era AI Export Curbs - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) , Taiwan Semiconductor  ( NYSE:TSM ) ",0.2,Alpha Vantage
+07/05/2025,"Apple Shares Fall Amid Broader Tech Shifts And Supplier Developments: What's Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+07/05/2025,US scraps Biden-era rule that aimed to limit exports of AI chips,0.0,Alpha Vantage
+07/05/2025,Coherent Corp. Reports Third Quarter Fiscal 2025 Results,0.25,Alpha Vantage
+07/05/2025,Nvidia shares climb on report Trump will end chip export restrictions,0.0,Alpha Vantage
+07/05/2025,ASML vs. TSM: Which Semiconductor Stock is the Smarter Buy?,0.0,Alpha Vantage
+07/05/2025,Azure Aids MSFT's Q3 Beat: Should AI-Focused Investors Buy the Stock?,0.0,Alpha Vantage
+07/05/2025,Intel Excels in Stringent AI Benchmark: Should You Buy the Stock?,0.0,Alpha Vantage
+07/05/2025,Cisco Unveils Quantum Chip And Lab To Push Next-Gen Networking - Cisco Systems  ( NASDAQ:CSCO ) ,0.0,Alpha Vantage
+07/05/2025,"T. ROWE PRICE RELEASES NEWEST EPISODE OF PODCAST SERIES FEATURING JENSEN HUANG, FOUNDER AND CEO OF NVIDIA",0.0,Alpha Vantage
+07/05/2025,"Indian Missiles Hit Pakistan, Buying On U.S.-China Talks, Will The Fed Bow To Trump? - SPDR Gold Trust  ( ARCA:GLD ) ",0.0,Alpha Vantage
+07/05/2025,The Transformative Rise of Global Robotics: A 2025 Market Analysis,0.0,Alpha Vantage
+07/05/2025,5 Must-See Earnings Charts This Week,0.0,Alpha Vantage
+07/05/2025,Insights Into NVIDIA's Performance Versus Peers In Semiconductors & Semiconductor Equipment Sector - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
+07/05/2025,Nutanix Enables Agentic AI Anywhere with Latest Release of Nutanix Enterprise AI - Nutanix  ( NASDAQ:NTNX ) ,0.5,Alpha Vantage
+07/05/2025,Nutanix Enables Agentic AI Anywhere with Latest Release of Nutanix Enterprise AI,0.5,Alpha Vantage
+07/05/2025,Nvidia CEO Just Said This About China's Artificial Intelligence  ( AI )  Market,-0.6,Alpha Vantage
+07/05/2025,Palantir Just Gave Fantastic News to Nvidia Investors About Artificial Intelligence  ( AI )  Adoption,-0.1,Alpha Vantage
+07/05/2025,Prediction: 2 Supercharged Tech Stocks That Will Soar Again,0.0,Alpha Vantage
+07/05/2025,NVIDIA culpa a EEUU: las sanciones a China están abriendo la puerta para que Huawei defina los nuevos estándares globales,0.0,News API
+07/05/2025,"Verschärfte US-Exporte kosten AMD 1,5 Milliarden US-Dollar",0.0,News API
+07/05/2025,Jensen Huang says he uses AI as a tutor 'every day',0.0,News API
+08/05/2025,This Is What Whales Are Betting On Taiwan Semiconductor - Taiwan Semiconductor  ( NYSE:TSM ) ,0.0,Alpha Vantage
+08/05/2025,Unpacking the High Stakes US-China AI Energy Race,0.16,Alpha Vantage
+08/05/2025,Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought,0.5,Alpha Vantage
+08/05/2025,"Nvidia, Broadcom, AMD Gain As Trump Reshapes AI Chip Export Rules To Ease Market Pressure - Broadcom  ( NASDAQ:AVGO ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+08/05/2025,Tariffs Could Shake Up Semiconductor Supply Chains. Here Are 2 Companies Investors Should Keep Their Eyes On.,0.0,Alpha Vantage
+08/05/2025,DNMiner Advances Global Cloud Mining with FCA Certification and Clean Energy Integration,0.1833,Alpha Vantage
+08/05/2025,2 Unstoppable Stocks That I'm Buying If the Market Crashes Again,0.0,Alpha Vantage
+08/05/2025,"Stock Market News for May 8, 2025",0.0,Alpha Vantage
+08/05/2025,Marvell Technology Plunges 17% in a Year: Hold or Fold the Stock?,0.0,Alpha Vantage
+08/05/2025,Here are the top 10 things we're watching in the stock market Thursday,0.5,Alpha Vantage
+08/05/2025,"Satya Nadella, Michael Dell, Lisa Su, Alex Karp Among 250+ CEOs Demanding AI Education For All K-12 Students In Open Letter: 'The United States Is Falling Behind' - Advanced Micro Devices  ( NASDAQ:AMD ) , Dell Technologies  ( NYSE:DELL ) ",0.0,Alpha Vantage
+08/05/2025,Should You Buy Nvidia Stock Before May 28? Here's What History Says.,0.0,Alpha Vantage
+08/05/2025,Cointelegraph Bitcoin & Ethereum Blockchain News,0.0,Alpha Vantage
+08/05/2025,Market Jitters Creating the Perfect Storm: 2 Artificial Intelligence  ( AI )  Stocks at Bargain Prices,0.2,Alpha Vantage
+08/05/2025,2 No-Brainer Artificial Intelligence  ( AI )  Stocks to Buy Right Now,-0.1571,Alpha Vantage
+08/05/2025,"Marjorie Taylor Greene's Hearing Disrupted By Insider Trading Scrutiny: 'Maybe It's a Coincidence,' Says Jasmine Crockett On MTG Buying Stocks Before Trump's 90-Day Tariff Pause - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+08/05/2025,Should SPDR S&P 500 ETF  ( SPY )  Be on Your Investing Radar?,0.0,Alpha Vantage
+08/05/2025,Should iShares Russell Top 200 Growth ETF  ( IWY )  Be on Your Investing Radar?,0.5,Alpha Vantage
+08/05/2025,Nvidia Investors Just Got Great News From Meta Platforms,0.8,Alpha Vantage
+08/05/2025,Prediction: This Magnificent Vanguard Index Fund Will Beat the S&P 500 Again in 2025,1.0,Alpha Vantage
+08/05/2025,Could Microsoft Be the Best Artificial Intelligence Stock to Buy Right Now?,0.2286,Alpha Vantage
+08/05/2025,"'AI Is Eating Search' Google Rival Perplexity CEO Arvind Srinivas Says As Dan Nile Predicts 'Agents' To Take Future Share Amid Alphabet, Apple Stock Fall - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+08/05/2025,Cointelegraph Bitcoin & Ethereum Blockchain News,0.0,Alpha Vantage
+08/05/2025,Is Artificial Intelligence  ( AI )  Stock Palantir Technologies in a Bubble? We Just Got Our Answer...,-0.6,Alpha Vantage
+08/05/2025,Hong Kong stocks rise after Beijing unveils support plan; US-China talks loom,0.0,Alpha Vantage
+08/05/2025,"Cathie Wood Strengthens AI Chip Holdings With Nvidia And AMD Purchases, Reduces Palantir Position By Another $38.8 Million - ARK Fintech Innovation ETF  ( BATS:ARKF ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+08/05/2025,"Bitcoin Taps $98,000, Ethereum, Dogecoin Steady As Fed Chair Jerome Powell Raises Trump Tariff-Induced Concerns: Analyst Says ETH Holding Above 'Crucial Level' And Begins Its 'Bounce Upwards' - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",-0.0333,Alpha Vantage
+08/05/2025,Beijing pours tens of millions of dollars into fostering Chinese AI,0.0,Alpha Vantage

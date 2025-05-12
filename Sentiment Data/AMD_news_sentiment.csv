@@ -1930,6 +1930,7 @@ Date,Title,Sentiment,Source
 12/03/2025,Intel: Börsen-Achterbahnfahrt nach TSMC-Nvidia-AMD-Broadcom-Gerüchten,0.0,News API
 12/03/2025,heise+ | Kontrollierte RZ-Datenflüsse mit HPE-Switch CX 10000 im Test,0.0,News API
 12/03/2025,"AMD Ryzen 9950X3D im Test: Eine CPU, die alles kann",0.0,News API
+12/03/2025,El regalo perfecto para padres gamers: cinco consolas portátiles para que juegue en sus momentos de descanso,0.0,News API
 13/03/2025,Why Intel Stock Is Skyrocketing Today,0.0,Alpha Vantage
 13/03/2025,"The Zacks Analyst Blog Highlights Alphabet, Amazon.com and NVIDIA",0.0,Alpha Vantage
 13/03/2025,"2 Artificial Intelligence  ( AI )  Stocks to Buy Before They Soar 82% and 124%, According to Certain Wall Street Analysts",-0.1929,Alpha Vantage
@@ -1942,6 +1943,8 @@ Date,Title,Sentiment,Source
 13/03/2025,今最高コスパ。グラボは「AMD Radeon RX 9070 XT」を推します,0.0,News API
 13/03/2025,Google expands PC game support and introduces new earn-back program,-0.1318,News API
 13/03/2025,Ryzen 9 9950X3D: AMDs AM5-Topmodell fast zur UVP verfügbar,0.2,News API
+13/03/2025,Google wants games to run smoother and play seamlessly across devices with new updates,0.1455,News API
+13/03/2025,Asus soll Xbox-Handheld-PC für Microsoft bauen,0.0,News API
 14/03/2025,My Best Artificial Intelligence  ( AI )  Chip Stock to Buy Amid the Nasdaq Correction  ( Hint: It's Not Nvidia ) ,0.2,Alpha Vantage
 14/03/2025,Nasdaq Sell-Off: Why AMD Stock Is the AI Chip to Buy on the Dip,0.0,Alpha Vantage
 14/03/2025,1 Unstoppable Vanguard ETF to Buy With $550 During the S&P 500 Sell-Off,0.0,Alpha Vantage
@@ -1976,6 +1979,9 @@ Date,Title,Sentiment,Source
 18/03/2025,"Meet Jensen Huang, Nvidia's founder and CEO",0.0,News API
 18/03/2025,"Prix inédit sur le AMD Ryzen 7 7700, puissant processeur taillé pour le gaming",0.0,News API
 18/03/2025,HP's most popular laptops break free from Snapdragon exclusivity with AMD and Intel's latest AI chips,0.5,News API
+18/03/2025,Samsung's Exynos woes might negatively impact its Galaxy Z Flip FE future,-0.15,News API
+18/03/2025,HP just announced literally DOZENS of brand-new AI PCs — These are the ones that excite me most,0.5,News API
+18/03/2025,Bios-Flash-Marathon: 100-Stunden-Update endet mit defektem Mainboard,0.0,News API
 19/03/2025,"If I Could Only Buy 1 Artificial Intelligence  ( AI )  Chip Stock Over the Next Decade, This Would Be It  ( Hint: It's Not Nvidia ) ",-0.2,Alpha Vantage
 19/03/2025,Looking At Advanced Micro Devices's Recent Unusual Options Activity - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.25,Alpha Vantage
 19/03/2025,The Best Growth Stocks to Buy in 2025,1.0,Alpha Vantage
@@ -1991,6 +1997,8 @@ Date,Title,Sentiment,Source
 20/03/2025,La directora general de AMD está en China con un propósito: arrebatar el mercado de la IA a NVIDIA,0.05,News API
 20/03/2025,Jensen Huang: Nvidia wurde nicht eingeladen zur Übernahme der Intels Fabs,0.0,News API
 20/03/2025,Faites vous une nouvelle config avec ce processeur AMD Ryzen 7 7700 à prix délirant !,0.0,News API
+20/03/2025,Este es el gran problema de China con los chips: Huawei fabricará su Kirin X90 para PC usando los 7 nm de SMIC,0.0,News API
+20/03/2025,The Last Of Part 2 Remastered PC Specs And New No Return Content Revealed,0.0682,News API
 21/03/2025,Stock Market Correction: Here Are My Top 5 Stocks That Could Soar By The End of 2025,0.5,Alpha Vantage
 21/03/2025,This Analyst Thinks AMD Stock Could Soar Over 120%. Should Investors Buy This Beaten-Down AI Stock?,0.0,Alpha Vantage
 21/03/2025,Is AMD the Most Undervalued Tech Stock Right Now?,0.3929,Alpha Vantage
@@ -1998,6 +2006,7 @@ Date,Title,Sentiment,Source
 21/03/2025,"Should You Buy, Sell or Hold Astera Labs Stock at P/S of 15.59X?",0.0,Alpha Vantage
 21/03/2025,"AMD GPUs are supposed to be plentiful, but good luck finding one",0.7,News API
 21/03/2025,The Lenovo Legion Tower 5 gaming PC with 16GB of RAM is $330 off,0.0,News API
+21/03/2025,The RTX 50-series is the worst GPU launch in recent memory,-0.5,News API
 22/03/2025,"If You'd Bought 1 Share of Advanced Micro Devices at Its IPO, Here's How Many Shares You Would Own Now",0.5,Alpha Vantage
 22/03/2025,"Meet the Spectacular Vanguard ETF With 43.2% of Its Portfolio Invested in Nvidia, Amazon, Apple, and Microsoft",0.6,Alpha Vantage
 22/03/2025,"Who Is Nvidia's Biggest Rival? Jensen Huang Offered a Clue, and You May be Surprised by the Answer.",0.1,Alpha Vantage
@@ -2008,6 +2017,7 @@ Date,Title,Sentiment,Source
 23/03/2025,Considering Investing in the CoreWeave IPO? Here's a Different Nvidia-Backed Data Center Stock You Might Want to Check Out Instead.,-0.05,Alpha Vantage
 23/03/2025,Prediction: These 2 Unstoppable Artificial Intelligence  ( AI )  Stocks Will Be Worth More Than $1 Trillion by the End of 2025,0.0667,Alpha Vantage
 23/03/2025,Aiter: AI Tensor Engine for ROCm,0.0,News API
+23/03/2025,"RDNA 4's ""Out-of-Order"" Memory Accesses",0.0,News API
 24/03/2025,"Why Semiconductor Stocks Like Taiwan Semiconductor Manufacturing, Advanced Micro Devices, and Monolithic Power Rallied Today",0.4,Alpha Vantage
 24/03/2025,What's Going On With Advanced Micro Devices Stock Monday? - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
 24/03/2025,"S&P 500 Rallies On Best Day In 2 Months As Recession Fears Ease, Tesla Rockets, Bitcoin Hits $88,000: What's Driving Markets Monday? - Advanced Micro Devices  ( NASDAQ:AMD ) ",0.7,Alpha Vantage
@@ -2018,6 +2028,8 @@ Date,Title,Sentiment,Source
 24/03/2025,Alienware’s AW2725DF OLED gaming monitor is a steal at $599.99,0.0,News API
 24/03/2025,Linux Kernel 6.14 Officially Released,0.0,News API
 24/03/2025,C’est le moment de changer votre config avec ce processeur AMD Ryzen 7 7700 à prix délirant !,0.0,News API
+24/03/2025,Neue High-End-Netzteile: MSI lässt die meisten Radeon-Grafikkarten außen vor,0.0,News API
+24/03/2025,Südkoreanischer Chipdesigner FuriosaAI will sich nicht kaufen lassen,0.0,News API
 25/03/2025,Advanced Micro Devices  ( AMD )  Surpasses Market Returns: Some Facts Worth Knowing,0.35,Alpha Vantage
 25/03/2025,"Nvidia Is A Good Buy In This Sideways Market - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.55,Alpha Vantage
 25/03/2025,Is Advanced Micro Devices Stock a Buy Now?,0.4,Alpha Vantage
@@ -2030,6 +2042,7 @@ Date,Title,Sentiment,Source
 25/03/2025,The Radeon RX 9070 XT is selling faster than AMD can keep up,0.0,News API
 25/03/2025,Samsung unveils next-gen Odyssey gaming monitors with immersive 3D and OLED,0.0,News API
 25/03/2025,Microsoft will Raytracing in Spielen mit DXR 1.2 deutlich beschleunigen,0.0,News API
+25/03/2025,The Last of Us Part 2 Remastered PC requirements and specs — Can your computer run this dark story?,-0.075,News API
 26/03/2025,What's Going On With Broadcom  ( AVGO )  Stock? - Broadcom  ( NASDAQ:AVGO ) ,0.0,Alpha Vantage
 26/03/2025,What's Going On With Nvidia Stock Wednesday? - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
 26/03/2025,What's Going On With AMD Stock? - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
@@ -2044,6 +2057,7 @@ Date,Title,Sentiment,Source
 26/03/2025,The 7900 XTX still beats the 9070 XT… just,0.0,News API
 26/03/2025,GPUs are too expensive: how to buy a graphics card right now,-0.1071,News API
 26/03/2025,US expands export blacklist to keep computing tech out of China,0.0,News API
+26/03/2025,"Nvidia’s next-gen GPUs could get a major design change, here’s why that’s good news",0.3812,News API
 27/03/2025,"AMD Stock Falls Nearly 3% In Thursday Pre-Market: What's Going On? - Intel  ( NASDAQ:INTC ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.25,Alpha Vantage
 27/03/2025,Stock Market Sell-Off: 2 AI Stocks to Buy Now and Hold for 20 Years,0.0,Alpha Vantage
 27/03/2025,"Nvidia's Reported Lepton AI Buyout A 'Huge Red Flag,' Says Short Seller Jim Chanos, Warns Of Inventory Risk - Intel  ( NASDAQ:INTC ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2,Alpha Vantage
@@ -2052,3 +2066,405 @@ Date,Title,Sentiment,Source
 27/03/2025,"Trump Says He May Give China 'A Little Reduction In Tariffs Or Something' To Get TikTok Deal Done - Clock Is Ticking For ByteDance - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1063,Alpha Vantage
 27/03/2025,Top Women-Run Company Stocks to Enrich Your Portfolio,0.5,Alpha Vantage
 27/03/2025,"This AMD Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Thursday - Advanced Micro Devices  ( NASDAQ:AMD ) , CarGurus  ( NASDAQ:CARG ) ",0.45,Alpha Vantage
+27/03/2025,"Death Cross Pattern Appears for NVIDIA Stock: Buy, Hold, or Sell?",0.0,Alpha Vantage
+27/03/2025,"Linux Kernel 6.14 Is a Big Leap Forward In Performance, Windows Compatibility",0.0,News API
+28/03/2025,Here's How Much $100 Invested In Advanced Micro Devices 10 Years Ago Would Be Worth Today - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.325,Alpha Vantage
+28/03/2025,1 No-Brainer Artificial Intelligence  ( AI )  Stock to Buy Before It Skyrockets,-0.6,Alpha Vantage
+28/03/2025,"The Zacks Analyst Blog Highlights NVIDIA, Alphabet, Microsoft and AMD",0.0,Alpha Vantage
+28/03/2025,"The Zacks Analyst Blog Highlights CVS Health, Ulta Beauty, Progressive, AMD and Citigroup",0.0,Alpha Vantage
+28/03/2025,Brokers Suggest Investing in Advanced Micro  ( AMD ) : Read This Before Placing a Bet,0.4,Alpha Vantage
+28/03/2025,Better Artificial Intelligence Stock: AMD vs. Nvidia,-0.05,Alpha Vantage
+28/03/2025,Better Artificial Intelligence  ( AI )  Stock: Nvidia vs. AMD,-0.05,Alpha Vantage
+28/03/2025,"Prediction: This Artificial Intelligence  ( AI )  Stock Will Join Nvidia, Meta Platforms, Apple, Microsoft, Amazon, and Alphabet in the Trillion-Dollar Club By The End of The Decade",-0.6,Alpha Vantage
+28/03/2025,2 Breakout Growth Stocks You Can Buy and Hold for the Next Decade,0.0,Alpha Vantage
+28/03/2025,"If You Invested $1,000 In AMD And Bitcoin When CEO Lisa Su Called Blockchains A Distraction, Here's What You'd Have Now - Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+28/03/2025,Prediction: 2 Stocks That Will Be Worth More Than Palantir 1 Year From Now,0.4,Alpha Vantage
+28/03/2025,Razer Blade 16 Review: A Toasty Powerhouse,0.0,News API
+28/03/2025,新生活、ノートPC選びで変わります。AMD Ryzen™で「なりたい自分」をプロデュース,0.0,News API
+28/03/2025,"Asus, Bandai und mehr: Diverse Herstellershops offline",0.0,News API
+29/03/2025,"Down 50%, Should You Buy AMD Stock on the Dip?",-0.1556,Alpha Vantage
+29/03/2025,Should You Forget Nvidia and Buy These 2 Artificial Intelligence  ( AI )  Stocks Instead?,-0.6,Alpha Vantage
+29/03/2025,"Microsoft Co-Founder Bill Gates Praises China As A Pioneer In Solar, Batteries, And AI: Warns Tensions Are Stifling Global Innovation - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2,Alpha Vantage
+29/03/2025,I’m still testing the new Razer Blade 16 and I have mixed feelings,0.0682,News API
+29/03/2025,Now is not the time to buy a new graphics card,0.1364,News API
+30/03/2025,A Market Downturn Creates a Perfect Entry Point for This Promising AI Player,0.6,Alpha Vantage
+30/03/2025,Here's the Next AI Stock I'm Buying,0.0,Alpha Vantage
+30/03/2025,Beelink SER9 Pro mit AMD Ryzen AI 9 365 ausprobiert,0.0,News API
+31/03/2025,"Market Outlook: What To Expect This Week - eBay  ( NASDAQ:EBAY ) , American International Gr  ( NYSE:AIG ) ",0.0,Alpha Vantage
+31/03/2025,How to Find Strong Computer and Technology Stocks Slated for Positive Earnings Surprises,0.3303,Alpha Vantage
+31/03/2025,AMD Completes Acquisition of ZT Systems - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+31/03/2025,Is Artificial Intelligence  ( AI )  GPU Giant Nvidia Poised to Be a Victim of Its Own Success?,0.045,Alpha Vantage
+31/03/2025,Advanced Micro Devices  ( AMD )  Stock Declines While Market Improves: Some Information for Investors,0.4,Alpha Vantage
+31/03/2025,"AMD Powers Oracle Cloud With New Epyc Chips Promising Major Boost In Performance - Advanced Micro Devices  ( NASDAQ:AMD ) , Oracle  ( NYSE:ORCL ) ",0.1997,Alpha Vantage
+31/03/2025,9 Amazing Tech Stocks Smart Investors Should Not Ignore,0.4071,Alpha Vantage
+31/03/2025,"Arm Aims for 50% Data Center CPU Market Share by 2025, Challenging Intel and AMD - ARM Holdings  ( NASDAQ:ARM ) ",0.2,Alpha Vantage
+31/03/2025,Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs,0.0,News API
+31/03/2025,The Best Gadgets of March 2025,1.0,News API
+31/03/2025,AMD Just Made Its Boldest Move Yet to Beat Nvidia in the AI Race,0.0,News API
+31/03/2025,"MAINGEAR's best pre-built PC now packs NVIDIA RTX 50-series GPUs, Ryzen 9000, and Intel Core Ultra Series 2",1.0,News API
+31/03/2025,Microsoft lifts Snapdragon exclusivity on some of the best Copilot+ PC features,1.0,News API
+31/03/2025,サムスン、メガネなしで3Dを楽しめるOdysseyゲーミングモニターを発表,0.0,News API
+31/03/2025,Qué es inZOI: el clon de Los Sims que la está rompiendo en Steam,0.0,News API
+31/03/2025,"This 17-Inch HP Laptop Is 60% Off on Amazon, Now at an All-Time Low With Over $1,000 Off",0.0,News API
+31/03/2025,"Windows erweitert KI-Funktionen auf AMD-, Intel- und Snapdragon-Geräte",0.0,News API
+01/04/2025,"EXCLUSIVE: March's 20 Most-Searched Tickers On Pro - Where Do Tesla, Nvidia, Apple, Applovin Stock Rank? - Apple  ( NASDAQ:AAPL ) , Aclarion  ( NASDAQ:ACON ) ",-0.8,Alpha Vantage
+01/04/2025,Why Intel Stock Sank Today,0.0,Alpha Vantage
+01/04/2025,Why Advanced Micro  ( AMD )  is Poised to Beat Earnings Estimates Again,0.4,Alpha Vantage
+01/04/2025,NVIDIA Stock Dips 20% YTD: A Buying Opportunity Amid Market Fears,0.0,Alpha Vantage
+01/04/2025,Want Better Returns? Don?t Ignore These 2 Computer and Technology Stocks Set to Beat Earnings,0.5,Alpha Vantage
+01/04/2025,Should You Buy the Invesco QQQ ETF During the Nasdaq Correction? History Offers a Clear Answer.,0.1,Alpha Vantage
+01/04/2025,"Who Is Peter Thiel's Protégé, Michael Kratsios, Now Leading Trump's AI Strategy Amid Rising Tech Tensions With China - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+01/04/2025,"Forget Black Friday, This 15″ HP Laptop With 512GB of Storage Is Dirt Cheap (Now 40% Off)",0.1167,News API
+01/04/2025,Microsoft finally adds missing Copilot+ AI tools to Intel and AMD PCs,-0.1,News API
+01/04/2025,Vier Monate Verspätung: Copilot+ kommt für AMD- und Intel-Systeme,0.0,News API
+01/04/2025,Zwei Monate nach Launch: Der Grafikkartenmarkt erholt sich langsam,0.0,News API
+01/04/2025,The 9950X3D gives the gaming king a real run for its money,0.2,News API
+01/04/2025,"Some of AMD’s best CPUs are breaking down, and there’s one common problem",0.1815,News API
+01/04/2025,More Windows 11 Computers Will Get Copilot+ AI Features Soon,0.5,News API
+01/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 7900 XT ""4 étoiles"" à 834,09 € (-42%)",0.0,News API
+02/04/2025,Nvidia Stock Is Down Nearly 20% YTD: What's Going On? - NVIDIA  ( NASDAQ:NVDA ) ,-0.0278,Alpha Vantage
+02/04/2025,Advanced Micro Devices Options Trading: A Deep Dive into Market Sentiment - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.2667,Alpha Vantage
+02/04/2025,These 2 Vanguard ETFs Have Over 10% of Assets in Nvidia Stock. Here's Why Both Growth Funds Are Great Buys Now.,0.8,Alpha Vantage
+02/04/2025,"Down 28%, Should You Buy the Dip on Nvidia?",-0.1556,Alpha Vantage
+02/04/2025,"US Stock Futures Slip Ahead Of 'Liberation Day' Tariffs Announcement: Expert Points To Uncertainty Amid Higher Risk Premia - Antelope Ent Hldgs  ( NASDAQ:AEHL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.325,Alpha Vantage
+02/04/2025,Good News for AMD Stock Investors,0.7,Alpha Vantage
+02/04/2025,2 Unstoppable Artificial Intelligence  ( AI )  Stocks to Buy in April and 1 to Avoid,-0.6,Alpha Vantage
+02/04/2025,Oracle Recently Delivered Incredible News for Advanced Micro Devices  ( AMD )  Stock Investors,0.4333,Alpha Vantage
+02/04/2025,"Nvidia Rival AMD Completes $4.9B Acquisition Of ZT Systems To Strengthen AI And Data Center Dominance - Alphabet  ( NASDAQ:GOOGL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.15,Alpha Vantage
+02/04/2025,"AV1 is supposed to make streaming better, so why isn’t everyone using it?",0.5,News API
+02/04/2025,"Amazon has AMD and Nvidia GPU stock for you, but you’ll need Prime",0.0,News API
+02/04/2025,"The 9950X3D is king, but the 9950X is great for non-gamers",0.8,News API
+02/04/2025,I've become a big HP fan after reviewing this powerful and premium enterprise AI laptop,0.15,News API
+02/04/2025,AMD Prozessoren: Ryzen-X3D-CPUs mit Problemen auf Asrock-Boards,0.0,News API
+02/04/2025,Measuring Acceleration Structures,0.0,News API
+03/04/2025,Bull of the Day: Nova  ( NVMI ) ,0.0,Alpha Vantage
+03/04/2025,"Meta, AMD, Apple, AT&T Among Biggest US Tech Giants That 'May Suffer The Most' As Tariffs Spark Trade Turmoil: Here's Why - Apple  ( NASDAQ:AAPL ) , Albemarle  ( NYSE:ALB ) ",0.5,Alpha Vantage
+03/04/2025,Can AMD Outperform NVIDIA? Let's See if the Stock is Worth Buying Now,0.3,Alpha Vantage
+03/04/2025,Should You Stay Invested in INTC Stock on Positive Growth Trends?,0.2273,Alpha Vantage
+03/04/2025,How the Nintendo Switch 2 stacks up to the Steam Deck,0.0,News API
+03/04/2025,Anzeige: Acer Nitro Gaming-Monitor bei Amazon um 22 Prozent reduziert,0.0,News API
+03/04/2025,"La Nintendo Switch 2 no es la única opción que ofrece el mercado: las ""handled PC"" están viviendo su época dorada",0.0,News API
+03/04/2025,5 things I wish I knew before switching from AMD to Nvidia,0.0,News API
+03/04/2025,"Nintendo Switch 2 : comparatif avec le Steam Deck et l’Asus ROG Ally, quelle est la meilleure console portable ?",0.0,News API
+04/04/2025,1 Prediction From Nvidia That Should Excite AMD Investors,0.0,Alpha Vantage
+04/04/2025,"Trump's Reciprocal Tariffs Threaten To Derail Big Tech's Billion-Dollar AI Infrastructure Plans, Analyst Singles Out This OpenAI-Linked Project As Likely To Get Hit - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1333,Alpha Vantage
+04/04/2025,"TSMC Steps Up To Take 20% Stake In Joint Venture With Intel As Struggling Chipmaker Grapples With Nearly $19 Billion Losses In 2024: Report - Broadcom  ( NASDAQ:AVGO ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.25,Alpha Vantage
+04/04/2025,"The Zacks Analyst Blog Highlights AMD, NVIDIA, Microsoft, Meta and Oracle",0.0,Alpha Vantage
+04/04/2025,2 Monster Stocks to Hold for the Next 5 Years,0.0,Alpha Vantage
+04/04/2025,All of the news from Microsoft’s 50th Anniversary Copilot event,0.0,News API
+04/04/2025,"KI-Update: KI im Wissenschaftstest, ChatGPT löst Bilderboom aus, AMD Ryzen",0.0,News API
+04/04/2025,Grand Theft Auto 5 crashes into Xbox Game Pass on April 15,0.05,News API
+04/04/2025,AMD RX 9070 XT vs Nvidia RTX 4080 Super,0.3333,News API
+05/04/2025,Billionaire Paul Tudor Jones Trimmed His Position in Nvidia and Is Piling Into 2 Turnaround Tech Stocks,0.0,Alpha Vantage
+05/04/2025,2 Top Artificial Intelligence  ( AI )  Stocks Ready for a Bull Run,0.0333,Alpha Vantage
+05/04/2025,LG UltraGear Curved Gaming Monitor Sees Its First Major Price Drop of the Year on Amazon,0.1562,News API
+05/04/2025,AMD Ryzen CPU failures: what’s happened and what it means for you,0.0,News API
+05/04/2025,Upgrade to this Razer gaming keyboard while it’s on sale for only $100,0.0,News API
+05/04/2025,AMD Ryzen 7 5800XT 8-Core/16-Thread Unlocked Desktop Processor $140 + Free Shipping,0.4,News API
+05/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Sapphire ""5 étoiles"" à 755,52 € (-13%)",0.0,News API
+06/04/2025,Prediction: Taiwan Semiconductor Manufacturing Will Soar Over the Next 5 Years. Here's 1 Reason Why.,0.0,Alpha Vantage
+06/04/2025,1 Magnificent Artificial Intelligence  ( AI )  Stock Down 25% to Buy Hand Over Fist Before April 17,0.0815,Alpha Vantage
+06/04/2025,Is This Artificial Intelligence IPO a Buy?,-0.6,Alpha Vantage
+06/04/2025,Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence  ( AI )  Giant IBM,-0.2,Alpha Vantage
+06/04/2025,Market Turmoil: 3 Stocks to Steady Any Portfolio,0.3333,Alpha Vantage
+06/04/2025,3 Beaten-Down Tech Stocks to Buy That Have Raised Their Dividends for 15 Years in a Row,0.0,Alpha Vantage
+06/04/2025,3 Reasons to Buy Nvidia Stock Like There's No Tomorrow,0.0,Alpha Vantage
+06/04/2025,"I set out to see if the Razer Blade 16's redesign, AMD, and RTX 50-series put the laptop back on top",0.25,News API
+06/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Sapphire ""5 étoiles"" à 733,88 € (-15%)",0.0,News API
+06/04/2025,Nvidia veröffentlicht PhysX vollständig als Open Source,0.0,News API
+07/04/2025,"Tech stocks fall for third session, Tesla sinks 10% as Trump stands by tariffs",-0.05,Alpha Vantage
+07/04/2025,"Ming-Chi Kuo Warns Semiconductor Stocks Face Near-Term Risks Under Trump Tariff Policy: Even Apple's $500 Billion US Investment Didn't Buy It Leniency - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+07/04/2025,Comprar un PC con ARM en 2025: ¿tiene sentido hacerlo?,0.0,News API
+07/04/2025,AMD Ryzen 7 9800X3D AM5 4.7GHz 8-Core Desktop Processor $460 + Free Store Pickup Only,0.2,News API
+07/04/2025,Building AI is about to get even more expensive — even with the semiconductor tariff exemption,0.0,News API
+08/04/2025,AMD to Report Fiscal First Quarter 2025 Financial Results,0.125,Alpha Vantage
+08/04/2025,Taiwan Semiconductor Stock Sinks 26% YTD: Should You Hold or Exit?,-0.1,Alpha Vantage
+08/04/2025,"Trump Tariff Strategy Creates 'Self-Inflicted Market Debacle': Analyst - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+08/04/2025,Why AMD Stock Is Sinking After Opening With Big Gains Today,0.0,Alpha Vantage
+08/04/2025,"Investors Heavily Search Advanced Micro Devices, Inc.  ( AMD ) : Here is What You Need to Know",0.1,Alpha Vantage
+08/04/2025,Where Will Super Micro Computer Stock Be in 1 Year?,0.3333,Alpha Vantage
+08/04/2025,Stock Market Crash: Here Are 5 Stocks Down 27% or More I'd Buy Right Now,0.2101,Alpha Vantage
+08/04/2025,AMD Stock Investors Got Amazing News on Nvidia,0.6,Alpha Vantage
+08/04/2025,President Trump Announces Tariffs That Are Causing AMD Stock to Fall. Should Investors Buy AMD Stock?,0.0,Alpha Vantage
+08/04/2025,2 AI Stocks That Are Screaming Buys in April,0.0,Alpha Vantage
+08/04/2025,"Have $8,000? These 3 Stocks Could Be Bargain Buys for 2025 and Beyond.",0.0,Alpha Vantage
+08/04/2025,MediaTek is doing what Qualcomm should've done,0.0,News API
+08/04/2025,Wegen Trumps Zöllen: Framework nimmt in den USA günstige Laptops aus dem Angebot,0.0,News API
+09/04/2025,Is Nvidia's Artificial Intelligence  ( AI )  Business Recession-Resistant?,-0.6,Alpha Vantage
+09/04/2025,Should You Invest in the Invesco PHLX Semiconductor ETF  ( SOXQ ) ?,0.0,Alpha Vantage
+09/04/2025,Taiwan Semiconductor Manufacturing Is Down 35%. Here's Why Now Could Be the Best Time to Buy the AI Stock.,0.4222,Alpha Vantage
+09/04/2025,"Nvidia Has Generated 21,000% Returns in 10 Years. Here's How Well the S&P 500's Second-Best-Performing Stock Has Done",0.0,Alpha Vantage
+09/04/2025,"Trump Threatened TSMC He'd Impose Up To 100% Tariffs If It Didn't Manufacture Chips In US: 'These Chip Companies Are Loaded' - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+09/04/2025,Prediction: This Artificial Intelligence  ( AI )  Stock Will Be Worth More Than Nvidia in 2030,0.0667,Alpha Vantage
+09/04/2025,"Technology Stocks Outperform After Trump's Tariff Pause: Microchip Technology, AMD Lead Sector Higher - SPDR Select Sector Fund - Technology  ( ARCA:XLK ) ",0.25,Alpha Vantage
+09/04/2025,"AMD Powers Google Cloud's New AI Servers Promising 80% Boost In Speed - Alphabet  ( NASDAQ:GOOGL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2455,Alpha Vantage
+09/04/2025,AMD vs. Broadcom: Which Semiconductor Stock Has Greater Upside?,0.5,Alpha Vantage
+09/04/2025,Apple bounces 3% after worst losing streak since 2000,-1.0,Alpha Vantage
+09/04/2025,5th Gen AMD EPYC Processors Deliver Leadership Performance for Google Cloud C4D and H4D Virtual Machines,0.0,Alpha Vantage
+09/04/2025,"AMD Announces ""Advancing AI 2025""",0.0,Alpha Vantage
+09/04/2025,Run RISC-V Binaries on AMD Zen-Series CPUs via Microcode Modification,0.0,News API
+09/04/2025,"RUMOR: Leaker hints at ""Ryzen AI Z2 Extreme"" chip for gaming handhelds — Could we see it in ROG Ally 2 or the Xbox handheld?",-0.125,News API
+09/04/2025,AMD just quietly refreshed its most powerful laptop CPUs,0.2667,News API
+09/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Asrock ""5 étoiles"" à 789,99 €",0.0,News API
+09/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 Asrock ""4 étoiles"" à 719,99 €",0.0,News API
+09/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 Asrock ""4 étoiles"" à 719,99 €",0.0,News API
+09/04/2025,"Gigabyte just spoiled AMD's next GPU, and I'm already worried",0.0,News API
+09/04/2025,"Top bon plan : Samsung, Sauter, AMD... les meilleurs bons plans du 09/04/2025",0.5,News API
+10/04/2025,Why AMD Stock Is Plummeting Today,0.0,Alpha Vantage
+10/04/2025,"Tech Stocks Slip As Market Reverses Post-Tariff Rally: What's Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+10/04/2025,"Can Palantir Outperform NVIDIA, and Should You Buy the Stock?",0.0,Alpha Vantage
+10/04/2025,AMD's EPYC Powers GOOGL & ORCL Solutions: Should You Hold the Stock?,0.0,Alpha Vantage
+10/04/2025,Semiconductors Leading Nasdaq's Bounce-Back: ETFs in Focus,0.0,Alpha Vantage
+10/04/2025,Derivative-Based ETFs at the Heart of the Historic Market Run,0.0,Alpha Vantage
+10/04/2025,Why AMD Stock Rallied Harder Than Nvidia After New Tariff Announcement,0.0182,Alpha Vantage
+10/04/2025,"What AMD, Broadcom, and TSMC Stock Investors Should Know About Recent Semiconductor Updates",0.0,Alpha Vantage
+10/04/2025,"Got $1,000? 2 Top Growth Stocks to Buy That Could Double Your Money",0.25,Alpha Vantage
+10/04/2025,3 Cheap Tech Stocks to Buy Right Now,0.3429,Alpha Vantage
+10/04/2025,Microsoft is about to launch Recall for real this time,0.2,News API
+10/04/2025,Alienware's Area-51 prebuilt gaming PC can now use an RTX 5090,0.0,News API
+10/04/2025,AMD製ポータブルPC向けのCPUに、AI性能つよつよモデルの噂,0.0,News API
+10/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 7900 XT ""4 étoiles"" à 816,42 € (-29%)",0.0,News API
+10/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Gigabyte ""5 étoiles"" à 779,99 € (-12%)",0.0,News API
+10/04/2025,"Top bon plan : AMD, Sauter, Samsung... les meilleurs bons plans du 10/04/2025",0.5,News API
+11/04/2025,"Which AI Stock, NVIDIA or Broadcom, Is the Better Bargain to Buy?",0.5,Alpha Vantage
+11/04/2025,"China Hits US-Made Chips With Tariffs, But Those Outsourcing To Taiwan Semiconductor Exempt - Intel  ( NASDAQ:INTC ) , Taiwan Semiconductor  ( NYSE:TSM ) ",0.0,Alpha Vantage
+11/04/2025,Tech stocks head for winning week with Nvidia tracking for 15% bounceback,0.5,Alpha Vantage
+11/04/2025,"The Zacks Analyst Blog Highlights NVIDIA, Palantir Technologies, Advanced Micro Devices, Microsoft and Amazon.com",0.4,Alpha Vantage
+11/04/2025,Where Will Intel Stock Be in 3 Years?,0.0,Alpha Vantage
+11/04/2025,2 AI Stocks to Buy in the Wake of the Market Sell-Off,0.0,Alpha Vantage
+11/04/2025,"'There'll be A Transition Cost And Transition Problems,' Admits Trump Amid Tariff Woes, While Bessent Hints At Negotiation Deals - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+11/04/2025,6 Stocks With Clear Price Dislocations That I Purchased During Wall Street's Historic Volatility,0.05,Alpha Vantage
+11/04/2025,AMD's Ryzen 8000HX refresh couldn't come at a better time — Affordable gaming CPUs arrive as laptop prices rise,0.5,News API
+12/04/2025,Nasdaq Bear Market: My Top 5 Tech Stocks to Buy Right Now,0.3929,Alpha Vantage
+12/04/2025,Prediction: 2 AI Stocks Will Be Worth More Than Palantir Technologies by Early 2026,0.3,Alpha Vantage
+12/04/2025,"Trump Tariff Wars: China's New Rule To Exempt Nvidia, Qualcomm And Others From Levies, But These Chip Companies Will Be Hit With 125% Tariffs - Broadcom  ( NASDAQ:AVGO ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2682,Alpha Vantage
+12/04/2025,"Cathie Wood Goes Bargain Hunting: 1 ""Magnificent Seven"" Artificial Intelligence  ( AI )  Stock She Just Couldn't Pass Up During the Nasdaq Sell-Off",0.2,Alpha Vantage
+12/04/2025,Alienware Area-51 Review: It Would Be My Forever Case if It Didn’t Look so Dated,0.0,News API
+12/04/2025,ASUS se tira con todo justo empezando la Semana Santa rebajando su ordenador portátil ROG Strix G15 G513,0.0,News API
+13/04/2025,Nvidia and Broadcom Helped Propel This ETF 18% Higher in a Single Day. Here's Why It's Still a Buy Now.,0.0893,Alpha Vantage
+13/04/2025,Better Artificial Intelligence Stock: Super Micro Computer vs. Dell Technologies,0.0778,Alpha Vantage
+13/04/2025,3 Top Tech Stocks Down 27% to 57% to Buy in This Volatile Market,0.1722,Alpha Vantage
+14/04/2025,What's Going On With Micron Technology Stock Monday? - Micron Technology  ( NASDAQ:MU ) ,0.0,Alpha Vantage
+14/04/2025,"Which Mag-7 Stock, Apple or NVIDIA, Should You Buy for Tariff Relief?",0.0,Alpha Vantage
+14/04/2025,What's Going On With Alibaba Shares Monday? - Alibaba Gr Hldgs  ( NYSE:BABA ) ,0.0,Alpha Vantage
+14/04/2025,"Rep. Jefferson Shreve Has Sold Up to $3.10M Worth Of NVIDIA Stock: Here's What You Should Know - BlackRock  ( NYSE:BLK ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.35,Alpha Vantage
+14/04/2025,"Why Are Semiconductor Stocks Trading Higher On Monday? - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.325,Alpha Vantage
+14/04/2025,"US Stocks Likely To Open Higher: Expert Says 'The Selling Pressure Is Starting To Be Exhausted' - Aon  ( NYSE:AON ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.0417,Alpha Vantage
+14/04/2025,"Apple, SMCI, Nvidia, AMD And Other Tech Stocks Climb In Monday Pre-Market: What's Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1375,Alpha Vantage
+14/04/2025,This Artificial Intelligence Challenger Is Down 49%. Is It Time to Buy the Dip on the Stock?,-0.3778,Alpha Vantage
+14/04/2025,Intel Gave Up On Bitcoin Mining Chip Business Nearly 2 Years Ago - Here's How Its Stock Has Fared Compared With BTC Since Then - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.25,Alpha Vantage
+14/04/2025,NVIDIA mueve ficha en plena guerra arancelaria: promete fabricar hasta medio billón de dólares en productos de IA en EEUU,0.0,News API
+15/04/2025,AMD zeigt ersten Wafer mit 2-Nanometer-Chips von TSMC,0.0,News API
+15/04/2025,"Nvidia Promises the RTX 5060 Ti Is a 1440p Beast, but Tariffs Could Change That",0.0,News API
+15/04/2025,heise+ | Preiswerte AM5-Boards mit B840- und B850-Chipsatz im Test,0.0,News API
+16/04/2025,Handelskrieg mit China: Neue Exportlizenzen für KI-Chips belasten Nvidia und AMD,0.0,News API
+17/04/2025,"Framework Laptop 13 Review: Wait, Did I Actually Have Fun With a PC?",0.15,News API
+17/04/2025,AMD's RTX 5060 Ti competitor is rumored to launch in a couple of months with 8GB and 16GB models,0.0,News API
+17/04/2025,"How to choose the best HP laptop: OmniBook, EliteBook, OMEN, ZBook, and more",0.75,News API
+18/04/2025,Razer Blade 16 (2025) review: ultra settings on an ultra-thin laptop for an ultra-high price,0.0,News API
+18/04/2025,Razer Is Once Again Selling at Least One of Its Laptops Despite Tariffs,-0.3,News API
+18/04/2025,Duelo de especificaciones entre Windows 10 y Windows 11: ¿cuál es mejor?,0.0,News API
+19/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Asrock ""5 étoiles"" à 799,99 €",0.0,News API
+19/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Asrock ""5 étoiles"" à 799,99 €",0.0,News API
+20/04/2025,Nvidia Stock: The Week of April 14-18 in Review,0.0,Alpha Vantage
+20/04/2025,"OpenAI's Codex CLI, Intel's Reshuffle, And Nvidia's $500B Commitment: This Week In Artificial Intelligence - Intel  ( NASDAQ:INTC ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",-0.1,Alpha Vantage
+20/04/2025,"Down 45%, Should You Buy the Dip on Intel?",-0.1556,Alpha Vantage
+20/04/2025,Building a Custom Zynq-7000 SoC Development Board from the Ground Up,0.0,News API
+20/04/2025,Why the latest stock market pullback feels right,0.3929,News API
+21/04/2025,"AMD Stock Drops Amid AI Chip Export Ban: What's Going On? - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+21/04/2025,"Advanced Micro Devices, Inc.  ( AMD )  Is a Trending Stock: Facts to Know Before Betting on It",0.4,Alpha Vantage
+21/04/2025,Wall Street Sees 48% or More Upside for These AI Stocks. Should You Buy Them?,0.5,Alpha Vantage
+21/04/2025,Samsung Is Clearing Out Its Top-Selling 27-Inch Monitor at an All-Time Low Price on Amazon,0.0,News API
+21/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 Sapphire ""4 étoiles"" à 699,99 €",0.0,News API
+21/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 Sapphire ""4 étoiles"" à 699,99 €",0.0,News API
+21/04/2025,Что внутри модульного неттопа Ninkear MBOX 6? Разборка и тест мини компьютера на базе AMD Ryzen 5-6600H,0.0,News API
+21/04/2025,Why CEOs are taking it slow with big decisions,-0.15,News API
+22/04/2025,$100 Invested In Advanced Micro Devices 15 Years Ago Would Be Worth This Much Today - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.325,Alpha Vantage
+22/04/2025,Advanced Micro Devices  ( AMD )  Ascends But Remains Behind Market: Some Facts to Note,0.0,Alpha Vantage
+22/04/2025,"Analyst Sticks With Nvidia Despite Fallout From China Curbs - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+22/04/2025,INTC Stock Before Q1 Earnings: A Smart Buy or Risky Investment?,0.2143,Alpha Vantage
+22/04/2025,"Nvidia CEO Jensen Huang Earns Praise From Former Intel CEO Pat Gelsinger: 'Run Hard To Stay In The Front' - Intel  ( NASDAQ:INTC ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.0361,Alpha Vantage
+22/04/2025,"Everything We Know About the PlayStation 6, and Its Rumored Handheld Version",0.0,News API
+22/04/2025,heise+ | Ab 30 Euro: Leistungsfähige Prozessorkühler für AMD- und Intel-CPUs,0.0,News API
+22/04/2025,Ryzen 5 9600X + 500GB Patriot P400 Lite M.2 PCIe Gen 4x4 SSD + Monster Hunter Wilds $221.40 + Free Shipping,0.4,News API
+22/04/2025,The Elder Scrolls IV: Oblivion Remastered PC system requirements and specs — Can your computer run this refined RPG classic?,0.1667,News API
+22/04/2025,Вышел ремастер игры The Elder Scrolls IV: Oblivion,0.0,News API
+22/04/2025,Intel will angeblich Nova-Lake-Chiplets von TSMC fertigen lassen,0.0,News API
+22/04/2025,Bethesda выпустила ремастер культовой The Elder Scrolls IV: Oblivion,0.0,News API
+22/04/2025,"Top bon plan : Riviera-et-Bar, Xiaomi, AMD... les meilleurs bons plans du 22/04/2025",0.5,News API
+23/04/2025,Prediction: 2 Artificial Intelligence  ( AI )  Stocks That Could Be Worth More Than Nvidia by 2030,0.0667,Alpha Vantage
+23/04/2025,AMD Jumped Today -- Is the Artificial Intelligence  ( AI )  Stock a Buy?,-0.6,Alpha Vantage
+23/04/2025,What's Going On With Marvell Technology Stock On Wednesday? - Marvell Tech  ( NASDAQ:MRVL ) ,0.0,Alpha Vantage
+23/04/2025,IBM  ( IBM )  Tops Q1 Earnings and Revenue Estimates,0.0,Alpha Vantage
+23/04/2025,"Intel Taps Taiwan Semiconductor For Advanced 2nm Process For AI-Powered Chips: Report - Intel  ( NASDAQ:INTC ) , Taiwan Semiconductor  ( NYSE:TSM ) ",0.4,Alpha Vantage
+23/04/2025,"Why AMD, Broadcom, and Taiwan Semiconductor Manufacturing Stocks Rallied on Wednesday",0.0,Alpha Vantage
+23/04/2025,Micron Stock Plunges 28% in a Month: Should You Hold or Exit?,0.0,Alpha Vantage
+23/04/2025,2 Unstoppable Tech Giants to Buy Right Now,0.2857,Alpha Vantage
+23/04/2025,2 Artificial Intelligence  ( AI )  Stocks That Could Soar in the Second Half of 2025,-0.2556,Alpha Vantage
+23/04/2025,"1 Market-Beating Artificial Intelligence  ( AI )  ETF That Could Turn $250,000 Into $1 Million",-0.6,Alpha Vantage
+23/04/2025,群晖 DS925+ 正式发布，第一款不再支持第三方硬盘的 NAS 产品,0.0,News API
+24/04/2025,Why AMD Stock Jumped Today,0.0,Alpha Vantage
+24/04/2025,Buy the Dip in IBM Stock After Q1 Earnings?,0.0,Alpha Vantage
+24/04/2025,Spotlight on Advanced Micro Devices: Analyzing the Surge in Options Activity - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+24/04/2025,Should Investors Buy SMCI Stock After a 19% Decline in a Month?,0.0,Alpha Vantage
+24/04/2025,"Intel, Chinese partners ModelBest and Black Sesame push smart car systems",0.0159,Alpha Vantage
+24/04/2025,"TSMC shows off new tech for stitching together bigger, faster chips",0.0682,Alpha Vantage
+24/04/2025,"Cathie Wood Buys More NVIDIA And AMD Stock As Chinese Tech Giants Stockpile Chips Amid Looming US Export Curbs - Advanced Micro Devices  ( NASDAQ:AMD ) , Adaptive Biotechnologies  ( NASDAQ:ADPT ) ",0.3,Alpha Vantage
+24/04/2025,Prozessoren und KI: AMD kündigt Pressekonferenz zur Computex an,0.0,News API
+24/04/2025,heise+ | Kühlertest: Vergleich der Lautstärke und Klangcharakterisik,0.0,News API
+24/04/2025,Best gaming laptops for playing The Elder Scrolls 4: Oblivion Remastered in 2025,1.0,News API
+24/04/2025,TSMC: So sieht ein High-End-Beschleuniger der Zukunft aus,0.0,News API
+24/04/2025,ASUS B650E MAX GAMING WIFI W AMD B650 AM5 ATX Motherboard + 32GB Corsair DDR5 RAM $170 & More + Free Shipping,0.45,News API
+25/04/2025,"Intel Shares Slide As Tariff Jitters Cloud Outlook, Analysts See More Challenges Despite New CEO Initiatives - Northern Lights Fund Trust IV Main International ETF  ( BATS:INTL ) ",0.2008,Alpha Vantage
+25/04/2025,2 Top Artificial Intelligence  ( AI )  Stocks to Buy Right Now,0.0619,Alpha Vantage
+25/04/2025,Is a Beat in the Offing for F5 Stock This Earnings Season?,0.0,Alpha Vantage
+25/04/2025,"Intel Weighs Taiwan Semiconductor Partnership To Boost Chip Game - Intel  ( NASDAQ:INTC ) , Taiwan Semiconductor  ( NYSE:TSM ) ",-0.4,Alpha Vantage
+25/04/2025,"Sentiment Fissures In the Semiconductor Space Put Spotlight On Direxion's AMD-Focused Bull And Bear Funds - Direxion Daily AMD Bear 1X Shares  ( NASDAQ:AMDD ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2,Alpha Vantage
+25/04/2025,"Intel CEO Lip Bu Tan Takes Bold Steps To Revive Chipmaker, Says Bureaucracy Is 'Suffocating The Innovation' - Intel  ( NASDAQ:INTC ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.0778,Alpha Vantage
+25/04/2025,"Intel Stock Has Fallen Nearly 64% In 5 Years, Now CEO Lip-Bu Tan Says 'Clearly, There Are No Quick Fixes,' But Investors Should 'Stay Tuned' - Intel  ( NASDAQ:INTC ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1083,Alpha Vantage
+25/04/2025,Microsoft launches Recall and AI-powered Windows search for Copilot Plus PCs,0.0,News API
+25/04/2025,AMD Radeon graphics driver brings FSR 4 support to The Elder Scrolls IV: Oblivion Remastered and Assassin's Creed Shadows,0.0,News API
+25/04/2025,Ryzen 7 9800X3D fällt unter AMDs Preisempfehlung,0.0,News API
+25/04/2025,Best PC gaming desktops for playing The Elder Scrolls 4: Oblivion Remastered in 2025,1.0,News API
+26/04/2025,1 No-Brainer AI Stock Down 27% to Buy the Dip on Right Now  ( Hint: It's Not Nvidia ) ,0.0651,Alpha Vantage
+26/04/2025,Is Nvidia an Undervalued Growth Stock or a Falling Knife?,0.0,Alpha Vantage
+26/04/2025,"Costco Members: CyberPowerPC Desktop: Ryzen 7 9700X, RX 9070 XT, 32GB DDR5, 2TB $1900 + $15 Shipping",0.0,News API
+26/04/2025,"iBUYPOWER Slate 9 Desktop: Ryzen 7 7800X3D, RX 9070 XT, 32GB DDR5, 1TB SSD $1800 + Free S&H (Backordered)",0.4,News API
+26/04/2025,Lenovo stellt zahlreiche neue ThinkPads für 2025 vor,0.0,News API
+27/04/2025,Prediction: 1 Stock That Will Be Worth More Than Nvidia 10 Years From Now,0.4,Alpha Vantage
+27/04/2025,"Intel Nova Lake: конкурент Zen 5, которому нужен новый ПК",0.0,News API
+27/04/2025,AMD Ryzen 7 5800XT 8-Core/16-Thread Unlocked Desktop CPU w/ Wraith Prism Cooler $129 + Free Shipping,0.4,News API
+28/04/2025,Advanced Micro Devices  ( AMD )  Stock Sinks As Market Gains: Here's Why,0.15,Alpha Vantage
+28/04/2025,"Tesla's ""Moment of Truth""",0.0,Alpha Vantage
+28/04/2025,Should You Buy Super Micro Computer Stock Before Q3 Earnings?,0.3333,Alpha Vantage
+28/04/2025,Is It Too Late for Intel to Strike Back Against AMD?,-0.15,Alpha Vantage
+28/04/2025,Elden Ring Nightreign's PC requirements are here to birth thee anew,0.0,News API
+28/04/2025,Для каких типов обучений нейросетевых моделей подходят ускорители AMD,0.0,News API
+28/04/2025,AMD's most popular gaming CPU drops to a pre-2025 price with this deal,0.55,News API
+28/04/2025,AMD Ryzen 5 4500 6-Core/12-Thread Desktop AM4 Processor w/ Cooler $59 + Free S/H,0.4,News API
+28/04/2025,Synology DiskStation DS925+ vs. DiskStation DS923+: Is it even an upgrade?,0.0,News API
+29/04/2025,JNPR Set to Report Q1 Results: What's in the Offing for the Stock?,0.0,Alpha Vantage
+29/04/2025,Advanced Micro Devices  ( AMD )  Reports Next Week: Wall Street Expects Earnings Growth,0.2,Alpha Vantage
+29/04/2025,2 Artificial Intelligence  ( AI )  Stocks That Could Make You a Millionaire,-0.6,Alpha Vantage
+29/04/2025,"Cathie Wood Chops Palantir: Ark Invest Dumps $9.1 Million Worth Of Stock, Also Sells Meta And Robinhood Shares - Advanced Micro Devices  ( NASDAQ:AMD ) , ARK Innovation ETF  ( BATS:ARKK ) ",0.35,Alpha Vantage
+29/04/2025,CRM vs. ORCL: Which Enterprise Software Stock Offers Better Growth?,0.3,Alpha Vantage
+29/04/2025,"Dell Technologies Stock Trading at Big Discount: Should You Buy, Sell or Hold?",0.0,Alpha Vantage
+29/04/2025,OpenBSD 7.7 Released,0.0,News API
+29/04/2025,12 Best Foods for Your Eye Health,1.0,News API
+29/04/2025,The AMD Ryzen 5 9600X at Its Lowest Price Ever Can Get You Started on Your Budget Gaming PC,0.0,News API
+29/04/2025,AMD's top Ryzen CPUs have never been cheaper — Up to 35% off at Amazon Gaming Week,0.5,News API
+29/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Asus ""5 étoiles"" à 818,99 €",0.0,News API
+29/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Gigabyte ""5 étoiles"" à 799,90 €",0.0,News API
+29/04/2025,"Actualité : Bon plan – La carte graphique AMD Radeon RX 9070 XT Asus ""5 étoiles"" à 822,29 €",0.0,News API
+30/04/2025,"This Nvidia Analyst Begins Coverage On A Bearish Note; Here Are Top 5 Initiations For Wednesday - Broadcom  ( NASDAQ:AVGO ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.45,Alpha Vantage
+30/04/2025,Better Semiconductor Stock: AMD vs. Nvidia,0.5,Alpha Vantage
+30/04/2025,"Cathie Wood Bets Against Mark Zuckerberg's Meta Ahead Of Crucial Earnings Report, Loads Up On This Amazon Rival - Advanced Micro Devices  ( NASDAQ:AMD ) , ARK Innovation ETF  ( BATS:ARKK ) ",0.2,Alpha Vantage
+30/04/2025,"Forget Samsung, Dell’s 34-Inch Curved Gaming Monitor Is at Its Lowest Price of the Year",0.0,News API
+30/04/2025,OpenBSD 7.7 unterstützt Intel E810 bis 100 GBit/s und Radeon RX 9070 GPUs,0.0,News API
+30/04/2025,Reversible computing with mechanical links and pivots,0.0,News API
+30/04/2025,"10 лучших процессоров по соотношению цена-качество, которые можно купить весной 2025 года",0.0,News API
+30/04/2025,Zhaoxin's KX-7000,0.0,News API
+30/04/2025,ROG 魔霸 9X 游戏电脑体验，强悍的游戏性能，只为打造情绪价值机器,0.0,News API
+30/04/2025,AMD Ryzen 7 9700X 3.8 GHz 8-Core AM5 Processor + Monster Hunter Wilds Game $285,-0.4,News API
+01/05/2025,"Elon Musk Out As Tesla CEO In 2025? Prediction Markets Put Little Faith In WSJ Report, Here Are The Top Replacement Picks - Tesla  ( NASDAQ:TSLA ) ",0.1562,Alpha Vantage
+01/05/2025,"AI ETFs Set to Gain on Robust Meta, Microsoft Earnings",0.0,Alpha Vantage
+01/05/2025,NCR Voyix  ( VYX )  Expected to Beat Earnings Estimates: Should You Buy?,-0.1,Alpha Vantage
+01/05/2025,"Why Are Nvidia, Broadcom And Other Chip Stocks Soaring On Thursday? - Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1375,Alpha Vantage
+01/05/2025,Should You Buy AMD Stock Before May 6?,0.0,Alpha Vantage
+01/05/2025,Gear Up for Advanced Micro  ( AMD )  Q1 Earnings: Wall Street Estimates for Key Metrics,0.2,Alpha Vantage
+01/05/2025,Stock Market Sell-Off: Should You Buy the Dip on Nvidia Stock?,0.0,Alpha Vantage
+01/05/2025,GEN Gears Up to Report Q4 Earnings: What's in Store for the Stock?,0.0,Alpha Vantage
+01/05/2025,Should You Buy the Invesco QQQ ETF During the Nasdaq Bear Market? Here's What History Says,0.0,Alpha Vantage
+01/05/2025,This Incredibly Cheap Semiconductor Stock Is About to Go on a Terrific Bull Run,0.2,Alpha Vantage
+01/05/2025,Prediction: This Magnificent Artificial Intelligence  ( AI )  Semiconductor Stock Will Soar After May 6,0.2,Alpha Vantage
+01/05/2025,Jensen Huang Predicts Annual Data Center Spending Will Hit $1 Trillion by 2028. Here's the Ultimate Semiconductor ETF to Buy Right Now.,0.0619,Alpha Vantage
+01/05/2025,"Cathie Wood Sells Palantir Shares Worth $2.65 Million Ahead Of Earnings, Doubles Down On This Chip Giant - Advanced Micro Devices  ( NASDAQ:AMD ) , ARK Innovation ETF  ( BATS:ARKK ) ",0.1361,Alpha Vantage
+01/05/2025,Alibaba's Qwen3 AI model family helps narrow US-China tech gap: analysts,-0.2,Alpha Vantage
+01/05/2025,AMD Ryzen 7 5700X 3.4GHz 8-Core 16-Thread AM4 Desktop Processor $128.25 + Free Shipping,0.4,News API
+02/05/2025,"EXCLUSIVE: April's 20 Most-Searched Tickers On Pro - Where Do Tesla, Apple, Palantir, Nvidia Stocks Rank? - SPDR S&P 500  ( ARCA:SPY ) ",-0.8,Alpha Vantage
+02/05/2025,Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence  ( AI )  Giant Nvidia,-0.2,Alpha Vantage
+02/05/2025,"Cathie Wood Pours $9.8 Million In Robinhood Despite Crypto Revenue Slump, Keeps Dumping Palantir Ahead Of Earnings - Advanced Micro Devices  ( NASDAQ:AMD ) , ARK Innovation ETF  ( BATS:ARKK ) ",0.4,Alpha Vantage
+02/05/2025,Better Artificial Intelligence  ( AI )  Stock: Nvidia vs. Intel,-0.05,Alpha Vantage
+02/05/2025,"Should You Buy, Hold, or Sell AMD Stock Ahead of Q1 Earnings?",0.0,Alpha Vantage
+02/05/2025,"ALAB Set to Report Q1 Earnings: Buy, Sell or Hold the Stock?",0.0,Alpha Vantage
+02/05/2025,Will Advanced Micro  ( AMD )  Beat Estimates Again in Its Next Earnings Report?,0.2,Alpha Vantage
+02/05/2025,JKHY Gears Up to Report Q3 Earnings: What's in Store for the Stock?,0.0,Alpha Vantage
+02/05/2025,Anzeige: Convertible von Lenovo bei Amazon mit 30 Prozent Rabatt,0.0,News API
+02/05/2025,"La RX 9070 XT es una de las gráficas más recientes de AMD, puede con todo a 4K, y aquí la tienes más barata que nunca",0.0,News API
+03/05/2025,Nvidia and AMD Just Got Amazing News From Meta Platforms and Microsoft,0.6,Alpha Vantage
+03/05/2025,Better Artificial Intelligence  ( AI )  Stock: Nvidia vs. Super Micro Computer Inc.,0.0778,Alpha Vantage
+03/05/2025,The 9 Best Stocks to Buy Now in May  ( 2025 ) !,1.0,Alpha Vantage
+04/05/2025,Prediction: This Will Be the Top-Performing Semiconductor Stock Over the Next 10 Years  ( Hint: It's Not Nvidia ) ,0.0,Alpha Vantage
+04/05/2025,5 Top Stocks to Buy in May,0.5,Alpha Vantage
+04/05/2025,От Strix Halo до Hawk Point: пять причин пересесть на мини-ПК в мае 2025 года,0.0,News API
+04/05/2025,"Disney, Palantir, AMD and more stocks to watch this week",0.5,News API
+05/05/2025,What's Going On With Advanced Micro Devices? - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+05/05/2025,Got $100? 1 Artificial Intelligence  ( AI )  Semiconductor Stock to Buy Hand Over Fist Right Now  ( Hint: It's Not Nvidia ) ,-0.1571,Alpha Vantage
+05/05/2025,AKAM Set to Report Q1 Results: Will Top-Line Growth Boost Earnings?,0.0,Alpha Vantage
+05/05/2025,PINS Set to Report Q1 Results: Will Top-Line Growth Boost Earnings?,0.0,Alpha Vantage
+05/05/2025,Will AMD Stock Climb on Strong Data Center Revenues in Q1 Earnings?,0.1667,Alpha Vantage
+05/05/2025,Price Over Earnings Overview: Advanced Micro Devices - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+05/05/2025,Deutsche Bank and Caesars Entertainment have been highlighted as Zacks Bull and Bear of the Day,0.0,Alpha Vantage
+05/05/2025,Pitney Bowes to Report Q1 Earnings: What's in Store for the Stock?,0.0,Alpha Vantage
+05/05/2025,Will This Be the Catalyst AMD Stock Investors Are Waiting For?,0.0,Alpha Vantage
+05/05/2025,The New York Times Company to Post Q1 Earnings: Drivers to Note,0.1364,Alpha Vantage
+05/05/2025,Why Investors Need to Take Advantage of These 2 Computer and Technology Stocks Now,0.0,Alpha Vantage
+05/05/2025,"Jim Cramer Says Applied Materials Is An 'Excellent' Company, But Likes This Tech Stock More - Applied Mat  ( NASDAQ:AMAT ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.6333,Alpha Vantage
+05/05/2025,Paycom to Report Q1 Earnings: What's in Store for the Stock?,0.0,Alpha Vantage
+05/05/2025,The Convoluted Way Intel’s 386 Implemented its Registers,0.0,News API
+05/05/2025,"Skytech Azure3 Desktop: Ryzen 7 7800X3D, RX 9070 XT, 32GB RAM, 2TB SSD $1790 + Free Shipping",0.4,News API
+05/05/2025,"The AMD Ryzen 7 5700X Is a Killer CPU at a Killer Price, Nearly 60% Off Right Now",0.1929,News API
+05/05/2025,MSI quiere conquistar a los gamers hundiendo de nuevo el precio de su monitor curvo de 34 pulgadas,0.0,News API
+06/05/2025,"US Stocks Likely To Open Lower After Snapping 9-Day Streak: 'Downside Could Be Limited Even In A Mild Recession,' Says Expert - Advanced Micro Devices  ( NASDAQ:AMD ) , Archer-Daniels-Midland  ( NYSE:ADM ) ",0.1324,Alpha Vantage
+06/05/2025,"Marriott International, Advanced Micro Devices And 3 Stocks To Watch Heading Into Tuesday - Advanced Micro Devices  ( NASDAQ:AMD ) , Archer-Daniels-Midland  ( NYSE:ADM ) ",0.2667,Alpha Vantage
+06/05/2025,"S&P 500 Snaps Nine-Session Winning Streak; Investor Sentiment Improves, Fear & Greed Index Moves To 'Greed' Zone - Advanced Micro Devices  ( NASDAQ:AMD ) , Archer-Daniels-Midland  ( NYSE:ADM ) ",0.45,Alpha Vantage
+06/05/2025,Tariff Talk Returns to Sink Markets; Plus Q1 Earnings,0.0,Alpha Vantage
+06/05/2025,Advanced Micro Devices  ( AMD )  Beats Q1 Earnings and Revenue Estimates,0.4,Alpha Vantage
+06/05/2025,"AMD Q1 Earnings: Revenue, EPS Beat Driven By Expanding Data Center, AI Momentum, Chipmaker Expects 'Strong Growth' In 2025 - Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2444,Alpha Vantage
+06/05/2025,AMD Reports First Quarter 2025 Financial Results,0.125,Alpha Vantage
+06/05/2025,"Nvidia, Broadcom Lead Fund Manager Buys As Semiconductor Sector Cools - Applied Mat  ( NASDAQ:AMAT ) , Analog Devices  ( NASDAQ:ADI ) ",0.0,Alpha Vantage
+06/05/2025,AMD Recovery From 62% Value Wipeout Faces Q1 Earnings Test - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+06/05/2025,Trade Deficit Comes in Record High for March,0.16,Alpha Vantage
+06/05/2025,"Pre-Markets Slip Lower on Record Trade Deficit, Q1 Earnings",0.0,Alpha Vantage
+06/05/2025,"Top Wall Street Forecasters Revamp AMD Motor Expectations Ahead Of Q1 Earnings - Alphabet  ( NASDAQ:GOOG ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.45,Alpha Vantage
+06/05/2025,Microsoft Unveils AI-Powered Overhaul for Windows 11,0.0,News API
+06/05/2025,"A New GTA VI Trailer Is Here, but We Still Don’t Know if the Game Is Coming to Switch 2",-0.1318,News API
+06/05/2025,Windows 11 abraza la IA con un sinfín de nuevas funciones: tu PC no volverá a ser el mismo,0.0,News API
+06/05/2025,ASUSTOR Flashstor 6 Gen2 FS6806X review: Is this all-flash NAS the real deal?,0.2,News API
+06/05/2025,"Anzeige: Laptop von HP mit 17,3 Zoll bei Amazon um 150 Euro reduziert",0.0,News API
+07/05/2025,"Chip Stocks Rise As Trump Reportedly Plans To Roll Back Biden-Era AI Export Curbs - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) , Taiwan Semiconductor  ( NYSE:TSM ) ",0.2,Alpha Vantage
+07/05/2025,"Apple Shares Fall Amid Broader Tech Shifts And Supplier Developments: What's Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+07/05/2025,AMD to Host Annual Meeting of Stockholders,0.0,Alpha Vantage
+07/05/2025,Here's How Much You Would Have Made Owning Advanced Micro Devices Stock In The Last 20 Years - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.25,Alpha Vantage
+07/05/2025,"AMD Market Position Is 'The Best In The Company's History,' Says Analyst - Advanced Micro Devices  ( NASDAQ:AMD ) ",0.7,Alpha Vantage
+07/05/2025,ASML vs. TSM: Which Semiconductor Stock is the Smarter Buy?,0.0,Alpha Vantage
+07/05/2025,What's Going On With Advanced Micro Devices Stock Wednesday? - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+07/05/2025,Intel Excels in Stringent AI Benchmark: Should You Buy the Stock?,0.0,Alpha Vantage
+07/05/2025,What's Going On With AMD Stock After Earnings?,0.0,Alpha Vantage
+07/05/2025,"AMD Q1 Earnings Top Estimates, Revenues Up Y/Y, Shares Rise",0.5,Alpha Vantage
+07/05/2025,Why AMD Stock Skyrocketed Wednesday Morning Before Losing Ground,0.0,Alpha Vantage
+07/05/2025,"This House of Representative Just Bought Up To $915K In AbbVie Stock - Apple  ( NASDAQ:AAPL ) , AbbVie  ( NYSE:ABBV ) ",0.0,Alpha Vantage
+07/05/2025,A Closer Look at Advanced Micro Devices's Options Market Dynamics - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+07/05/2025,Lisa Su Just Gave Amazing News to AMD Stock Investors,0.6,Alpha Vantage
+07/05/2025,AMD Earnings: Data Center Shines Again,-0.1,Alpha Vantage
+07/05/2025,Here are the top 10 things we're watching in the stock market Wednesday,0.5,Alpha Vantage
+07/05/2025,5 No-Brainer AI Stocks to Buy in May,0.0,Alpha Vantage
+07/05/2025,Prediction: This Artificial Intelligence  ( AI )  Stock Could Be Worth More Than Nvidia by 2030,0.0667,Alpha Vantage
+07/05/2025,"AMD Stock Pops on Earnings Beat as AI Chip Revenue Grows by ""Significant Double-Digit Percentage""",0.375,Alpha Vantage
+07/05/2025,"US Stocks Likely To Open Higher Ahead Of Fed's Verdict On Interest Rates: 'A Short Bout Of Stagflation Is Likely,' Says Expert - Arista Networks  ( NYSE:ANET ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1083,Alpha Vantage
+07/05/2025,"SMCI Issues Strong Q4 Revenue Outlook, Expects Nvidia's Blackwell To Fuel Growth - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4167,Alpha Vantage
+07/05/2025,"Walt Disney, Uber Technologies And 3 Stocks To Watch Heading Into Wednesday - Arista Networks  ( NYSE:ANET ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+07/05/2025,AMD warns of US$1.5 billion China sales hit despite rosier 2025 outlook,0.0,Alpha Vantage
+07/05/2025,"Amazon Acquires $84.4 Million Stake In AMD Amid AI Chip Expansion, Export Controls - Advanced Micro Devices  ( NASDAQ:AMD ) , Amazon.com  ( NASDAQ:AMZN ) ",0.4,Alpha Vantage
+07/05/2025,"AMD Always Expected Restrictions On Cutting Edge GPU Exports To China, Says Lisa Su - Working With Trump Administration To Keep US AI Tech Dominant - NVIDIA  ( NASDAQ:NVDA ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",-0.1,Alpha Vantage
+07/05/2025,Nvidia Investors Just Got Incredible News From AMD CEO Lisa Su,0.9,Alpha Vantage
+07/05/2025,AMD: Prozessoren und GPU-Beschleuniger laufen prächtig,0.0,News API
+07/05/2025,"Verschärfte US-Exporte kosten AMD 1,5 Milliarden US-Dollar",0.0,News API
+07/05/2025,"Trotz Rekordumsatz: KI-Exportverbote kosten AMD 1,5 Milliarden US-Dollar",0.0,News API
+07/05/2025,"Bit-Rauschen, der Prozessor-Podcast: Gute Mainboards für AMD Ryzen 9000 finden",0.0,News API
+07/05/2025,Here are some leaked images of an Xbox-branded handheld and the Asus ROG Ally 2,0.0,News API
+07/05/2025,Intel senkt Preise für zwei Core Ultra 7 massiv,0.0,News API
+07/05/2025,Que tiemble la Switch 2: la consola portátil de Xbox y Asus se ha dejado ver y es una locura,0.0,News API
+07/05/2025,"Mittwoch: Ikea und Sonos beenden Kooperation, Wiener Aufzüge per App rufbar",0.0,News API
+08/05/2025,"Nvidia, Broadcom, AMD Gain As Trump Reshapes AI Chip Export Rules To Ease Market Pressure - Broadcom  ( NASDAQ:AVGO ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+08/05/2025,"Cathie Wood Strengthens AI Chip Holdings With Nvidia And AMD Purchases, Reduces Palantir Position By Another $38.8 Million - ARK Fintech Innovation ETF  ( BATS:ARKF ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage

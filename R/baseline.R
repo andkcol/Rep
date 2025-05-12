@@ -1,0 +1,121 @@
+library(data.table)
+library(Metrics)
+library(ggplot2)
+
+# Set folder path
+dataFolder <- "CSV Masters"
+files <- list.files(dataFolder, full.names = TRUE, pattern = "\\.csv$")
+
+results <- list()
+
+#
+# Baseline Numbers (Naive, OHLCV, Daily Sentiment, 7/20/50 Sentiment Moving Average)
+#
+for (file in files) {
+  df <- fread(file)
+  df[, Volume := round(as.numeric(Volume))]
+  df <- df[order(as.Date(Date, format = "%d/%m/%Y"))]
+
+  df <- df[, .(Date, Close, Open, High, Low, Volume, Avg, MA7, MA20, MA50)]
+  df[, Close_t := shift(Close, type = "lead")]
+  df <- na.omit(df)
+
+  company <- tools::file_path_sans_ext(basename(file))
+
+  #Naive MAE prediction using Close only
+  naiveMAE <- mae(df$Close_t, df$Close)
+
+  #OHLCV only prediction
+  modelOHLCV <- lm(Close_t ~ Open + High + Low + Close + Volume, data = df)
+  predOHLCV <- predict(modelOHLCV, df)
+  ohlcvMAE <- mae(df$Close_t, predOHLCV)
+
+  #OHLCV + Sentiment prediction
+  modelSenti <- lm(Close_t ~ Open + High + Low + Close + Volume + Avg, data = df)
+  predSenti <- predict(modelSenti, df)
+  sentiMAE <- mae(df$Close_t, predSenti)
+
+  #OHLCV + 7-day sentiment average prediction
+  modelSenti7 <- lm(Close_t ~ Open + High + Low + Close + Volume + MA7, data = df)
+  predSenti7 <- predict(modelSenti7, df)
+  senti7MAE <- mae(df$Close_t, predSenti7)
+  
+  #OHLCV + 7-day sentiment average prediction
+  modelSenti20 <- lm(Close_t ~ Open + High + Low + Close + Volume + MA20, data = df)
+  predSenti20 <- predict(modelSenti20, df)
+  senti20MAE <- mae(df$Close_t, predSenti20)
+  
+  #OHLCV + 7-day sentiment average prediction
+  modelSenti50 <- lm(Close_t ~ Open + High + Low + Close + Volume + MA50, data = df)
+  predSenti50 <- predict(modelSenti50, df)
+  senti50MAE <- mae(df$Close_t, predSenti50)
+
+  results[[company]] <- data.frame(
+    Company = company,
+    Naive_MAE = naiveMAE,
+    OHLCV_MAE = ohlcvMAE,
+    Sentiment_MAE = sentiMAE,
+    Sentiment7_MAE = senti7MAE,
+    Sentiment20_MAE = senti20MAE,
+    Sentiment50_MAE = senti50MAE
+  )
+}
+
+baselineResults <- rbindlist(results)
+print(baselineResults)
+
+
+#
+# Pooled Data for Cross-Company Modeling
+#
+allData <- rbindlist(lapply(files, function(file){
+  df <- fread(file)
+  df <- df[order(as.Date(Date, format = "%d/%m/%Y"))]
+  df[, Company := tools::file_path_sans_ext(basename(file))]
+  df[, .(Date, Company, Close, Open, High, Low, Volume, Avg, MA7, MA20, MA50)]
+}))
+
+# Lag the Close column for prediction target
+allData[, Close_t := shift(Close, type = "lead"), by = Company]
+allData[, Volume := round(as.numeric(Volume))]
+allData <- na.omit(allData)
+
+normalize <- function(x) (x - mean(x)) / sd(x)
+
+allData[, `:=`(
+  Open = normalize(Open),
+  High = normalize(High),
+  Low = normalize(Low),
+  Close = normalize(Close),
+  Volume = normalize(Volume),
+  Avg = normalize(Avg),
+  MA7 = normalize(MA7),
+  MA20 = normalize(MA20),
+  MA50 = normalize(MA50),
+  Close_t = normalize(Close_t)
+), by = Company]
+
+poolModel <- lm(Close_t ~ Open + High + Low + Close + Volume + Avg + MA7 + MA20 + MA50, data = allData)
+summary(poolModel)
+
+#
+# Correlation Analysis
+#
+corrResults <- rbindlist(lapply(files, function(file){
+  df <- fread(file)
+  df <- na.omit(df[, .(Close, Avg)])
+  if(nrow(df) < 10) return(NULL)
+  data.frame(
+    Company = tools::file_path_sans_ext(basename(file)),
+    Correlation = cor(df$Close, df$Avg)
+  )
+}))
+
+# Plot corresponding heatmap
+ggplot(corrResults, aes(x = reorder(Company, Correlation), y = Correlation, fill = Correlation)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  scale_fill_gradient2(low = "firebrick3", mid = "white", high = "chartreuse4", midpoint = 0) +
+  labs(title = "Close Price and Daily Average",
+       x = "Company", y = "Pearson Correlation") +
+  theme_minimal()

@@ -1713,6 +1713,7 @@ Date,Title,Sentiment,Source
 20/03/2025,"Nintendo, Microsoft, and other developers will share accessibility labels about their games",-0.125,News API
 20/03/2025,Google Pixel 10a: What we expect to see,0.0,News API
 21/03/2025,Google will let you make AI podcasts from Gemini’s Deep Research,0.0,News API
+21/03/2025,Trump’s confusing crusade against Big Tech,-0.15,News API
 22/03/2025,Google Vids can now generate AI voiceovers for your videos,0.0,News API
 23/03/2025,Google confirms it deleted Maps Timeline data for some,0.0,News API
 23/03/2025,Google is rolling out Gemini’s real-time AI video features,0.0,News API
@@ -1722,3 +1723,110 @@ Date,Title,Sentiment,Source
 25/03/2025,Gemini could soon replace Google Assistant in Android Auto 14.0,0.0,News API
 26/03/2025,Microsoft adds ‘deep reasoning’ Copilot AI for research and data analysis,0.0,News API
 26/03/2025,Google allegedly moves to 'privately' develop the future of Android,-0.0333,News API
+27/03/2025,Google Maps can soon scan your screenshots to plan your vacation,0.0,News API
+28/03/2025,Yale’s new smart lock can match your Google Nest doorbell,0.1753,News API
+28/03/2025,Google to pay $100 million to settle 14-year-old advertising lawsuit,0.0,News API
+28/03/2025,First Alert’s new smart smoke alarm is meant to be a Google Nest Protect replacement,0.2002,News API
+28/03/2025,Google discontinues Nest Protect smoke alarm and Nest x Yale door lock,0.0,News API
+28/03/2025,Android Auto’s latest beta brings full Android game support,0.15,News API
+28/03/2025,"Google Is Closing Up Android Development, but It’s Not What You Think",0.0,News API
+31/03/2025,"TikTok, tariffs, and trials: everything happening in tech’s chaotic April",0.0,News API
+31/03/2025,Google phones to get 'Battery health assistance' feature starting with Pixel 9a,0.0,News API
+01/04/2025,Gmail is making it easier for businesses to send encrypted emails to anyone,0.0,News API
+01/04/2025,The Sonos Arc is down to a new all-time low price,-0.0064,News API
+01/04/2025,Google is fixing outdated Pixel weather forecasts,-0.4,News API
+01/04/2025,Gemini could be the next Google service reimagined for kids,0.0,News API
+02/04/2025,Google’s NotebookLM leader is taking over as head of the Gemini app,0.0,News API
+02/04/2025,"Google Pixel Tablet Drops Back to Black Friday Price on Amazon, a Spring Treat for Android Fans",-0.0833,News API
+02/04/2025,"AV1 is supposed to make streaming better, so why isn’t everyone using it?",0.5,News API
+03/04/2025,"Google Just Took $200 Off the Pixel 9 Smartphone, No Trade-In Needed",0.0,News API
+03/04/2025,Google highlights smarter Gemini capabilities when integrating the Photos app,0.0,News API
+04/04/2025,Trump’s TikTok delay is ‘against the law’ top Senate Intelligence Democrat says,0.5,News API
+05/04/2025,The 7 writing apps I used to start and finish my book,0.0,News API
+07/04/2025,The AI Race Has Gotten Crowded—and China Is Closing In on the US,0.0,News API
+07/04/2025,Samsung Galaxy A36 vs. Google Pixel 9a: A tough call,-0.3889,News API
+07/04/2025,Google just turned your Search into a Pokédex for Easter,0.0,News API
+08/04/2025,The kid-friendly Fitbit Ace has returned to its best price to date,1.0,News API
+08/04/2025,New Google Pixel 10 rumor hints at pricing changes,0.1364,News API
+08/04/2025,Google Maps doubles down on preventing fake reviews,-0.3278,News API
+09/04/2025,Google used AI to enhance The Wizard of Oz for the Las Vegas Sphere’s giant screen,0.0,News API
+09/04/2025,You can now give Google’s AI video model camera directions,0.0,News API
+09/04/2025,"Samsung Swears Ballie Is Real, and Now It Will Have Google Gemini In It",0.2,News API
+09/04/2025,Google Messages just made ditching spam texts a breeze,0.0,News API
+09/04/2025,Google just demoed Android XR glasses with an amazing superpower,0.6,News API
+09/04/2025,Google releases enterprise-grade Gemini tier in Android Studio,0.0,News API
+10/04/2025,Google Pixel 9a Review: Still the Best Smartphone,1.0,News API
+10/04/2025,Google Pixel 9A review: a midrange phone done right,0.2857,News API
+10/04/2025,There are several ways to save on a Google Pixel 9A,0.0,News API
+10/04/2025,Google Showed Off Advanced AR Glasses That May Never Leave the Lab,0.4,News API
+10/04/2025,The Google Pixel 9a Is One of the Best Deals in Smartphones,1.0,News API
+10/04/2025,Google Pixel 9a review: The Energizer Pixel,0.0,News API
+10/04/2025,Google releases new Android System updates with battery life improvements,0.1364,News API
+10/04/2025,Google Pixel's April security update fixes its troublesome screen flicker,0.0,News API
+11/04/2025,Google’s Pixel Watch 4 Could Ditch the Pins for Wireless Charging,0.0,News API
+11/04/2025,Here's how Google is shaking up the A-series lineup following Pixel 9a launch,0.0,News API
+14/04/2025,Google raises Android 15's onboard storage requirements to 32GB,0.0,News API
+15/04/2025,Google must stop favoring Search and Chrome on Android in Japan,0.0,News API
+15/04/2025,"Google Indoor Nest Security Cam Hits All-Time Low, You’ll Think It’s Black Friday in April",-0.0833,News API
+15/04/2025,Android phones will soon reboot if they’re locked for a few days,-0.2,News API
+16/04/2025,"Google, Apple, and Snap aren’t happy about Meta’s poorly-redacted slides",0.8,News API
+16/04/2025,Google quietly confirmed Google Assistant's days on Fitbit watches are numbered,0.4,News API
+16/04/2025,Google To Phase Out Country Code Top-level Domains,0.0,News API
+17/04/2025,Google loses adtech monopoly case,-0.3,News API
+17/04/2025,"Google Is Once Again Deemed a Monopoly, This Time in Ad Tech",0.0,News API
+17/04/2025,"Google Is Operating an Ad Tech Monopoly, Judge Rules",0.0,News API
+17/04/2025,Just look at Huawei’s trifold phone,0.0,News API
+17/04/2025,Wikipedia is giving AI developers its data to fend off bot scrapers,0.0,News API
+17/04/2025,Google Is Gifting Gemini Advanced To US College Students,0.4,News API
+18/04/2025,Big Tech is back on trial,0.0,News API
+19/04/2025,Is Amazon Clearing Out Google Phones? Pixel 9 Pro Drops to a Record Low,0.0,News API
+20/04/2025,Meta is ramping up its AI-driven age detection,0.0,News API
+22/04/2025,Google is paying Samsung an ‘enormous sum’ to preinstall Gemini,0.0,News API
+22/04/2025,Google is scrapping its planned changes for third-party cookies in Chrome,0.0,News API
+22/04/2025,How to keep your data safe when you travel,0.5,News API
+22/04/2025,Google Messages now finally shields you from surprise nudes,0.0,News API
+22/04/2025,Google paid Samsung hefty amounts of money to preinstall Gemini,0.0,News API
+22/04/2025,OpenAI Wants to Buy Google's Chrome Browser,0.2,News API
+22/04/2025,Google Pays Samsung 'Enormous Sums' for Gemini AI App Installs,0.0,News API
+23/04/2025,Perplexity wants to buy Chrome if Google has to sell it,0.2,News API
+23/04/2025,Anker’s 4K outdoor projector looks and sounds great… on paper,0.0,News API
+23/04/2025,Roku announces its smallest streaming sticks yet,0.0,News API
+24/04/2025,Former DOJ antitrust chief says a Google break up will benefit the internet,0.0,News API
+24/04/2025,Google extends the Pixel 7A’s repair program for battery swelling issues,0.0,News API
+24/04/2025,Is Google’s smart tag network any good yet?,0.4571,News API
+24/04/2025,Adobe adds more image generators to its growing AI family,0.5,News API
+25/04/2025,Google is killing software support for early Nest Thermostats,0.1,News API
+25/04/2025,Google announces a special Android event ahead of I/O,0.3571,News API
+25/04/2025,"Gmail gets a slider on Android tablets, AI on the side",0.0,News API
+25/04/2025,OnePlus 13R review: Maybe just buy a Pixel 9A,0.0,News API
+25/04/2025,Bill Gates’ daughter Phoebe launched a shopping app,0.0,News API
+25/04/2025,First nine things to do with the Google Pixel 9a,0.25,News API
+26/04/2025,Pete Hegseth’s Signal Scandal Spirals Out of Control,0.0,News API
+28/04/2025,The Pixel Watch 2 is now on sale for $100 off,0.0,News API
+28/04/2025,'Don't Make Google Sell Chrome',0.0,News API
+28/04/2025,Google Is Hosting an Android Update Event on May 13,0.0,News API
+28/04/2025,OpenAI Adds Shopping to ChatGPT,0.0,News API
+29/04/2025,Google’s AI podcast maker is now available in over 50 languages,0.4,News API
+29/04/2025,"Google Pixel Watch 2 Hits an All-Time Low as Amazon Clears Out Remaining Stock, Nearly 50% Off",0.05,News API
+30/04/2025,Google confirms it’s close to getting Gemini support on iPhones,0.0,News API
+30/04/2025,Google Is Clearing Out Their Smart Watches? The Latest Pixel Watch 3 Hits All-Time Low,0.2381,News API
+30/04/2025,Google CEO Says Antitrust Remedies Would Cripple Google Search,0.0,News API
+30/04/2025,Mark Zuckerberg is planning a premium tier and ads for Meta’s AI app,0.0,News API
+30/04/2025,Yale’s new smart lock can disarm your ADT security system with your fingerprint,0.1753,News API
+30/04/2025,Google Announces End Date for Original Nest Thermostat Support,0.375,News API
+01/05/2025,Google is putting AI Mode right in Search,0.2857,News API
+01/05/2025,Meta and Spotify are teaming up to lobby against Apple and Google,0.0,News API
+01/05/2025,Mark Zuckerberg just declared war on the entire advertising industry,0.0,News API
+02/05/2025,"Firefox could be doomed without Google search deal, says executive",0.0,News API
+02/05/2025,How Apple lost control of the App Store,0.0,News API
+02/05/2025,"Google Pixel Buds A-Series Match Black Friday Price Again on Amazon, and They’re Nearly Free",0.1167,News API
+02/05/2025,Android’s next big feature turns your phone into a desktop,0.0,News API
+02/05/2025,I'm done buying Google Nest products,0.0,News API
+02/05/2025,Google TV makes binge-watching easier with new 'setup experience',0.1364,News API
+02/05/2025,How to improve your appearance in Google Meet,0.0,News API
+03/05/2025,Google is going to let kids use its Gemini AI,0.0,News API
+05/05/2025,Google Is Getting Into the Movie Business to Produce Pro-Tech Propaganda,-0.1,News API
+06/05/2025,DOJ asks court to split up Google’s ad tech empire,0.0,News API
+06/05/2025,Google’s iOS app will use AI to simplify jargon,0.0,News API
+07/05/2025,Apple’s Eddy Cue: ‘You may not need an iPhone 10 years from now’,0.0,News API
+07/05/2025,Matter’s latest update brings tap-to-pair setup,0.5,News API

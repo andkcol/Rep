@@ -1770,8 +1770,8 @@ Date,Title,Sentiment,Source
 05/03/2025,"Trump's Says 'Little Disturbance' Possible Due To Tariffs In Speech To Congress As GM, Tesla, Energy Stocks Lift In After-Hours Trading: 'Auto Industry To Absolutely Boom' - Apple  ( NASDAQ:AAPL ) , BP  ( NYSE:BP ) ",-0.0281,Alpha Vantage
 05/03/2025,"Trump's Congressional Address: Taps Elon Musk For Government Overhaul, Revives 'Drill Baby Drill' For Energy Boom - Apple  ( NASDAQ:AAPL ) , Oracle  ( NYSE:ORCL ) ",0,Alpha Vantage
 05/03/2025,Apple Challenges UK's 'Backdoor' Order In Landmark Legal Case After Trump Compares Directive To China-Style Surveillance: Report - Apple  ( NASDAQ:AAPL ) ,0.2,Alpha Vantage
-05/03/2025,"Apple AirTag 4-Pack Drops to Below $70 on Amazon, That’s Under $18 Each",0.0,News API
-05/03/2025,"Apple’s MacBook Air M4 Is Here, and It Finally Supports 3 Screens at Once",0.0,News API
+05/03/2025,"Apple AirTag 4-Pack Drops to Below $70 on Amazon, That’s Under $18 Each",0,News API
+05/03/2025,"Apple’s MacBook Air M4 Is Here, and It Finally Supports 3 Screens at Once",0,News API
 06/03/2025,"Law Of Unintended Consequences Hitting Stock Market, French Nuclear Weapons To Defend Europe - Spinnaker ETF Series Select STOXX Europe Aerospace & Defense ETF  ( BATS:EUAD ) ",0,Alpha Vantage
 06/03/2025,"Comparing Apple With Industry Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
 06/03/2025,"Apple's Foldable AI iPhone Could Cost Over $2,000, 20 Million Units Shipped By 2027: Analyst - Alibaba Gr Hldgs  ( NYSE:BABA ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
@@ -1791,7 +1791,7 @@ Date,Title,Sentiment,Source
 07/03/2025,"Elizabeth Warren Wants To Know From Elon Musk, Mark Zuckerberg And Jeff Bezos How Much They Spent Lobbying For 'Potential Windfall' - Accuses Tech Giants Of 'Cozying Up' Up To Trump Administration - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.075,Alpha Vantage
 07/03/2025,Patricia Arquette Breaks Down Severance‘s Latest Bombshell,0.1722,News API
 07/03/2025,Samsung Android XR Headset Could Cost as Much as the Apple Vision Pro,0.2,News API
-07/03/2025,Apple  ( AAPL )  Beats Stock Market Upswing: What Investors Need to Know,0.0,Alpha Vantage
+07/03/2025,Apple  ( AAPL )  Beats Stock Market Upswing: What Investors Need to Know,0,Alpha Vantage
 08/03/2025,"Consumer Tech News  ( Mar 3-Mar 7 ) : Discord May Initiate IPO, Apple's New MacBook Air With M4 Chip, Tencent' Yuanbao AI Surpassed DeepSeek As Most Downloaded & More - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.3788,Alpha Vantage
 08/03/2025,25% of Warren Buffett-Led Berkshire Hathaway's $288 Billion Portfolio Is Invested in Only 1 Stock,0,Alpha Vantage
 08/03/2025,Could Apple Be a Millionaire-Maker Stock?,0,Alpha Vantage
@@ -1802,201 +1802,780 @@ Date,Title,Sentiment,Source
 09/03/2025,"Elon Musk's xAI Expands, Apple Delays Siri, Meta's AI Assistant May Get Paid Subscriptions, And More: This Week In AI - Meta Platforms  ( NASDAQ:META ) , Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
 09/03/2025,"Apple's Tumultuous Week - From Siri Delays, Legal Battles, And New Product Teasers: This Week In Appleverse - Apple  ( NASDAQ:AAPL ) ",0.1682,Alpha Vantage
 09/03/2025,Meet the Unstoppable Artificial Intelligence  ( AI )  Stock That Could Join the $3 Trillion Club by 2028,-0.6,Alpha Vantage
-09/03/2025,3 ETFs to Buy Now for Passive Dividend Income,0.0,Alpha Vantage
+09/03/2025,3 ETFs to Buy Now for Passive Dividend Income,0,Alpha Vantage
 09/03/2025,2 Reasons the Tech Sell-Off Could Be a Great Buying Opportunity for AI Stock Investors,0.8,Alpha Vantage
-09/03/2025,Here’s what the newest iPhone Air leaks say about its design,0.0,News API
-10/03/2025,Should Invesco QQQ  ( QQQ )  Be on Your Investing Radar?,0.0,Alpha Vantage
-10/03/2025,"Eddy Cue Praises 'Severance' For Breaking Through The Noise Globally, Says Apple TV+ Isn't Going To Throw 20 Shows On The Wall Hoping One Will Stick - Netflix  ( NASDAQ:NFLX ) ",0.0,Alpha Vantage
+09/03/2025,Here’s what the newest iPhone Air leaks say about its design,0,News API
+10/03/2025,Should Invesco QQQ  ( QQQ )  Be on Your Investing Radar?,0,Alpha Vantage
+10/03/2025,"Eddy Cue Praises 'Severance' For Breaking Through The Noise Globally, Says Apple TV+ Isn't Going To Throw 20 Shows On The Wall Hoping One Will Stick - Netflix  ( NASDAQ:NFLX ) ",0,Alpha Vantage
 10/03/2025,Six thoughts on Apple’s new M3 iPad Air,0.1364,News API
-10/03/2025,"Apple is reportedly planning a design overhaul for iOS, iPadOS, and macOS",0.0,News API
+10/03/2025,"Apple is reportedly planning a design overhaul for iOS, iPadOS, and macOS",0,News API
 10/03/2025,"Apple Watch Series 10 Just Hit Its Lowest Price Since Launch, $100 Off on Amazon for a Limited Time",-0.0714,News API
-10/03/2025,This Is the Year Apple and Samsung Will Compete for the Title of Thinnest Smartphone,0.0,News API
+10/03/2025,This Is the Year Apple and Samsung Will Compete for the Title of Thinnest Smartphone,0,News API
 10/03/2025,Apple One's Best Plan Now Includes Two More Perks For Free,0.6333,News API
-11/03/2025,"Nasdaq Sell-Off: The 3 Best ""Magnificent Seven"" Stocks to Buy Now",1.0,Alpha Vantage
+11/03/2025,"Nasdaq Sell-Off: The 3 Best ""Magnificent Seven"" Stocks to Buy Now",1,Alpha Vantage
 11/03/2025,"Hedges Become Profitable, Trump Stock Market Put Failed - Trump Has Bigger Fish To Fry - SPDR S&P 500  ( ARCA:SPY ) ",-0.25,Alpha Vantage
-11/03/2025,"Meta Taps Taiwan Semiconductor To Build AI Chip, Aims To Cut Nvidia Dependence By 2026 - Meta Platforms  ( NASDAQ:META ) ",0.0,Alpha Vantage
-11/03/2025,"Competitor Analysis: Evaluating Apple And Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+11/03/2025,"Meta Taps Taiwan Semiconductor To Build AI Chip, Aims To Cut Nvidia Dependence By 2026 - Meta Platforms  ( NASDAQ:META ) ",0,Alpha Vantage
+11/03/2025,"Competitor Analysis: Evaluating Apple And Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
 11/03/2025,"IonQ Could Be a Quantum Computing Powerhouse, but Is It a Buy Right Now?",0.2857,Alpha Vantage
 11/03/2025,"Trump Set To Meet Top Executives From Apple, JPMorgan And Other Giants: Report - BlackRock  ( NYSE:BLK ) , Apple  ( NASDAQ:AAPL ) ",0.1875,Alpha Vantage
 11/03/2025,Vanguard High Dividend Yield ETF vs Vanguard Dividend Appreciation ETF: Which Is Best for You?,0.58,Alpha Vantage
-11/03/2025,The Nasdaq Just Hit Correction Territory: You Won't Believe What Stock Is At a 52-Week Low,0.0,Alpha Vantage
-11/03/2025,Apple Inc.  ( AAPL )  is Attracting Investor Attention: Here is What You Should Know,0.0,Alpha Vantage
+11/03/2025,The Nasdaq Just Hit Correction Territory: You Won't Believe What Stock Is At a 52-Week Low,0,Alpha Vantage
+11/03/2025,Apple Inc.  ( AAPL )  is Attracting Investor Attention: Here is What You Should Know,0,Alpha Vantage
 11/03/2025,Is Vanguard Dividend Appreciation ETF  ( VIG )  a Strong ETF Right Now?,0.3595,Alpha Vantage
-11/03/2025,Should WisdomTree U.S. LargeCap ETF  ( EPS )  Be on Your Investing Radar?,0.0,Alpha Vantage
-11/03/2025,Should You Buy Taiwan Semiconductor Stock at Current Prices?,0.0,Alpha Vantage
-11/03/2025,"A Tale of 2 AI Stocks: Why Broadcom Soared Even as ""Baby Broadcom"" Plunged Last Week",0.0,Alpha Vantage
+11/03/2025,Should WisdomTree U.S. LargeCap ETF  ( EPS )  Be on Your Investing Radar?,0,Alpha Vantage
+11/03/2025,Should You Buy Taiwan Semiconductor Stock at Current Prices?,0,Alpha Vantage
+11/03/2025,"A Tale of 2 AI Stocks: Why Broadcom Soared Even as ""Baby Broadcom"" Plunged Last Week",0,Alpha Vantage
 11/03/2025,"Apple Mac Studio (M4 Max, 2025) Review: Small but Mighty",0.075,News API
 11/03/2025,"Apple MacBook Air (13-Inch, M4) Review: More Power For Less Money",0.1667,News API
 11/03/2025,"15-inch MacBook Air (M4, 2025) Review: Bluer and Better",0.5,News API
 11/03/2025,"The New Apple iPad Air Pre-Orders Just Got More Tempting, Amazon’s Already Slashing Prices",0.3182,News API
 11/03/2025,Apple Account Cards in Wallet Expanding to More Countries,0.5,News API
-11/03/2025,Apple Releases tvOS 18.3.1,0.0,News API
-12/03/2025,Apple Stock Takes A Bite Out Of Investors As Siri Fumbles AI Race - Apple  ( NASDAQ:AAPL ) ,0.0,Alpha Vantage
-12/03/2025,"Nasdaq Correction: I'd Consider Buying the Dip on All ""Magnificent Seven"" Stocks -- Except This One",1.0,Alpha Vantage
+11/03/2025,Apple Releases tvOS 18.3.1,0,News API
+11/03/2025,PSA: iOS 18.3.2 Re-Enables Apple Intelligence If You Turned It Off,0,News API
+12/03/2025,Apple Stock Takes A Bite Out Of Investors As Siri Fumbles AI Race - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+12/03/2025,"Nasdaq Correction: I'd Consider Buying the Dip on All ""Magnificent Seven"" Stocks -- Except This One",1,Alpha Vantage
 12/03/2025,Apple Unusual Options Activity - Apple  ( NASDAQ:AAPL ) ,0.2,Alpha Vantage
-12/03/2025,"Stock Market News for Mar 12, 2025",0.0,Alpha Vantage
-12/03/2025,Palantir CEO Becomes Top-Earning Tech Boss As AI Stock Soars 216%: Report - Palantir Technologies  ( NASDAQ:PLTR ) ,0.0,Alpha Vantage
-12/03/2025,How To Trade SPY As Market Focuses On CPI Data,0.0,Alpha Vantage
-12/03/2025,"Alibaba Chair Says AI Total Addressable Market Is $10 Trillion, Expects Benefits Via Its Cloud Business - Alibaba Gr Hldgs  ( NYSE:BABA ) ",0.0,Alpha Vantage
+12/03/2025,"Stock Market News for Mar 12, 2025",0,Alpha Vantage
+12/03/2025,Palantir CEO Becomes Top-Earning Tech Boss As AI Stock Soars 216%: Report - Palantir Technologies  ( NASDAQ:PLTR ) ,0,Alpha Vantage
+12/03/2025,How To Trade SPY As Market Focuses On CPI Data,0,Alpha Vantage
+12/03/2025,"Alibaba Chair Says AI Total Addressable Market Is $10 Trillion, Expects Benefits Via Its Cloud Business - Alibaba Gr Hldgs  ( NYSE:BABA ) ",0,Alpha Vantage
 12/03/2025,Top Wide-Moat Stocks Worth Investing in for Sustainable Growth in 2025,0.4,Alpha Vantage
-12/03/2025,"Ray Dalio Says China Is 'Way Ahead' In AI And Robotics: US Lags in Mass Production - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+12/03/2025,"Ray Dalio Says China Is 'Way Ahead' In AI And Robotics: US Lags in Mass Production - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
 12/03/2025,Should Invesco S&P 500 Top 50 ETF  ( XLG )  Be on Your Investing Radar?,0.5,Alpha Vantage
 12/03/2025,Is SPDR MSCI USA StrategicFactors ETF  ( QUS )  a Strong ETF Right Now?,0.3595,Alpha Vantage
-12/03/2025,Should Invesco FTSE RAFI US 1000 ETF  ( PRF )  Be on Your Investing Radar?,0.0,Alpha Vantage
+12/03/2025,Should Invesco FTSE RAFI US 1000 ETF  ( PRF )  Be on Your Investing Radar?,0,Alpha Vantage
 12/03/2025,Is iShares ESG Aware MSCI USA ETF  ( ESGU )  a Strong ETF Right Now?,0.323,Alpha Vantage
 12/03/2025,"Move Over, Artificial Intelligence  ( AI )  -- Businesses Are on Pace to Spend More Than $10 Trillion on This Trend Over the Next Decade",-0.0333,Alpha Vantage
 12/03/2025,"Apple Doubles Down On Vision Pro With Metallica Concert Experience: But Can Rock Legends Save A $3,499 Headset That's Already Being Scaled Back? - Apple  ( NASDAQ:AAPL ) ",-0.0778,Alpha Vantage
-12/03/2025,The Nasdaq Correction Was No Surprise for Warren Buffett: Here's His Strategy,0.0,Alpha Vantage
+12/03/2025,The Nasdaq Correction Was No Surprise for Warren Buffett: Here's His Strategy,0,Alpha Vantage
 12/03/2025,"Ronald Reagan Warned That Tariffs Destroy Prosperity - Trump Is Doubling Them Anyway, And Now US Tech Giants Like Apple And Nvidia Are Bracing For Impact - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1,Alpha Vantage
-12/03/2025,3 AI Chip Stocks to Buy in the Nasdaq Correction,0.0,Alpha Vantage
-12/03/2025,"Apple's AR Glasses Approach Aside, Google Makes Its Move On Eye-Tracking Tech With $115 Million AdHawk Acquisition: Report - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
-12/03/2025,Nasdaq Correction: Buy This Unstoppable ETF at a Discount,0.0,Alpha Vantage
+12/03/2025,3 AI Chip Stocks to Buy in the Nasdaq Correction,0,Alpha Vantage
+12/03/2025,"Apple's AR Glasses Approach Aside, Google Makes Its Move On Eye-Tracking Tech With $115 Million AdHawk Acquisition: Report - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+12/03/2025,Nasdaq Correction: Buy This Unstoppable ETF at a Discount,0,Alpha Vantage
 12/03/2025,All this bad AI is wrecking a whole generation of gadgets,-0.25,News API
 12/03/2025,Moft’s new origami case elevates the iPad for improved ergonomics,0.1364,News API
-13/03/2025,"Producer Inflation Craters, A Government Shutdown Will Be A Buying Opportunity - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+13/03/2025,"Producer Inflation Craters, A Government Shutdown Will Be A Buying Opportunity - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
 13/03/2025,"Nasdaq Correction: My Top 3 ""Magnificent Seven"" Stocks to Buy Now",0.75,Alpha Vantage
-13/03/2025,"In-Depth Analysis: Apple Versus Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+13/03/2025,"In-Depth Analysis: Apple Versus Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
 13/03/2025,Garmin Rises 45% in a Year: Is it the Right Time to Buy the Stock?,0.2857,Alpha Vantage
 13/03/2025,"Why Nvidia Is the Top ""Magnificent Seven"" Stock to Buy Now",0.75,Alpha Vantage
-13/03/2025,Buy 3 Large-Cap Value Mutual Funds Amid Inflation and Trade Risks,0.0,Alpha Vantage
-13/03/2025,Should Vanguard Large-Cap ETF  ( VV )  Be on Your Investing Radar?,0.0,Alpha Vantage
-13/03/2025,Should Fidelity Value Factor ETF  ( FVAL )  Be on Your Investing Radar?,0.0,Alpha Vantage
+13/03/2025,Buy 3 Large-Cap Value Mutual Funds Amid Inflation and Trade Risks,0,Alpha Vantage
+13/03/2025,Should Vanguard Large-Cap ETF  ( VV )  Be on Your Investing Radar?,0,Alpha Vantage
+13/03/2025,Should Fidelity Value Factor ETF  ( FVAL )  Be on Your Investing Radar?,0,Alpha Vantage
 13/03/2025,Is WisdomTree U.S. Quality Dividend Growth ETF  ( DGRW )  a Strong ETF Right Now?,0.3595,Alpha Vantage
 13/03/2025,Does Warren Buffett Know Something Wall Street Doesn't? He Just Sold a Vanguard Fund a Top Analyst Says May Soar 169%.,0.5,Alpha Vantage
 13/03/2025,Alibaba launches new version of AI assistant tool as competition heats up,0.1364,Alpha Vantage
 13/03/2025,35.2% of Warren Buffett's $281 Billion Portfolio Is Invested in 3 Artificial Intelligence  ( AI )  Stocks,-0.6,Alpha Vantage
+13/03/2025,Kuo: Apple Knows Apple Intelligence is 'Underwhelming' and Won't Drive iPhone Upgrades,0,News API
 14/03/2025,Generate Passive Income From This Low-Cost Vanguard ETF That Is Crushing the S&P 500 in 2025,0.4,Alpha Vantage
 14/03/2025,Is Fidelity Value Factor ETF  ( FVAL )  a Strong ETF Right Now?,0.3595,Alpha Vantage
-14/03/2025,"Trump Suggests Meta May Invest Upto $60 Billion In The US By The End Of 2025 - Meta Platforms  ( NASDAQ:META ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+14/03/2025,"Trump Suggests Meta May Invest Upto $60 Billion In The US By The End Of 2025 - Meta Platforms  ( NASDAQ:META ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
 14/03/2025,Why Ross Gerber Finds Tesla Stock Expensive Despite Its 50% Plunge? 'Fundamental Story Has To Be Revalued' - Tesla  ( NASDAQ:TSLA ) ,-0.5,Alpha Vantage
-14/03/2025,The fake promise of better Siri,0.0,News API
-14/03/2025,Apple will soon support encrypted RCS messaging with Android users,0.0,News API
-14/03/2025,Ford hires a Twitch and PlayStation veteran to run its digital services,0.0,News API
-14/03/2025,All the Severance Questions We Still Have Ahead of the Season Finale,0.0,News API
-14/03/2025,House GOP subpoenas Big Tech for evidence that Biden made AI woke,0.0,News API
+14/03/2025,The fake promise of better Siri,0,News API
+14/03/2025,Apple will soon support encrypted RCS messaging with Android users,0,News API
+14/03/2025,Ford hires a Twitch and PlayStation veteran to run its digital services,0,News API
+14/03/2025,All the Severance Questions We Still Have Ahead of the Season Finale,0,News API
+14/03/2025,House GOP subpoenas Big Tech for evidence that Biden made AI woke,0,News API
+14/03/2025,Apple Reassures Siri Team Members Feeling Disappointed and Embarrassed by Apple Intelligence Delay,-0.75,News API
 16/03/2025,"Apple's iPhone 17 Air to Usher in New Era of Slimmer, Portless Models - Apple  ( NASDAQ:AAPL ) ",0.1364,Alpha Vantage
 16/03/2025,"Consumer Tech News  ( Mar 10-Mar 14 ) : Manus AI Creating Hype, Tesla Eyes Affordable Version Model Y In China & More - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.5,Alpha Vantage
 16/03/2025,"Softbank's AI Data Center, Block's AI Boost, Altman's Warning, Nvidia's Valuation Drop, And Apple's Fumble: This Week In Artificial Intelligence - NVIDIA  ( NASDAQ:NVDA ) , Apple  ( NASDAQ:AAPL ) ",-0.35,Alpha Vantage
 16/03/2025,NASDAQ Correction: 2 AI Stocks That Aren't Worth Buying on the Dip,0.3,Alpha Vantage
 16/03/2025,The iPhone 17 Air makes other models look chunky in new leaked dummy shots,0.0057,News API
+16/03/2025,SwitchBot’s next smart hub comes with a control knob,0.1071,News API
 17/03/2025,"Apple Stock Faces Pressure From Declining iPhone Revenue: Could Company's First Foldable Smartphone In 2026 Reverse Course? - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.25,Alpha Vantage
 17/03/2025,"Legendary Trader Says Tesla, Nvidia, Apple Shares Are Ready To Rally: 'I See What I Like To See' - Tesla  ( NASDAQ:TSLA ) ",0.6,Alpha Vantage
 17/03/2025,"Nvidia GTC And Quantum Computing Drivers Of The Stock Market, Trump Put Fails But May Not Be Dead",-0.35,Alpha Vantage
-17/03/2025,"Analyzing Apple In Comparison To Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
-17/03/2025,Spotlight on Apple: Analyzing the Surge in Options Activity - Apple  ( NASDAQ:AAPL ) ,0.0,Alpha Vantage
-17/03/2025,Should iShares Russell 1000 ETF  ( IWB )  Be on Your Investing Radar?,0.0,Alpha Vantage
+17/03/2025,"Analyzing Apple In Comparison To Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+17/03/2025,Spotlight on Apple: Analyzing the Surge in Options Activity - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+17/03/2025,Should iShares Russell 1000 ETF  ( IWB )  Be on Your Investing Radar?,0,Alpha Vantage
 17/03/2025,"Apple's AI Crisis Reaches Boiling Point Ahead Of Top 100 Executive Retreat - Tim Cook And Key Execs Called Out Over Siri Failure By Top Analyst - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.1708,Alpha Vantage
 17/03/2025,"Warren Buffett Dumped Nearly 70% Of Apple Shares, But Its Price-To-Sales Ratio Remains Elevated At 8.2x, Warns This Market Analyst - NVIDIA  ( NASDAQ:NVDA ) ",0.1,Alpha Vantage
 17/03/2025,"Trump Trade Policy A 'Big Headache' For Customers, Says Apple-Supplier Foxconn's CEO: 'Very, Very Hard To Predict How Things Will Develop...' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.1896,Alpha Vantage
-17/03/2025,"Beats Studio Buds Now Just $99, the Best Apple Alternative to AirPods on a Budget",1.0,News API
+17/03/2025,"Beats Studio Buds Now Just $99, the Best Apple Alternative to AirPods on a Budget",1,News API
 18/03/2025,Here's How Much You Would Have Made Owning Apple Stock In The Last 10 Years - Apple  ( NASDAQ:AAPL ) ,0.1,Alpha Vantage
 18/03/2025,Welcome Back to Correction Territory,0.4,Alpha Vantage
-18/03/2025,This Is What Whales Are Betting On Apple - Apple  ( NASDAQ:AAPL ) ,0.0,Alpha Vantage
-18/03/2025,"Analyzing Apple In Comparison To Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
-18/03/2025,"Trading SPY Ahead Of Fed Interest Rate Decision Tomorrow - Meta Platforms  ( NASDAQ:META ) , SPDR S&P 500  ( ARCA:SPY ) ",0.0,Alpha Vantage
+18/03/2025,This Is What Whales Are Betting On Apple - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+18/03/2025,"Analyzing Apple In Comparison To Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+18/03/2025,"Trading SPY Ahead Of Fed Interest Rate Decision Tomorrow - Meta Platforms  ( NASDAQ:META ) , SPDR S&P 500  ( ARCA:SPY ) ",0,Alpha Vantage
 18/03/2025,"Apple Partner Globalstar Just Set a New Record, but Did You Even Notice?",0.1364,Alpha Vantage
 18/03/2025,S&P 500 Correction: 1 Incredible AI Stock That I'm Buying Now and Holding Forever,0.9,Alpha Vantage
 18/03/2025,Is iShares Paris-Aligned Climate MSCI USA ETF  ( PABU )  a Strong ETF Right Now?,0.3595,Alpha Vantage
-18/03/2025,Should SPDR Portfolio S&P 500 Growth ETF  ( SPYG )  Be on Your Investing Radar?,0.0,Alpha Vantage
+18/03/2025,Should SPDR Portfolio S&P 500 Growth ETF  ( SPYG )  Be on Your Investing Radar?,0,Alpha Vantage
 18/03/2025,"The Best Warren Buffett Stocks to Buy With $2,000 Right Now",0.6429,Alpha Vantage
-18/03/2025,"AI Bubble Bursting? Magnificent 7's Profit Margins Face Pressure As 'Capital Spending Can Tumble' In 2025 - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",1.0,Alpha Vantage
-18/03/2025,Apple has revealed a Passwords app vulnerability that lasted for months,0.0,News API
+18/03/2025,"AI Bubble Bursting? Magnificent 7's Profit Margins Face Pressure As 'Capital Spending Can Tumble' In 2025 - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",1,Alpha Vantage
+18/03/2025,Apple has revealed a Passwords app vulnerability that lasted for months,0,News API
+18/03/2025,Apple Pay Now Available in Puerto Rico,0.4,News API
+18/03/2025,Apple Stops Signing iOS 18.3.1,0,News API
 19/03/2025,"How The Smart Money Gets Rich When Markets Crash - Apple  ( NASDAQ:AAPL ) , American Express  ( NYSE:AXP ) ",0.1964,Alpha Vantage
 19/03/2025,"Human-Like Reasoning AI Agents And Robots Are A Big Market For Nvidia, But Nvidia Stock Has A Problem - General Motors  ( NYSE:GM ) , SPDR Gold Trust  ( ARCA:GLD ) ",0.025,Alpha Vantage
-19/03/2025,"SNAP Falls 22% in a Year: Should You Buy, Sell or Hold the Stock?",0.0,Alpha Vantage
-19/03/2025,90% Advancing Days Offer a Glimmer of Hope in a Corrective Market,0.0,Alpha Vantage
-19/03/2025,Is This Simple Index Fund a Millionaire Maker?,0.0,Alpha Vantage
-19/03/2025,Should Schwab 1000 Index ETF  ( SCHK )  Be on Your Investing Radar?,0.0,Alpha Vantage
-19/03/2025,Should iShares Russell 1000 Growth ETF  ( IWF )  Be on Your Investing Radar?,0.0,Alpha Vantage
-19/03/2025,Prediction: Buying This Vanguard ETF Today Will Set You Up for Life,0.0,Alpha Vantage
-19/03/2025,1 Unstoppable Tech ETF That Could Turn $500 Per Month Into $1 Million Within 30 Years,0.0,Alpha Vantage
+19/03/2025,"SNAP Falls 22% in a Year: Should You Buy, Sell or Hold the Stock?",0,Alpha Vantage
+19/03/2025,90% Advancing Days Offer a Glimmer of Hope in a Corrective Market,0,Alpha Vantage
+19/03/2025,Is This Simple Index Fund a Millionaire Maker?,0,Alpha Vantage
+19/03/2025,Should Schwab 1000 Index ETF  ( SCHK )  Be on Your Investing Radar?,0,Alpha Vantage
+19/03/2025,Should iShares Russell 1000 Growth ETF  ( IWF )  Be on Your Investing Radar?,0,Alpha Vantage
+19/03/2025,Prediction: Buying This Vanguard ETF Today Will Set You Up for Life,0,Alpha Vantage
+19/03/2025,1 Unstoppable Tech ETF That Could Turn $500 Per Month Into $1 Million Within 30 Years,0,Alpha Vantage
 19/03/2025,"Nvidia Loses $420 Billion In Market Capitalization Since DeepSeek Launch, Valuation Hits A 29-Month Low As GTC Fails To Ignite Stock - Apple  ( NASDAQ:AAPL ) , General Motors  ( NYSE:GM ) ",-0.1875,Alpha Vantage
-19/03/2025,Bear of the Day: Globalstar  ( GSAT ) ,0.0,Alpha Vantage
+19/03/2025,Bear of the Day: Globalstar  ( GSAT ) ,0,Alpha Vantage
 19/03/2025,Apple's New Passwords App Left Users Exposed To Phishing Attacks For Months Due To Serious HTTP Flaw - Apple  ( NASDAQ:AAPL ) ,-0.0805,Alpha Vantage
 19/03/2025,Interested in Investing in Micro-Cap Stocks?,0.25,Alpha Vantage
-19/03/2025,8 TV Shows and Movies to Watch After You Finish Severance,0.0,News API
-20/03/2025,How To Trade SPY Ahead Of Triple Witching? - SPDR S&P 500  ( ARCA:SPY ) ,0.0,Alpha Vantage
-20/03/2025,2 Leading Tech Stocks to Buy in 2025,0.0,Alpha Vantage
-20/03/2025,Should TCW Transform 500 ETF  ( VOTE )  Be on Your Investing Radar?,0.0,Alpha Vantage
-20/03/2025,Should Vanguard Growth ETF  ( VUG )  Be on Your Investing Radar?,0.0,Alpha Vantage
+19/03/2025,8 TV Shows and Movies to Watch After You Finish Severance,0,News API
+20/03/2025,How To Trade SPY Ahead Of Triple Witching? - SPDR S&P 500  ( ARCA:SPY ) ,0,Alpha Vantage
+20/03/2025,2 Leading Tech Stocks to Buy in 2025,0,Alpha Vantage
+20/03/2025,Should TCW Transform 500 ETF  ( VOTE )  Be on Your Investing Radar?,0,Alpha Vantage
+20/03/2025,Should Vanguard Growth ETF  ( VUG )  Be on Your Investing Radar?,0,Alpha Vantage
 20/03/2025,Is FlexShares Morningstar U.S. Market Factor Tilt ETF  ( TILT )  a Strong ETF Right Now?,0.3595,Alpha Vantage
 20/03/2025,Is FlexShares US Quality Large Cap ETF  ( QLC )  a Strong ETF Right Now?,0.3111,Alpha Vantage
-20/03/2025,Could Buying Apple Today Set You Up for Life?,0.0,Alpha Vantage
-20/03/2025,"Up Over 50% in 2025, Is Alibaba Stock a Buy Now?",0.0,Alpha Vantage
+20/03/2025,Could Buying Apple Today Set You Up for Life?,0,Alpha Vantage
+20/03/2025,"Up Over 50% in 2025, Is Alibaba Stock a Buy Now?",0,Alpha Vantage
 20/03/2025,"Pebble Founder Echoes Mark Zuckerberg's Concerns, Slams Apple For Making It 'Nearly Impossible' To Build Smartwatches That Work With iPhone - Alphabet  ( NASDAQ:GOOGL ) , Apple  ( NASDAQ:AAPL ) ",-0.6667,Alpha Vantage
 20/03/2025,Will Apple's Slow Artificial Intelligence Rollout Help or Hurt the Stock?,-0.45,Alpha Vantage
-20/03/2025,"Zacks Investment Ideas feature highlights: Tesla, Apple, Nvidia, Meta and Amazon",0.0,Alpha Vantage
+20/03/2025,"Zacks Investment Ideas feature highlights: Tesla, Apple, Nvidia, Meta and Amazon",0,Alpha Vantage
 20/03/2025,"Warren Buffett Sold 2 S&P 500 Index Funds Mere Months Before the Correction, but He Doesn't Have a Crystal Ball",-0.5,Alpha Vantage
 20/03/2025,Apple  ( AAPL )  Dips More Than Broader Market: What You Should Know,0.5,Alpha Vantage
 20/03/2025,"Top Research Reports for Apple, Meta Platforms & Chevron",0.5,Alpha Vantage
 20/03/2025,"Nvidia's First Quantum Computing Day, $4.5T Quad Witching, European Banks Beat Tech Stocks By 34%",0.125,Alpha Vantage
-20/03/2025,"Understanding Apple's Position In Technology Hardware, Storage & Peripherals Industry Compared To Competitors - Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
-20/03/2025,"Ditch Your Apple Watch, The Galaxy Watch Ultra Is Now 50% Off on Samsung’s Store",0.0,News API
-20/03/2025,Apple TV Plus is reportedly losing $1 billion per year,0.0,News API
+20/03/2025,"Understanding Apple's Position In Technology Hardware, Storage & Peripherals Industry Compared To Competitors - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+20/03/2025,"Ditch Your Apple Watch, The Galaxy Watch Ultra Is Now 50% Off on Samsung’s Store",0,News API
+20/03/2025,Apple TV Plus is reportedly losing $1 billion per year,0,News API
 20/03/2025,"The beautiful, retro tech of two theatrical sound designers",0.4167,News API
 20/03/2025,Apple Facing False Advertising Lawsuit Over Apple Intelligence Delay,-0.4,News API
 21/03/2025,How High Or Low Can The SPY Go Today? - SPDR S&P 500  ( ARCA:SPY ) ,0.08,Alpha Vantage
 21/03/2025,"Jeff Bezos And Nvidia-Backed Perplexity AI Eyes $18 Billion Valuation In New Funding Round - Doubling In Just 4 Months - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.0318,Alpha Vantage
 21/03/2025,Is Schwab Fundamental U.S. Large Company ETF  ( FNDX )  a Strong ETF Right Now?,0.3111,Alpha Vantage
-21/03/2025,"The Zacks Analyst Blog Highlights Apple, Meta Platforms, Chevron, Taylor Devices and GSI Technology",0.0,Alpha Vantage
-21/03/2025,"Apple TV+ Bleeding Over $1 Billion Yearly As Streaming War Heats Up: Report - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
-21/03/2025,"Perplexity Can Make 'Apple Intelligence Work' Says CEO Aravind Srinivas As iPhone Maker Attracts Criticism On Siri And AI Delays - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+21/03/2025,"The Zacks Analyst Blog Highlights Apple, Meta Platforms, Chevron, Taylor Devices and GSI Technology",0,Alpha Vantage
+21/03/2025,"Apple TV+ Bleeding Over $1 Billion Yearly As Streaming War Heats Up: Report - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+21/03/2025,"Perplexity Can Make 'Apple Intelligence Work' Says CEO Aravind Srinivas As iPhone Maker Attracts Criticism On Siri And AI Delays - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
 21/03/2025,"Apple Stock Down Over 12% This Year - Now Tim Cook Is Reportedly Betting On Vision Pro's Mike Rockwell To Fix Siri After Losing Confidence In AI Boss John Giannandrea - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",-0.1556,Alpha Vantage
 21/03/2025,Opening iOS is good news for smartwatches,0.7,News API
 21/03/2025,Trump’s confusing crusade against Big Tech,-0.15,News API
+21/03/2025,"Rare Apple-1 Computer Sells for $375,000",0.3,News API
+21/03/2025,Apple Sued For False Advertising Over Apple Intelligence,-0.4,News API
 24/03/2025,"Deploy Cash And Reduce Hedges, Powerful Market Mechanics And Trump Tariffs Control The Stock Market",0.3,Alpha Vantage
 24/03/2025,Motley Fool 2025 March Market Cap Showdown Championship,0.6,Alpha Vantage
-24/03/2025,Apple’s AirPods Max with USB-C will soon support lossless audio,0.0,News API
-24/03/2025,Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here,0.0,News API
-24/03/2025,20 Questions We Have After Severance Season 2,0.0,News API
-24/03/2025,"Severance Season 3 Might Be Something Totally Different, but Probably Not",0.0,News API
+24/03/2025,Apple’s AirPods Max with USB-C will soon support lossless audio,0,News API
+24/03/2025,Apple’s iOS 18.4 update with AI-powered Priority Notifications is almost here,0,News API
+24/03/2025,20 Questions We Have After Severance Season 2,0,News API
+24/03/2025,"Severance Season 3 Might Be Something Totally Different, but Probably Not",0,News API
 25/03/2025,"Big Tech Companies Employ Majority Of H-1B Visa Workers: Where Do Amazon, Google, Meta Rank? - Amazon.com  ( NASDAQ:AMZN ) ",-0.4,Alpha Vantage
-25/03/2025,ARM Stock Declines 10% in a Month: Buy or Wait for Further Fall?,0.0,Alpha Vantage
-25/03/2025,Spotify Stock Soars 130% in a Year: Is it Still a Buy Now?,0.0,Alpha Vantage
+25/03/2025,ARM Stock Declines 10% in a Month: Buy or Wait for Further Fall?,0,Alpha Vantage
+25/03/2025,Spotify Stock Soars 130% in a Year: Is it Still a Buy Now?,0,Alpha Vantage
 25/03/2025,"Market Mechanics Driving Stocks, Tariffs Whipsaw, AI Data Center Bubble Warning",-0.1,Alpha Vantage
 25/03/2025,Live Nation Entertainment Rises 22% in a Year: Time to Buy the Stock?,0.1364,Alpha Vantage
-25/03/2025,4 Tech Stocks Penetrating the Health and Fitness Wearables Market,0.0,Alpha Vantage
+25/03/2025,4 Tech Stocks Penetrating the Health and Fitness Wearables Market,0,Alpha Vantage
 25/03/2025,Apple Unusual Options Activity For March 25 - Apple  ( NASDAQ:AAPL ) ,0.2,Alpha Vantage
 25/03/2025,Netflix's Content Strategy Signals Strong 2025 Returns: Time to Buy?,0.4333,Alpha Vantage
-25/03/2025,"Company News for Mar 25, 2025",0.0,Alpha Vantage
-25/03/2025,Market Movers: Jerome Powell and Jensen Huang,0.0,Alpha Vantage
-25/03/2025,How To Trade SPY: A Technical Perspective,0.0,Alpha Vantage
-25/03/2025,"Jim Cramer Attributes Monday's Market Rally To Optimism Over Tariff Changes: Says Market Likes 'Transparency And Certainty' - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+25/03/2025,"Company News for Mar 25, 2025",0,Alpha Vantage
+25/03/2025,Market Movers: Jerome Powell and Jensen Huang,0,Alpha Vantage
+25/03/2025,How To Trade SPY: A Technical Perspective,0,Alpha Vantage
+25/03/2025,"Jim Cramer Attributes Monday's Market Rally To Optimism Over Tariff Changes: Says Market Likes 'Transparency And Certainty' - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
 25/03/2025,Should John Hancock Multifactor Large Cap ETF  ( JHML )  Be on Your Investing Radar?,0.2143,Alpha Vantage
 25/03/2025,Should Franklin U.S. Large Cap Multifactor Index ETF  ( FLQL )  Be on Your Investing Radar?,0.2143,Alpha Vantage
 25/03/2025,"Intel Targets Major Foundry Clients In New Strategy To Revitalize Chip Design, Says UBS - Apple  ( NASDAQ:AAPL ) , Broadcom  ( NASDAQ:AVGO ) ",0.0994,Alpha Vantage
-25/03/2025,3 Calamos Mutual Fund for Long-term Returns,0.0,Alpha Vantage
-25/03/2025,Warren Buffett Has 47% of Berkshire Hathaway's $283 Billion Stock Portfolio Invested in Just 3 Truly Wonderful Companies,1.0,Alpha Vantage
+25/03/2025,3 Calamos Mutual Fund for Long-term Returns,0,Alpha Vantage
+25/03/2025,Warren Buffett Has 47% of Berkshire Hathaway's $283 Billion Stock Portfolio Invested in Just 3 Truly Wonderful Companies,1,Alpha Vantage
 25/03/2025,"Nasdaq Correction: 2 AI Stocks Down 33% and 86% to Buy Before They Soar, According to Wall Street",-0.1556,Alpha Vantage
 25/03/2025,Apple Watch Update Will Allow Alarms To Ring In Silent Mode: Enough To Wake Up Heavy Sleepers? - Apple  ( NASDAQ:AAPL ) ,-0.0667,Alpha Vantage
-25/03/2025,Apple says it’ll use Apple Maps Look Around photos to train AI,0.0,News API
+25/03/2025,Apple says it’ll use Apple Maps Look Around photos to train AI,0,News API
+25/03/2025,Apple Announces WWDC 2025 Event for June 9 to 13,0,News API
+25/03/2025,Apple Music Classical Updated With Three New Features,0.0682,News API
 26/03/2025,Breaking Down the Mag 7 Earnings Outlook,-0.1556,Alpha Vantage
 26/03/2025,Breaking Down the Mag 7 Earnings Outlook,-0.1556,Alpha Vantage
 26/03/2025,2 Wonderful High-Tech ETFs That Still Look Like Bargains Right Now,0.6429,Alpha Vantage
-26/03/2025,Apple  ( AAPL )  Stock Moves -0.99%: What You Should Know,0.0,Alpha Vantage
-26/03/2025,Meta Is Paying 'Way Above Market Rate' For Reality Labs Developers As Metaverse Losses Mount - Meta Platforms  ( NASDAQ:META ) ,0.0,Alpha Vantage
-26/03/2025,These 3 Companies are Cash Generating Machines,0.0,Alpha Vantage
-26/03/2025,"Insights Into Apple's Performance Versus Peers In Technology Hardware, Storage & Peripherals Sector - Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
-26/03/2025,"The Zacks Analyst Blog Highlights Apple, Alphabet, Garmin and Meta",0.0,Alpha Vantage
+26/03/2025,Apple  ( AAPL )  Stock Moves -0.99%: What You Should Know,0,Alpha Vantage
+26/03/2025,Meta Is Paying 'Way Above Market Rate' For Reality Labs Developers As Metaverse Losses Mount - Meta Platforms  ( NASDAQ:META ) ,0,Alpha Vantage
+26/03/2025,These 3 Companies are Cash Generating Machines,0,Alpha Vantage
+26/03/2025,"Insights Into Apple's Performance Versus Peers In Technology Hardware, Storage & Peripherals Sector - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+26/03/2025,"The Zacks Analyst Blog Highlights Apple, Alphabet, Garmin and Meta",0,Alpha Vantage
 26/03/2025,How To Trade The Top Tech Stocks Today?,0.5,Alpha Vantage
-26/03/2025,"Stock Market News For Mar 26, 2025",0.0,Alpha Vantage
+26/03/2025,"Stock Market News For Mar 26, 2025",0,Alpha Vantage
 26/03/2025,"Alibaba, BMW Team Up To Bring AI-Powered Smart Assistant In Next-Gen China Cars - Alibaba Gr Hldgs  ( NYSE:BABA ) ",0.2143,Alpha Vantage
-26/03/2025,Should SPDR Portfolio S&P 500 Value ETF  ( SPYV )  Be on Your Investing Radar?,0.0,Alpha Vantage
+26/03/2025,Should SPDR Portfolio S&P 500 Value ETF  ( SPYV )  Be on Your Investing Radar?,0,Alpha Vantage
 26/03/2025,Is Vident U.S. Equity Strategy ETF  ( VUSE )  a Strong ETF Right Now?,0.3595,Alpha Vantage
-26/03/2025,Should Goldman Sachs MarketBeta U.S. 1000 Equity ETF  ( GUSA )  Be on Your Investing Radar?,0.0,Alpha Vantage
+26/03/2025,Should Goldman Sachs MarketBeta U.S. 1000 Equity ETF  ( GUSA )  Be on Your Investing Radar?,0,Alpha Vantage
 26/03/2025,Is WisdomTree U.S. LargeCap ETF  ( EPS )  a Strong ETF Right Now?,0.3595,Alpha Vantage
 26/03/2025,Nasdaq Correction: 3 Unstoppable Growth Stocks to Buy on the Dip,0.5,Alpha Vantage
-26/03/2025,3 Reasons to Buy Berkshire Hathaway Stock Like There's No Tomorrow,0.0,Alpha Vantage
-26/03/2025,"TSMC's $165 Billion Bet On US Chip Manufacturing Raises Alarms In Taiwan Amid China Threat - Experts Warn Taipei Must Plan Beyond Its 'Silicon Shield' - Apple  ( NASDAQ:AAPL ) , Intel  ( NASDAQ:INTC ) ",0.0,Alpha Vantage
+26/03/2025,3 Reasons to Buy Berkshire Hathaway Stock Like There's No Tomorrow,0,Alpha Vantage
+26/03/2025,"TSMC's $165 Billion Bet On US Chip Manufacturing Raises Alarms In Taiwan Amid China Threat - Experts Warn Taipei Must Plan Beyond Its 'Silicon Shield' - Apple  ( NASDAQ:AAPL ) , Intel  ( NASDAQ:INTC ) ",0,Alpha Vantage
 26/03/2025,"The ""Magnificent Seven"" Stocks Are Selling Off. Here Are My Top 5 to Buy Now.",0.75,Alpha Vantage
+26/03/2025,"Amazon Has Cut Its Margin on The Mac Mini M4, Now at a Record Low Price",0,News API
+26/03/2025,"Apple Is Going Nuts, This 2024 MacBook Air Is Down to a Record-Low Price on Amazon",-0.1556,News API
 27/03/2025,"Is Nvidia the Next $5 Trillion Stock? Or Will Apple, Microsoft, Amazon, or Google Get There First?",0.125,Alpha Vantage
-27/03/2025,Apple's Microsoft Moment,0.0,Alpha Vantage
-27/03/2025,Is Apple About to Make a Massive Bet on Nvidia's AI Chips?,0.0,Alpha Vantage
+27/03/2025,Apple's Microsoft Moment,0,Alpha Vantage
+27/03/2025,Is Apple About to Make a Massive Bet on Nvidia's AI Chips?,0,Alpha Vantage
 27/03/2025,"After Siri Leadership Change, Apple Makes Another Major Executive Move in Retail: Report",0.0625,Alpha Vantage
-27/03/2025,"Zacks Investment Ideas feature highlights: Verizon, Apple and NVIDIA",0.0,Alpha Vantage
-27/03/2025,"Zacks Earnings Trends Highlights: Meta, Tesla, Nvidia, Google, Microsoft, Amazon and Apple",0.0,Alpha Vantage
-27/03/2025,"Nvidia And Apple Supplier Foxconn To Present EV Plans At Japan Seminar Following Mitsubishi Deal: Report - Apple  ( NASDAQ:AAPL ) , BYD  ( OTC:BYDDY ) ",0.0,Alpha Vantage
+27/03/2025,"Zacks Investment Ideas feature highlights: Verizon, Apple and NVIDIA",0,Alpha Vantage
+27/03/2025,"Zacks Earnings Trends Highlights: Meta, Tesla, Nvidia, Google, Microsoft, Amazon and Apple",0,Alpha Vantage
+27/03/2025,"Nvidia And Apple Supplier Foxconn To Present EV Plans At Japan Seminar Following Mitsubishi Deal: Report - Apple  ( NASDAQ:AAPL ) , BYD  ( OTC:BYDDY ) ",0,Alpha Vantage
 27/03/2025,Steve Jobs Warned 34 Years Ago About America Being 'Hollowed Out' By Foreign Manufacturing - A Concern Trump Now Echoes - Taiwan Semiconductor  ( NYSE:TSM ) ,-0.125,Alpha Vantage
-27/03/2025,Prediction: Apple Will Soar Over the Next 5 Years. Here's 1 Reason Why.,0.0,Alpha Vantage
-27/03/2025,How To Trade SPY With Initial Jobless Claims In Focus - NVIDIA  ( NASDAQ:NVDA ) ,0.0,Alpha Vantage
-27/03/2025,Can the Tide Turn for 'Magnificent Seven' Stocks? ETFs in Focus,1.0,Alpha Vantage
+27/03/2025,Prediction: Apple Will Soar Over the Next 5 Years. Here's 1 Reason Why.,0,Alpha Vantage
+27/03/2025,How To Trade SPY With Initial Jobless Claims In Focus - NVIDIA  ( NASDAQ:NVDA ) ,0,Alpha Vantage
+27/03/2025,Can the Tide Turn for 'Magnificent Seven' Stocks? ETFs in Focus,1,Alpha Vantage
+27/03/2025,iPhone users can now set WhatsApp as their default calling and texting app,0,News API
+28/03/2025,Looking Back on Berkshire Hathaway's Outperformance,0,Alpha Vantage
+28/03/2025,How to Tune Out Market Noise,0,Alpha Vantage
+28/03/2025,"EXCLUSIVE: Which Magnificent 7 Stock Will Perform Best In The Next 3 Months? New Poll Shows A Favorite  ( And It's Not Nvidia )  - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.5273,Alpha Vantage
+28/03/2025,"New Inflation Data Dismays Bulls, CoreWeave IPO Shows Cooling AI Frenzy, Lululemon Shows Cautious Consumer Spending",0.1364,Alpha Vantage
+28/03/2025,Apple's Options Frenzy: What You Need to Know - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+28/03/2025,Trading The SPY As PCE Inflation Report Takes Center Stage,-0.1,Alpha Vantage
+28/03/2025,EU To Issue Minimal Fines To Apple And Meta To Avoid Retaliation From The US - Meta Platforms  ( NASDAQ:META ) ,-0.1,Alpha Vantage
+28/03/2025,3 Northern Mutual Funds for Solid Returns,0,Alpha Vantage
+28/03/2025,2 Breakout Growth Stocks You Can Buy and Hold for the Next Decade,0,Alpha Vantage
+28/03/2025,"Intel's SuperFluid Cooling Tech 'Possibly Suitable For Nvidia's GB300' Chips, Says Expert Amid INTC's Efforts To Secure Commitments For Foundry Services - Apple  ( NASDAQ:AAPL ) , Broadcom  ( NASDAQ:AVGO ) ",0.475,Alpha Vantage
+28/03/2025,Should Strive 500 ETF  ( STRV )  Be on Your Investing Radar?,0,Alpha Vantage
+28/03/2025,Should Invesco Dividend Achievers ETF  ( PFM )  Be on Your Investing Radar?,0,Alpha Vantage
+28/03/2025,3 Subtle Ways Warren Buffett Is Investing in the $15.7 Trillion Artificial Intelligence  ( AI )  Revolution,-0.4667,Alpha Vantage
+28/03/2025,Yale’s new smart lock can match your Google Nest doorbell,0.1753,News API
+29/03/2025,This Is the Top Mag 7 Stock to Buy Today,0.5,Alpha Vantage
+29/03/2025,Is Warren Buffett Buying Stocks Right Now? Here's What He Just Said.,0.2857,Alpha Vantage
+29/03/2025,"Microsoft Co-Founder Bill Gates Praises China As A Pioneer In Solar, Batteries, And AI: Warns Tensions Are Stifling Global Innovation - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2,Alpha Vantage
+29/03/2025,"2 ""Magnificent Seven"" AI Stocks to Buy on the Dip",1,Alpha Vantage
+29/03/2025,Apple TV Plus is on a hot streak,0.25,News API
+29/03/2025,"The New Apple Watch Series 10 Has Never Been So Cheap, Amazon Shows No Mercy",0.2682,News API
+29/03/2025,"Woot Discounts Apple Pencil Pro to New Record Low $79.99 Price, USB-C Apple Pencil to $49.99",0.0682,News API
+30/03/2025,Trump Unfazed by Potential Auto Price Hikes Amid New Tariffs: 'I Couldn't Care Less' - Honda Motor Co  ( NYSE:HMC ) ,-0.0101,Alpha Vantage
+30/03/2025,"Meet the Stock I'd Be Comfortable Buying, Even If a Recession Is Coming",0.4,Alpha Vantage
+30/03/2025,"Apple Shakes Up Leadership, Introduces New Features, And Faces A Siri Crisis: This Week In Appleverse - Taiwan Semiconductor  ( NYSE:TSM ) ",0.1364,Alpha Vantage
+30/03/2025,Stock Market Correction: 2 Warren Buffett Stocks to Buy Hand Over Fist,0,Alpha Vantage
+30/03/2025,The 50 best Amazon Big Spring Sale deals under $100,0.5,News API
+31/03/2025,"Investigating Apple's Standing In Technology Hardware, Storage & Peripherals Industry Compared To Competitors - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+31/03/2025,"The Market's Volatility, CoreWeave's IPO, Bitcoin's Future, and More",0.25,Alpha Vantage
+31/03/2025,How To Earn $500 A Month From Apple Stock - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+31/03/2025,How High Or Low Can The SPY Go Today?,0.08,Alpha Vantage
+31/03/2025,"Perplexity CEO Aravind Srinivas Shuts Down Financial Rumors, Says AI Search Startup Has 'No Plans Of IPOing Before 2028' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.0778,Alpha Vantage
+31/03/2025,Should You Invest in the Technology Select Sector SPDR ETF  ( XLK ) ?,0,Alpha Vantage
+31/03/2025,Should BNY Mellon US Large Cap Core Equity ETF  ( BKLC )  Be on Your Investing Radar?,0.2143,Alpha Vantage
+31/03/2025,Is iShares MSCI ACWI Low Carbon Target ETF  ( CRBN )  a Strong ETF Right Now?,0.2397,Alpha Vantage
+31/03/2025,85% of Warren Buffett's $290 Billion Portfolio Is Invested in These 12 Magnificent Stocks,1,Alpha Vantage
+31/03/2025,"Steve Jobs Detested Decision Fatigue, Now Gen Z Is Copying His Style Playbook To Stay Sane, Stay Employed And Stay Out Of Trouble - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",-0.2,Alpha Vantage
+31/03/2025,Here's How Much $100 Invested In Apple 5 Years Ago Would Be Worth Today - Apple  ( NASDAQ:AAPL ) ,0.25,Alpha Vantage
+31/03/2025,Navigating Investment in Uncertain Markets,0,Alpha Vantage
+31/03/2025,How Cheap Are Big Tech Stocks?,0.2,Alpha Vantage
+31/03/2025,John Boyega Reflects on Star Wars Fandom’s Problem With Black Heroes,-0.1667,News API
+31/03/2025,"TikTok, tariffs, and trials: everything happening in tech’s chaotic April",0,News API
+31/03/2025,New Apple TV This Year Likely to Support Wi-Fi 7,0.0682,News API
+31/03/2025,"Apple Releases visionOS 2.4 With Apple Intelligence, Spatial Gallery and New iPhone Integration",0.1364,News API
+31/03/2025,Apple Releases watchOS 11.4 With Sleep Alarm Update,0,News API
+01/04/2025,"Trump's 'Liberation Day' Creates 'Major Uncertainty' For Big Tech, Analyst Dan Ives Says - NVIDIA  ( NASDAQ:NVDA ) ",0.0312,Alpha Vantage
+01/04/2025,"EXCLUSIVE: March's 20 Most-Searched Tickers On Pro - Where Do Tesla, Nvidia, Apple, Applovin Stock Rank? - Apple  ( NASDAQ:AAPL ) , Aclarion  ( NASDAQ:ACON ) ",-0.8,Alpha Vantage
+01/04/2025,Apple  ( AAPL )  Laps the Stock Market: Here's Why,0,Alpha Vantage
+01/04/2025,PayPal Stock's Death Cross Looms - Will It Trigger A Turnaround? - PayPal Holdings  ( NASDAQ:PYPL ) ,0,Alpha Vantage
+01/04/2025,"Here Is How The Stock Market Will Move After Trump's Tariff Reveal On Liberation Day - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , Alphabet  ( NASDAQ:GOOG ) ",0,Alpha Vantage
+01/04/2025,Apple Stock A Buy On 'Revenue Durability & Visibility': Analyst Highlights China Smartphone Sales Up In February - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+01/04/2025,"Market Analysis: Apple And Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+01/04/2025,10 Stocks of the S&P 500 ETF Up More Than 20% in Q1,0.5,Alpha Vantage
+01/04/2025,Apple Unusual Options Activity For April 01 - Apple  ( NASDAQ:AAPL ) ,0.2,Alpha Vantage
+01/04/2025,"Zacks Investment Ideas feature highlights: Amazon, Meta Platforms, Microsoft, Apple, Alphabet, Tesla and Nvidia",0,Alpha Vantage
+01/04/2025,How To Trade SPY As Market Awaits JOLTS Data,0,Alpha Vantage
+01/04/2025,"Days After Calling The CHIPS Act A 'Horrible Thing' Donald Trump Sets Up New Entity For 'Negotiating Much Better...Deals:' Here's More - Apple  ( NASDAQ:AAPL ) , Analog Devices  ( NASDAQ:ADI ) ",-0.0409,Alpha Vantage
+01/04/2025,37% of Warren Buffett's $290 Billion Berkshire Hathaway Portfolio Is Invested in These 2 S&P 500 Dividend Stocks,0,Alpha Vantage
+01/04/2025,"iOS 18.4 Is Now Live With New Emojis, Apple News+ Food, And Priority AI Notifications Alongside Vision Pro Updates: What You Need To Know - Apple  ( NASDAQ:AAPL ) ",0.1364,Alpha Vantage
+01/04/2025,"Who Is Peter Thiel's Protégé, Michael Kratsios, Now Leading Trump's AI Strategy Amid Rising Tech Tensions With China - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+01/04/2025,Apple Stock vs. Tesla Stock: Billionaires Buy One and Sell the Other,-0.125,Alpha Vantage
+01/04/2025,Bull of the Day: Baidu  ( BIDU ) ,0,Alpha Vantage
+01/04/2025,"Tim Cook's Apple And Elon Musk's SpaceX Engage In A Heated Battle Over Satellite Tech And App Control: Report - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+02/04/2025,"Apple Set For Strong iPhone Upgrade Cycle Driven By AI, Analyst Says - Apple  ( NASDAQ:AAPL ) ",0.4333,Alpha Vantage
+02/04/2025,"Gold Outshines Tech Stocks And Bitcoin, As Bulls And Bears Battle Ahead Of Trump Tariff Announcement",0,Alpha Vantage
+02/04/2025,"How To Trade SPY, As Market Braces For Trump's Tariffs Plan - Tesla  ( NASDAQ:TSLA ) ",0,Alpha Vantage
+02/04/2025,"How Much Further Can the ""Magnificent Seven"" Fall? Here's What History Suggests.",0.5,Alpha Vantage
+02/04/2025,These 2 Vanguard ETFs Have Over 10% of Assets in Nvidia Stock. Here's Why Both Growth Funds Are Great Buys Now.,0.8,Alpha Vantage
+02/04/2025,23% of Warren Buffett's Portfolio Is Invested in This 1 AI Stock,0,Alpha Vantage
+02/04/2025,"Tesla Short Interest Soars To 21.16%, Making It 4th Most Shorted Stock Currently: Here's What Its Charts Indicate - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",0.1667,Alpha Vantage
+02/04/2025,Is ALPS  ( OUSA )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+02/04/2025,Is iShares U.S. Equity Factor ETF  ( LRGF )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+02/04/2025,"Visa Offers $100 Million To Secure Apple Card Network In A Bid To Outdo Mastercard: Report - Apple  ( NASDAQ:AAPL ) , American Express  ( NYSE:AXP ) ",0.1667,Alpha Vantage
+02/04/2025,Apple Labor Cases Frozen By NLRB After Trump Nominates Company's Attorney As General Counsel: Report - Apple  ( NASDAQ:AAPL ) ,0.05,Alpha Vantage
+02/04/2025,"Meta Planning To Drop $1,000 Smart Glasses With Hand Gesture Control As It Takes On Apple: Report - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.2143,Alpha Vantage
+02/04/2025,Apple stumbles with latest AirPods Max firmware,0.5,News API
+02/04/2025,Visa Wants to Take Over $20 Billion Apple Card Business,0.2,News API
+02/04/2025,Apple Seeds First Beta of macOS Sequoia 15.5,0.25,News API
+02/04/2025,Apple Hit With $5 Billion Class Action Lawsuit Over eBooks Availability,0.1,News API
+02/04/2025,Missed the $100 Beats Studio Buds+ Deal on Amazon Last Month? It’s Back!,0,News API
+03/04/2025,Prediction: 4 Artificial Intelligence  ( AI )  Stocks That Could Be Worth More Than Apple by 2030,0.0667,Alpha Vantage
+03/04/2025,"Larry Summers Warns Trump's Tariffs Will Deliver 'Oil Crisis-Like Shock,' Slash $30 Trillion From Economy As Markets Plunge - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+03/04/2025,This Tech Giant Is a Stock Buyback Leader. Here's What That Means for Investors.,0,Alpha Vantage
+03/04/2025,"Meta, AMD, Apple, AT&T Among Biggest US Tech Giants That 'May Suffer The Most' As Tariffs Spark Trade Turmoil: Here's Why - Apple  ( NASDAQ:AAPL ) , Albemarle  ( NYSE:ALB ) ",0.5,Alpha Vantage
+03/04/2025,3 Top Bargain Stocks Ready for the Next Bull Run,0.2333,Alpha Vantage
+03/04/2025,"Trump's 'Reciprocal Tariff' Plan Hits Market Confidence As Dow Futures Drops Over 830 Points - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+03/04/2025,"Nvidia, AMD, Apple, Meta, Tesla: Why These 5 Stocks Are Trending On Trump's Liberation Day - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+03/04/2025,"Trump's Sweeping Tariffs Could Cost US $20 Trillion, Crash Markets Warn Economists: 'Monstrously Destructive' - Apple  ( NASDAQ:AAPL ) ",-0.6,Alpha Vantage
+03/04/2025,Panicking Over Trump's Tariffs? 2 Warren Buffett Pearls of Wisdom to Remember,0,Alpha Vantage
+03/04/2025,Looking Ahead to the Q1 Earnings Season,0,Alpha Vantage
+03/04/2025,Looking Ahead to the Q1 Earnings Season,0,Alpha Vantage
+03/04/2025,"Stocks are Going on Sale, Time to be Greedy While Others are Fearful?",-0.9,Alpha Vantage
+03/04/2025,"Trump's ""Reciprocal Tariffs"": Why Major AI Stocks Apple, Meta, and Alphabet  ( Google )  Are Feeling the Heat Today",0.0625,Alpha Vantage
+03/04/2025,What Does the Market Think About Apple? - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+03/04/2025,Inside Trump Tariffs and Their Impact on Sector ETFs,0,Alpha Vantage
+03/04/2025,Tariffs Will Provide Great Buying Opportunity In Long Term - Investors Must First Cross Stagflation Chasm,0.25,Alpha Vantage
+03/04/2025,Trump's Tariffs Are Crushing the Stock Market: Here's What All Investors Need to Know,0.4,Alpha Vantage
+03/04/2025,Should You Hold on to TXN Stock Despite its 12% Dip in a Month?,0,Alpha Vantage
+03/04/2025,Apple Stock Slammed By Trump Tariffs: Is A Death Cross Next? - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+03/04/2025,Blackrock CEO Larry Fink Says Investors Are More Anxious About the Economy Than They've Been in Recent History. These 3 Stocks Will Help Calm Your Nerves.,0.1375,Alpha Vantage
+03/04/2025,"Today's Trade Strategy For SPY, AAPL, MSFT, NVDA, GOOGL, META, TSLA",0,Alpha Vantage
+03/04/2025,QCOM Expands AI Capabilities With Strategic Buyout: Stock to Gain?,0,Alpha Vantage
+03/04/2025,"As Microsoft Turns 50, Bill Gates Shares The Original Code That Started It All: 'That Was The Revolution' - Apple  ( NASDAQ:AAPL ) , Intel  ( NASDAQ:INTC ) ",0.375,Alpha Vantage
+03/04/2025,"Apple To $250? Here Are 10 Top Analyst Forecasts For Thursday - Enphase Energy  ( NASDAQ:ENPH ) , Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
+03/04/2025,"RH Posts Downbeat Earnings, Joins Apple, Tesla, Nvidia And Other Big Stocks Moving Lower In Thursday's Pre-Market Session - Apple  ( NASDAQ:AAPL ) , AdvanSix  ( NYSE:ASIX ) ",-0.0625,Alpha Vantage
+03/04/2025,Should Schwab U.S. Large-Cap ETF  ( SCHX )  Be on Your Investing Radar?,0,Alpha Vantage
+03/04/2025,Should SPDR MSCI USA StrategicFactors ETF  ( QUS )  Be on Your Investing Radar?,0,Alpha Vantage
+03/04/2025,Is Fidelity High Dividend ETF  ( FDVV )  a Strong ETF Right Now?,0.293,Alpha Vantage
+03/04/2025,Apple has its biggest stock drop in five years because of Trump’s tariffs,0,News API
+03/04/2025,Apple has its biggest stock drop in five years because of Trump’s tariffs,0,News API
+03/04/2025,Apple Sending WWDC 2025 Invites to Special Event Lottery Winners,0.3571,News API
+03/04/2025,CNBC+ Now Available on Apple TV,0.4,News API
+04/04/2025,"Verizon's New 3-Year Price Lock, Free Phone Offer: Strategic Move To Boost Customer Retention - Verizon Communications  ( NYSE:VZ ) ",0.2682,Alpha Vantage
+04/04/2025,"Elon Musk, Mark Zuckerberg And Jensen Huang See $34 Billion Wiped Out In A Single Day: Here's How Much Other 'Magnificent 7' Billionaires Lost After Trump's Liberation Day - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.2679,Alpha Vantage
+04/04/2025,Should Vanguard Russell 1000 ETF  ( VONE )  Be on Your Investing Radar?,0,Alpha Vantage
+04/04/2025,Should ALPS  ( OUSA )  Be on Your Investing Radar?,0,Alpha Vantage
+04/04/2025,"US Stocks Likely To Open Lower After The Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert - Apple  ( NASDAQ:AAPL ) , American Shared Hospital  ( AMEX:AMS ) ",-0.12,Alpha Vantage
+04/04/2025,"Stocks Set To Continue Crashing After Worst Selloff Since 2020: Tariff Announcement Was '100% Smoot Hawley Disguised As Thoughtful Policy,' Says Expert - Apple  ( NASDAQ:AAPL ) , American Shared Hospital  ( AMEX:AMS ) ",-0.2,Alpha Vantage
+04/04/2025,3 Important Numbers to Know for Bitcoin Investors,0.4,Alpha Vantage
+04/04/2025,"Top Analyst Cautions 'Economic Armageddon' For Tech Sector If Current Tariffs Stay: 'This Is As Nervous As I've Seen Investors Since Covid' - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",0.2333,Alpha Vantage
+04/04/2025,2 Warren Buffett Dividend Stocks to Buy and Hold Forever,0,Alpha Vantage
+04/04/2025,"Nasdaq Dips 6% Following Trump's Tariffs As Nvidia, Apple Decline: Investor Sentiment Plunges, Greed Index Remains In 'Extreme Fear' Zone - Apple  ( NASDAQ:AAPL ) , American Shared Hospital  ( AMEX:AMS ) ",-0.0417,Alpha Vantage
+04/04/2025,Warren Buffett's Favorite Stock to Buy -- $78 Billion Purchased in Less Than 7 Years -- Is Absolutely Crushing the S&P 500 This Year,0.2444,Alpha Vantage
+04/04/2025,"Trump's Reciprocal Tariffs Threaten To Derail Big Tech's Billion-Dollar AI Infrastructure Plans, Analyst Singles Out This OpenAI-Linked Project As Likely To Get Hit - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1333,Alpha Vantage
+04/04/2025,"Mark Cuban Warns Of Price Hikes, Says 'Buy Consumables Now,' Before Retailers Blame Tariffs - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+04/04/2025,"Apple Making iPhones In America A Fantasy That Sounds Great 'Behind The Microphones,' Says Top Analyst Dan Ives - Apple  ( NASDAQ:AAPL ) ",0.3,Alpha Vantage
+04/04/2025,"Bill Ackman: 'Just Pick Up The Phone'-Says Trump Will Reward Early Dealmakers, Punish Foreign Tariff Retaliation - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.0125,Alpha Vantage
+04/04/2025,Amazon Forgot to Take the 2024 MacBook Air Off Sale After Their Big Spring Event,0,News API
+04/04/2025,Trump’s TikTok delay is ‘against the law’ top Senate Intelligence Democrat says,0.5,News API
+07/04/2025,"Analyst Forecasts Tariffs Impact On Apple's Profit And Highlights 2 Software Stocks That Are Safeguards - Viant Technology  ( NASDAQ:DSP ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+07/04/2025,"Apple To $250? Here Are 10 Top Analyst Forecasts For Monday - Apple  ( NASDAQ:AAPL ) , Conagra Brands  ( NYSE:CAG ) ",0.5,Alpha Vantage
+07/04/2025,Why Shares of Apple Are Getting Hammered Today,0,Alpha Vantage
+07/04/2025,Nasdaq in Bear Market: Buy the Dip in ETFs?,0,Alpha Vantage
+07/04/2025,"Apple Takes the Biggest Hit of the ""Magnificent Seven"" in Response to Trump Tariffs",1,Alpha Vantage
+07/04/2025,"Nvidia, Apple Top 'Names To Own': Cybersecurity Stocks To Outperform, Tech Analyst Dan Ives Says - NVIDIA  ( NASDAQ:NVDA ) ",0.55,Alpha Vantage
+07/04/2025,Does Sirius XM's Broadcasting Strategy Signal a Buy for the Stock?,0,Alpha Vantage
+07/04/2025,Fed Cutting Rates To Counter Tariffs May Not Be A Good Idea - Microsoft  ( NASDAQ:MSFT ) ,0.05,Alpha Vantage
+07/04/2025,Diagnosing the Market on Health Day: 6 ETFs Looking Healthy,0.5,Alpha Vantage
+07/04/2025,"Mark Cuban Warns Of A Crisis 'Far Worse' Than 2008 If Trump's Tariff Turmoil And Elon Musk's DOGE Moves Continue - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.15,Alpha Vantage
+07/04/2025,"Stock Market News for Apr 7, 2025",0,Alpha Vantage
+07/04/2025,Apple Stock's Death Cross: Is The iPhone Maker Heading For A Rotten Summer? - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+07/04/2025,"The Next iPhone Could Be Pricier, Tariffs or Not",0,News API
+07/04/2025,Alexander Skarsgård Explains How True Blood Prepared Him for Murderbot,0.35,News API
+07/04/2025,Apple Stops Signing iOS 18.3.2,0,News API
+08/04/2025,Markets Reverse Direction as Tariff Ante Upped on China,0,Alpha Vantage
+08/04/2025,Broadcom Unveils $10 Billion Stock Buyback: Buy AVGO Stock Now?,0,Alpha Vantage
+08/04/2025,"Trump Tariff Strategy Creates 'Self-Inflicted Market Debacle': Analyst - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+08/04/2025,Apple Stock Suffers Sharp Selloff: Buy the Dip in ETFs?,-0.3625,Alpha Vantage
+08/04/2025,"Marjorie Taylor Greene Buys The Dip: Congresswoman Purchases Shares Of Apple, Amazon, Nike And More Following Tariff-Related Sell-Off - Apple  ( NASDAQ:AAPL ) ",0.25,Alpha Vantage
+08/04/2025,The Nasdaq Is Officially in a Bear Market. Here's Why History Says Investors Shouldn't Panic.,0,Alpha Vantage
+08/04/2025,"Performance Comparison: Apple And Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+08/04/2025,"Marvell Technology, Nvidia, Tesla, Apple And Other Big Stocks Moving Higher On Tuesday - Apple  ( NASDAQ:AAPL ) , Applied Optoelectronics  ( NASDAQ:AAOI ) ",0.0417,Alpha Vantage
+08/04/2025,"SPY, IVV, VOO Battle for Top ETF Crown Amid S&P 500 Swings",0.5,Alpha Vantage
+08/04/2025,How To Trade The Market Amid Tariff News - SPDR S&P 500  ( ARCA:SPY ) ,0,Alpha Vantage
+08/04/2025,3 Tech ETFs on Sale Now,0,Alpha Vantage
+08/04/2025,2 Warren Buffett Stocks to Buy in the Stock Market Sell-Off,0,Alpha Vantage
+08/04/2025,"Despite Tariff Turmoil, Bitcoin Outperforms 'Magnificent 7' Stocks In 2025 - Records Smaller Losses Than Nvidia, Tesla, Apple - Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
+08/04/2025,Should You Invest in the Invesco Dorsey Wright Technology Momentum ETF  ( PTF ) ?,0,Alpha Vantage
+08/04/2025,Should You Invest in the iShares U.S. Technology ETF  ( IYW ) ?,0,Alpha Vantage
+08/04/2025,Should Invesco NASDAQ 100 ETF  ( QQQM )  Be on Your Investing Radar?,0,Alpha Vantage
+08/04/2025,Is Franklin U.S. Large Cap Multifactor Index ETF  ( FLQL )  a Strong ETF Right Now?,0.3111,Alpha Vantage
+08/04/2025,"Wall Street Eyes Recovery As S&P 500, Nasdaq Futures Rise After Trump's Tariff-Driven Selloff Wipes Out $9 Trillion In Six Weeks - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+08/04/2025,Apple Customers Flock To Stores As Tariffs Threaten To Drive iPhone Prices Up By 45%: Report - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+08/04/2025,Should You Buy Apple Stock During the Tariff-Induced Stock Market Sell-Off?,0,Alpha Vantage
+08/04/2025,"Tariffs or Not, I'm Avoiding These 2 Tumbling Stocks",0,Alpha Vantage
+08/04/2025,"Dow Falls For 3rd Session Amid Trump's Tariff Threats As Apple, Tesla Decline: Greed Index Remains In 'Extreme Fear' Zone - Cal-Maine Foods  ( NASDAQ:CALM ) , Apple  ( NASDAQ:AAPL ) ",-0.0625,Alpha Vantage
+08/04/2025,Apple Reportedly Plans To Move More iPhone Production To India Amid Trump Tariff Fears: Could This Solve The Potential 40% Price Hike? - Apple  ( NASDAQ:AAPL ) ,0.25,Alpha Vantage
+08/04/2025,Apple Hits Worst Stretch In Years: $640 Billion In Market Capitalization Wiped Out In 3 Days - Apple  ( NASDAQ:AAPL ) ,-1,Alpha Vantage
+08/04/2025,The 256GB 10th Gen Apple iPad Just Hit a Price We Never Thought Possible,0,News API
+08/04/2025,You can grab three months of Apple TV Plus for $2.99 a month right now,0.2857,News API
+08/04/2025,"Trump believes iPhones can be made in the US, says White House",0,News API
+08/04/2025,The kid-friendly Fitbit Ace has returned to its best price to date,1,News API
+08/04/2025,Apple Arcade Adding Five New Games Next Month,0.0682,News API
+09/04/2025,"This Apple Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Wednesday - Apple  ( NASDAQ:AAPL ) , Bath & Body Works  ( NYSE:BBWI ) ",0.5,Alpha Vantage
+09/04/2025,Is Nvidia's Artificial Intelligence  ( AI )  Business Recession-Resistant?,-0.6,Alpha Vantage
+09/04/2025,"The Zacks Analyst Blog Highlights Apple, NVIDIA and Broadcom",0,Alpha Vantage
+09/04/2025,Should You Invest in the Invesco NASDAQ Internet ETF  ( PNQI ) ?,0,Alpha Vantage
+09/04/2025,Should Motley Fool 100 Index ETF  ( TMFC )  Be on Your Investing Radar?,0.6,Alpha Vantage
+09/04/2025,"US Stocks Futures Trade Mixed Ahead Of Opening Bell: 'Preserve Capital In Conditions Of High Uncertainty,' Says Expert - Aehr Test System  ( NASDAQ:AEHR ) , Apple  ( NASDAQ:AAPL ) ",0.08,Alpha Vantage
+09/04/2025,"Apple Stock Nosediving Since 'Liberation Day' Tariffs Has Created Panic, Says Gene Munster: Predicts Tim Cook's 'Favorable' Relationship With Trump, Xi Jinping Will Rescue iPhone-Maker - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+09/04/2025,Apple Reportedly Flew 5 Flights Of iPhones Ahead Of Trump's 104% Tariffs On China Taking Effect: Stock Sinks Amid Esclating US-China Trade Tensions - Apple  ( NASDAQ:AAPL ) ,-0.1,Alpha Vantage
+09/04/2025,Where Will Nvidia Stock Be in 3 Years?,0,Alpha Vantage
+09/04/2025,"Ford, GM To Witness 'Higher Demand' As American Carmakers Set To 'Reap The Fruit Of Protectionism,' Says Expert: Here's A List Of Potential Gainers And Losers From Trump Tariffs - Apple  ( NASDAQ:AAPL ) , Costco Wholesale  ( NASDAQ:COST ) ",0.0125,Alpha Vantage
+09/04/2025,"Dow Dips Over 300 Points As US-China Trade Tensions Escalate: Apple, Tesla, Nvidia, Amazon Decline, Greed Index Remains In 'Extreme Fear' Zone - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.125,Alpha Vantage
+09/04/2025,"Trump Threatened TSMC He'd Impose Up To 100% Tariffs If It Didn't Manufacture Chips In US: 'These Chip Companies Are Loaded' - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+09/04/2025,"Trump's 104% Tariff On Chinese Imports Sends Stock Futures Plunging - Dow Falls Over 500 Points - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+09/04/2025,"Technology Stocks Outperform After Trump's Tariff Pause: Microchip Technology, AMD Lead Sector Higher - SPDR Select Sector Fund - Technology  ( ARCA:XLK ) ",0.25,Alpha Vantage
+09/04/2025,Time to Buy Broadcom  ( AVGO )  Stock as Markets Rip Higher,0.25,Alpha Vantage
+09/04/2025,Why Aren't You Buying the Dip in Apple?,0,Alpha Vantage
+09/04/2025,Behind the Scenes of Apple's Latest Options Trends - Apple  ( NASDAQ:AAPL ) ,0.05,Alpha Vantage
+09/04/2025,"AMD Powers Google Cloud's New AI Servers Promising 80% Boost In Speed - Alphabet  ( NASDAQ:GOOGL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2455,Alpha Vantage
+09/04/2025,"Apple Faces Up To 90% Cost Surge On iPhones If US Tariffs Stick: Analyst Looks At Possible Shift To India, Price Increase - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+09/04/2025,Why Shares of Apple Are Skyrocketing After One of Its Worst 4-Day Stretches in 25 Years,-1,Alpha Vantage
+09/04/2025,"Wall Street Roars As Trump Pauses Tariffs For Non-Retaliator, Hikes China Duties To 125% - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+09/04/2025,"Here Is How To Look Ahead In This Market, China Dashes Stock Market Bulls Hopium, Bond Canary Sick - SPDR S&P 500  ( ARCA:SPY ) ",-0.7143,Alpha Vantage
+09/04/2025,"Meta, IBM, Palo Alto Networks: Why Stephanie Link Is Doubling Down On These Tariff-Proof Tech Titans - Meta Platforms  ( NASDAQ:META ) , IBM  ( NYSE:IBM ) , Palo Alto Networks  ( NASDAQ:PANW ) ",-0.1556,Alpha Vantage
+09/04/2025,Does SNAP's Launch of an AI Ad Format Signal a Buy for the Stock?,0,Alpha Vantage
+09/04/2025,"PC Market Starts 2025 With Solid Growth, Tariff Turbulence Looms",0,Alpha Vantage
+09/04/2025,Tesla Underdelivers,0,Alpha Vantage
+09/04/2025,How To Trade SPY As China Spews Retaliatory Tariffs - SPDR S&P 500  ( ARCA:SPY ) ,0,Alpha Vantage
+09/04/2025,"Stock Market News for Apr 9, 2025",0,Alpha Vantage
+09/04/2025,The best AirPods to buy,1,News API
+09/04/2025,Apple Shares Emergency SOS Apple Watch Success Story,0.3,News API
+09/04/2025,Aqara adds support for 50 new Matter device types,0.1364,News API
+09/04/2025,Apple Store in Chicago Area Permanently Closing Later This Month,0,News API
+09/04/2025,Apple Adds Maps on the Web Support to iPhone,0,News API
+10/04/2025,"Apple Analyst Slashes Price Forecast On Weak iPhone Demand, AI Revenue Despite Less Tariff Risk - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",-0.2708,Alpha Vantage
+10/04/2025,Why Apple Stock Is Sinking Today,0,Alpha Vantage
+10/04/2025,"Tech Stocks Slip As Market Reverses Post-Tariff Rally: What's Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+10/04/2025,Wall Street's Wild Ride: What Tuesday's Rally Means for Investors,0.1,Alpha Vantage
+10/04/2025,The Real Reason Behind Trump's Tariff Reversals - SPDR S&P 500  ( ARCA:SPY ) ,-0.1,Alpha Vantage
+10/04/2025,"Bitcoin Falls To $78K As Market Jitters; Trump Halts Tariffs After Bond Yield Spike; US-China Tensions Spark Visa Cancellations, Strain Academic Ties - Top Headlines While the US Slept",0.25,Alpha Vantage
+10/04/2025,"Industry Comparison: Evaluating Apple Against Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+10/04/2025,Derivative-Based ETFs at the Heart of the Historic Market Run,0,Alpha Vantage
+10/04/2025,"Apple Retreats to Rare, Long-Term Value Zone",0.3,Alpha Vantage
+10/04/2025,Should You Hold on to HPQ Stock Despite its 16% Decline in a Month?,0,Alpha Vantage
+10/04/2025,5 Leveraged ETFs That Skyrocketed on 90-Day Tariff Pause,0,Alpha Vantage
+10/04/2025,how-to-trade-SPY-as-inflation-cools,0,Alpha Vantage
+10/04/2025,Trump's Tariff Pause Triggers Epic Rally: How to Play Mag 7 Now,0.1,Alpha Vantage
+10/04/2025,1 Unstoppable Investment Strategy for Buying Bitcoin During a Market Decline,0,Alpha Vantage
+10/04/2025,"Stock Market News for Apr 10, 2025",0,Alpha Vantage
+10/04/2025,"Tech Sector Entering A Period Of 'Mass Uncertainty' Amid Tariffs And Upcoming Earnings Season, Says Dan Ives: 'The Damage Is Real' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.2,Alpha Vantage
+10/04/2025,Top Big Data Stocks to Power Up Your Portfolio Right Away,0.2619,Alpha Vantage
+10/04/2025,"Why We Are Fading Apple's 15% Rally - Apple  ( NASDAQ:AAPL ) , Chevron  ( NYSE:CVX ) ",0,Alpha Vantage
+10/04/2025,"Jim Cramer Says Pre-Market Slide Driven By Profit-Takers: 'Shorts Are Trying To Figure Whether To Operate On Nvidia, AVGO, AAPL' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+10/04/2025,Jim Cramer Reminds Investors 'Nobody Ever Made A Dime Panicking' After Market Rally Amid Tariff Pause - NVIDIA  ( NASDAQ:NVDA ) ,0,Alpha Vantage
+10/04/2025,Should iShares S&P 500 Growth ETF  ( IVW )  Be on Your Investing Radar?,0,Alpha Vantage
+10/04/2025,Is Schwab Fundamental U.S. Broad Market ETF  ( FNDB )  a Strong ETF Right Now?,0.2605,Alpha Vantage
+10/04/2025,Should You Invest in the Vanguard Information Technology ETF  ( VGT ) ?,0,Alpha Vantage
+10/04/2025,Should Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF  ( GSLC )  Be on Your Investing Radar?,0.2143,Alpha Vantage
+10/04/2025,Is WisdomTree U.S. LargeCap Dividend ETF  ( DLN )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+10/04/2025,"US Stocks Likely To Open Lower Ahead Of March Inflation Release: Expert Highlights 'Fairly Weak Returns' After 5%+ Gains In S&P 500 - Apple  ( NASDAQ:AAPL ) , Amtech Systems  ( NASDAQ:ASYS ) ",-0.125,Alpha Vantage
+10/04/2025,3 Top Vanguard ETFs to Buy With the S&P 500 in Correction,0.5,Alpha Vantage
+10/04/2025,"Trump's Tariffs Could Push Apple iPhone Prices To A Staggering $3,500, Says Top Analyst - Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
+10/04/2025,3 Cheap Tech Stocks to Buy Right Now,0.3429,Alpha Vantage
+10/04/2025,"S&P 500 Records Biggest Surge Since 2008 As Trump Pauses Tariffs: Greed Index Remains In 'Extreme Fear' Zone - Apple  ( NASDAQ:AAPL ) , CarMax  ( NYSE:KMX ) ",-0.125,Alpha Vantage
+10/04/2025,"SPY, QQQ Call Volumes Spiked Minutes Before Tariff Pause Announcement: Alexandria Ocasio-Cortez Demands Disclosure From Congress Members - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+10/04/2025,"Trump Says 'This Is A Great Time To Buy', But Portfolio Managers Give A Reality Check: 'Permanent Damage Has Been Done' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.8,Alpha Vantage
+10/04/2025,"Vietnam, A Hub For US Tech Giants Like Apple And Nvidia, Wants To Talk Trade After Trump Pauses 46% Tariff - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.2,Alpha Vantage
+10/04/2025,"VERO, X, RDW, AAPL, TSLA: Top 5 Trending Stocks Today - Apple  ( NASDAQ:AAPL ) , Redwire  ( NYSE:RDW ) ",0.5,Alpha Vantage
+10/04/2025,Apple quickly shipped 600 tons of iPhones to ‘beat’ the new tariffs,0.2348,News API
+11/04/2025,"Inflation Might Be Easing But Tech Outlook Still Choppy, Analysts Warn - Apple  ( NASDAQ:AAPL ) ",-0.2,Alpha Vantage
+11/04/2025,US-Sino Trade War Escalates: ETF Areas Under Pressure,0,Alpha Vantage
+11/04/2025,Foreigners Dump The Dollar; Gold And Yen Act As Safe Haven; JPMorgan Helps Stock Market; Cooler PPI,0.5,Alpha Vantage
+11/04/2025,Netflix Stock Surges 47.9% in a Year on Content Strategy: Time to Buy?,0,Alpha Vantage
+11/04/2025,"10 Companies With Exposure To Trump's China Tariff War: Ford, Tesla, Apple, Disney And More - Carrier Global  ( NYSE:CARR ) , Apple  ( NASDAQ:AAPL ) ",0.25,Alpha Vantage
+11/04/2025,"Are Chinese Tech Stocks At A 'Serious Risk' Amid Escalating Trade War? 'Delisting Is Moving Up In The List Of Retaliatory Options,' Says Analyst - Alibaba Gr Hldgs  ( NYSE:BABA ) , Apple  ( NASDAQ:AAPL ) ",-0.1667,Alpha Vantage
+11/04/2025,"Company News for Apr 11, 2025",0,Alpha Vantage
+11/04/2025,"Tesla And Apple Chip Supplier STMicro Plans Major Restructuring, 2,800 Jobs Set To Exit By 2027 - STMicroelectronics  ( NYSE:STM ) ",0.0625,Alpha Vantage
+11/04/2025,"Trading Strategy For SPY, As Market Eyes PPI Data - Alphabet  ( NASDAQ:GOOGL ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+11/04/2025,"As Apple Sheds Over $500 Billion In Market Cap Since Trump's 'Liberation Day,' Top Analysts Weigh In On Its Path Ahead - Microsoft  ( NASDAQ:MSFT ) ",0.5,Alpha Vantage
+11/04/2025,"President Donald Trump Delivers Huge News for Investors! What It Means for Nvidia, Tesla, and Apple.",0.5,Alpha Vantage
+11/04/2025,"US Stocks Likely To Open Lower As Volatility Persists Before Bank Earnings: 'Fed Is Likely To Cut Rates Again On June 18th,' Says Expert - Apple  ( NASDAQ:AAPL ) , Bank of New York Mellon  ( NYSE:BK ) ",0.0341,Alpha Vantage
+11/04/2025,"US Stock Futures Recover After Early Dip, Poised To Open Higher Amid Volatility: 'Fed Is Likely To Cut Rates Again On June 18th,' Says Expert  ( UPDATED )  - Apple  ( NASDAQ:AAPL ) , Bank of New York Mellon  ( NYSE:BK ) ",0.0973,Alpha Vantage
+11/04/2025,Zacks Investment Ideas feature highlights: Nvidia and Apple,0,Alpha Vantage
+11/04/2025,3 Ways to Keep Your Portfolio Safe During Tariff Volatility,0.5,Alpha Vantage
+11/04/2025,"Not All Of Mag 7, But A 'Handful:' F/m Investments Selectively Adds Apple, Meta After Trump's Tariff Announcement - Meta Platforms  ( NASDAQ:META ) ",0,Alpha Vantage
+11/04/2025,"'There'll be A Transition Cost And Transition Problems,' Admits Trump Amid Tariff Woes, While Bessent Hints At Negotiation Deals - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+11/04/2025,"Dow Tumbles Over 1,000 Points As Nvidia, Apple And Tesla Decline: Greed Index Remains In 'Extreme Fear' Zone - Apple  ( NASDAQ:AAPL ) , JPMorgan Chase  ( NYSE:JPM ) ",-0.125,Alpha Vantage
+11/04/2025,"Meta, Google And Other Big US Tech Firms Could End Up Paying Up If Trump Tariff Talks Collapse, Warns European Commission President: 'No Winners In This, Only Losers' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.065,Alpha Vantage
+11/04/2025,"Amazon CEO Andy Jassy Says Trump Tariff Costs Could Hit Consumers As Sellers Pass Them On, Working To Soften The Blow - Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+11/04/2025,Apple to Release Delayed Apple Intelligence ‌Siri‌ Features This Fall,0,News API
+11/04/2025,Why the Zacks Rank is More Important Than Ever,0.0333,Alpha Vantage
+11/04/2025,Google’s Pixel Watch 4 Could Ditch the Pins for Wireless Charging,0,News API
+11/04/2025,The Apple Maps web client beta now runs on Android phone browsers,0,News API
+11/04/2025,Check Out ColorWare's Custom Apple Pencil Pro With a Crayon Design,0,News API
+12/04/2025,"Bulls And Bears: Apple, Nike, US Steel - And The Markets Ride Out Ongoing Volatility Bulls And Bears: Apple, Nike, US Steel - And The Markets Ride Out Ongoing Volatility - Aehr Test System  ( NASDAQ:AEHR ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+12/04/2025,Should You Forget Apple and Buy These 2 Tech Stocks Instead?,0,Alpha Vantage
+12/04/2025,Warren Buffett Owns 2 Artificial Intelligence  ( AI )  Stocks That Wall Street Says Could Soar Up to 50%,-0.6,Alpha Vantage
+12/04/2025,"Trump And Xi Jinping's Tariff Threats May Be 'Just For The LOLz,' Says Analyst: 'It's Not Like This Is A Great Financial Crisis' - Carrier Global  ( NYSE:CARR ) , Apple  ( NASDAQ:AAPL ) ",0.2667,Alpha Vantage
+12/04/2025,"Consumer Tech News  ( April 7-April 11 ) : US President Puts 90-Days Pause On Tariffs, Microsoft May Cut Jobs & More - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.5,Alpha Vantage
+12/04/2025,"Trump Administration Grants Tariff Reprieve To Tech Industry; Apple And Nvidia Among Beneficiaries - NVIDIA  ( NASDAQ:NVDA ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+12/04/2025,"Mythic Quest is Canceled and Getting a New, Final Ending",0.0682,News API
+13/04/2025,Tariff-Sensitive Stocks Apple and Nike Are Getting Clobbered. Time to Buy?,0,Alpha Vantage
+13/04/2025,Apple Escapes Supply Chain Crisis As Trump Excludes Popular Electronics From Tariffs - Apple  ( NASDAQ:AAPL ) ,0.6,Alpha Vantage
+13/04/2025,"Apple Revamps Leadership, Preps New Vision Pro Headsets Amid Commercial Hurdles - Apple  ( NASDAQ:AAPL ) ",0.0682,Alpha Vantage
+13/04/2025,"Apple's Stock Market Woes, Airlifting iPhones To Beat Tariffs, Moving Production To India, And More: This Week In Appleverse - Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
+13/04/2025,"Apple Stock Plunged on Tariff News, But It's Proving to Be Unstoppable in Another Lucrative Area",0,Alpha Vantage
+13/04/2025,Apple Stock's 27% Crash: Here's Where I Predict It Will Trade Next,0,Alpha Vantage
+13/04/2025,Stock Market Sell-Off: The Best Warren Buffett Stocks to Buy Now,1,Alpha Vantage
+14/04/2025,What's Going On With Nio Stock Monday? - NIO  ( NYSE:NIO ) ,0,Alpha Vantage
+14/04/2025,What's Going On With Micron Technology Stock Monday? - Micron Technology  ( NASDAQ:MU ) ,0,Alpha Vantage
+14/04/2025,"Which Mag-7 Stock, Apple or NVIDIA, Should You Buy for Tariff Relief?",0,Alpha Vantage
+14/04/2025,"Netflix Gears Up to Report Q1 Earnings: Buy, Sell or Hold NFLX Stock?",0,Alpha Vantage
+14/04/2025,What's Going On With Alibaba Shares Monday? - Alibaba Gr Hldgs  ( NYSE:BABA ) ,0,Alpha Vantage
+14/04/2025,"Apple Tops Global Smartphone Sales With 19% Share, Boosted By iPhone 16e, Emerging Market Growth - Samsung Electronics Co  ( OTC:SSNLF ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+14/04/2025,"Why Palantir, Apple, and Micron Rallied Monday",0,Alpha Vantage
+14/04/2025,Trump Gives Apple A Reprieve But Tramples On Stock Market Bulls' Initial Jubilation - MP Materials  ( NYSE:MP ) ,0,Alpha Vantage
+14/04/2025,Tech Set to Surge on Tariff Pause: 5 ETF Picks,0,Alpha Vantage
+14/04/2025,Technical Analysis For Trading SPY And Top Tech Stocks Amid Tariff News,0.25,Alpha Vantage
+14/04/2025,Apple Stock Is Surging Monday: What's Going On? - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+14/04/2025,"Apple's Margins Catch A Break, But Road Ahead Still Looks Bumpy - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+14/04/2025,Rally in Apple ETFs in the Cards?,0,Alpha Vantage
+14/04/2025,"Jim Cramer Warns Nvidia And Apple Shorts May Let Stocks Rally Before Striking Again: 'Only Way They Can Get Out Of This Mess' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.1083,Alpha Vantage
+14/04/2025,"Third Harmonic Bio, Apple, Dell And Other Big Stocks Moving Lower In Monday's Pre-Market Session - Apple  ( NASDAQ:AAPL ) , Best Buy Co  ( NYSE:BBY ) ",0.2188,Alpha Vantage
+14/04/2025,Tariff Turmoil: Are Tech Stocks Out of the Woods?,0,Alpha Vantage
+14/04/2025,Is iShares Core S&P U.S. Value ETF  ( IUSV )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+14/04/2025,Should You Invest in the Fidelity MSCI Information Technology Index ETF  ( FTEC ) ?,0,Alpha Vantage
+14/04/2025,"Apple, SMCI, Nvidia, AMD And Other Tech Stocks Climb In Monday Pre-Market: What's Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1375,Alpha Vantage
+14/04/2025,When Tim Cook Revealed The Real Reason iPhones Are Made In China-And It's Not 'Low Labor Costs': 'China Stopped Being A Low-Wage Country Years Ago' - Apple  ( NASDAQ:AAPL ) ,0.1,Alpha Vantage
+14/04/2025,Worried About Stock Market Volatility? This Surefire ETF Can Limit Your Risk While Building Long-Term Wealth,0,Alpha Vantage
+14/04/2025,"Mark Cuban Examines Trump's Tariff Exemptions Rationale On Electronics: 'That's Billions Of Revenue For The USA' - Apple  ( NASDAQ:AAPL ) , Dell Technologies  ( NYSE:DELL ) ",0,Alpha Vantage
+14/04/2025,"Trump To Unveil Semiconductor Tariff Plan This Week, Signals Flexibility On Tech Exemptions - NVIDIA  ( NASDAQ:NVDA ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+14/04/2025,"Star Trek-Quoting Judge Boasberg, Once Targeted By Trump, Could Decide If Mark Zuckerberg's Meta Gets To Keep Instagram - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+14/04/2025,"Apple's iPhone Stockpile Could Disrupt Supply Chain Amid Looming Chip Tariffs, Warns Top Analyst - Identifies Cupertino's Best Option Beyond White House Talks - Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
+14/04/2025,"Bitcoin, Dogecoin Flat, Ethereum Slides After Trump's Breather On Tech Tariffs: $79,000 Or $97,000? Analyst Predicts Next Moves For BTC - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",-0.1083,Alpha Vantage
+14/04/2025,Apple’s complicated plan to improve its AI while protecting privacy,-0.5,News API
+14/04/2025,Here's How Apple is Working to Improve Apple Intelligence,0,News API
+14/04/2025,"Before Prices Rise Due to Tariffs, Amazon Is Drastically Slashing the Price of Apple AirTags",-0.125,News API
+14/04/2025,Apple Celebrates 10 Years of Activity Rings With Limited-Edition Award and Pin,0,News API
+14/04/2025,An Apple Store in the UK is Permanently Closing Later This Year,0,News API
+14/04/2025,Apple TV+ Comedy 'Mythic Quest' Canceled,0,News API
+15/04/2025,Apple Celebrating Earth Day With Apple Watch Activity Challenge,0,News API
+15/04/2025,Apple Stores to Offer 10% Off Accessories When You Recycle Electronics,0,News API
+15/04/2025,"Apple Faces Serious Tariff Troubles, But Amazon Is Crushing The Price of The Renewed iPhone 13 to a Record Low",0.0222,News API
+16/04/2025,"Google, Apple, and Snap aren’t happy about Meta’s poorly-redacted slides",0.8,News API
+16/04/2025,"While Tariffs Loom, Amazon Slashes Apple AirPods Max to Their Black Friday Price",-0.1667,News API
+16/04/2025,Apple Abruptly Changes Product Marketing Materials Amid Apple Intelligence Controversy,-0.125,News API
+16/04/2025,Apple Releases tvOS 18.4.1,0,News API
+16/04/2025,Apple Releases visionOS 2.4.1,0,News API
+16/04/2025,Apple Card Promo Offers 5% Daily Cash at Booking.com,0.05,News API
+16/04/2025,Meta Pissed Off Everyone With Poorly Redacted Docs,-0.4,News API
+17/04/2025,"Apple AirPods Pro 2 Just Dropped in Price, the Easter Deal Your Basket Needs",0,News API
+17/04/2025,How Apple CEO Tim Cook Convinced Trump to Exempt Apple From Tariffs,0,News API
+18/04/2025,Apple replaced Mythic Quest’s series finale after the show was cancelled,0,News API
+18/04/2025,"Samsung Galaxy Watch Ultra Is Cheaper Than Apple Watch Ultra, but Tariffs Could End That Soon",0,News API
+19/04/2025,"Garmin Vivoactive 6 Review: Reliable, Real Intelligence",0.2,News API
+21/04/2025,Apple Seeds Third Beta of macOS Sequoia 15.5,0,News API
+22/04/2025,How to keep your data safe when you travel,0.5,News API
+22/04/2025,Apple Celebrating Earth Day in These Five Ways,0,News API
+22/04/2025,Apple Complies With Recommendation to Remove 'Available Now' From Apple Intelligence Page,0.4,News API
+23/04/2025,The EU isn’t happy with Apple’s tax on alternative app stores,0.8,News API
+23/04/2025,Did Tim Cook finagle a special tariff deal? Senator Warren wants to know,0.2786,News API
+23/04/2025,Perplexity’s AI voice assistant is now available on iOS,0.4,News API
+24/04/2025,The Apple Watch Turns 10. Here's How Far It's Come,0.1,News API
+24/04/2025,"22 Best MacBook Accessories (2025), Tested and Reviewed",1,News API
+24/04/2025,Everything Rumored for the 2025 Apple Watch Series 11,0,News API
+24/04/2025,Apple Stores Giving Away a Limited-Edition Pin For Free Today,0.4,News API
+24/04/2025,Apple Watch SE Hits $169.97 Low Price on Amazon,0,News API
+25/04/2025,What's Next for the Apple Watch Ultra 3 and Apple Watch SE 3,0,News API
+26/04/2025,"Wall Street Bets On Bulls, Not Tariffs, As Rare 'Breadth Thrust' Lifts Stocks Wall Street Bets On Bulls, Not Tariffs, As Rare 'Breadth Thrust' Lifts Stocks - Apple  ( NASDAQ:AAPL ) , American Airlines Group  ( NASDAQ:AAL ) ",0.2,Alpha Vantage
+26/04/2025,"Consumer Tech News  ( Apr 21-Apr 25 ) : Microsoft's Copilot Gets a Sleek New Look, Apple Under Fire For 'Influence-Peddling' In US-China Trade & More - Apple  ( NASDAQ:AAPL ) , BYD  ( OTC:BYDDY ) ",0.3182,Alpha Vantage
+27/04/2025,Prediction: Broadcom Stock Could Surge by 100% in the Next 3 Years,0,Alpha Vantage
+27/04/2025,"Cramer's Warning: Tariff Chaos Could Derail Tech Earnings Frenzy This Week Cramer's Warning: Tariff Chaos Could Derail Tech Earnings Frenzy This Week - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+27/04/2025,Apple's AI Team Undergoes Major Restructuring Amidst Performance Concerns - Amazon.com  ( NASDAQ:AMZN ) ,0.0625,Alpha Vantage
+27/04/2025,"Warren Buffett's Top Stock Picks Now Come With a 15% Income Bonus Through This Fund - Apple  ( NASDAQ:AAPL ) , American Express  ( NYSE:AXP ) ",0.25,Alpha Vantage
+27/04/2025,"Apple's Tariff Dodging, Production Shifts, And EU Fines: This Week In Appleverse - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+27/04/2025,2 Bargain Stocks You Can't Afford to Miss Out on During the Stock Market Sell-Off,0,Alpha Vantage
+27/04/2025,1 Wall Street Analyst Thinks Apple Is Going to $254. Is It a Buy Around $200?,0,Alpha Vantage
+27/04/2025,"Prediction: This Stock Will Be Worth More Than Nvidia, Microsoft, and Apple 5 Years From Now",0.4,Alpha Vantage
+27/04/2025,"Apple Slashes AirPods 4 Price To Record Low, Now Under $100 And Cheaper Than Black Friday",-0.0833,News API
+28/04/2025,"Alexandria Ocasio-Cortez Asks,'How Much Did Majorie Taylor Greene Make When She Bought The Dip?' - SPDR S&P 500  ( ARCA:SPY ) ",0.2,Alpha Vantage
+28/04/2025,"China Risk To Nvidia, Flood Of Earnings And Jobs Report Ahead - NVIDIA  ( NASDAQ:NVDA ) ",0,Alpha Vantage
+28/04/2025,Apple Q2 Will Be 'Better-Than-Feared': Analyst Says iPhone Company Has 'Proven Track Record' - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+28/04/2025,"Navigating A Roller Coaster Market - Apple  ( NASDAQ:AAPL ) , Celestica  ( NYSE:CLS ) ",0,Alpha Vantage
+28/04/2025,"Ant Group's Alipay Hits 100 Million Users, Unveils New Chip To Power Fintech Expansion - Alibaba Gr Hldgs  ( NYSE:BABA ) ",0.1364,Alpha Vantage
+28/04/2025,"Should You Buy, Sell, or Hold Apple Stock Before Q2 Earnings?",0,Alpha Vantage
+28/04/2025,Markets Wait for Several Key Economic and Earnings Data,0.0667,Alpha Vantage
+28/04/2025,Big Week Ahead for the Stock Market,0,Alpha Vantage
+28/04/2025,"Fingerprint Sensor Market is expected to generate a revenue of USD 9.71 Billion by 2031, Globally, at 15.38% CAGR: Verified Market Research®",-0.05,Alpha Vantage
+28/04/2025,"Apple's India Game Plan Looks Smarter As Tariff Heat Rises - Analyst Highlights 4 Stocks That Could Benefit - Apple  ( NASDAQ:AAPL ) , Coherent  ( NYSE:COHR ) ",0.05,Alpha Vantage
+28/04/2025,Can Q1 Earnings Inject Fresh Life Into Magnificent 7 ETFs?,0.65,Alpha Vantage
+28/04/2025,Technical Analysis For Trading SPY And Top Tech Stocks,0.25,Alpha Vantage
+28/04/2025,Gear Up for Apple  ( AAPL )  Q2 Earnings: Wall Street Estimates for Key Metrics,0,Alpha Vantage
+28/04/2025,"Microsoft, Meta, Amazon, Apple Gear Up For 'AI Revolution' Week As Tariff Storm Brews - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+28/04/2025,Tech Sizzled Last Week: Top-Performing ETFs in the Sector,0,Alpha Vantage
+28/04/2025,"As Tariffs Bite Apple, Samsung's Global Manufacturing Network Gains Edge In US-China Trade War - Samsung Electronics Co  ( OTC:SSNLF ) ",0,Alpha Vantage
+28/04/2025,"US Stock Futures Fall As Markets Brace For Earnings From Microsoft, Meta, Apple And Apple This Week: 'Earnings Estimates Don't Signal A Recession' Says Leading Analyst - Apple  ( NASDAQ:AAPL ) , AbbVie  ( NYSE:ABBV ) ",0,Alpha Vantage
+28/04/2025,Should iShares S&P 100 ETF  ( OEF )  Be on Your Investing Radar?,0,Alpha Vantage
+28/04/2025,Should Vanguard Mega Cap Growth ETF  ( MGK )  Be on Your Investing Radar?,0,Alpha Vantage
+28/04/2025,Is Goldman Sachs ActiveBeta World Low Vol Plus Equity ETF  ( GLOV )  a Strong ETF Right Now?,0.2397,Alpha Vantage
+28/04/2025,"Microsoft, Meta Platform, Apple, Amazon and Alphabet are part of Zacks Earnings Preview",0,Alpha Vantage
+28/04/2025,"Analyst Questions Apple's Reported iPhone Shift to India Amid China Tariff Pressures: 'Doesn't Solve All The Problems' - Apple  ( NASDAQ:AAPL ) , AT&T  ( NYSE:T ) ",0,Alpha Vantage
+28/04/2025,"Tom Lee Backs Scott Bessent 'White House Put' Theory As Nasdaq Flips From Worst April Start Since Great Depression To Major Comeback - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",-0.0344,Alpha Vantage
+28/04/2025,"Bitcoin, Ethereum, Dogecoin Drop As Stock Futures Slide: Willy Woo Says 'All Dips Are For Buying' With BTC Eyeing 'All-Time Highs - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",-0.3,Alpha Vantage
+28/04/2025,"S&P 500 Companies Earn 6x More In China Than US Exports: Hedge Fund Manager Says Trade War With Beijing Level Of Stupidity That Has 'No Precedent' - Apple  ( NASDAQ:AAPL ) , McDonald's  ( NYSE:MCD ) ",-0.05,Alpha Vantage
+28/04/2025,Trump Running American Economy Like A 'Mafia Don': Economist Craig Shapiro Draws Parallels With Russia's President - Roundhill Magnificent Seven ETF  ( BATS:MAGS ) ,0.5,Alpha Vantage
+28/04/2025,The Pixel Watch 2 is now on sale for $100 off,0,News API
+28/04/2025,"AirPods Pro 2 Are Now Almost Free, Amazon Cuts The Price For The 3rd Time in a Month",0.2,News API
+29/04/2025,Stock Market Ignoring Tariff Pull Forward But Prudent Investors Should Not - SPDR S&P 500  ( ARCA:SPY ) ,0,Alpha Vantage
+29/04/2025,"PayPal Earnings Beat, But Slower Spending And Checkout Use Weigh On Results - PayPal Holdings  ( NASDAQ:PYPL ) ",0,Alpha Vantage
+29/04/2025,Top Wall Street Forecasters Revamp Visa Expectations Ahead Of Q2 Earnings - Visa  ( NYSE:V ) ,0.5,Alpha Vantage
+29/04/2025,"If I Could Only Buy and Hold a Single Stock, This Would Be It",-0.0357,Alpha Vantage
+29/04/2025,"Elon Musk Wants Tesla To Be 'Most Valuable Company' In The World, But Top Investor Doubts EV Giant's Rise Without Apple-Style Marketing Strategy - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.3,Alpha Vantage
+29/04/2025,"US Stock Futures Edge Higher Tuesday: Expert Warns Of 'Perfect Volatility Storm' With Major Earnings And Economic Data Due This Week - Apple  ( NASDAQ:AAPL ) , AbbVie  ( NYSE:ABBV ) ",0.2775,Alpha Vantage
+29/04/2025,"13 Vanguard ETFs to Buy With $1,000 and Hold Forever",0,Alpha Vantage
+29/04/2025,Should SPDR Portfolio S&P 500 ETF  ( SPLG )  Be on Your Investing Radar?,0,Alpha Vantage
+29/04/2025,Is John Hancock Multifactor Large Cap ETF  ( JHML )  a Strong ETF Right Now?,0.3111,Alpha Vantage
+29/04/2025,Should You Invest in the iShares Expanded Tech Sector ETF  ( IGM ) ?,0,Alpha Vantage
+29/04/2025,"The Zacks Analyst Blog Highlights Apple, Microsoft, Amazon and Meta Platforms",0,Alpha Vantage
+29/04/2025,"The Stock Market May Rise or Fall Sharply This Week Based on Key Reports From Amazon, Apple, Meta Platforms, and Microsoft",-0.0625,Alpha Vantage
+29/04/2025,Millions of Apple Airplay-Enabled Devices Can Be Hacked via Wi-Fi,0,News API
+29/04/2025,WhatsApp Is Walking a Tightrope Between AI Features and Privacy,0,News API
+29/04/2025,AirPlay security flaws could help hackers spread malware on your network,0,News API
+29/04/2025,"Apple Launches New 'Snapshot' Web Page: 'Your Favorites, At a Glance'",0.1364,News API
+29/04/2025,Apple’s Second-Biggest Supplier Says to Expect Empty Shelves Due to Trump Tariffs,-0.1125,News API
+30/04/2025,A judge just blew up Apple’s control of the App Store,0,News API
+30/04/2025,Google confirms it’s close to getting Gemini support on iPhones,0,News API
+30/04/2025,Nobody’s Asking for Unnecessarily Skinny iPhones or Samsung Galaxy Phones,-0.4,News API
+30/04/2025,Sketchy rumors hint at an iPhone desktop mode,0,News API
+30/04/2025,WhatsApp is working on private AI chats in the cloud,0,News API
+01/05/2025,"Amazon, Apple Lead Big Earnings Afternoon",0,Alpha Vantage
+01/05/2025,Apple: Growth in a Difficult Environment,-0.5,Alpha Vantage
+01/05/2025,Apple  ( AAPL )  Q2 Earnings and Revenues Surpass Estimates,0,Alpha Vantage
+01/05/2025,"Roku Q1 Double Beat, Adds New Streaming Platform - Shares Drop On Cautious Guidance, Tariff Risks - Roku  ( NASDAQ:ROKU ) ",0.0682,Alpha Vantage
+01/05/2025,"Apple Reports 'Strong' Q2 Earnings: Revenue Beat, EPS Beat, Installed Base Hits All-Time High Across All Segments, $100 Billion Buyback And More - Apple  ( NASDAQ:AAPL ) ",0.0733,Alpha Vantage
+01/05/2025,"Qualcomm Stock Drops After Analysts Lower Price Targets, Despite Strong Demand from Apple and Samsung - Qualcomm  ( NASDAQ:QCOM ) ",0.4333,Alpha Vantage
+01/05/2025,"Wall Street Eyes 8th Positive Day As S&P 500 Recoups Tariff-Led Losses, Bitcoin Rallies To $97,000: What's Driving Markets Thursday? - Apple  ( NASDAQ:AAPL ) ",0.2273,Alpha Vantage
+01/05/2025,Apple's Strong Services Growth And iPhone Pricing Power Fuel Analyst's Confidence Despite Tariff Risks - Apple  ( NASDAQ:AAPL ) ,0.4333,Alpha Vantage
+01/05/2025,"AI Helps Microsoft And Meta, But Consumer Angst Hurts McDonald's - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",0,Alpha Vantage
+01/05/2025,"Tesla's Rough Quarter, Alphabet's Resilience, Chipotle's Burrito Slowdown, and More",0.2,Alpha Vantage
+01/05/2025,Bullish Signals Mount as Q1 Earnings Surprise to the Upside,0,Alpha Vantage
+01/05/2025,Initial Claims More Than Expectations,0.25,Alpha Vantage
+01/05/2025,Apple Gears Up For Q2 Earnings With Bearish Technicals: 'Super Cycle Unlikely' Says Strategist - Apple  ( NASDAQ:AAPL ) ,-0.0833,Alpha Vantage
+01/05/2025,"Jobless Claims Higher; Q1 Earnings from LLY, MCD & More",0.375,Alpha Vantage
+01/05/2025,How To Earn $500 A Month From Apple Stock Ahead Of Q2 Earnings - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+01/05/2025,"How To Trade SPY And Top Tech Stocks, As Jobless Claims Jump - Tesla  ( NASDAQ:TSLA ) , SPDR S&P 500  ( ARCA:SPY ) ",0.5,Alpha Vantage
+01/05/2025,Is iShares Core S&P U.S. Growth ETF  ( IUSG )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+01/05/2025,"US Stock Futures Rise As Meta, Microsoft Earnings Fuel Optimism: GDP Slump Linked To Tariff Anticipation, Not Recession, Says Analyst - Apple  ( NASDAQ:AAPL ) , Airbnb  ( NASDAQ:ABNB ) ",0,Alpha Vantage
+01/05/2025,"Google Aims For Gemini AI Deal With Apple This Year, Says Sundar Pichai Amid DOJ's Bid To Curb Search Monopoly - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+01/05/2025,2 AI Stocks to Buy and Hold for 10 Years,0,Alpha Vantage
+01/05/2025,Stock Market Sell-Off: 2 Brilliant Stocks to Buy on the Dip and Hold for 10 Years,0.9,Alpha Vantage
+01/05/2025,Zacks Investment Ideas feature highlights: Apple and Amazon,0,Alpha Vantage
+01/05/2025,"Down Nearly 20%, This AI Giant Is the Best Bargain ""Magnificent Seven"" Stock Right Now",0.3717,Alpha Vantage
+01/05/2025,Qualcomm Plans $22 Billion In 'Non-Handset' Revenue By 2029-With AI As Its Trojan Horse - Qualcomm  ( NASDAQ:QCOM ) ,0,Alpha Vantage
+01/05/2025,"The Zacks Analyst Blog Highlights Apple, Affirm, Compass and CyberArk",0,Alpha Vantage
+01/05/2025,Short Seller Jim Chanos Slams Trump's Reindustrialization Hopes: Says $3-Per-Hour Apple Supplier Foxconn Workers Were 'Too Expensive' - Questions If 'Those Jobs Are Coming Back' - Hon Hai Precision  ( OTC:HNHPF ) ,-0.1667,Alpha Vantage
+01/05/2025,"Apple Executive 'Outright Lied,' Says Judge In Epic Case Fallout - Tim Cook 'Chose Poorly' - Apple  ( NASDAQ:AAPL ) ",-0.15,Alpha Vantage
+01/05/2025,"Microsoft, Apple And 3 Stocks To Watch Heading Into Thursday - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+01/05/2025,Apple May Face Criminal Charges for Allegedly Lying to a Federal Judge,-0.25,News API
+01/05/2025,Sam Altman's Eye-Scanning Orb Is Now Coming to the US,0,News API
+01/05/2025,Meta and Spotify are teaming up to lobby against Apple and Google,0,News API
+01/05/2025,Epic Games Offers Apple 'Peace Proposal' to Return Fortnite to the App Store Worldwide,0.1,News API
+01/05/2025,Apple Pay Has a Mother's Day Offer,0,News API
+01/05/2025,Spotify already has an app ready to test Apple’s new rules,0.1682,News API
+01/05/2025,Patreon will update its iPhone app to sidestep Apple’s payment system,0,News API
+01/05/2025,Apple doesn’t seem too worried about Trump’s tariffs,0,News API
+01/05/2025,Apple says tariffs will cost it at least $900 million this quarter,-0.3,News API
+02/05/2025,"Good Jobs Report And New China Stance Bring Aggressive Stock Buying, But Apple And Amazon Disappoint - SPDR S&P 500  ( ARCA:SPY ) ",0.4182,Alpha Vantage
+02/05/2025,"EXCLUSIVE: April's 20 Most-Searched Tickers On Pro - Where Do Tesla, Apple, Palantir, Nvidia Stocks Rank? - SPDR S&P 500  ( ARCA:SPY ) ",-0.8,Alpha Vantage
+02/05/2025,Apple Stock Falls After Cook Warns of $900M Tariff Impact - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+02/05/2025,Apple Beats on Q2 Earnings but Shares Slip: ETFs to Watch,0,Alpha Vantage
+02/05/2025,"How To Trade SPY, As US Job Growth Slows Marginally In April",0,Alpha Vantage
+02/05/2025,Warren Buffett's Compounders Crush Cathie Wood's Disruptors Over The Long Haul - ARK Innovation ETF  ( BATS:ARKK ) ,-0.05,Alpha Vantage
+02/05/2025,"Block, Atlassian, Apple, Roku, Amazon And Other Big Stocks Moving Lower In Friday's Pre-Market Session - Apple  ( NASDAQ:AAPL ) , Advantage Solutions  ( NASDAQ:ADV ) ",-0.0625,Alpha Vantage
+02/05/2025,"Apple To Rally More Than 17%? Here Are 10 Top Analyst Forecasts For Friday - Apple  ( NASDAQ:AAPL ) , Alnylam Pharmaceuticals  ( NASDAQ:ALNY ) ",0.5,Alpha Vantage
+02/05/2025,"Apple To Rally More Than 17%? Here Are 10 Top Analyst Forecasts For Friday - Apple  ( NASDAQ:AAPL ) , Alnylam Pharmaceuticals  ( NASDAQ:ALNY ) ",0.5,Alpha Vantage
+02/05/2025,Breakfast News: China Considers Trade Talks,0,Alpha Vantage
+02/05/2025,Tim Cook Tells Commerce Secretary Lutnick How He 'Could' Bring iPhone Manufacturing To US - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+02/05/2025,"US Futures Rise As Apple, Amazon, Airbnb Earnings Boost Market Sentiment: S&P 500 Hits Milestone That's Preceded A 100% Win Rate Since 1956, Says Expert - Apple  ( NASDAQ:AAPL ) , Airbnb  ( NASDAQ:ABNB ) ",0.8,Alpha Vantage
+02/05/2025,Tim Cook Says iPhone 16 Sales Stronger In Markets With Apple Intelligence Despite Siri Struggles - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+02/05/2025,"Why Twilio Shares Are Trading Higher By Over 9%; Here Are 20 Stocks Moving Premarket - Apple  ( NASDAQ:AAPL ) , Adial Pharmaceuticals  ( NASDAQ:ADIL ) ",0.25,Alpha Vantage
+02/05/2025,"Apple, Amazon And 3 Stocks To Watch Heading Into Friday - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+02/05/2025,Members of Congress Are Buying These 4 Warren Buffett Stocks. Should You?,0,Alpha Vantage
+02/05/2025,Did Warren Buffett Use Berkshire Hathaway's $334 Billion in Cash to Buy His Favorite Stock? We're About to Find Out...,0.5,Alpha Vantage
+02/05/2025,Spotify Adds External Subscription Link in App Following Court's Ruling Against Apple In Epic Matter - Spotify Technology  ( NYSE:SPOT ) ,0.0333,Alpha Vantage
+02/05/2025,"Dan Ives Raises Apple Price Target To $270, Says 'Worst Case Scenario' Off The Table For iPhone Tariffs As Tim Cook Reveals Made In India Move - Apple  ( NASDAQ:AAPL ) ",-1,Alpha Vantage
+02/05/2025,"AAPL, AMZN, RDDT, MSTR, XYZ: 5 Trending Stocks Today - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+02/05/2025,"Apple CEO Tim Cook Warns Of $900 Million Tariff Impact In June Quarter, Expects Majority Of iPhones Sold In US To Be Made In India - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+02/05/2025,"Earnings Remain Resilient, but Outlook Softens",0,Alpha Vantage
+02/05/2025,Apple approves Spotify app update with external payments,0,News API
+02/05/2025,How Apple lost control of the App Store,0,News API
+02/05/2025,Murderbot‘s Main Character Is Both Killing Machine and Sci-Fi Nerd,0.1667,News API
+02/05/2025,Apple Highlights Three Benefits of Apple Watch for Kids Without iPhones,0,News API
+02/05/2025,Available Apple Intelligence Features Highlighted in New Ad,0.2682,News API
+02/05/2025,Apple Is Moving US iPhone Assembly to India Amid Tariff Turmoil,0,News API
+03/05/2025,"Bulls And Bears: Lilly, Microsoft, Starbucks - And Markets Fully Recover Tariff Chaos Losses - Apple  ( NASDAQ:AAPL ) , AbbVie  ( NYSE:ABBV ) ",0,Alpha Vantage
+03/05/2025,"Warren Buffett's Favorite 'Single Best Measure' For Equities Flashes Buying Signal As US Stocks Rebound - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.4762,Alpha Vantage
+03/05/2025,These 3 Vanguard ETFs Have Plunged Over 10% in 2025 but Remain Magnificent Picks for Long-Term Investors,1,Alpha Vantage
+03/05/2025,Apple's Tariff Impact: 10 Things Investors Should Know,0,Alpha Vantage
+04/05/2025,Do Strong Earnings Results and a Dividend Hike Make Alphabet a Growth Stock to Buy Right Now?,0.3595,Alpha Vantage
+04/05/2025,"Want to Invest Like Warren Buffett? Here's What You're Probably Missing - Apple  ( NASDAQ:AAPL ) , Coca-Cola  ( NYSE:KO ) ",-0.2,Alpha Vantage
+04/05/2025,"Want to Invest Like Warren Buffett? Here's What You're Probably Missing - Apple  ( NASDAQ:AAPL ) , Coca-Cola  ( NYSE:KO ) ",-0.2,Alpha Vantage
+04/05/2025,"Consumer Tech News  ( Apr 28-May 2 ) : Trump May Ease Auto Part Tariffs, House Republicans Tabled $250 Charge On EV & More - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.5,Alpha Vantage
+04/05/2025,"Apple Braces For $900 Million Tariff Impact, Tim Cook Discusses Potential iPhone Manufacturing Shift To US With Lutnick And More: This Week In Appleverse - Apple  ( NASDAQ:AAPL ) ",0.25,Alpha Vantage
+04/05/2025,3 Semiconductor Stocks That Could Help Make You a Fortune,0,Alpha Vantage
+05/05/2025,Trading Week Starts Out on the Soft Side,0.1,Alpha Vantage
+05/05/2025,"Warren Buffett's Giant Berkshire Portfolio: Top 10 Includes Banks, Oil, And Apple - Apple  ( NASDAQ:AAPL ) , American Express  ( NYSE:AXP ) ",0.1667,Alpha Vantage
+05/05/2025,"Buy, Sell, or Hold These Mag 7 Stocks After Earnings: AAPL, AMZN",0,Alpha Vantage
+05/05/2025,"Apple Stock Slides As Tariff Costs Mount, Bond Sale Planned - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+05/05/2025,The Standout Magnificent 7 Stock: Microsoft's Quiet Dominance,0.5,Alpha Vantage
+05/05/2025,The Best Company in Big Tech?,0.5,Alpha Vantage
+05/05/2025,Here's How to Invest in ETFs With Warren Buffett's Strategies,0,Alpha Vantage
+05/05/2025,"Berkshire Hathaway Stock Falls Following Buffett's Retirement As CEO - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+05/05/2025,"Book More Profits, Buffett's Company Reports Worst Earnings Drop Since 2020, OPEC+ Surprise",-0.25,Alpha Vantage
+05/05/2025,How To Trade SPY And Top Tech Stocks Ahead Of PMI Data,0.5,Alpha Vantage
+05/05/2025,"3 Stocks Warren Buffett First Bought 24 Years Ago  ( Hint: Apple's Not One Of Them ) ' - Coca-Cola  ( NYSE:KO ) , Moodys  ( NYSE:MCO ) , American Express  ( NYSE:AXP ) ",0.125,Alpha Vantage
+05/05/2025,"Company News for May 5, 2025",0,Alpha Vantage
+05/05/2025,Investors Heavily Search Apple Inc.  ( AAPL ) : Here is What You Need to Know,-0.2,Alpha Vantage
+05/05/2025,"Will $10,000 Invested in Nvidia Stock Turn Into $1 Million a Decade From Now?",0,Alpha Vantage
+05/05/2025,"Microsoft, Meta Platforms, Amazon and Apple are part of Zacks Earnings Preview",0,Alpha Vantage
+05/05/2025,Arm Holdings Stock Before Q4 Earnings: To Buy or Not to Buy?,0,Alpha Vantage
+05/05/2025,"Steve Jobs Warned The Difference Between Good And Great Software Engineers Is '50‑To‑1,' Admitted Firing Non-Performers Was 'Very Painful' Yet Necessary - Apple  ( NASDAQ:AAPL ) ",0.1475,Alpha Vantage
+05/05/2025,Warren Buffett And Charlie Munger's Timeless Wisdom Draws Bill Ackman's Praise: 'This Is A Great Book',0.8,Alpha Vantage
+05/05/2025,Should Vanguard S&P 500 ETF  ( VOO )  Be on Your Investing Radar?,0,Alpha Vantage
+05/05/2025,Is FlexShares Quality Dividend ETF  ( QDF )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+05/05/2025,"S&P Rally May Be Topping Out, Dan Niles Warns, Amid Demand Pull-In, Economic Uncertainty, And 'Sell The News' Risk - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.2,Alpha Vantage
+05/05/2025,"Here's How Investing $50 Per Week Can Create $50,000 in Annual Dividends",0,Alpha Vantage
+05/05/2025,Forget 'Sell in May': 5 Factors Why Wall Street ETFs Could Rally Ahead,0,Alpha Vantage
+05/05/2025,"'You've Got To Check Emotions At The Door:' Warren Buffett Offers Timeless Investing Wisdom Amid Market Turmoil - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.1,Alpha Vantage
+05/05/2025,"iPhone Users Invited To Claim Share Of Apple's $95 Million Privacy Lawsuit Settlement: How To Know If You're On The List - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+05/05/2025,"Apple To Split iPhone Launches Starting 2026, Foldable Model May Debut With iPhone 18 Pro: Report - Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+05/05/2025,"Warren Buffett Says He Is 'Embarrassed,' But 'Tim Cook Has Made Berkshire A Lot More Money Than I've Ever Made' - Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
+05/05/2025,"Warren Buffett And His Successor Greg Abel Say Berkshire Hathaway Could Hold This $20B Bet For '50 Years Or Forever' - Apple  ( NASDAQ:AAPL ) , American Express  ( NYSE:AXP ) ",0,Alpha Vantage
+05/05/2025,"'Curtain Call For The Captain:' Tim Cook, Bill Gates, Mark Cuban And Other Top Business Leaders React As Warren Buffett Bows Out - Apple  ( NASDAQ:AAPL ) , JPMorgan Chase  ( NYSE:JPM ) ",0.1875,Alpha Vantage
+05/05/2025,Apple files appeal to wrest back control of its App Store,0,News API
+05/05/2025,Apple’s latest iPad Mini has dropped to its lowest price in months,0.5,News API
+05/05/2025,Epic will use an EU account to bring Fortnite back to the US App Store,0.05,News API
+05/05/2025,Apple ‘iPhone Air’ rumor suggests a bigger screen coming in 2027,0,News API
+05/05/2025,Why Ford decided to merge its next-gen architecture with its current platform,0,News API
+05/05/2025,"Apple AirPods Pro 2 Are Still in Stock and Practically Free, but They’re Disappearing Fast",0.3,News API
+05/05/2025,"Apple Banned Epic Games' Developer Account, So How Is Fortnite Coming Back to the U.S. App Store?",0.05,News API
+06/05/2025,Should Vanguard S&P 500 Growth ETF  ( VOOG )  Be on Your Investing Radar?,0,Alpha Vantage
+06/05/2025,Should Fidelity Nasdaq Composite Index ETF  ( ONEQ )  Be on Your Investing Radar?,0,Alpha Vantage
+06/05/2025,Is iShares Core Dividend Growth ETF  ( DGRO )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+06/05/2025,Inside Last Week's Wall Street Rally & Best-Performing ETF Areas,0,Alpha Vantage
+06/05/2025,Best-Performing Leveraged ETFs of Last Week,0,Alpha Vantage
+06/05/2025,"Steve Jobs Expected Instant Clarity, Judged Ideas Like A First-Time Customer, Says Former Apple Engineer Behind Autocorrect - Apple  ( NASDAQ:AAPL ) ",-0.125,Alpha Vantage
+06/05/2025,Meet the Monster Stock that Continues to Crush the Market,0,Alpha Vantage
+06/05/2025,Don't Sell in May and Go Away: Follow These ETF Strategies,0,Alpha Vantage
+06/05/2025,Big Tech Lets Investors Know What's Going On,0,Alpha Vantage
+06/05/2025,Canada Has A Lot To Lose If Carney Tilts To Europe - NVIDIA  ( NASDAQ:NVDA ) ,0,Alpha Vantage
+06/05/2025,"Overbought Stock Market Reacts To Uber Bullishness, Important China Move, And Shock From Germany - SPDR S&P 500  ( ARCA:SPY ) ",0.4,Alpha Vantage
+06/05/2025,This Magnificent Vanguard ETF Could Supercharge Your Portfolio While Protecting Against Stock Market Volatility,1,Alpha Vantage
+06/05/2025,How To Trade SPY And Top Tech Stocks As Fed Interest Rate Decision Looms - NVIDIA  ( NASDAQ:NVDA ) ,0.5,Alpha Vantage
+06/05/2025,"Zacks Investment Ideas feature highlights: Amazon, Apple, Meta Platforms and Microsoft",0,Alpha Vantage
+06/05/2025,Trump’s Tariffs Are Threatening America’s Apple Juice Supply Chain,0,News API
+06/05/2025,Apple Says These Five Games Are Coming to Apple Arcade Next Month,0,News API
+07/05/2025,"Apple Shares Fall Amid Broader Tech Shifts And Supplier Developments: What's Going On? - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+07/05/2025,Apple Options Trading: A Deep Dive into Market Sentiment - Apple  ( NASDAQ:AAPL ) ,0,Alpha Vantage
+07/05/2025,"Indian Missiles Hit Pakistan, Buying On U.S.-China Talks, Will The Fed Bow To Trump? - SPDR Gold Trust  ( ARCA:GLD ) ",0,Alpha Vantage
+07/05/2025,"Apple, Alphabet Shares Tumble Amid Potential AI Search Shift - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+07/05/2025,"Disney Q2 Earnings Surpass Estimates, Revenues Increase Y/Y",0,Alpha Vantage
+07/05/2025,"Gary Black Says Tesla Should Be Educating Non-EV Owners As Market Leader: 'TSLA Never Acted Like A True…' - Apple  ( NASDAQ:AAPL ) , General Motors  ( NYSE:GM ) ",-0.0583,Alpha Vantage
+07/05/2025,"Warren Buffett Falls Behind Nancy Pelosi In Stock Market Returns Over The Last 11 Years: Here's What Data Shows - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.2,Alpha Vantage
+07/05/2025,Is iShares MSCI USA Quality Factor ETF  ( QUAL )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+07/05/2025,"Jeff Bezos-Backed Perplexity AI Outperforms Apple's Siri And ChatGPT In iOS Voice Assistant Comparison, CEO Aravind Srinivas Says - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+07/05/2025,"Amazon Unveils Revolutionary Robot 'Vulcan' With Sense Of Touch To Handle 75% Of The Warehouse Items: 'People Will Always Be Part Of The Equation' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+07/05/2025,Berkshire Hathaway's Operating Earnings Fell: Is the Value Stock a Buy at an All-Time High?,0.16,Alpha Vantage
+07/05/2025,"Sorry, but Tariffs Are the Least of Apple's Problems Right Now",-0.1714,Alpha Vantage
+07/05/2025,Warren Buffett Just Taught Us How to Manage Through a Bear Market. Here's the Lesson.,0,Alpha Vantage
+07/05/2025,"Meta's WhatsApp Wins $168 Million Verdict Against Pegasus Spyware Maker NSO Group For 2019 Hack - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.3,Alpha Vantage
+07/05/2025,"Microsoft, Nvidia, Meta Platforms, and Tesla Helped Propel This Vanguard ETF Over 13% Higher in 9 Days. Here's Why It's Still a Buy Now.",0.25,Alpha Vantage
+07/05/2025,Apple’s sci-fi epic Foundation is back for season 3 in July,0.05,News API
+07/05/2025,Apple’s Eddy Cue: ‘You may not need an iPhone 10 years from now’,0,News API
+07/05/2025,Matter’s latest update brings tap-to-pair setup,0.5,News API
+07/05/2025,Eddy Cue is fighting to save Apple’s $20 billion paycheck from Google,0,News API
+08/05/2025,"Apple, Alphabet Lead $262B Buyback Binge On Wall Street - Alphabet  ( NASDAQ:GOOGL ) , Wells Fargo  ( NYSE:WFC ) ",0,Alpha Vantage
+08/05/2025,5 Top-Ranked ETFs That Have Outperformed S&P 500 Since April Low,0,Alpha Vantage
+08/05/2025,Google At Staggering 42% Discount To S&P 500 - Alphabet  ( NASDAQ:GOOGL ) ,0,Alpha Vantage
+08/05/2025,Tariffs Could Shake Up Semiconductor Supply Chains. Here Are 2 Companies Investors Should Keep Their Eyes On.,0,Alpha Vantage
+08/05/2025,"Company News for May 8, 2025",0,Alpha Vantage
+08/05/2025,"Bill Gates Called Steve Jobs A 'Genius In A Way You Can't Explain,' Says 'I Don't Know Anybody Who's Just Like Him' While Reflecting on Their Decades-Long Collaboration and Rivalry",0,Alpha Vantage
+08/05/2025,President Trump's Tariffs Could Cost Apple Nearly $1 Billion. Is It Time to Sell the Stock?,0.1,Alpha Vantage
+08/05/2025,"Marjorie Taylor Greene's Hearing Disrupted By Insider Trading Scrutiny: 'Maybe It's a Coincidence,' Says Jasmine Crockett On MTG Buying Stocks Before Trump's 90-Day Tariff Pause - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0,Alpha Vantage
+08/05/2025,Apple Stock: Do the Risks Outweigh the Reward?,0,Alpha Vantage
+08/05/2025,"'AI Is Eating Search' Google Rival Perplexity CEO Arvind Srinivas Says As Dan Nile Predicts 'Agents' To Take Future Share Amid Alphabet, Apple Stock Fall - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0,Alpha Vantage
+08/05/2025,3 Warren Buffett Stocks You Can Buy on the Dip,0,Alpha Vantage
+08/05/2025,"Apple Foresees 'Hundreds Of Millions To Billions' Dollar Annual Losses Post Epic Games Contempt Ruling, Appeals For Stay - Tencent Holdings  ( OTC:TCEHY ) ",0.1,Alpha Vantage
+09/05/2025,"Tim Cook's Apple TV+ Cameo Rejected By Seth Rogen, Opts For Netflix's Ted Sarandos Instead: 'We Said No' - Netflix  ( NASDAQ:NFLX ) ",0.0,Alpha Vantage
+09/05/2025,Massive News for Alphabet Stock Investors!,0.0,Alpha Vantage
+09/05/2025,Warren Buffett Grew Berkshire Into a $1 Trillion Company. Can Greg Abel Take It to $2 Trillion?,0.0,Alpha Vantage
+09/05/2025,"Google's 'Golden Goose' Under Threat As GenAI Surges And Apple Rethinks Search Ties, Warns Gene Munster - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ",0.3,Alpha Vantage
+09/05/2025,"With Warren Buffett Stepping Down as CEO of Berkshire Hathaway, Could Coca-Cola and American Express Be on the Chopping Block?",-0.0778,Alpha Vantage
+09/05/2025,"Warner Bros. Discovery Pulling Back From 'More Is Better' Streaming Strategy, Bets Big On Premium Content - And Letting Scooby-Doo Sniff Out New Fans On Netflix - Apple  ( NASDAQ:AAPL ) , Walt Disney  ( NYSE:DIS ) ",0.2273,Alpha Vantage
+09/05/2025,Why Warren Buffett's Upcoming Move Isn't Cause for Concern,0.0,Alpha Vantage
+08/05/2025,"One of the Largest Teacher Pension Funds in the U.S. Sold Nvidia, Tesla, and Apple and Piled Into a Popular Pharmaceutical Stock Up 395% Over the Last 5 Years",0.3,Alpha Vantage

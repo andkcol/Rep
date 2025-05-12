@@ -2049,6 +2049,7 @@ Date,Title,Sentiment,Source
 26/03/2025,"PS5 owners really want to play Xbox games, as Microsoft tops Sony’s preorder charts",0.2,News API
 26/03/2025,"Amazon Has Cut Its Margin on The Mac Mini M4, Now at a Record Low Price",0.0,News API
 26/03/2025,Microsoft’s account sign-in UI gets a new design and dark mode,-0.0068,News API
+26/03/2025,Microsoft rediseña el inicio de sesión para que te olvides de las contraseñas,0.0,News API
 27/03/2025,Intel Stock Could Soar If This Nvidia Rumor Is True,0.35,Alpha Vantage
 27/03/2025,"Big Data Analytics Market Size Expands at 13.5% CAGR, Expected to Hit $725.93 Billion by 2031 - Driven by AWS, FICO, HP and IBM - The Insight Partners",-0.05,Alpha Vantage
 27/03/2025,"Did Google Just Say ""Checkmate"" to CrowdStrike?",0.0,Alpha Vantage
@@ -2070,3 +2071,680 @@ Date,Title,Sentiment,Source
 27/03/2025,"SoftBank May Want To Outdo Microsoft With $40 Billion Investment in OpenAI's Latest Funding Round - SoftBank Group  ( OTC:SFTBF ) , SoftBank Group  ( OTC:SFTBY ) ",0.15,Alpha Vantage
 27/03/2025,Where Will Amazon Stock Be in 1 Year?,0.0,Alpha Vantage
 27/03/2025,Can the Tide Turn for 'Magnificent Seven' Stocks? ETFs in Focus,1.0,Alpha Vantage
+27/03/2025,M&A Watch: Buy Alphabet Stock Amid Plans to Acquire Cybersecurity Startup WIZ?,0.0,Alpha Vantage
+27/03/2025,What does CoreWeave's IPO say about the market?,0.0,Alpha Vantage
+27/03/2025,Microsoft Plans Proprietary AI To Power Business Software And Reduce OpenAI Dependence: Report - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+27/03/2025,"Death Cross Pattern Appears for NVIDIA Stock: Buy, Hold, or Sell?",0.0,Alpha Vantage
+27/03/2025,Sins of a Solar Empire II - Paths to Power DLC Pack and Major v1.4 Update Now Available,0.2313,Alpha Vantage
+27/03/2025,Agentic AI Set to Transform Industries in 2025: 4 Stocks to Watch,0.0,Alpha Vantage
+27/03/2025,Microsoft is giving its Office apps a speed boost,0.0,News API
+27/03/2025,"Nintendo May Avoid a Switch 2 Shortage, a Rarity in Gaming Hardware Launches",0.0,News API
+27/03/2025,Nintendo digital lending feature reveals ‘Switch 2 Edition’ games are on the way,0.0,News API
+27/03/2025,Vivaldi bundles Proton VPN into its web browser,0.0,News API
+28/03/2025,How to Tune Out Market Noise,0.0,Alpha Vantage
+28/03/2025,"EXCLUSIVE: Which Magnificent 7 Stock Will Perform Best In The Next 3 Months? New Poll Shows A Favorite  ( And It's Not Nvidia )  - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.5273,Alpha Vantage
+28/03/2025,Is IONQ Stock the Next NVIDIA and Worth Buying Now?,0.15,Alpha Vantage
+28/03/2025,CyberArk Stock Soars 17% in Six Months: Time to Hold or Fold?,0.0,Alpha Vantage
+28/03/2025,"Adobe Dips 11% YTD: Should You Buy, Sell or Hold the Stock?",0.0,Alpha Vantage
+28/03/2025,"New Inflation Data Dismays Bulls, CoreWeave IPO Shows Cooling AI Frenzy, Lululemon Shows Cautious Consumer Spending",0.1364,Alpha Vantage
+28/03/2025,"The Zacks Analyst Blog Highlights NVIDIA, Alphabet, Microsoft and AMD",0.0,Alpha Vantage
+28/03/2025,"The Zacks Analyst Blog Highlights CVS Health, Ulta Beauty, Progressive, AMD and Citigroup",0.0,Alpha Vantage
+28/03/2025,"PTC Launches Codebeamer 3.0 to Boost Speed, Quality & Sustainability",0.0,Alpha Vantage
+28/03/2025,Comparative Study: Microsoft And Industry Competitors In Software Industry - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+28/03/2025,"Bitcoin Falls To $85K, Altcoins Drop Ahead Of Inflation Data; Trump's Tariffs May Raise $800B, But Risks Loom; Tesla Faces EV Incentive Cuts In UK After Canada - Top Headlines While The U.S. Slept",0.5,Alpha Vantage
+28/03/2025,2 Incredible Growth Stocks I'm Buying Hand Over Fist,0.9,Alpha Vantage
+28/03/2025,Alibaba Deepens Partnership With BMW in China: Time to Buy the Stock?,0.0,Alpha Vantage
+28/03/2025,Just 3 Stocks Make Up 65% of the Bill & Melinda Gates Foundation Portfolio. Should They Be a Part of Yours?,0.0,Alpha Vantage
+28/03/2025,"Zacks Industry Outlook Highlights Microsoft, Open Text and ACI Worldwide",0.0,Alpha Vantage
+28/03/2025,Why This 1 Computer and Technology Stock Could Be a Great Addition to Your Portfolio,0.8,Alpha Vantage
+28/03/2025,Trading The SPY As PCE Inflation Report Takes Center Stage,-0.1,Alpha Vantage
+28/03/2025,"Prediction: This Artificial Intelligence  ( AI )  Stock Will Join Nvidia, Meta Platforms, Apple, Microsoft, Amazon, and Alphabet in the Trillion-Dollar Club By The End of The Decade",-0.6,Alpha Vantage
+28/03/2025,"Military Wearables Market Skyrockets to $5.93 Billion by 2031 | CAGR of 3.9%, Dominated by Tech Giants - ASELSAN, BAE Systems plc and Bionic Power Inc | The Insight Partners",-0.1,Alpha Vantage
+28/03/2025,3 Northern Mutual Funds for Solid Returns,0.0,Alpha Vantage
+28/03/2025,Should Strive 500 ETF  ( STRV )  Be on Your Investing Radar?,0.0,Alpha Vantage
+28/03/2025,Should Invesco Dividend Achievers ETF  ( PFM )  Be on Your Investing Radar?,0.0,Alpha Vantage
+28/03/2025,1 Crypto Stock That Could Go Parabolic,0.0,Alpha Vantage
+28/03/2025,3 Subtle Ways Warren Buffett Is Investing in the $15.7 Trillion Artificial Intelligence  ( AI )  Revolution,-0.4667,Alpha Vantage
+28/03/2025,Better Artificial Intelligence Stock: SoundHound AI vs. C3.ai,-0.05,Alpha Vantage
+28/03/2025,Prediction: 2 Stocks That Will Be Worth More Than Rigetti Computing 1 Year From Now,0.4,Alpha Vantage
+28/03/2025,"If You Only Invest in the Vanguard S&P 500 ETF, You're Missing Out on This Stellar Artificial Intelligence  ( AI )  Semiconductor Stock",-0.1375,Alpha Vantage
+28/03/2025,"Satya Nadella Admits China's DeepSeek Was A Wake-Up Call - Tells Microsoft Employees It's Time To Build Real Products - Microsoft  ( NASDAQ:MSFT ) , NVIDIA  ( NASDAQ:NVDA ) ",0.2,Alpha Vantage
+28/03/2025,"Nvidia-Backed CoreWeave's IPO Comes In Below Expectations At $40 Per Share - JPMorgan Chase  ( NYSE:JPM ) , Goldman Sachs Group  ( NYSE:GS ) ",0.0,Alpha Vantage
+28/03/2025,Microsoft President Calls For a National Talent Strategy For Electricians,0.0,News API
+28/03/2025,Microsoft tests Quick Machine Recovery to restore PCs that can’t boot,0.3333,News API
+28/03/2025,Windows 11 is closing a loophole that let you skip making a Microsoft account,0.0,News API
+28/03/2025,Microsoft could make account-free Windows 11 installs a thing of the past,-0.25,News API
+29/03/2025,Will the Nintendo Switch 2 Be Too Big?,0.0,Alpha Vantage
+29/03/2025,3 Quantum Computing Stocks That Could Make You a Millionaire,0.0,Alpha Vantage
+29/03/2025,"Bulls And Bears: Chevron, Microsoft, Nike - And Tariffs Have Automotive Sector Reeling - Carvana  ( NYSE:CVNA ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+29/03/2025,This Is the Top Mag 7 Stock to Buy Today,0.5,Alpha Vantage
+29/03/2025,Is the Roundhill Generative AI & Technology ETF a Millionaire Maker?,0.0,Alpha Vantage
+29/03/2025,Should You Forget Nvidia and Buy These 2 Artificial Intelligence  ( AI )  Stocks Instead?,-0.6,Alpha Vantage
+29/03/2025,"Microsoft Co-Founder Bill Gates Praises China As A Pioneer In Solar, Batteries, And AI: Warns Tensions Are Stifling Global Innovation - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2,Alpha Vantage
+29/03/2025,"Nvidia-Backed CoreWeave's CEO Defends Microsoft, OpenAI Revenue Concentration Due To 'Mind-Bendingly Large Deals - CoreWeave  ( NASDAQ:CRWV ) , IBM  ( NYSE:IBM ) ",0.0446,Alpha Vantage
+29/03/2025,"2 Ultra-Popular AI Stocks to Sell Before They Drop 52% and 61%, According to Certain Wall Street Analysts",0.2143,Alpha Vantage
+29/03/2025,Here Are the Top 3 Holdings in the Gates Foundation Portfolio,0.5,Alpha Vantage
+29/03/2025,2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade,-0.3,Alpha Vantage
+29/03/2025,"2 ""Magnificent Seven"" AI Stocks to Buy on the Dip",1.0,Alpha Vantage
+29/03/2025,When will physical video games go away?,0.0,News API
+30/03/2025,Is Oracle Stock a Buy Now?,0.0,Alpha Vantage
+30/03/2025,"Billionaire Bill Ackman Only Holds 1 Artificial Intelligence  ( AI )  Stock, and It's Trading for an Absolute Bargain Right Now. Time to Buy?",-0.0286,Alpha Vantage
+30/03/2025,Top Wall Street analysts are confident about the prospects for these 3 stocks,0.5,Alpha Vantage
+30/03/2025,"CoreWeave IPO, Elon Musk'x xAI Acquires X, Microsoft's Wake-Up Call, China's Huawei Makes Advances, And More: This Week In AI - CoreWeave  ( NASDAQ:CRWV ) , Alphabet  ( NASDAQ:GOOG ) ",0.5,Alpha Vantage
+30/03/2025,"Down 57% From All-Time Highs, Is This Quantum Computing Stock the Bargain of the Decade?",-0.1556,Alpha Vantage
+30/03/2025,"2 Stock-Split AI Stocks to Buy Before They Soar 85% and 105%, According to Certain Wall Street Analysts",0.2143,Alpha Vantage
+30/03/2025,The 50 best things Microsoft has ever made,1.0,News API
+30/03/2025,Microsoft Attempts To Close Local Account Windows 11 Setup Loophole,0.0,News API
+30/03/2025,NASA Wipes Graphic Novels About Women Astronauts From Its Websites,0.0,News API
+31/03/2025,"Stagflation Risk Rises - Prepare To Close The Barn Door Before The Horse Bolts, Apple's AI Doctor",0.0,Alpha Vantage
+31/03/2025,Industry Comparison: Evaluating Microsoft Against Competitors In Software Industry - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+31/03/2025,CoreWeave shares slump nearly 10% in second day of trading,0.05,Alpha Vantage
+31/03/2025,"The Market's Volatility, CoreWeave's IPO, Bitcoin's Future, and More",0.25,Alpha Vantage
+31/03/2025,"Trump's Sons Back 'American Bitcoin' With Hut 8; Gold Tops $3,100 Amid Tariff Jitters; Alibaba Expo Boosts US Orders 27% - Top Headlines While The U.S. Slept",0.1667,Alpha Vantage
+31/03/2025,Tyler Fortifies Public Sector Footprint With Hillsborough County Deal,0.0,Alpha Vantage
+31/03/2025,Striim Announces General Availability of SQL2Fabric-X to Accelerate Real-Time Data Replication & Insights,0.05,Alpha Vantage
+31/03/2025,Vodafone Advances Cybersecurity for Businesses in Germany,0.0,Alpha Vantage
+31/03/2025,The Surprising Upside of a Market Meltdown,0.7,Alpha Vantage
+31/03/2025,"Nasdaq Sell-Off: After Losing Nearly $800 Billion in Market Cap, Is Nvidia Stock a Buy Anymore? History Offers a Clear Indicator of What Could Happen Next.",0.075,Alpha Vantage
+31/03/2025,Ansys Lumerical Photonic Design Tools Certified by GlobalFoundries,0.0,Alpha Vantage
+31/03/2025,"Microsoft shutters AI lab in Shanghai, continuing China retreat",0.0,Alpha Vantage
+31/03/2025,"This Artificial Intelligence  ( AI )  Stock Is a ""Magnificent Seven"" Leader. But Is It a Buy?",0.2,Alpha Vantage
+31/03/2025,The Zacks Analyst Blog Highlights NVIDIA and IonQ,0.0,Alpha Vantage
+31/03/2025,How High Or Low Can The SPY Go Today?,0.08,Alpha Vantage
+31/03/2025,"insightsoftware Drives Global Expansion of JustPerform, a Financial Planning, Forecasting, and Closing Companion",0.0,Alpha Vantage
+31/03/2025,Varonis Achieves Sustaining Partner Status with Black Hat - Varonis Systems  ( NASDAQ:VRNS ) ,-0.1667,Alpha Vantage
+31/03/2025,"Market Outlook: What To Expect This Week - eBay  ( NASDAQ:EBAY ) , American International Gr  ( NYSE:AIG ) ",0.0,Alpha Vantage
+31/03/2025,Schneider Electric Demonstrates Technologies Shaping the Future of Industry at Hannover Messe 2025,0.0,Alpha Vantage
+31/03/2025,"""Rule Breaker Investing"" Mailbag: Chalkboard Wisdom and Favorite Words",0.5,Alpha Vantage
+31/03/2025,AI's vibe-coding era: How the shift to apps changed the race,0.0,Alpha Vantage
+31/03/2025,"Japan's Index Falls In Correction Territory, Europe Declines On Trade Fears; Gold Surges To New Record - Global Markets Today While US Slept - SmartETFs Asia Pacific Dividend Builder ETF  ( ARCA:ADIV ) ",0.0682,Alpha Vantage
+31/03/2025,"CoreWeave's 'Tough' IPO: A Warning Sign For AI Investors? Expert Flags Microsoft's Rejection - Alibaba Gr Hldgs  ( NYSE:BABA ) , CoreWeave  ( NASDAQ:CRWV ) ",-0.3889,Alpha Vantage
+31/03/2025,Should You Invest in the Technology Select Sector SPDR ETF  ( XLK ) ?,0.0,Alpha Vantage
+31/03/2025,Should BNY Mellon US Large Cap Core Equity ETF  ( BKLC )  Be on Your Investing Radar?,0.2143,Alpha Vantage
+31/03/2025,Is iShares MSCI ACWI Low Carbon Target ETF  ( CRBN )  a Strong ETF Right Now?,0.2397,Alpha Vantage
+31/03/2025,"Nvidia GPUs Power Jeff Bezos-Backed Figure AI As It Competes With Elon Musk's Tesla In Humanoid Robotics - Microsoft  ( NASDAQ:MSFT ) , NVIDIA  ( NASDAQ:NVDA ) ",0.0,Alpha Vantage
+31/03/2025,Billionaire Bill Gates Has 66% of His Foundation's $44 Billion Portfolio Invested in 3 Phenomenal Stocks,0.5,Alpha Vantage
+31/03/2025,Billionaire Stanley Druckenmiller Sells Microsoft Stock and Buys a Brilliant Stock Up 334% in 5 Years,0.9,Alpha Vantage
+31/03/2025,Innofactor Plc applies for the delisting of its shares from the official list of Nasdaq Helsinki,0.0,Alpha Vantage
+31/03/2025,"OpenAI And Microsoft Back MCP Standard For Web-Surfing AI Agents; Google's Sundar Pichai Asks A Shakespearean Question - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",0.0,Alpha Vantage
+31/03/2025,MARA Holdings plans huge $2B stock offering to buy more Bitcoin,0.45,Alpha Vantage
+31/03/2025,Did Apple Just Give Nvidia Investors 1 Billion Reasons to Celebrate?,0.0,Alpha Vantage
+31/03/2025,Microsoft expands AI features across Intel and AMD-powered Copilot Plus PCs,0.0,News API
+31/03/2025,"As Microsoft Turns 50, Four Employees Remember Its Early Days",0.1,News API
+31/03/2025,Microsoft is Redesigning the Windows BSOD And It Might Change To Black,-0.1667,News API
+31/03/2025,Intel and Microsoft Staff Allegedly Lured To Work For Fake Chinese Company In Taiwan,-0.2,News API
+31/03/2025,Copilot Can't Beat a 2013 'TouchDevelop' Code Generation Demo for Windows Phone,0.0,News API
+31/03/2025,Microsoft schließt bekannte Lücke bei Windows-Installation ohne Microsoft-Konto,0.0,News API
+01/04/2025,"EXCLUSIVE: March's 20 Most-Searched Tickers On Pro - Where Do Tesla, Nvidia, Apple, Applovin Stock Rank? - Apple  ( NASDAQ:AAPL ) , Aclarion  ( NASDAQ:ACON ) ",-0.8,Alpha Vantage
+01/04/2025,NowVertical Reports Record 2024 Financial Results,0.0,Alpha Vantage
+01/04/2025,IPO Mania: What's Going on With Newsmax Shares?,0.0,Alpha Vantage
+01/04/2025,PayPal Stock's Death Cross Looms - Will It Trigger A Turnaround? - PayPal Holdings  ( NASDAQ:PYPL ) ,0.0,Alpha Vantage
+01/04/2025,Looking At Microsoft's Recent Unusual Options Activity - Microsoft  ( NASDAQ:MSFT ) ,0.1,Alpha Vantage
+01/04/2025,ESET Transforms Cyber Threat Intelligence Offering with New Feeds and APT Report Tiers,0.3682,Alpha Vantage
+01/04/2025,Courtroom Clash - 'No Thank You' Sparks Lawsuit as Altman Shuts Down Musk's $97.4B Bid - Microsoft  ( NASDAQ:MSFT ) ,-0.1556,Alpha Vantage
+01/04/2025,"Here Is How The Stock Market Will Move After Trump's Tariff Reveal On Liberation Day - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , Alphabet  ( NASDAQ:GOOG ) ",0.0,Alpha Vantage
+01/04/2025,"SoftBank Weighs $16.5 Billion Loan That Could Back OpenAI's $40 Billion Raise: Report - SoftBank Group  ( OTC:SFTBF ) , SoftBank Group  ( OTC:SFTBY ) ",0.0,Alpha Vantage
+01/04/2025,Arista Networks's Options: A Look at What the Big Money is Thinking - Arista Networks  ( NYSE:ANET ) ,0.0,Alpha Vantage
+01/04/2025,"CoreWeave shares bounce 12%, rising above IPO price",0.0,Alpha Vantage
+01/04/2025,"Is AI Another Dot-Com Bubble? In Some Ways, Yes!",0.0,Alpha Vantage
+01/04/2025,Analyzing Microsoft In Comparison To Competitors In Software Industry - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+01/04/2025,10 Stocks of the S&P 500 ETF Up More Than 20% in Q1,0.5,Alpha Vantage
+01/04/2025,"Zacks Investment Ideas feature highlights: Amazon, Meta Platforms, Microsoft, Apple, Alphabet, Tesla and Nvidia",0.0,Alpha Vantage
+01/04/2025,Multiple Amici Support Supreme Court Cert Petition on Privacy for Records Shared with Third Parties,0.0,Alpha Vantage
+01/04/2025,Virtru Data Security Platform Achieves StateRAMP Authorization,0.0,Alpha Vantage
+01/04/2025,"The Rise of Small Language Model Market: A $5.45 billion Industry Dominated by Tech Giants - Microsoft  ( US ) , IBM  ( US ) , and Mistral AI  ( France ) | MarketsandMarkets™",-0.25,Alpha Vantage
+01/04/2025,"This Official Office Pro License Is Cheaper Than It Was on Black Friday, Now at a Record Low Price",-0.0833,News API
+01/04/2025,I quit my Big 4 accounting career to fry chicken. Working in corporate is like being stuck in the matrix — I'll never go back.,-0.15,News API
+01/04/2025,"Forget Black Friday, This 15″ HP Laptop With 512GB of Storage Is Dirt Cheap (Now 40% Off)",0.1167,News API
+01/04/2025,HP Pavilion Plus 14 (2025) Review: Affordable OLED Laptop With a Fatal Flaw,0.0,News API
+01/04/2025,La IA de Word ahora puede resumir documentos de miles de páginas,0.0,News API
+02/04/2025,HBAR Foundation joins OnlyFans founder startup to bid on TikTok,0.0,Alpha Vantage
+02/04/2025,RingCentral Plunges 28% YTD: Should You Buy the Stock on the Dip?,0.0,Alpha Vantage
+02/04/2025,"Booming Small Language Model Market: AI Training, Chatbots & More Fuel 17.8% CAGR Growth | Valuates Reports",0.125,Alpha Vantage
+02/04/2025,"Gold Outshines Tech Stocks And Bitcoin, As Bulls And Bears Battle Ahead Of Trump Tariff Announcement",0.0,Alpha Vantage
+02/04/2025,CoreWeave IPO: Is this Fast-Growing AI Stock a Buy Right Now?,0.2857,Alpha Vantage
+02/04/2025,Understanding Microsoft's Position In Software Industry Compared To Competitors - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+02/04/2025,ServiceNow vs. Atlassian: Which ITSM Provider Has Greater Upside?,0.5,Alpha Vantage
+02/04/2025,Advanced Micro Devices Options Trading: A Deep Dive into Market Sentiment - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.2667,Alpha Vantage
+02/04/2025,"Pre-Markets Down Again on ""Liberation Day""",-0.1556,Alpha Vantage
+02/04/2025,"ANSS Sets CFD Simulation Record Using AMD GPUs, Frontier Supercomputer",0.0,Alpha Vantage
+02/04/2025,2 Cheap Tech Stocks I'm Buying Right Now,0.3429,Alpha Vantage
+02/04/2025,"The Zacks Analyst Blog Highlights Microsoft, Alphabet, Nvidia and Amazon",0.0,Alpha Vantage
+02/04/2025,Is Most-Watched Stock Microsoft Corporation  ( MSFT )  Worth Betting on Now?,0.3,Alpha Vantage
+02/04/2025,Is Amazon Stock Worth Holding Now on NOVA AI's Potential?,0.15,Alpha Vantage
+02/04/2025,3 Brilliant Quantum Computing Stocks I'm Buying Now,0.9,Alpha Vantage
+02/04/2025,"Nvidia's Revenue Wouldn't Be 'Impacted...At All' If It Didn't Invest In CoreWeave: Analyst Explains Reason Behind Neo Cloud Investments - CoreWeave  ( NASDAQ:CRWV ) , Amazon.com  ( NASDAQ:AMZN ) ",-0.4,Alpha Vantage
+02/04/2025,NetBox Labs Announces Availability of NetBox Assurance,0.0,Alpha Vantage
+02/04/2025,NetBox Labs Announces Availability of NetBox Assurance,0.0,Alpha Vantage
+02/04/2025,Billionaire Israel Englander Jettisoned Shares of Nvidia and Microsoft and Is Piling Into 2 High-Growth Tech Stocks,0.0,Alpha Vantage
+02/04/2025,"2 Simple ETFs to Buy With $1,000 and Hold for a Lifetime",0.0,Alpha Vantage
+02/04/2025,"How Much Further Can the ""Magnificent Seven"" Fall? Here's What History Suggests.",0.5,Alpha Vantage
+02/04/2025,These 2 Vanguard ETFs Have Over 10% of Assets in Nvidia Stock. Here's Why Both Growth Funds Are Great Buys Now.,0.8,Alpha Vantage
+02/04/2025,Artlist Introduces the AI Video Generator Built for Video Creators,0.0,Alpha Vantage
+02/04/2025,"Tesla Short Interest Soars To 21.16%, Making It 4th Most Shorted Stock Currently: Here's What Its Charts Indicate - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",0.1667,Alpha Vantage
+02/04/2025,Is iShares U.S. Equity Factor ETF  ( LRGF )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+02/04/2025,2 Growth Stocks and 1 ETF to Buy Even If the Stock Market Keeps Falling in 2025,0.0,Alpha Vantage
+02/04/2025,Does Nvidia-Backed CoreWeave's Lackluster IPO Signal the AI Stock Boom Is Officially Over?,0.0,Alpha Vantage
+02/04/2025,Where Will SoundHound AI Be in 3 Years?,0.0,Alpha Vantage
+02/04/2025,"CoreWeave Surges 42% In Post-IPO Rally As Nvidia-Backed AI Firm Recovers From Weak Debut - CoreWeave  ( NASDAQ:CRWV ) , Galaxy Digital Holdings  ( OTC:BRPHF ) ",-0.1917,Alpha Vantage
+02/04/2025,Oracle Recently Delivered Incredible News for Advanced Micro Devices  ( AMD )  Stock Investors,0.4333,Alpha Vantage
+02/04/2025,"Nvidia Rival AMD Completes $4.9B Acquisition Of ZT Systems To Strengthen AI And Data Center Dominance - Alphabet  ( NASDAQ:GOOGL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.15,Alpha Vantage
+02/04/2025,Better AI Stock: Amazon vs. Oracle,0.5,Alpha Vantage
+02/04/2025,Treasury Secretary Bessent says market woes are more about tech stock sell-off than Trump's tariffs,0.5,Alpha Vantage
+02/04/2025,Bill Gates Publishes Original Microsoft Source Code in a Blog Post,0.375,News API
+02/04/2025,"AV1 is supposed to make streaming better, so why isn’t everyone using it?",0.5,News API
+02/04/2025,Bill Gates Celebrates Microsoft's 50th By Releasing Altair BASIC Source Code,0.0,News API
+03/04/2025,"Mozilla's Thunderbird Evolves With Thundermail And Pro Features To Compete With Gmail, Microsoft 365 In The Email Wars - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",0.0,Alpha Vantage
+03/04/2025,Prediction: 4 Artificial Intelligence  ( AI )  Stocks That Could Be Worth More Than Apple by 2030,0.0667,Alpha Vantage
+03/04/2025,"Google In Talks To Rent Nvidia's Blackwell Chips From CoreWeave: Report - CoreWeave  ( NASDAQ:CRWV ) , Broadcom  ( NASDAQ:AVGO ) ",0.0,Alpha Vantage
+03/04/2025,Prediction: IonQ Could Surge by 200% in the Next 3 Years,0.0,Alpha Vantage
+03/04/2025,1 No-Brainer Artificial Intelligence  ( AI )  ETF to Buy With $40 During the S&P 500 Sell-Off,-0.6,Alpha Vantage
+03/04/2025,1 Glorious Growth Stock Down 73% to Buy on the Dip During the Nasdaq Correction,-0.1556,Alpha Vantage
+03/04/2025,Hackers are selling counterfeit phones with crypto-stealing malware,0.0,Alpha Vantage
+03/04/2025,"Peter Thiel-Backed Nonprofit Sentient Aims To Be America's DeepSeek, Takes Aim At Closed AI Systems - Microsoft  ( NASDAQ:MSFT ) , NVIDIA  ( NASDAQ:NVDA ) ",-0.1,Alpha Vantage
+03/04/2025,OnlyFans Founder's New Startup and Hbar Foundation Submit Bid for TikTok,0.1364,Alpha Vantage
+03/04/2025,Looking Ahead to the Q1 Earnings Season,0.0,Alpha Vantage
+03/04/2025,Looking Ahead to the Q1 Earnings Season,0.0,Alpha Vantage
+03/04/2025,Here's How Much $1000 Invested In Microsoft 20 Years Ago Would Be Worth Today - Microsoft  ( NASDAQ:MSFT ) ,0.25,Alpha Vantage
+03/04/2025,Can AMD Outperform NVIDIA? Let's See if the Stock is Worth Buying Now,0.3,Alpha Vantage
+03/04/2025,Mag 7 relinquishes more than $800 billion as tech drives stock market nosedive,0.5,Alpha Vantage
+03/04/2025,Can Nice's AI-powered Fraud Prevention Platform Push the Stock Higher?,0.425,Alpha Vantage
+03/04/2025,Tariffs Will Provide Great Buying Opportunity In Long Term - Investors Must First Cross Stagflation Chasm,0.25,Alpha Vantage
+03/04/2025,Oracle's AI Bet: Overbuilt Or Future-Proof? Analyst Weighs In - Oracle  ( NYSE:ORCL ) ,0.0,Alpha Vantage
+03/04/2025,ClearOne Slides on Q4 Loss Despite Cost Cuts & Latest Launches,0.5,Alpha Vantage
+03/04/2025,Adobe Expands Portfolio with AI Solution: Buy or Hold the Stock?,0.0,Alpha Vantage
+03/04/2025,Nokia recognized as a Visionary in 2025 GartnerÒ Magic Quadrant™ for Data Center Switching,0.2,Alpha Vantage
+03/04/2025,Inquiry Into Microsoft's Competitor Dynamics In Software Industry - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+03/04/2025,Privileged Access Management  ( PAM )  Market Disruptions: The $7.39 Billion Opportunity Vendors Can't Afford to Miss,0.0,Alpha Vantage
+03/04/2025,Gold Tops Bitcoin As Inflation Hedge; Metals Exempt From Trump Tariffs As White House Eyes Industry Boost; Chinese Tech Giants Order $16B In Nvidia Chips Amid AI Boom - Top Headlines While The US Slept,0.1667,Alpha Vantage
+03/04/2025,"Zacks Earnings Trends Highlights: Meta Platforms, Tesla, Nvidia, Alphabet and Microsoft",0.0,Alpha Vantage
+03/04/2025,"As Microsoft Turns 50, Bill Gates Shares The Original Code That Started It All: 'That Was The Revolution' - Apple  ( NASDAQ:AAPL ) , Intel  ( NASDAQ:INTC ) ",0.375,Alpha Vantage
+03/04/2025,"Alibaba Steps Up AI Game With Qwen 3, Challenging DeepSeek's Low-Cost AI Success - Alibaba Gr Hldgs  ( NYSE:BABA ) ",0.1333,Alpha Vantage
+03/04/2025,"Questrade introduces $0 commission, real-time fractional stock and ETF trading, reminding Canadians there's no better time to Get Yours",-0.25,Alpha Vantage
+03/04/2025,Nasdaq-100 Sees Worst Quarter in 3 Years: What Lies Ahead for ETFs?,-1.0,Alpha Vantage
+03/04/2025,"2 Top Energy Stocks to Buy in April for Long-Term AI Growth: CEG, GEV",0.5,Alpha Vantage
+03/04/2025,Should Schwab U.S. Large-Cap ETF  ( SCHX )  Be on Your Investing Radar?,0.0,Alpha Vantage
+03/04/2025,Should SPDR MSCI USA StrategicFactors ETF  ( QUS )  Be on Your Investing Radar?,0.0,Alpha Vantage
+03/04/2025,Is Fidelity High Dividend ETF  ( FDVV )  a Strong ETF Right Now?,0.293,Alpha Vantage
+03/04/2025,Windows 11 tests taskbar icons that scale up and down like on a Mac,-0.1556,News API
+03/04/2025,Microsoft CTO breaks down how he sees software developer jobs evolving in the next 5 years,-0.0778,News API
+03/04/2025,"Intel Unison, a powerful free app bridging Android phones and PCs, is shutting down",0.1815,News API
+03/04/2025,Microsoft reportedly pulls back on its data center plans,-0.05,News API
+03/04/2025,A Very Trippy Look at Microsoft’s Beginnings,0.2,News API
+04/04/2025,Beyond the Correction: 1 Artificial Intelligence  ( AI )  Stock With Long-Term Growth Potential,-0.3,Alpha Vantage
+04/04/2025,"Bitcoin Is 'The Best Of Tech,' Standard Chartered Says",0.5,Alpha Vantage
+04/04/2025,"Elon Musk, Mark Zuckerberg And Jensen Huang See $34 Billion Wiped Out In A Single Day: Here's How Much Other 'Magnificent 7' Billionaires Lost After Trump's Liberation Day - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.2679,Alpha Vantage
+04/04/2025,"The Best Nasdaq ETF to Invest $1,000 in Right Now",0.6429,Alpha Vantage
+04/04/2025,Should Vanguard Russell 1000 ETF  ( VONE )  Be on Your Investing Radar?,0.0,Alpha Vantage
+04/04/2025,"2 ""Magnificent Seven"" Stocks Down 19% and 25% You'll Wish You'd Bought on the Dip",0.4222,Alpha Vantage
+04/04/2025,3 Important Numbers to Know for Bitcoin Investors,0.4,Alpha Vantage
+04/04/2025,Jensen Huang Recently Delivered Incredible News for Nvidia Investors,0.45,Alpha Vantage
+04/04/2025,"Top Analyst Cautions 'Economic Armageddon' For Tech Sector If Current Tariffs Stay: 'This Is As Nervous As I've Seen Investors Since Covid' - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",0.2333,Alpha Vantage
+04/04/2025,"Trump's Reciprocal Tariffs Threaten To Derail Big Tech's Billion-Dollar AI Infrastructure Plans, Analyst Singles Out This OpenAI-Linked Project As Likely To Get Hit - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.1333,Alpha Vantage
+04/04/2025,"AI could affect 40% of jobs and widen inequality between nations, UN warns",0.0,Alpha Vantage
+04/04/2025,OpenAI Makes ChatGPT Free for Millions of North American College Students,0.2,Alpha Vantage
+04/04/2025,Microsoft turns 50,0.0,News API
+04/04/2025,All of the news from Microsoft’s 50th Anniversary Copilot event,0.0,News API
+04/04/2025,Microsoft is now 50 years old,0.1,News API
+04/04/2025,How Microsoft made it through 50 years,0.0,News API
+04/04/2025,Microsoft Copilot can now use the web on your behalf,0.0,News API
+04/04/2025,Microsoft updates Copilot with the greatest hits from other AIs,0.4375,News API
+04/04/2025,Microsoft CEOs interrupted by another employee protestor: ‘shame on all of you’,0.0,News API
+04/04/2025,Microsoft brings Copilot Vision to Windows and mobile for AI help in the real world,0.2,News API
+04/04/2025,Here’s the original source code for Microsoft’s very first product,0.35,News API
+04/04/2025,How tariffs will change your gadgets,0.0,News API
+04/04/2025,Microsoft dice que DeepSeek es el nuevo estándar de IA,0.0,News API
+04/04/2025,Microsoft turns 50: A look back at everything from the Altair to the Zune,0.0,News API
+04/04/2025,"This Week in Security: Target Coinbase, Leaking Call Records, and Microsoft Hotpatching",0.0,News API
+04/04/2025,The AI industry doesn’t know if Trump just killed its GPU supply,-0.2,News API
+05/04/2025,What Bill Gates says he got 'wrong' and was 'pretty naive' about in Microsoft's early days,-0.1125,News API
+05/04/2025,Check out Microsoft's original source code from 50 years ago that Bill Gates calls 'the coolest code' he's ever written,0.375,News API
+05/04/2025,Tim Sweeney’s Praise for Microsoft,0.0,News API
+06/04/2025,Ben Eater vs. Microsoft BASIC,0.0,News API
+06/04/2025,"Microsoft's Copilot Roasts Bill Gates, Steve Ballmer, and Satya Nadella",0.0,News API
+07/04/2025,Microsoft fires employee protestor who called AI boss a ‘war profiteer’,0.0,News API
+07/04/2025,IGDA Foundation appoints Shannon Loftis as new chair,0.1364,News API
+08/04/2025,Jim Cramer says the market can't keep up with President Trump,0.0,Alpha Vantage
+08/04/2025,Dell Technologies vs HPE: Which AI Server Stock Has Greater Upside?,0.5,Alpha Vantage
+08/04/2025,"Trump Tariff Strategy Creates 'Self-Inflicted Market Debacle': Analyst - Apple  ( NASDAQ:AAPL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+08/04/2025,Nerdio Manager for Enterprise 7.0 Launches to Enhance Windows 365 and Cloud Desktop Management,0.0,Alpha Vantage
+08/04/2025,Oracle Chart Flatlines As Death Cross Adds To Tech Stock's Tough Month - Oracle  ( NYSE:ORCL ) ,-0.1944,Alpha Vantage
+08/04/2025,"Jenny Harrington: The basics of income investing, and why it's especially important now in this turbulent market",0.8,Alpha Vantage
+08/04/2025,"Death Cross Alert: Alphabet Stock Drops The Signal, Bears Pick It Up - Alphabet  ( NASDAQ:GOOGL ) ",0.0,Alpha Vantage
+08/04/2025,The Nasdaq Is Officially in a Bear Market. Here's Why History Says Investors Shouldn't Panic.,0.0,Alpha Vantage
+08/04/2025,Operational Technology  ( OT )  Security Market Disruptions: The $11.3 Billion Opportunity Vendors Can't Afford to Miss,0.0,Alpha Vantage
+08/04/2025,Wall Street Looks To Rebound As Futures Rise After $9 Trillion Tariff Selloff; Bitcoin Outperforms Big Tech; Apple Demand Surges Amid Iphone Price Hike Fears - Top Headlines While the U.S. Slept,0.25,Alpha Vantage
+08/04/2025,"SPY, IVV, VOO Battle for Top ETF Crown Amid S&P 500 Swings",0.5,Alpha Vantage
+08/04/2025,How To Trade The Market Amid Tariff News - SPDR S&P 500  ( ARCA:SPY ) ,0.0,Alpha Vantage
+08/04/2025,"Prediction: After Losing Over $1 Trillion in Market Cap This Year, Nvidia Stock Will Rebound in Epic Fashion. Here's Why.",0.1,Alpha Vantage
+08/04/2025,AT&T Soars 59% in the Past Year: Should You Invest in T Stock Now?,-0.25,Alpha Vantage
+08/04/2025,New to Investing? This 1 Computer and Technology Stock Could Be the Perfect Starting Point,0.3788,Alpha Vantage
+08/04/2025,Plarium Announces Second Annual Community Weeks Event In RAID: Shadow Legends,0.0,Alpha Vantage
+08/04/2025,"HUMBL, Inc. Announces Joint Venture Agreement with MultiCortex to Expand its Artificial Intelligence  ( AI )  Distribution",-0.6,Alpha Vantage
+08/04/2025,3 Tech ETFs on Sale Now,0.0,Alpha Vantage
+08/04/2025,Aligned Data Centers Announces the Appointment of Billie Haggard as Chief Facility Operations Officer,0.0,Alpha Vantage
+08/04/2025,Aligned Data Centers Announces the Appointment of Billie Haggard as Chief Facility Operations Officer,0.0,Alpha Vantage
+08/04/2025,"If You Invested $1000 in GameStop a Decade Ago, This is How Much It'd Be Worth Now",0.3,Alpha Vantage
+08/04/2025,"Ant Group's tech unit picks Hong Kong for global headquarters amid AI, Web3 push",0.0,Alpha Vantage
+08/04/2025,Global Objects Partners with XGRIDS to Bring Cutting-Edge 3D Technology to Media & Entertainment,0.0,Alpha Vantage
+08/04/2025,Meet the Dow Jones Dividend Stock That Is Hovering Around an All-Time High Despite the Stock Market Sell-Off,0.16,Alpha Vantage
+08/04/2025,Real World Assets  ( RWA Inc. )  Appoints Stephen Schueler to Board of Directors,0.2,Alpha Vantage
+08/04/2025,Is C3.ai a Top AI Stock to Buy on the Dip?,0.5,Alpha Vantage
+08/04/2025,"Despite Tariff Turmoil, Bitcoin Outperforms 'Magnificent 7' Stocks In 2025 - Records Smaller Losses Than Nvidia, Tesla, Apple - Apple  ( NASDAQ:AAPL ) ",0.5,Alpha Vantage
+08/04/2025,Should You Invest in the iShares U.S. Technology ETF  ( IYW ) ?,0.0,Alpha Vantage
+08/04/2025,Should Invesco NASDAQ 100 ETF  ( QQQM )  Be on Your Investing Radar?,0.0,Alpha Vantage
+08/04/2025,Is Franklin U.S. Large Cap Multifactor Index ETF  ( FLQL )  a Strong ETF Right Now?,0.3111,Alpha Vantage
+08/04/2025,Stock Market Crash: Here Are 5 Stocks Down 27% or More I'd Buy Right Now,0.2101,Alpha Vantage
+08/04/2025,Is the Vanguard Value ETF the Best Ultra-Low-Cost Fund for Generating Passive Income?,1.0,Alpha Vantage
+08/04/2025,"Wall Street Eyes Recovery As S&P 500, Nasdaq Futures Rise After Trump's Tariff-Driven Selloff Wipes Out $9 Trillion In Six Weeks - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+08/04/2025,"Phoebe Gates says her father, Bill Gates, wouldn't let her drop out of college to start a business like he did",0.0,News API
+08/04/2025,Microsoft rediseña el menú de inicio de Windows 11 y pone fin a una de sus funciones más odiadas,0.0,News API
+08/04/2025,Palestinian-led BDS movement adds Microsoft’s Xbox as priority boycott target,0.0,News API
+08/04/2025,"La mejor suite en productividad desde 15,29 euros: Excel, Word, PowerPoint con un descuento histórico",0.0,News API
+09/04/2025,21Shares Launches Dogecoin Fund Backed By Dogecoin Foundation,0.0,Alpha Vantage
+09/04/2025,Quantum Computing Is a Hot Topic in the Artificial Intelligence Sector. But Which Stocks Will Still be Around Decades From Now?,-0.175,Alpha Vantage
+09/04/2025,Kaspersky Flags Malware on SourceForge That Tricks Victims Into Sending Attackers Their Crypto,0.0,Alpha Vantage
+09/04/2025,Should Motley Fool 100 Index ETF  ( TMFC )  Be on Your Investing Radar?,0.6,Alpha Vantage
+09/04/2025,4th gen crypto needs collaborative tokenomics against tech giants - Hoskinson,0.0,Alpha Vantage
+09/04/2025,"Got $3,000? 2 Artificial Intelligence  ( AI )  Stocks to Buy and Hold for the Long Term",-0.325,Alpha Vantage
+09/04/2025,3 Unstoppable Stocks That You Can Buy and Hold for Years,0.0,Alpha Vantage
+09/04/2025,Where Will Nvidia Stock Be in 3 Years?,0.0,Alpha Vantage
+09/04/2025,The Nasdaq Just Moved From a Correction to a Bear Market. Here's How Long It Could Last.,-0.025,Alpha Vantage
+09/04/2025,Prediction: This Relentless Vanguard ETF Will Beat the S&P 500 Again in 2025,0.0,Alpha Vantage
+09/04/2025,2 No-Brainer Artificial Intelligence  ( AI )  Stocks to Buy Right Now,-0.1571,Alpha Vantage
+09/04/2025,Nvidia and Palantir Are Down 37% and 41% From Their Respective All-Time High -- but It Isn't Time to Buy Just Yet,0.0015,Alpha Vantage
+09/04/2025,21Shares Forms Exclusive Partnership with the House of Doge to Launch Dogecoin ETP in Europe,0.0,Alpha Vantage
+09/04/2025,AI Is Quietly Reshaping How Companies Screen Resumes - Nearly Half Of Hiring Managers Now Use It,-0.0833,Alpha Vantage
+09/04/2025,Hackers hide crypto address-swapping malware in Microsoft Office add-in bundles,0.0,Alpha Vantage
+09/04/2025,Prediction: This Artificial Intelligence  ( AI )  Stock Will Be Worth More Than Nvidia in 2030,0.0667,Alpha Vantage
+09/04/2025,"Technology Stocks Outperform After Trump's Tariff Pause: Microchip Technology, AMD Lead Sector Higher - SPDR Select Sector Fund - Technology  ( ARCA:XLK ) ",0.25,Alpha Vantage
+09/04/2025,Time to Buy Broadcom  ( AVGO )  Stock as Markets Rip Higher,0.25,Alpha Vantage
+09/04/2025,The Stock Market Has Crashed: My Top 5 Dirt Cheap Tech Stocks to Buy Now,0.45,Alpha Vantage
+09/04/2025,"Here's How You Can Turn $50,000 Into $1 Million by Retirement",0.0,Alpha Vantage
+09/04/2025,"Chip Stocks Surge As Trump Pauses Tariffs For US Allies, Targets China With 125% Duties - ARM Holdings  ( NASDAQ:ARM ) ",0.0,Alpha Vantage
+09/04/2025,TQQQ Surges Over 35% In Tech-Led Rebound Following Trump's Tariff Pause - ProShares UltraPro QQQ  ( NASDAQ:TQQQ ) ,0.0,Alpha Vantage
+09/04/2025,US Dollar Index  ( DXY )  falls close to level that was followed by 500%+ Bitcoin price rallies,0.0,Alpha Vantage
+09/04/2025,"AMD Powers Google Cloud's New AI Servers Promising 80% Boost In Speed - Alphabet  ( NASDAQ:GOOGL ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.2455,Alpha Vantage
+09/04/2025,AMD vs. Broadcom: Which Semiconductor Stock Has Greater Upside?,0.5,Alpha Vantage
+09/04/2025,These might be Microsoft’s new Office icons,0.1364,News API
+09/04/2025,Microsoft Cancels $1 Billion Ohio Data Center Projects,-0.1,News API
+09/04/2025,"Microsoft mulls more job cuts, this time focused on managers and non-coders, not just low-performers, sources say",0.5,News API
+09/04/2025,Microsoft rediseña los íconos de Office para hacerlos más intuitivos,0.0,News API
+09/04/2025,Apple Dethroned by Microsoft As Top-Valued Company Amid Tariff Fears,0.0,News API
+09/04/2025,Microsoft advierte: uno de los programas más antiguos de Windows dejará de funcionar en menos de 30 días,0.0,News API
+09/04/2025,Windows 10: Rechner-Recycling zum Support-Ende,0.0,News API
+10/04/2025,"SBF Ends Up in 'Victimville', One of the Most Violent Prisons in California",-0.15,Alpha Vantage
+10/04/2025,"Western Digital Stock Is Attractive, Backed By Cheap Valuation And AI Surge: Analyst - Western Digital  ( NASDAQ:WDC ) ",0.2,Alpha Vantage
+10/04/2025,2 More Defensive Small Caps,0.125,Alpha Vantage
+10/04/2025,"Microsoft At Heart Of 'Tariff Armageddon': Analyst Flags Deal Delays, Expects Fallout To Hit Upcoming Earnings Season - Microsoft  ( NASDAQ:MSFT ) ",0.0,Alpha Vantage
+10/04/2025,AvePoint to Announce First Quarter 2025 Financial Results on May 8,0.125,Alpha Vantage
+10/04/2025,AvePoint to Announce First Quarter 2025 Financial Results on May 8 - AvePoint  ( NASDAQ:AVPT ) ,0.125,Alpha Vantage
+10/04/2025,Unpacking the Latest Options Trading Trends in Arista Networks - Arista Networks  ( NYSE:ANET ) ,0.5,Alpha Vantage
+10/04/2025,Salesforce Plunges 21% YTD: Is CRM Stock Worth Retaining?,0.3,Alpha Vantage
+10/04/2025,"Can Palantir Outperform NVIDIA, and Should You Buy the Stock?",0.0,Alpha Vantage
+10/04/2025,Why Microsoft Stock Is Falling Hard Today,-0.2917,Alpha Vantage
+10/04/2025,AMD's EPYC Powers GOOGL & ORCL Solutions: Should You Hold the Stock?,0.0,Alpha Vantage
+10/04/2025,The Real Reason Behind Trump's Tariff Reversals - SPDR S&P 500  ( ARCA:SPY ) ,-0.1,Alpha Vantage
+10/04/2025,"Bitcoin Falls To $78K As Market Jitters; Trump Halts Tariffs After Bond Yield Spike; US-China Tensions Spark Visa Cancellations, Strain Academic Ties - Top Headlines While the US Slept",0.25,Alpha Vantage
+10/04/2025,Digital Threat Intelligence Management  ( DTIM )  Market Disruptions: Riding a High-Growth Wave Through 2030 at CAGR 15.36%,0.0,Alpha Vantage
+10/04/2025,Microsoft  ( MSFT )  technical analysis - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+10/04/2025,"Bitcoin Could Surge To $250,000, Says Cardano Co-Founder Charles Hoskinson",0.0,Alpha Vantage
+10/04/2025,"Unlock the best games with Robert Lewandowski in an exclusive ""G2A Unlocked"" video podcast",1.0,Alpha Vantage
+10/04/2025,Cloudflare vs. Radware: Which DDoS Stock is the Stronger Play?,0.0,Alpha Vantage
+10/04/2025,how-to-trade-SPY-as-inflation-cools,0.0,Alpha Vantage
+10/04/2025,"This COVID Growth Stock, Down 88% From Its Peak, May Be A Hidden Gem Amid Trump's Tariffs",-0.1611,Alpha Vantage
+10/04/2025,Trump's Tariff Pause Triggers Epic Rally: How to Play Mag 7 Now,0.1,Alpha Vantage
+10/04/2025,"Docusign Benefits From eSignature Demand, Low Liquidity Ails",0.0,Alpha Vantage
+10/04/2025,"Tech Sector Entering A Period Of 'Mass Uncertainty' Amid Tariffs And Upcoming Earnings Season, Says Dan Ives: 'The Damage Is Real' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.2,Alpha Vantage
+10/04/2025,Microsoft Shelves $1 Billion Ohio Data Center Plans Amid Global Project Withdrawals: 'We Are Slowing Or Pausing Some Early-Stage Projects' - Microsoft  ( NASDAQ:MSFT ) ,-0.05,Alpha Vantage
+10/04/2025,Konsolidator enters partnership with Exsitec to accelerate growth in the Nordics,0.0,Alpha Vantage
+10/04/2025,Should You Invest in the iShares Expanded Tech-Software Sector ETF  ( IGV ) ?,0.0,Alpha Vantage
+10/04/2025,Should iShares S&P 500 Growth ETF  ( IVW )  Be on Your Investing Radar?,0.0,Alpha Vantage
+10/04/2025,Is Schwab Fundamental U.S. Broad Market ETF  ( FNDB )  a Strong ETF Right Now?,0.2605,Alpha Vantage
+10/04/2025,Should You Invest in the Vanguard Information Technology ETF  ( VGT ) ?,0.0,Alpha Vantage
+10/04/2025,Should Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF  ( GSLC )  Be on Your Investing Radar?,0.2143,Alpha Vantage
+10/04/2025,Is WisdomTree U.S. LargeCap Dividend ETF  ( DLN )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+10/04/2025,"Microsoft Stock Had A Rough Ride Over The Past Year And The Satya Nadella-Led Company Is Now Mulling More Job Cuts - This Time Focused On Managers And Non-Coders - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",0.05,Alpha Vantage
+10/04/2025,4 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade,-0.3,Alpha Vantage
+10/04/2025,3 Top Vanguard ETFs to Buy With the S&P 500 in Correction,0.5,Alpha Vantage
+10/04/2025,"Trump Says 'This Is A Great Time To Buy', But Portfolio Managers Give A Reality Check: 'Permanent Damage Has Been Done' - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.8,Alpha Vantage
+10/04/2025,TSMC's revenue soars amid AI demand ahead of US tariffs,0.0,Alpha Vantage
+10/04/2025,"Elon Musk Sued By Sam Altman-Led OpenAI Over 'Harassing' Tactics: ChatGPT Maker Alleges Tesla CEO 'Tried Every Tool' Available To Cause Harm - Microsoft  ( NASDAQ:MSFT ) , SoftBank Group  ( OTC:SFTBF ) ",0.4,Alpha Vantage
+10/04/2025,Anthony Scaramucci Says 26 Years Ago Warren Buffett's Amazon Caution Cost Him Millions: Former Trump Official Sees Today's AI Hype As History Repeating - Amazon.com  ( NASDAQ:AMZN ) ,0.0,Alpha Vantage
+10/04/2025,"Microsoft abruptly cuts services to Chinese university, genomics firm",-0.1083,Alpha Vantage
+10/04/2025,"Emissions from AI chip manufacturing rose fourfold in 2024, Greenpeace says",0.6,Alpha Vantage
+10/04/2025,Microsoft Windows 95 Reboot Chime and Minecraft Soundtrack Inducted Into National Recording Registry,0.0,News API
+10/04/2025,Microsoft is about to launch Recall for real this time,0.2,News API
+10/04/2025,Apple quickly shipped 600 tons of iPhones to ‘beat’ the new tariffs,0.2348,News API
+10/04/2025,Windows on ARM on Arm,0.0,News API
+11/04/2025,"FuriosaAI Turns Down Meta's $800M Bid To Go Rogue With RNGD, As AI Chip War Between Nvidia, Google, And Meta Heats Up - Alphabet  ( NASDAQ:GOOGL ) , Meta Platforms  ( NASDAQ:META ) ",-0.1556,Alpha Vantage
+11/04/2025,"Top Stock Reports for T-Mobile, Salesforce & Alibaba",0.5,Alpha Vantage
+11/04/2025,Top Technology Executives Recognized at the 2025 SeattleCIO ORBIE Awards,0.5,Alpha Vantage
+11/04/2025,"Which AI Stock, NVIDIA or Broadcom, Is the Better Bargain to Buy?",0.5,Alpha Vantage
+11/04/2025,Trump kills DeFi broker rule in major crypto win: Finance Redefined,0.4313,Alpha Vantage
+11/04/2025,"Use AI Responsibly, It Should Serve Humanity, Not Replace It: Alibaba's Jack Ma - Alibaba Gr Hldgs  ( NYSE:BABA ) ",0.2,Alpha Vantage
+11/04/2025,Foreigners Dump The Dollar; Gold And Yen Act As Safe Haven; JPMorgan Helps Stock Market; Cooler PPI,0.5,Alpha Vantage
+11/04/2025,Tech stocks head for winning week with Nvidia tracking for 15% bounceback,0.5,Alpha Vantage
+11/04/2025,Five9 Shares Plunge 43% YTD: Is it Time for You to Buy the Dip?,0.0,Alpha Vantage
+11/04/2025,Can Alphabet's New AI and Cloud Launches Push the Stock Higher?,0.1932,Alpha Vantage
+11/04/2025,What's Going On With Google Parent Alphabet Stock On Friday? - Alphabet  ( NASDAQ:GOOGL ) ,0.0,Alpha Vantage
+11/04/2025,"The Rise of Graph Database Market: A $2,143.0 million Industry Dominated by IBM Corporation  ( US ) , Oracle  ( US ) , Graphwise  ( Australia ) | MarketsandMarkets™",0.0,Alpha Vantage
+11/04/2025,"Sony, Nintendo Hike Console Prices As US Tariffs Bite, Microsoft May Dodge The Hit - Sony Gr  ( NYSE:SONY ) , Nintendo Co  ( OTC:NTDOF ) , Nintendo Co  ( OTC:NTDOY ) ",0.0,Alpha Vantage
+11/04/2025,5 Cheap Stocks to Buy in April,0.4,Alpha Vantage
+11/04/2025,"Trading Strategy For SPY, As Market Eyes PPI Data - Alphabet  ( NASDAQ:GOOGL ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+11/04/2025,Opinion | Trump's tariffs could mean saying goodbye to US dollar profits,-0.3125,Alpha Vantage
+11/04/2025,"As Apple Sheds Over $500 Billion In Market Cap Since Trump's 'Liberation Day,' Top Analysts Weigh In On Its Path Ahead - Microsoft  ( NASDAQ:MSFT ) ",0.5,Alpha Vantage
+11/04/2025,2 Nuclear Energy Stocks Down at Least 25% to Buy and Hold Forever,-0.2278,Alpha Vantage
+11/04/2025,"The Zacks Analyst Blog Highlights NVIDIA, Palantir Technologies, Advanced Micro Devices, Microsoft and Amazon.com",0.4,Alpha Vantage
+11/04/2025,"Former OpenAI CTO Mira Murati Targets Record-Breaking $2 Billion Seed Round For New AI Startup - Microsoft  ( NASDAQ:MSFT ) , SoftBank Group  ( OTC:SFTBF ) ",-0.0212,Alpha Vantage
+11/04/2025,Where Will Nvidia Be in 5 Years?,0.0,Alpha Vantage
+11/04/2025,3 Ways to Keep Your Portfolio Safe During Tariff Volatility,0.5,Alpha Vantage
+11/04/2025,2 Top Dividend Stocks to Buy Right Now,0.3929,Alpha Vantage
+11/04/2025,"The Best Growth ETF to Invest $1,000 in Right Now",0.6429,Alpha Vantage
+11/04/2025,Nvidia CEO Jensen Huang Admits He Was Wrong About Quantum Computing. Are Quantum Stocks Buys Right Now?,-0.1071,Alpha Vantage
+11/04/2025,"Here are 10 countries with the highest concentration of AI talent globally, according to new LinkedIn data",0.0682,Alpha Vantage
+11/04/2025,When Microsoft retired Clippy,0.0,News API
+12/04/2025,"CROWDSTRIKE ALERT: Bragar Eagel & Squire, P.C. is Investigating CrowdStrike Holdings, Inc. on Behalf of Long-Term Stockholders and Encourages Investors to Contact the Firm - CrowdStrike Holdings  ( NASDAQ:CRWD ) ",-0.2,Alpha Vantage
+12/04/2025,"Nvidia, Alphabet To Back OpenAI Co-Founder Ilya Sutskever's New AI Startup Safe Superintelligence: Report - Alphabet  ( NASDAQ:GOOG ) , Amazon.com  ( NASDAQ:AMZN ) ",0.2121,Alpha Vantage
+12/04/2025,"Cathie Wood Goes Bargain Hunting: 1 ""Magnificent Seven"" Artificial Intelligence  ( AI )  Stock She Just Couldn't Pass Up During the Nasdaq Sell-Off",0.2,Alpha Vantage
+12/04/2025,"Consumer Tech News  ( April 7-April 11 ) : US President Puts 90-Days Pause On Tariffs, Microsoft May Cut Jobs & More - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",0.5,Alpha Vantage
+12/04/2025,Microsoft is Killing Skype - and Refusing Refunds for Prepaid International Calls,0.0,News API
+12/04/2025,The CEO of Microsoft AI has some 'sort of obvious' advice for young people looking to succeed,0.05,News API
+13/04/2025,Amazon and Alphabet Bet Big on AI. Why History Says It's Time to Buy Both Stocks,0.0,Alpha Vantage
+13/04/2025,Nvidia and Broadcom Helped Propel This ETF 18% Higher in a Single Day. Here's Why It's Still a Buy Now.,0.0893,Alpha Vantage
+13/04/2025,Bill Gates Bought a $644 Million Superyacht and Never Used It - Now It's for Sale - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+13/04/2025,New Nonprofit Help for African Americans Launches Empowerment Programs for Black Communities,-0.0101,Alpha Vantage
+13/04/2025,"Investing $60,000 in These 3 Funds Could Generate Annual Income of Over $6,500",0.0,Alpha Vantage
+13/04/2025,3 Top Tech Stocks Down 27% to 57% to Buy in This Volatile Market,0.1722,Alpha Vantage
+13/04/2025,"The Best Trillion-Dollar Stock to Buy Now, According to Wall Street",1.0,Alpha Vantage
+13/04/2025,"This 15-Inch Laptop With 1TB of Storage and 16GB RAM Hits a Record Low on Amazon, Now Priced Below $300",0.0,News API
+14/04/2025,ServiceNow Dips 26% Year to Date: Hold or Fold the NOW Stock?,0.0,Alpha Vantage
+14/04/2025,2 Stocks to Watch From the Challenging Computer Industry,0.5,Alpha Vantage
+14/04/2025,Trump Gives Apple A Reprieve But Tramples On Stock Market Bulls' Initial Jubilation - MP Materials  ( NYSE:MP ) ,0.0,Alpha Vantage
+14/04/2025,Data Science and Machine Learning Platforms  ( DSML )  Market Disruptions: Riding a High-Growth Wave Through 2030 at CAGR 24.81%,0.0,Alpha Vantage
+14/04/2025,Satya Nadella Says AI Needs A 'New Type Of Inbox'-And Believes Microsoft's Copilot Will Be As Big As Excel And PowerPoint - Microsoft  ( NASDAQ:MSFT ) ,0.0682,Alpha Vantage
+14/04/2025,Tech Set to Surge on Tariff Pause: 5 ETF Picks,0.0,Alpha Vantage
+14/04/2025,"5G Industrial IOT Market is expected to generate a revenue of USD 22.9 Billion by 2031, Globally, at 37.24% CAGR: Verified Market Research®",-0.05,Alpha Vantage
+14/04/2025,3 Computer Peripheral Stocks in Focus Amid Prospering Industry Trends,0.0,Alpha Vantage
+14/04/2025,Technical Analysis For Trading SPY And Top Tech Stocks Amid Tariff News,0.25,Alpha Vantage
+14/04/2025,Is Trending Stock Microsoft Corporation  ( MSFT )  a Buy Now?,0.0,Alpha Vantage
+14/04/2025,WARNER MUSIC GROUP APPOINTS ARMIN ZERZA AS EVP & CFO EFFECTIVE MAY 5 - Warner Music Gr  ( NASDAQ:WMG ) ,0.6,Alpha Vantage
+14/04/2025,Sony Raises PS5 Prices In Some Countries By Up To 25% In Anticipation Of Tariffs - Sony Gr  ( NYSE:SONY ) ,0.0,Alpha Vantage
+14/04/2025,NetApp Down 31% in Three Months: How Should Investors Play the Stock?,-0.1556,Alpha Vantage
+14/04/2025,Is iShares Core S&P U.S. Value ETF  ( IUSV )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+14/04/2025,Should You Invest in the Fidelity MSCI Information Technology Index ETF  ( FTEC ) ?,0.0,Alpha Vantage
+14/04/2025,Worried About Stock Market Volatility? This Surefire ETF Can Limit Your Risk While Building Long-Term Wealth,0.0,Alpha Vantage
+14/04/2025,3 Reasons to Buy Alphabet Stock Like There's No Tomorrow,0.0,Alpha Vantage
+14/04/2025,Zacks Investment Ideas feature highlights BWX Technologies and Cameco,0.0,Alpha Vantage
+14/04/2025,"The Zacks Analyst Blog T-Mobile, Salesforce, Alibaba and Old Point Financial",0.05,Alpha Vantage
+14/04/2025,Publication of 2024 Annual Report,0.0,Alpha Vantage
+14/04/2025,"The Official Office 2024 Lifetime License Is Priced at a Record Low, Now 40% Off",0.0,News API
+14/04/2025,Window’s Controversial Recall Is Back — Here’s How to Control It,0.275,News API
+14/04/2025,"If You Deleted This Weird New Folder in Windows, You Need to Put It Back. Here's How",-0.1212,News API
+14/04/2025,A Lifetime License to Windows 11 Pro Bundled With the Essential How-To Course Is Just $25,0.0,News API
+14/04/2025,Microsoft is taking its foot off the AI accelerator. What does that mean?,-0.3125,News API
+15/04/2025,Notion Mail is a minimalist but powerful take on email,0.3,News API
+15/04/2025,Meta’s antitrust trial slide redactions aren’t actually hiding anything,0.0,News API
+15/04/2025,Melinda French Gates says multitasking is a myth,0.0,News API
+15/04/2025,"Seagate Expansion Card Returns to Black Friday Price, Let Xbox Gamers Skip the Tariff Stress",-0.1667,News API
+15/04/2025,Melinda French Gates says she no longer cares if people don't like her: 'Maybe that comes with being 60',0.0,News API
+16/04/2025,Microsoft lets Copilot Studio use a computer on its own,0.6,News API
+16/04/2025,A first look at Microsoft’s new Xbox Copilot,0.1932,News API
+16/04/2025,"OpenAI is on a hiring spree, and one area of investment stands out",0.0,News API
+16/04/2025,U.S. House Panel Says China’s DeepSeek AI Is a ‘Profound Threat’ to National Security,0.0833,News API
+17/04/2025,"OpenAI's chair is 'optimistic' about how AI will change work, and pointed to Excel to explain why",0.0,News API
+17/04/2025,Your pick: Microsoft 365 days of fees or a Microsoft Office 2024 lifetime license?,0.0,News API
+18/04/2025,Big Tech is back on trial,0.0,News API
+21/04/2025,Bethesda confirms Oblivion remaster’s imminent reveal,0.0,News API
+21/04/2025,A former Microsoft software engineer shares the 3 interview strategies he wishes he'd known earlier,0.0,News API
+21/04/2025,"Western Digital, Microsoft Target Rare Earth Metals Through Hard Drive Recycling",0.0021,News API
+21/04/2025,"Amazon Fire Max 11 Tablet Bundle Just Hit a Record Low, Accessories Included, No Extra Cost",0.0,News API
+22/04/2025,Microsoft Implements Stricter Performance Management System With Two-Year Rehire Ban,0.0,News API
+23/04/2025,Microsoft’s Xbox app is now available on LG smart TVs,0.3071,News API
+23/04/2025,"First, Microsoft tapped the AI data center brakes. Now analysts are worried about Amazon.",0.075,News API
+23/04/2025,Microsoft pivots toward Amazon's way of handling low performers — by paying them to leave,0.0,News API
+24/04/2025,Microsoft Offers Underperformers Cash To Quit,0.1,News API
+24/04/2025,This is Razer’s first vertical mouse,0.25,News API
+24/04/2025,"Getting a job in tech is difficult — but not impossible, says senior Microsoft engineer",-0.0833,News API
+25/04/2025,Microsoft launches Recall and AI-powered Windows search for Copilot Plus PCs,0.0,News API
+25/04/2025,Microsoft Launches Windows Recall After Year-Long Delay,0.0,News API
+25/04/2025,Microsoft To Kill Windows Maps App in July,0.0,News API
+25/04/2025,"Microsoft is trying to simplify how it sells Copilot AI offerings, internal slides reveal",0.0,News API
+25/04/2025,"Mag 7 earnings, PCE data, April jobs report: What to Watch",0.0,News API
+25/04/2025,Microsoft's Big AI Hire Can't Match OpenAI,0.0,News API
+25/04/2025,La nueva actualización de Windows incluye un fallo de seguridad crítico,0.0,News API
+26/04/2025,Reid Hoffman shares his daily AI habit that he says gives him a 'lens' on the tech's future,0.0,News API
+26/04/2025,Devs Sound Alarm After Microsoft Subtracts C/C++ Extension From VS Code Forks,0.4,News API
+26/04/2025,These helpful Microsoft tools are both currently 94% off,0.0,News API
+27/04/2025,"Prediction: This Stock Will Be Worth More Than Nvidia, Microsoft, and Apple 5 Years From Now",0.4,News API
+28/04/2025,Time to Buy Microsoft or Meta Stock as Earnings Approach?,0.0,Alpha Vantage
+28/04/2025,"Top Analyst Reports for Microsoft, Broadcom & McDonald's",0.5,Alpha Vantage
+28/04/2025,This Week's 5 Must-See Earnings Charts,0.0,Alpha Vantage
+28/04/2025,Meta & Microsoft Earnings: Key Metrics to Watch,0.0,Alpha Vantage
+28/04/2025,Can SNOW Stock Continue Its Rally After Gaining 33% in Six Months?,0.0,Alpha Vantage
+28/04/2025,Azure Drives Microsoft's AI Strategy: Wait for Q3 Before Buying,0.0,Alpha Vantage
+28/04/2025,Who's the Next Pope? Top AI Models Don't Agree With Prediction Markets,0.25,Alpha Vantage
+28/04/2025,Markets Face Crucial Week Ahead...,0.0,Alpha Vantage
+28/04/2025,Exabits teams up with NEAR to push the boundaries of decentralized AI,0.1,Alpha Vantage
+28/04/2025,"China Risk To Nvidia, Flood Of Earnings And Jobs Report Ahead - NVIDIA  ( NASDAQ:NVDA ) ",0.0,Alpha Vantage
+28/04/2025,UiPath Shares Decline 41% in a Year: Is Now the Time to Buy?,0.0,Alpha Vantage
+28/04/2025,"Buy, Sell or Hold Meta Platforms Stock? Key Tips Ahead of Q1 Earnings",0.0,Alpha Vantage
+28/04/2025,HP EliteBook Ultra G1i Review: A Laptop That’s All Business,0.0,News API
+29/04/2025,Mastercard Bets On Cross-Border Payments With $300 Million Corpay Deal - Mastercard  ( NYSE:MA ) ,0.0,Alpha Vantage
+29/04/2025,Sam Altman Says 'Please' And 'Thank You' To ChatGPT Cost OpenAI 'Tens Of Millions' - But Adds It Was 'Well Spent',-0.1,Alpha Vantage
+29/04/2025,Stock Market Ignoring Tariff Pull Forward But Prudent Investors Should Not - SPDR S&P 500  ( ARCA:SPY ) ,0.0,Alpha Vantage
+29/04/2025,"Datadog Expands Into Data Observability: Buy, Sell or Hold the Stock?",0.0,Alpha Vantage
+29/04/2025,Is NBIS Stock Worth Investing After a 24% Drop in the Past 3 Months?,0.025,Alpha Vantage
+29/04/2025,Economic Data Deluge,0.2,Alpha Vantage
+29/04/2025,Top Wind Energy Stocks to Add to Your Portfolio for Solid Returns,0.25,Alpha Vantage
+29/04/2025,"Trade Balance in Goods Hits All-Time Record, Plus Q1 Earnings",0.0,Alpha Vantage
+29/04/2025,Better Artificial Intelligence  ( AI )  Stock: SoundHound AI vs. C3.ai,-0.05,Alpha Vantage
+29/04/2025,"ICT Adoption in Healthcare and Life Sciences Set to Accelerate, Projected to Grow at 14.58% CAGR by 2030",0.0,Alpha Vantage
+29/04/2025,Microsoft Q3 Earnings: Azure May Rise 30% - That's Not Where 'CTOs Are Aggressively Spending' Analyst Warns - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+29/04/2025,Will Strong AWS Performance Boost Amazon's Q1 Earnings Report?,0.4333,Alpha Vantage
+29/04/2025,National Fuel Gas Company and Century Communities have been highlighted as Zacks Bull and Bear of the Day,0.0,Alpha Vantage
+29/04/2025,iCAD Collaborates with Microsoft to provide access to its Mammography Solutions in Microsoft's Precision Imaging Network  ( PIN ) ,0.0,Alpha Vantage
+29/04/2025,Itron's Q1 Earnings Ahead: Key Factors Investors Should Watch,0.0,Alpha Vantage
+29/04/2025,Inside Best-Performing Leveraged ETFs of Last Week,0.0,Alpha Vantage
+29/04/2025,"The Zacks Analyst Blog Highlights Microsoft, Broadcom, McDonald's and Kingsway Financial Services",0.0,Alpha Vantage
+29/04/2025,"US Stock Futures Edge Higher Tuesday: Expert Warns Of 'Perfect Volatility Storm' With Major Earnings And Economic Data Due This Week - Apple  ( NASDAQ:AAPL ) , AbbVie  ( NYSE:ABBV ) ",0.2775,Alpha Vantage
+29/04/2025,Pay Close Attention to This Crucial Revenue Source for Artificial Intelligence  ( AI )  Giant Nvidia,-0.2,Alpha Vantage
+29/04/2025,Should SPDR Portfolio S&P 500 ETF  ( SPLG )  Be on Your Investing Radar?,0.0,Alpha Vantage
+29/04/2025,Should You Invest in the First Trust Cloud Computing ETF  ( SKYY ) ?,0.25,Alpha Vantage
+29/04/2025,Is John Hancock Multifactor Large Cap ETF  ( JHML )  a Strong ETF Right Now?,0.3111,Alpha Vantage
+29/04/2025,Should You Invest in the iShares Expanded Tech Sector ETF  ( IGM ) ?,0.0,Alpha Vantage
+29/04/2025,"The Zacks Analyst Blog Highlights Apple, Microsoft, Amazon and Meta Platforms",0.0,Alpha Vantage
+29/04/2025,Prediction: Buying MercadoLibre Stock Today Will Set You Up for Life,0.0,Alpha Vantage
+29/04/2025,ESET B2B solutions now available on the Microsoft Azure Marketplace,0.4,Alpha Vantage
+29/04/2025,"'Godfather Of AI' Geoffrey Hinton Backs Elon Musk In Fight Against OpenAI's Restructuring: 'I'd Like To Stop Them From Completely Gutting It' - Microsoft  ( NASDAQ:MSFT ) , SoftBank Group  ( OTC:SFTBF ) ",0.1,Alpha Vantage
+29/04/2025,Stock-Market Correction: 1 Brilliant Growth Stock Down 28% to Buy on the Dip,0.3722,Alpha Vantage
+29/04/2025,"Stock Market Sell-Off: 2 Safe AI Stocks to Buy Amid Tariff Turmoil, According to a Wall Street Analyst",0.5,Alpha Vantage
+29/04/2025,"The Stock Market May Rise or Fall Sharply This Week Based on Key Reports From Amazon, Apple, Meta Platforms, and Microsoft",-0.0625,Alpha Vantage
+29/04/2025,"OpenAI Supercharges ChatGPT With Smart Shopping Tool-No Ads, No Commissions - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",0.2143,Alpha Vantage
+29/04/2025,"Kalaam Telecom, Mida Solutions and FVC enter Strategic Alliance to Elevate Comprehensive CCaaS & UCaaS Solutions in Saudi Arabia & Bahrain",0.0,Alpha Vantage
+29/04/2025,"Fortress Palantir: Former Insider Explains How PLTR Could Conquer The AI-Defense Battlefield Despite Pricing Puzzles And Competition - Microsoft  ( NASDAQ:MSFT ) , Salesforce  ( NYSE:CRM ) ",0.0,Alpha Vantage
+29/04/2025,"Bitcoin, Ethereum, Dogecoin Mirror Stocks, Rise Amid $120,000 BTC Prediction In Q2: ETH Needs Daily Close Above $1,950 For Bullish Bias, Says Analyst - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",-0.1,Alpha Vantage
+29/04/2025,Exclusive | China's Tsinghua University snags top American AI researcher from Microsoft,0.25,Alpha Vantage
+29/04/2025,"Donald Trump Set To Sign Landmark 'Take It Down Act' As Congress Targets Deepfake Images And Videos - Microsoft  ( NASDAQ:MSFT ) , Meta Platforms  ( NASDAQ:META ) ",-0.1556,Alpha Vantage
+29/04/2025,"Anthony Scaramucci Once Purchased $1,200 Worth Of Microsoft Stock For His Son In 1992 And Then Forgot About It - Three Decades Later, It Quietly Turned Into A Small Fortune That He Didn't Know He Owned - Microsoft  ( NASDAQ:MSFT ) ",0.0125,Alpha Vantage
+29/04/2025,Microsoft Office baja de precio: parte de los 27 euros con descuentos que durarán sólo una semana,0.0,News API
+30/04/2025,Mark Zuckerberg is planning a premium tier and ads for Meta’s AI app,0.0,News API
+30/04/2025,Microsoft Puts Brakes on AI Spending as Profit Increases 18%,0.0,News API
+30/04/2025,AI now writes a big chunk of code at Microsoft and Google — and it could be coming for even more at Meta,0.25,News API
+30/04/2025,Microsoft CFO hypes up AI agents in an internal memo about Q3 earnings,0.0,News API
+30/04/2025,Microsoft Vows Legal Fight Against US To Protect European Cloud Customers,0.1,News API
+01/05/2025,Crypto 'decoupling' story ends as stocks follow Bitcoin's rally,0.0,Alpha Vantage
+01/05/2025,'They're afraid': Chinese firms in Vietnam face closure if US tariffs return,-0.3,Alpha Vantage
+01/05/2025,Buy Meta Platforms or Microsoft Stock After Beating Earnings Expectations?,0.0,Alpha Vantage
+01/05/2025,These 3 Stocks Soared Following Strong Quarterly Results,0.2167,Alpha Vantage
+01/05/2025,Amazon beats on top and bottom line but issues light second quarter guidance,0.3,Alpha Vantage
+01/05/2025,"Top Analyst Reports for Salesforce, GE Aerospace & Booking Holdings",0.5,Alpha Vantage
+01/05/2025,Why Applied Digital Stock Is Skyrocketing Today,0.0,Alpha Vantage
+01/05/2025,Bitcoin Rises as 'Magnificent 7' Earnings Fuel Risk-Taking,1.0,Alpha Vantage
+01/05/2025,Microsoft Stock Rallies On Q3 Strength Of Azure: Analyst Says Company Is 'Sole AI Leader In Both Apps And Infrastructure' - Microsoft  ( NASDAQ:MSFT ) ,0.0,Alpha Vantage
+01/05/2025,Why Nuclear Stocks Soared Today,0.0,Alpha Vantage
+01/05/2025,Supermicro Stock Is Soaring Today. Should You Buy The Hot AI Stock Before May 6?,0.25,Alpha Vantage
+01/05/2025,Why Taiwan Semiconductor Manufacturing Stock Is Jumping Today,0.0,Alpha Vantage
+01/05/2025,Nvidia Stock Is Rallying Thursday: What's Driving The Action? - NVIDIA  ( NASDAQ:NVDA ) ,0.1,Alpha Vantage
+01/05/2025,Why CoreWeave Stock Is Skyrocketing Today,0.0,Alpha Vantage
+01/05/2025,Wolfspeed  ( WOLF )  Shares Surge On Potential Short Squeeze Fueled by AI Infrastructure Optimism - Wolfspeed  ( NYSE:WOLF ) ,0.0,Alpha Vantage
+01/05/2025,Why Microsoft Stock Popped This Week,0.0,Alpha Vantage
+01/05/2025,"Wall Street Eyes 8th Positive Day As S&P 500 Recoups Tariff-Led Losses, Bitcoin Rallies To $97,000: What's Driving Markets Thursday? - Apple  ( NASDAQ:AAPL ) ",0.2273,Alpha Vantage
+01/05/2025,Nvidia Is Jumping Today -- Is the Artificial Intelligence  ( AI )  Stock a Buy?,-0.6,Alpha Vantage
+01/05/2025,Why Microsoft Stock Is Skyrocketing Today,0.0,Alpha Vantage
+01/05/2025,Why Nvidia Stock Bounded Higher Thursday,0.25,Alpha Vantage
+01/05/2025,Why Nebius Group Stock Soared Today,0.0,Alpha Vantage
+01/05/2025,"AI Helps Microsoft And Meta, But Consumer Angst Hurts McDonald's - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) ",0.0,Alpha Vantage
+01/05/2025,"Tesla's Rough Quarter, Alphabet's Resilience, Chipotle's Burrito Slowdown, and More",0.2,Alpha Vantage
+01/05/2025,Bullish Signals Mount as Q1 Earnings Surprise to the Upside,0.0,Alpha Vantage
+01/05/2025,"Mastercard Lifts Annual Outlook After Q1 Beat, Fueled By Cross-Border Surge - Mastercard  ( NYSE:MA ) ",0.0,Alpha Vantage
+01/05/2025,"CVS Health Posts Better-Than-Expected Earnings, Joins CommScope, Microsoft, Meta, Chart Industries, And Other Big Stocks Moving Higher On Thursday - Advanced Energy Indus  ( NASDAQ:AEIS ) , ATI  ( NYSE:ATI ) ",0.1313,Alpha Vantage
+01/05/2025,Marvell Technology  ( MRVL )  Shares Rise 5% Thursday: What's Going On? - Marvell Tech  ( NASDAQ:MRVL ) ,0.0,Alpha Vantage
+01/05/2025,"AI ETFs Set to Gain on Robust Meta, Microsoft Earnings",0.0,Alpha Vantage
+01/05/2025,Bitcoin bulls prep $97K resistance showdown as gold dips 8% from highs,0.0,Alpha Vantage
+01/05/2025,Microsoft is getting ready to host Elon Musk’s Grok AI model,0.2,News API
+01/05/2025,"Microsoft Windows 11 Pro Is Almost Free Now, but This 92% Off Deal Won’t Last Long",0.1167,News API
+01/05/2025,Meta and Microsoft beat earnings. Wall Street's eyes are now on Apple and Amazon.,0.0,News API
+01/05/2025,AI slowdown? Big Tech earnings are telling a different story.,0.0,News API
+01/05/2025,"Carrots and sticks: How Google, Microsoft, and Meta are reshaping performance management",0.0,News API
+01/05/2025,Microsoft just raised prices for Xbox consoles and games,0.0,News API
+01/05/2025,"You'll Pay More for Some Xbox Games, Consoles and More Soon",0.5,News API
+01/05/2025,Fans React To Xbox Price Hikes And $80 Games,0.0,News API
+02/05/2025,"Good Jobs Report And New China Stance Bring Aggressive Stock Buying, But Apple And Amazon Disappoint - SPDR S&P 500  ( ARCA:SPY ) ",0.4182,Alpha Vantage
+02/05/2025,Taiwan Semiconductor Gains On Strong Earnings From Meta And Microsoft Boosting AI Demand - Taiwan Semiconductor  ( NYSE:TSM ) ,0.4333,Alpha Vantage
+02/05/2025,"Lumen Q1 Loss Narrower Than Expected, Revenues Fall Y/Y",-0.1,Alpha Vantage
+02/05/2025,Why Super Micro Computer Stock Is Plummeting This Week,0.3333,Alpha Vantage
+02/05/2025,"The Zacks Analyst Blog Highlights Salesforce, GE Aerospace, Booking Holdings, Crimson Wine Group and United-Guardian",0.0,Alpha Vantage
+02/05/2025,"How To Trade SPY, As US Job Growth Slows Marginally In April",0.0,Alpha Vantage
+02/05/2025,5 Fidelity Mutual Funds to Buy Amid Market Uncertainty,0.0,Alpha Vantage
+02/05/2025,"Zacks Investment Ideas feature highlights: Boston Scientific, Meta Platforms and Microsoft",0.0,Alpha Vantage
+02/05/2025,Asia And Europe Markets Advance; Gold Up On Softer Dollar - Global Markets Today While US Slept - SmartETFs Asia Pacific Dividend Builder ETF  ( ARCA:ADIV ) ,0.0,Alpha Vantage
+02/05/2025,Bill Gates' Daughter Phoebe Says Mom Melinda Gave Tough-Love Advice After Investors Questioned Motherhood Plans: 'Get Up Or Get Out The Game',-0.4,Alpha Vantage
+02/05/2025,Brookfield Renewable Announces Strong First Quarter Results,0.3417,Alpha Vantage
+02/05/2025,"Stock Market News for May 2, 2025",0.0,Alpha Vantage
+02/05/2025,2 Artificial Intelligence Stocks to Buy in May,-0.6,Alpha Vantage
+02/05/2025,"Nasdaq Jumps 1.5% Following Strong Earnings From Meta, Microsoft: Investor Sentiment Improves, Fear & Greed Index Moves To 'Neutral' Zone - Chevron  ( NYSE:CVX ) , Eaton Corp  ( NYSE:ETN ) ",0.2167,Alpha Vantage
+02/05/2025,"AI Was Supposed To Save Time, But Many Workers Are Ending Up With More Tasks: Study - Microsoft  ( NASDAQ:MSFT ) ",0.5,Alpha Vantage
+02/05/2025,"Xbox Prices Surge As Microsoft Cites 'Rising Cost Of Development' Amid Trump Tariffs - Microsoft  ( NASDAQ:MSFT ) , Nintendo Co  ( OTC:NTDOY ) ",0.0,Alpha Vantage
+02/05/2025,Bull of the Day: Broadcom  ( AVGO ) ,0.0,Alpha Vantage
+02/05/2025,Should You Buy Palantir Stock After Its 57% Gain in 2025? Wall Street Has a Clear Answer for Investors.,0.1,Alpha Vantage
+02/05/2025,"Bitcoin, Ethereum, Dogecoin Spike Alongside Stocks: Trader Peter Brandt Says BTC On Target To Reach Bull Market Top Of $125,000-$150,000 - Grayscale Bitcoin Mini Trust  ( BTC )  Common units of fractional undivided beneficial interest  ( ARCA:BTC ) ",0.1,Alpha Vantage
+02/05/2025,"Hong Kong stocks surge on trade-talk optimism, US tech gains",0.0,Alpha Vantage
+02/05/2025,8BitDo’s wired Ultimate C Controller for Xbox and PC is just $20 right now,0.1429,News API
+02/05/2025,What Big Tech CEOs are saying about their massive AI spending plans,0.0,News API
+02/05/2025,Microsoft mata las contraseñas en todas las cuentas de usuario nuevas,0.0,News API
+02/05/2025,"Firefox could be doomed without Google search deal, says executive",0.0,News API
+02/05/2025,"Indiana Jones y el gran círculo: sería una película genial, pero es un juego fantástico (y demuestra que Microsoft tiene razón)",0.0,News API
+02/05/2025,Can Clean Energy Make Brazil an AI Superpower?,0.3667,News API
+03/05/2025,Hacking Spree Hits UK Retail Giants,0.0,News API
+05/05/2025,"Meta, Microsoft, Alphabet, and Amazon Just Delivered Incredible News for Nvidia Stock Investors",0.9,Alpha Vantage
+05/05/2025,"Top Stock Reports for Alphabet, Berkshire Hathaway & Visa",0.5,Alpha Vantage
+05/05/2025,"Buy, Sell, or Hold These Mag 7 Stocks After Earnings: AAPL, AMZN",0.0,Alpha Vantage
+05/05/2025,"Ross Gerber Blasts Amazon, Trump. Says The No Income Tax Is A Fantasy, 'Tariffs The Biggest Tax Hike On American Family In Modern History' - Microsoft  ( NASDAQ:MSFT ) , Amazon.com  ( NASDAQ:AMZN ) ",0.1,Alpha Vantage
+05/05/2025,"Should You Buy, Sell or Hold IonQ Stock Before Q1 Earnings?",0.0,Alpha Vantage
+05/05/2025,"OpenAI says nonprofit will retain control of company, bowing to outside pressure",0.0,Alpha Vantage
+05/05/2025,The Standout Magnificent 7 Stock: Microsoft's Quiet Dominance,0.5,Alpha Vantage
+05/05/2025,What's Going On With Advanced Micro Devices? - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+05/05/2025,2 Top Growth Stocks to Buy and Hold Forever,0.5,Alpha Vantage
+05/05/2025,The Best Company in Big Tech?,0.5,Alpha Vantage
+05/05/2025,Microsoft  ( MSFT )  Upgraded to Buy: What Does It Mean for the Stock?,-0.3125,Alpha Vantage
+05/05/2025,Got $100? 1 Artificial Intelligence  ( AI )  Semiconductor Stock to Buy Hand Over Fist Right Now  ( Hint: It's Not Nvidia ) ,-0.1571,Alpha Vantage
+05/05/2025,"Berkshire Hathaway Stock Falls Following Buffett's Retirement As CEO - Microsoft  ( NASDAQ:MSFT ) , Apple  ( NASDAQ:AAPL ) ",0.0,Alpha Vantage
+05/05/2025,"Book More Profits, Buffett's Company Reports Worst Earnings Drop Since 2020, OPEC+ Surprise",-0.25,Alpha Vantage
+05/05/2025,5 Best Stocks of the S&P 500 ETF in the Past Month,0.375,Alpha Vantage
+05/05/2025,"Why Nvidia, Microsoft, and Meta Platforms Investors Just Had an Amazing Week",0.6,Alpha Vantage
+05/05/2025,Invitation to Tallinna Sadam Investor Conference Webinar for the unaudited results of Q1 2025,0.0,Alpha Vantage
+05/05/2025,Deutsche Bank and Caesars Entertainment have been highlighted as Zacks Bull and Bear of the Day,0.0,Alpha Vantage
+05/05/2025,"AT&T Surges 24% in 6 Months: Buy, Sell or Hold the Stock?",0.0,Alpha Vantage
+05/05/2025,How To Trade SPY And Top Tech Stocks Ahead Of PMI Data,0.5,Alpha Vantage
+05/05/2025,Earnings Growth & Price Strength Make Microsoft  ( MSFT )  a Stock to Watch,0.0,Alpha Vantage
+05/05/2025,"The Zacks Analyst Blog Highlights NVIDIA, Meta Platforms and Microsoft",0.0,Alpha Vantage
+05/05/2025,"The Zacks Analyst Blog Highlights VOO, SPY and IVV",0.0,Alpha Vantage
+05/05/2025,Zacks Industry Outlook Highlights NVIDIA and Texas Instruments,0.0,Alpha Vantage
+05/05/2025,"Zacks Investment Ideas feature highlights: Quanta Services, BWX Technologies and Constellation Energy",0.0,Alpha Vantage
+05/05/2025,"Highest Paid CEO In America Bagged A Nine-Figure Package Beating Tim Cook, Satya Nadella And Bob Iger - Apple  ( NASDAQ:AAPL ) , Coherent  ( NYSE:COHR ) ",0.5,Alpha Vantage
+05/05/2025,Here's How Much a $1000 Investment in Microsoft Made 10 Years Ago Would Be Worth Today,0.25,Alpha Vantage
+05/05/2025,"Will $10,000 Invested in Nvidia Stock Turn Into $1 Million a Decade From Now?",0.0,Alpha Vantage
+05/05/2025,"Microsoft, Meta Platforms, Amazon and Apple are part of Zacks Earnings Preview",0.0,Alpha Vantage
+05/05/2025,Sagitec Awarded MainePERS Project for a Modern Pension Administration System,0.2,Alpha Vantage
+05/05/2025,3 Large-Cap Blend Mutual Funds That Should Be on Your Radar,0.0,Alpha Vantage
+05/05/2025,Warren Buffett And Charlie Munger's Timeless Wisdom Draws Bill Ackman's Praise: 'This Is A Great Book',0.8,Alpha Vantage
+05/05/2025,Should Vanguard S&P 500 ETF  ( VOO )  Be on Your Investing Radar?,0.0,Alpha Vantage
+05/05/2025,Should iShares Core S&P 500 ETF  ( IVV )  Be on Your Investing Radar?,0.0,Alpha Vantage
+05/05/2025,Is Franklin U.S. Equity Index ETF  ( USPX )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+05/05/2025,Is FlexShares Quality Dividend ETF  ( QDF )  a Strong ETF Right Now?,0.3595,Alpha Vantage
+05/05/2025,"Is Amazon a Buy After Earnings? Not Compared to These ""Magnificent Seven"" Stocks",1.0,Alpha Vantage
+05/05/2025,My Top AI Growth Stock to Buy in May  ( and It's Not Even Close ) ,0.5,Alpha Vantage
+05/05/2025,"Here's How Investing $50 Per Week Can Create $50,000 in Annual Dividends",0.0,Alpha Vantage
+05/05/2025,RIP Skype. Born: 2003. Died: today.,0.0,News API
+05/05/2025,Security Researchers Warn a Widely Used Open Source Tool Poses a 'Persistent' Risk to the US,-0.05,News API
+05/05/2025,Olvídate de volver a usar este programa en tu ordenador Windows: cierra hoy para siempre tras 22 años,0.0,News API
+05/05/2025,"Microsoft announces a Gears of War remaster – and it’s coming to PlayStation, too",0.0,News API
+05/05/2025,RIP Skype — you were right about almost everything,0.2857,News API
+05/05/2025,It's last call for Skype as the once-popular video calling app shuts down,-0.0778,News API
+06/05/2025,"Bill Gates Says Trump's Climate Rollbacks May Have Slowed Progress, But Microsoft Co-Founder Doesn't Think 'That's a Permanent Thing' As America's Commitment To Clean Energy Remains Strong - Alibaba Gr Hldgs  ( NYSE:BABA ) , Amazon.com  ( NASDAQ:AMZN ) ",0.4,Alpha Vantage
+06/05/2025,"Bill Gates Says Trump's Climate Rollbacks May Have Slowed Progress, But Microsoft Co-Founder Doesn't Think 'That's a Permanent Thing' - Alibaba Gr Hldgs  ( NYSE:BABA ) , Amazon.com  ( NASDAQ:AMZN ) ",0.0,Alpha Vantage
+06/05/2025,Best-Performing Leveraged ETFs of Last Week,0.0,Alpha Vantage
+06/05/2025,Bull of the Day: Credo Technology  ( CRDO ) ,0.0,Alpha Vantage
+06/05/2025,"Alphabet, Meta Platforms, and Netflix Helped Propel This Vanguard ETF 9% Higher in 8 Days. Here's Why It's Still a Buy Now.",0.25,Alpha Vantage
+06/05/2025,Here Is My Top Artificial Intelligence  ( AI )  Stock to Buy in May,-0.05,Alpha Vantage
+06/05/2025,"Got $1,000? 2 Top Growth Stocks to Buy That Could Double Your Money",0.25,Alpha Vantage
+06/05/2025,"Iterate.ai and ASA Computers Launch AIcurate, Bringing Secure, On-Prem AI to Enterprises and SMBs",0.4,Alpha Vantage
+06/05/2025,My 3 Favorite Stocks to Buy Right Now,0.3929,Alpha Vantage
+06/05/2025,"OpenAI Reverses Course As Sam Altman Says Nonprofit Will Remain In Control Amid Elon Musk's Lawsuit And Investor Pushback - Microsoft  ( NASDAQ:MSFT ) , SoftBank Group  ( OTC:SFTBF ) ",0.0,Alpha Vantage
+06/05/2025,"OpenAI Ends Profit Cap in Restructure, Microsoft Yet to Sign Off",0.0,Alpha Vantage
+06/05/2025,Xbox is selling a lot of games on PlayStation,0.0,News API
+06/05/2025,Microsoft’s New Purple Surface Pro 12 Is Light Enough to Actually Use as a Tablet,0.1341,News API
+06/05/2025,Microsoft Unveils AI-Powered Overhaul for Windows 11,0.0,News API
+06/05/2025,No todo es culpa de Elon: Microsoft también está frenando la reestructuración de OpenAI,0.0,News API
+06/05/2025,Microsoft renueva por completo las Surface Pro y Surface Laptop: son más potentes y su precio es ahora ridículamente bajo,0.0,News API
+06/05/2025,Fedora Linux llega a Windows: así puedes instalarlo en tu ordenador,0.0,News API
+07/05/2025,Tech Earnings Estimates Increase Again: What's Going On?,0.0,Alpha Vantage
+07/05/2025,Tech Earnings Estimates Increase Again: What's Going On?,0.0,Alpha Vantage
+07/05/2025,Azure Aids MSFT's Q3 Beat: Should AI-Focused Investors Buy the Stock?,0.0,Alpha Vantage
+07/05/2025,Cisco Unveils Quantum Chip And Lab To Push Next-Gen Networking - Cisco Systems  ( NASDAQ:CSCO ) ,0.0,Alpha Vantage
+07/05/2025,"Seagate Bets On Mega-Sized, Sustainable Drives As AI Sparks Record Data Demand - Seagate Tech Hldgs  ( NASDAQ:STX ) ",0.0,Alpha Vantage
+07/05/2025,Why Self-Sovereign ID Will Reshape Finance By 2030,0.0,Alpha Vantage
+07/05/2025,Signals Reimagines How Work Gets Done With Programmable AI Cloud Employees as Achieves Profitability,0.0,Alpha Vantage
+07/05/2025,"Indian Missiles Hit Pakistan, Buying On U.S.-China Talks, Will The Fed Bow To Trump? - SPDR Gold Trust  ( ARCA:GLD ) ",0.0,Alpha Vantage
+07/05/2025,Nebius  ( NBIS )  Spins Off Toloka AI Data Unit With Investment From Bezos Expeditions - Nebius Group  ( NASDAQ:NBIS ) ,0.0,Alpha Vantage
+07/05/2025,Michael Saylor Calls Bitcoin The 'Corporate Survival Strategy' For 96% of Companies - Strategy  ( NASDAQ:MSTR ) ,0.0,Alpha Vantage
+07/05/2025,A Closer Look at Advanced Micro Devices's Options Market Dynamics - Advanced Micro Devices  ( NASDAQ:AMD ) ,0.4,Alpha Vantage
+07/05/2025,"MadCap Software Debuts MadCap Flare Online, the Next-Generation Documentation Platform for the AI-Driven Future of Content",0.0,Alpha Vantage
+07/05/2025,How Microsoft shrunk its Surface devices,0.0,News API
+08/05/2025,"Neutrogena-Maker Kenvue Beats Profit Forecast, Ups Sales Outlook - Kenvue  ( NYSE:KVUE ) ",0.0,Alpha Vantage
+08/05/2025,Nebius  ( NBIS )  Stock Is Rallying This Week As Amazon's Bezos Leads Funding For AI Data Unit - Nebius Group  ( NASDAQ:NBIS ) ,0.0,Alpha Vantage
+08/05/2025,"Marvell AI Chips Stay On Track, JPMorgan Dismisses Share Loss Chatter - Marvell Tech  ( NASDAQ:MRVL ) ",0.0,Alpha Vantage
+08/05/2025,"Bill Gates doubles giving to $200 billion, says philanthropists can't cover government cuts",0.0,Alpha Vantage
+08/05/2025,"Nvidia, Broadcom, AMD Gain As Trump Reshapes AI Chip Export Rules To Ease Market Pressure - Broadcom  ( NASDAQ:AVGO ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
+08/05/2025,Here are 3 Staffing Stocks to Consider Despite Industry Woes,0.0,Alpha Vantage
+08/05/2025,5 Top-Ranked ETFs That Have Outperformed S&P 500 Since April Low,0.0,Alpha Vantage
+08/05/2025,"Watts Water's Q1 Earnings & Revenues Top Estimates, Stock Up",0.5,Alpha Vantage
+08/05/2025,2 Unstoppable Dividend Stocks to Buy and Hold Forever,0.0,Alpha Vantage
+08/05/2025,"Bill Gates Commits 99% Of His Remaining Fortune To Gates Foundation, Set To Wind Down In 20 Years: 'Somebody Should...Give More Money Than I did' - Microsoft  ( NASDAQ:MSFT ) ",0.1722,Alpha Vantage
+08/05/2025,Microsoft  ( MSFT )  Is Considered a Good Investment by Brokers: Is That True?,0.525,Alpha Vantage
+08/05/2025,Gaming Platform Ludeo Taps Former Activision Blizzard Exec as Company's First Chief Business Officer,0.125,Alpha Vantage
+08/05/2025,"Flex Q4 Earnings & Revenues Surpass Estimates, Rise Y/Y, Stock Up",0.0,Alpha Vantage
+08/05/2025,"Satya Nadella, Michael Dell, Lisa Su, Alex Karp Among 250+ CEOs Demanding AI Education For All K-12 Students In Open Letter: 'The United States Is Falling Behind' - Advanced Micro Devices  ( NASDAQ:AMD ) , Dell Technologies  ( NYSE:DELL ) ",0.0,Alpha Vantage
+08/05/2025,Should You Buy Nvidia Stock Before May 28? Here's What History Says.,0.0,Alpha Vantage
+08/05/2025,"Bill Gates Called Steve Jobs A 'Genius In A Way You Can't Explain,' Says 'I Don't Know Anybody Who's Just Like Him' While Reflecting on Their Decades-Long Collaboration and Rivalry",0.0,Alpha Vantage
+08/05/2025,AI engines are starting to challenge Google's search dominance,0.0,Alpha Vantage
+08/05/2025,OpenAI Hires Former Meta and Instacart Exec in Leadership Reshuffle,0.0,Alpha Vantage
+08/05/2025,Microsoft-backed Space and Time mainnet launches with major builders,0.0625,Alpha Vantage
+08/05/2025,Venture capitalists keep Asia-Pacific bets at decade low on geopolitical risks: KPMG,0.0,Alpha Vantage
+08/05/2025,NEW GLOBAL OVARIAN CANCER RESEARCH CONSORTIUM JOINS FORCES WITH MICROSOFT'S AI FOR GOOD LAB TO LAUNCH FIRST-OF-ITS-KIND $1M+ GLOBAL GRANT TO IMPROVE SURVIVAL RATES,0.2091,Alpha Vantage
+08/05/2025,2 Top AI Stocks to Buy Right Now,0.3929,Alpha Vantage
+08/05/2025,Should SPDR S&P 500 ETF  ( SPY )  Be on Your Investing Radar?,0.0,Alpha Vantage
+08/05/2025,Should iShares Russell Top 200 Growth ETF  ( IWY )  Be on Your Investing Radar?,0.5,Alpha Vantage
+08/05/2025,"Huawei unveils a HarmonyOS laptop, its first Windows-free computer",0.25,Alpha Vantage
+08/05/2025,Nvidia Investors Just Got Great News From Meta Platforms,0.8,Alpha Vantage
+08/05/2025,Apple Stock: Do the Risks Outweigh the Reward?,0.0,Alpha Vantage
+08/05/2025,"Zacks Earnings Trends Highlights: Microsoft, Alphabet and Meta",0.0,Alpha Vantage
+08/05/2025,Prediction: This Magnificent Vanguard Index Fund Will Beat the S&P 500 Again in 2025,1.0,Alpha Vantage
+08/05/2025,Could Microsoft Be the Best Artificial Intelligence Stock to Buy Right Now?,0.2286,Alpha Vantage
+08/05/2025,"OpenAI Taps Instacart CEO Fidji Simo As Chief Of Applications, Sam Altman To Focus On 'Research, Compute And Safety' Amid Superintelligence Push - Microsoft  ( NASDAQ:MSFT ) ",0.0,Alpha Vantage
+08/05/2025,Is Artificial Intelligence  ( AI )  Stock Palantir Technologies in a Bubble? We Just Got Our Answer...,-0.6,Alpha Vantage
+08/05/2025,Temenos community comes together in Madrid to lead the way in banking innovation,0.0,Alpha Vantage
+08/05/2025,"OpenAI Reportedly Reshaping Leadership, Taps Senior Executive To Run Divisions Beyond Sam Altman's AI Focus - Microsoft  ( NASDAQ:MSFT ) ",0.0,Alpha Vantage
+08/05/2025,I took a 2-day 'vibe coding' class and successfully built a product. Here are my biggest takeaways,0.75,Alpha Vantage
+08/05/2025,"Cathie Wood Strengthens AI Chip Holdings With Nvidia And AMD Purchases, Reduces Palantir Position By Another $38.8 Million - ARK Fintech Innovation ETF  ( BATS:ARKF ) , Advanced Micro Devices  ( NASDAQ:AMD ) ",0.4,Alpha Vantage
